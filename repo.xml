@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<meta xmlns="http://exist-db.org/xquery/repo">
+<meta 
+  xmlns="http://exist-db.org/xquery/repo">
   <description>Texts for the TLS Application</description>
   <author>Christian Wittern</author>
   <website>http://wittern.org</website>
@@ -10,5 +11,6 @@
   <target>tls-texts</target>
   <prepare>pre-install.xql</prepare>
   <finish/>
-  <permissions xmlns:repo="http://exist-db.org/xquery/repo" password="" user="tls" group="tls" mode="770"/>
+<!--  <permissions user="tls" group="tls" mode="770"/> -->
 </meta>
+
