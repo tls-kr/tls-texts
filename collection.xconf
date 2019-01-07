@@ -14,6 +14,7 @@
         
         <range>
             <create qname="@xml:id" type="xs:string"/>
+            <create qname="@corresp" type="xs:string"/>
             <create qname="@type" type="xs:string"/>
         </range>
     </index>
