@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project default="all" name="tlsapp">
-  <description>Data for TLS</description>
+  <description>Texts for TLS</description>
   <xmlproperty file="expath-pkg.xml"/>
   <property name="project.version" value="${package(version)}"/>
   <property name="project.app" value="tls-texts"/>
@@ -12,10 +12,14 @@
   </target>
   <!-- Dev build (includes everything unoptimized) -->
   <target name="dev" depends="init" description="compile all source files">
-    <zip basedir="." destfile="${build.dir}/${project.app}-${project.version}-dev.xar" excludes="**/${build.dir}/**"/>
+    <zip basedir="." destfile="${build.dir}/${project.app}-${project.version}-dev.xar" excludes="**/${build.dir}/**,  **/chant/**"/>
   </target>
   <!-- Release build -->
   <target name="deploy" depends="init" description="compile release build">
+    <zip basedir="." destfile="${build.dir}/${project.app}-${project.version}.xar" excludes="**/${build.dir}/**, .existdb.json, bower.json.ignores, .yo-rc.json, README.md, **/.git*/**, **/chant/**, build.xml"/>
+  </target>
+  <!-- Internal build, includes chant -->
+  <target name="int" depends="init" description="compile release build">
     <zip basedir="." destfile="${build.dir}/${project.app}-${project.version}.xar" excludes="**/${build.dir}/**, .existdb.json, bower.json.ignores, .yo-rc.json, README.md, **/.git*/**, build.xml"/>
   </target>
   <target name="all" depends="dev, deploy">
