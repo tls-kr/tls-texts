@@ -11,6 +11,6 @@
   <target>tls-texts</target>
   <prepare>pre-install.xql</prepare>
   <finish/>
-<!--  <permissions user="tls" group="tls" mode="770"/> -->
+  <permissions xmlns:repo="http://exist-db.org/xquery/repo" password="tlsxx" user="tls" group="tls" mode="770"/>
 </meta>
 
