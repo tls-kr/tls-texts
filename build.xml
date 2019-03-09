@@ -18,7 +18,7 @@
   <target name="deploy" depends="init" description="compile public release build">
     <zip basedir="." destfile="${build.dir}/${project.app}-${project.version}.xar" excludes="**/${build.dir}/**, .existdb.json, bower.json.ignores, .yo-rc.json, README.md, **/.git*/**, chant/**"/>
   </target>
-  <target name="all" depends="dev, deploy">
+  <target name="all" depends="full, deploy">
     <tstamp/>
   </target>
 </project>

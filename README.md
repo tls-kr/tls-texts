@@ -1,5 +1,5 @@
-# TLS-data
-XML version of the TLS database. This is a companion app for the main [TLS](https://github.com/tls-kr/tls-app).
+# TLS-texts
+XML version of the texts. This is a companion app for the main [TLS](https://github.com/tls-kr/tls-app).
 
 ## Requirements
 *   [exist-db](http://exist-db.org/exist/apps/homepage/index.html) version: ``3.6.1`` or greater
