@@ -1,100 +1,129 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
-    <data tls="XC" title="繫辭" corresp="#KR1a0001" notbefore="-250" notafter="-200">ca. -250 - -200</data>
-    <data tls="SHU" title="尚書" corresp="#KR1b0001" notbefore="-800" notafter="-100">ca. -800 - -100</data>
-    <data tls="SHI" title="詩經" corresp="#KR1c0001" notbefore="-900" notafter="-600">ca. -900 - -600</data>
-    <data tls="DAXU" title="詩。大序" corresp="#KR1c0003" notbefore="-100" notafter="0">-1st cent.</data>
-    <data tls="HSWZ" title="韓詩外傳" corresp="#KR1c0066" notbefore="-150" notafter="-100">ca. -150 - -100</data>
-    <data tls="LJ" title="禮記" corresp="#KR1d0052" notbefore="-300" notafter="-200">ca. -300 - -200</data>
-    <data tls="ZUO" title="左傳" corresp="#KR1e0001" notbefore="-400" notafter="-300">ca. -400 - -300</data>
-    <data tls="CQGL" title="穀梁傳" corresp="#KR1e0008" notbefore="-200" notafter="-100">ca. -200 - -100</data>
-    <data tls="XJ" title="孝經" corresp="#KR1f0001" notbefore="-200" notafter="-100">ca. -200 - -100</data>
-    <data tls="MENG" title="孟子" corresp="#KR1h0001" notbefore="-350" notafter="-300">ca. -350 - -300</data>
-    <data resp="#schwermann" modified="2021-12-10T18:55:12.853+09:00" notbefore="-450" notafter="-150" corresp="#KR1h0004" title="論語">ca. -450 -150</data>
-    <data tls="SJ" title="史記" corresp="#KR2a0001" notbefore="-100" notafter="30">ca. -100 - +30</data>
-    <data tls="GY" title="國語" corresp="#KR2e0001" notbefore="-400" notafter="-300">ca. -400 - -300</data>
-    <data tls="ZGC" title="戰國策" corresp="#KR2e0003" notbefore="-400" notafter="-30">ca. -300 - -30</data>
-    <data tls="YAN" title="晏子春秋" corresp="#KR2g0003" notbefore="-300" notafter="-200">ca. -300 - -200</data>
-    <data tls="LNZ" title="列女傳" corresp="#KR2g0017" notbefore="50" notafter="100">ca. +50 - +100</data>
-    <data tls="KJ" title="孔子家語" corresp="#KR3a0001" notbefore="300" notafter="400">ca. +300 - +400</data>
-    <data tls="XUN" title="荀子" corresp="#KR3a0002" notbefore="-300" notafter="-200">ca. -300 - -200</data>
-    <data tls="YTL" title="鹽鐵論" corresp="#KR3a0006" notbefore="-200" notafter="-20">ca. -100 - -20</data>
+    <data tls="XC" title="繫辭" corresp="#KR1a0001" notbefore="-250" notafter="-200">ca<c xmlns="http://www.tei-c.org/ns/1.0" n="."/> <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>250 <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/> <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>200</data>
+    <data tls="SHU" title="尚書" corresp="#KR1b0001" notbefore="-800" notafter="-100">ca<c xmlns="http://www.tei-c.org/ns/1.0" n="."/> <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>800 <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/> <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>100</data>
+    <data tls="SHI" title="詩經" corresp="#KR1c0001" notbefore="-900" notafter="-600">ca<c xmlns="http://www.tei-c.org/ns/1.0" n="."/> <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>900 <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/> <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>600</data>
+    <data tls="DAXU" title="詩。大序" corresp="#KR1c0003" notbefore="-100" notafter="0">
+        <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>1st cent<c xmlns="http://www.tei-c.org/ns/1.0" n="."/>
+    </data>
+    <data tls="HSWZ" title="韓詩外傳" corresp="#KR1c0066" notbefore="-150" notafter="-100">ca<c xmlns="http://www.tei-c.org/ns/1.0" n="."/> <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>150 <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/> <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>100</data>
+    <data tls="LJ" title="禮記" corresp="#KR1d0052" notbefore="-300" notafter="-200">ca<c xmlns="http://www.tei-c.org/ns/1.0" n="."/> <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>300 <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/> <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>200</data>
+    <data tls="ZUO" title="左傳" corresp="#KR1e0001" notbefore="-400" notafter="-300">ca<c xmlns="http://www.tei-c.org/ns/1.0" n="."/> <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>400 <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/> <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>300</data>
+    <data tls="CQGL" title="穀梁傳" corresp="#KR1e0008" notbefore="-200" notafter="-100">ca<c xmlns="http://www.tei-c.org/ns/1.0" n="."/> <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>200 <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/> <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>100</data>
+    <data tls="XJ" title="孝經" corresp="#KR1f0001" notbefore="-200" notafter="-100">ca<c xmlns="http://www.tei-c.org/ns/1.0" n="."/> <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>200 <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/> <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>100</data>
+    <data tls="MENG" title="孟子" corresp="#KR1h0001" notbefore="-350" notafter="-300">ca<c xmlns="http://www.tei-c.org/ns/1.0" n="."/> <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>350 <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/> <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>300</data>
+    <data resp="#schwermann" modified="2021-12-10T18:55:12.853+09:00" notbefore="-450" notafter="-150" corresp="#KR1h0004" title="論語">ca<c xmlns="http://www.tei-c.org/ns/1.0" n="."/> <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>450 <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>150</data>
+    <data tls="SJ" title="史記" corresp="#KR2a0001" notbefore="-100" notafter="30">ca<c xmlns="http://www.tei-c.org/ns/1.0" n="."/> <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>100 <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/> +30</data>
+    <data tls="GY" title="國語" corresp="#KR2e0001" notbefore="-400" notafter="-300">ca<c xmlns="http://www.tei-c.org/ns/1.0" n="."/> <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>400 <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/> <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>300</data>
+    <data tls="ZGC" title="戰國策" corresp="#KR2e0003" notbefore="-400" notafter="-30">ca<c xmlns="http://www.tei-c.org/ns/1.0" n="."/> <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>300 <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/> <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>30</data>
+    <data tls="YAN" title="晏子春秋" corresp="#KR2g0003" notbefore="-300" notafter="-200">ca<c xmlns="http://www.tei-c.org/ns/1.0" n="."/> <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>300 <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/> <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>200</data>
+    <data tls="LNZ" title="列女傳" corresp="#KR2g0017" notbefore="50" notafter="100">ca<c xmlns="http://www.tei-c.org/ns/1.0" n="."/> +50 <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/> +100</data>
+    <data tls="KJ" title="孔子家語" corresp="#KR3a0001" notbefore="300" notafter="400">ca<c xmlns="http://www.tei-c.org/ns/1.0" n="."/> +300 <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/> +400</data>
+    <data tls="XUN" title="荀子" corresp="#KR3a0002" notbefore="-300" notafter="-200">ca<c xmlns="http://www.tei-c.org/ns/1.0" n="."/> <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>300 <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/> <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>200</data>
+    <data tls="YTL" title="鹽鐵論" corresp="#KR3a0006" notbefore="-200" notafter="-20">ca<c xmlns="http://www.tei-c.org/ns/1.0" n="."/> <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>100 <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/> <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>20</data>
     <data tls="YULEI" title="朱子語類" corresp="#KR3a0047" notbefore="1200" notafter="1300">After +1200</data>
-    <data tls="GUAN" title="管子" corresp="#KR3c0001" notbefore="-300" notafter="-100">ca. -300 - -100</data>
-    <data tls="HF" title="韓非子" corresp="#KR3c0005" notbefore="-260" notafter="-200">ca. -260 - -200</data>
-    <data tls="SUWEN" title="素問" corresp="#KR3e0001" notbefore="-200" notafter="-100">ca. -200 - -100</data>
-    <data tls="MOZI" title="墨子" corresp="#KR3j0002" notbefore="-300" notafter="-200">-4th to -3rd cent.</data>
-    <data tls="HEGUAN" title="鶡冠子" corresp="#KR3j0006" notbefore="-300" notafter="-200">ca. -300 - -200</data>
-    <data tls="LS" title="呂氏春秋" corresp="#KR3j0009" notbefore="-239" notafter="-239">239 B.C.</data>
-    <data tls="HNZ" title="淮南子" corresp="#KR3j0010" notbefore="-139" notafter="-139">-139</data>
-    <data tls="LH" title="論衡" corresp="#KR3j0080" notbefore="50" notafter="100">ca. +50 - +100</data>
+    <data tls="GUAN" title="管子" corresp="#KR3c0001" notbefore="-300" notafter="-100">ca<c xmlns="http://www.tei-c.org/ns/1.0" n="."/> <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>300 <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/> <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>100</data>
+    <data tls="HF" title="韓非子" corresp="#KR3c0005" notbefore="-260" notafter="-200">ca<c xmlns="http://www.tei-c.org/ns/1.0" n="."/> <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>260 <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/> <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>200</data>
+    <data tls="SUWEN" title="素問" corresp="#KR3e0001" notbefore="-200" notafter="-100">ca<c xmlns="http://www.tei-c.org/ns/1.0" n="."/> <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>200 <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/> <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>100</data>
+    <data tls="MOZI" title="墨子" corresp="#KR3j0002" notbefore="-300" notafter="-200">
+        <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>4th to <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>3rd cent<c xmlns="http://www.tei-c.org/ns/1.0" n="."/>
+    </data>
+    <data tls="HEGUAN" title="鶡冠子" corresp="#KR3j0006" notbefore="-300" notafter="-200">ca<c xmlns="http://www.tei-c.org/ns/1.0" n="."/> <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>300 <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/> <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>200</data>
+    <data tls="LS" title="呂氏春秋" corresp="#KR3j0009" notbefore="-239" notafter="-239">239 B<c xmlns="http://www.tei-c.org/ns/1.0" n="."/>C<c xmlns="http://www.tei-c.org/ns/1.0" n="."/>
+    </data>
+    <data tls="HNZ" title="淮南子" corresp="#KR3j0010" notbefore="-139" notafter="-139">
+        <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>139</data>
+    <data tls="LH" title="論衡" corresp="#KR3j0080" notbefore="50" notafter="100">ca<c xmlns="http://www.tei-c.org/ns/1.0" n="."/> +50 <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/> +100</data>
     <data tls="SSXY" title="世說新語" corresp="#KR3l0002" notbefore="300" notafter="500"> </data>
-    <data tls="SHJ" title="山海經" corresp="#KR3l0090" notbefore="-300" notafter="-100">ca. -300 - -100</data>
-    <data tls="CC" title="楚辭" corresp="#KR4a0001" notbefore="-300" notafter="-50">ca. -300 - -50</data>
-    <data tls="LAO" title="道德經" corresp="#KR5c0057" notbefore="-400" notafter="-300">4th cent. BC.</data>
-    <data tls="LIE" title="列子" corresp="#KR5c0124" notbefore="-300" notafter="500">ca. -300 - +500</data>
-    <data tls="ZHUANG" title="莊子" corresp="#KR5c0126" notbefore="-400" notafter="-230">ca. -400 - -230</data>
-    <data tls="MOJ" title="墨經" corresp="#KR5f0010" notbefore="-300" notafter="-200">ca. -300 - -200</data>
+    <data tls="SHJ" title="山海經" corresp="#KR3l0090" notbefore="-300" notafter="-100">ca<c xmlns="http://www.tei-c.org/ns/1.0" n="."/> <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>300 <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/> <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>100</data>
+    <data tls="CC" title="楚辭" corresp="#KR4a0001" notbefore="-300" notafter="-50">ca<c xmlns="http://www.tei-c.org/ns/1.0" n="."/> <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>300 <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/> <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>50</data>
+    <data tls="LAO" title="道德經" corresp="#KR5c0057" notbefore="-400" notafter="-300">4th cent<c xmlns="http://www.tei-c.org/ns/1.0" n="."/> BC<c xmlns="http://www.tei-c.org/ns/1.0" n="."/>
+    </data>
+    <data tls="LIE" title="列子" corresp="#KR5c0124" notbefore="-300" notafter="500">ca<c xmlns="http://www.tei-c.org/ns/1.0" n="."/> <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>300 <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/> +500</data>
+    <data tls="ZHUANG" title="莊子" corresp="#KR5c0126" notbefore="-400" notafter="-230">ca<c xmlns="http://www.tei-c.org/ns/1.0" n="."/> <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>400 <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/> <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>230</data>
+    <data tls="MOJ" title="墨經" corresp="#KR5f0010" notbefore="-300" notafter="-200">ca<c xmlns="http://www.tei-c.org/ns/1.0" n="."/> <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>300 <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/> <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>200</data>
     <data tls="XYJ" title="賢愚經" corresp="#KR6b0059" notbefore="445" notafter="445">+445</data>
     <data tls="BAIYU" title="百喻經" corresp="#KR6b0066" notbefore="" notafter="">+492</data>
     <data tls="FAJU" title="法句經" corresp="#KR6b0067" notbefore="224" notafter="224">+224</data>
-    <data tls="SONGJING" title="法集要頌經" corresp="#KR6b0070" notbefore="200" notafter="300">3rd cent. A.D.</data>
-    <data tls="FAHUA" title="法華經" corresp="#KR6d0001" notbefore="380" notafter="417">ca. +380 - +417</data>
-    <data tls="ZTJ" title="祖堂集" corresp="#KR6q0002" notbefore="890" notafter="952">ca. +890 - +1000</data>
+    <data tls="SONGJING" title="法集要頌經" corresp="#KR6b0070" notbefore="200" notafter="300">3rd cent<c xmlns="http://www.tei-c.org/ns/1.0" n="."/> A<c xmlns="http://www.tei-c.org/ns/1.0" n="."/>D<c xmlns="http://www.tei-c.org/ns/1.0" n="."/>
+    </data>
+    <data tls="FAHUA" title="法華經" corresp="#KR6d0001" notbefore="380" notafter="417">ca<c xmlns="http://www.tei-c.org/ns/1.0" n="."/> +380 <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/> +417</data>
+    <data tls="ZTJ" title="祖堂集" corresp="#KR6q0002" notbefore="890" notafter="952">ca<c xmlns="http://www.tei-c.org/ns/1.0" n="."/> +890 <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/> +1000</data>
     <data tls="LINJILU" title="臨濟錄" corresp="#KR6q0053" notbefore="800" notafter="1050"> </data>
-    <data tls="TANJING" title="六祖壇經" corresp="#KR6q0082" notbefore="800" notafter="900">+9th cent.</data>
+    <data tls="TANJING" title="六祖壇經" corresp="#KR6q0082" notbefore="800" notafter="900">+9th cent<c xmlns="http://www.tei-c.org/ns/1.0" n="."/>
+    </data>
     <data tls="BHT" title="白虎通" corresp="#None" notbefore="80" notafter="80">+80</data>
-    <data tls="CEN SHEN" title="岑參" corresp="#None" notbefore="715" notafter="770">715？-770</data>
-    <data tls="CHEN ZIANG" title="陳子昂" corresp="#None" notbefore="659" notafter="700">659-700</data>
-    <data tls="CQ" title="春秋" corresp="#None" notbefore="-500" notafter="-400">ca. -5th cent.</data>
-    <data tls="XINXINGLUN" title="大乘心行論" corresp="#None" notbefore="670" notafter="750">ca. +670 - +750</data>
-    <data tls="DU FU" title="杜甫" corresp="#None" notbefore="712" notafter="770">712年-770</data>
+    <data tls="CEN SHEN" title="岑參" corresp="#None" notbefore="715" notafter="770">715<c xmlns="http://www.tei-c.org/ns/1.0" n="？"/>
+        <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>770</data>
+    <data tls="CHEN ZIANG" title="陳子昂" corresp="#None" notbefore="659" notafter="700">659<c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>700</data>
+    <data tls="CQ" title="春秋" corresp="#None" notbefore="-500" notafter="-400">ca<c xmlns="http://www.tei-c.org/ns/1.0" n="."/> <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>5th cent<c xmlns="http://www.tei-c.org/ns/1.0" n="."/>
+    </data>
+    <data tls="XINXINGLUN" title="大乘心行論" corresp="#None" notbefore="670" notafter="750">ca<c xmlns="http://www.tei-c.org/ns/1.0" n="."/> +670 <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/> +750</data>
+    <data tls="DU FU" title="杜甫" corresp="#None" notbefore="712" notafter="770">712年<c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>770</data>
     <data tls="XIAOFUXU" title="馮夢龍笑府序" corresp="#None" notbefore="" notafter=""> </data>
-    <data tls="GD.XZMC" title="郭店。性自命出" corresp="#None" notbefore="-400" notafter="-300">-4th cent.</data>
-    <data tls="GD.YUCONG" title="郭店語叢" corresp="#None" notbefore="-400" notafter="-300">-4th cent.</data>
-    <data tls="GD.ZHONGXIN" title="郭店.忠信之道" corresp="#None" notbefore="-400" notafter="-300">-4th cent.</data>
-    <data tls="HANSHAN" title="寒山詩" corresp="#None" notbefore="620" notafter="750">ca. +620 - +650</data>
-    <data tls="HEYINYANG" title="合陰陽" corresp="#None" notbefore="-250" notafter="-200">ca. -250 - -200</data>
-    <data tls="HUAZAN" title="畫贊" corresp="#None" notbefore="" notafter="">(check date!)</data>
-    <data tls="HEJI" title="甲骨文字合集" corresp="#None" notbefore="-1200" notafter="-900">ca. -1200 - -900</data>
-    <data tls="KQ" title="孔雀東南飛" corresp="#None" notbefore="300" notafter="500">ca. +300 - +500</data>
-    <data tls="Li Bai" title="李白" corresp="#None" notbefore="701" notafter="762">701-762</data>
+    <data tls="GD.XZMC" title="郭店。性自命出" corresp="#None" notbefore="-400" notafter="-300">
+        <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>4th cent<c xmlns="http://www.tei-c.org/ns/1.0" n="."/>
+    </data>
+    <data tls="GD.YUCONG" title="郭店語叢" corresp="#None" notbefore="-400" notafter="-300">
+        <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>4th cent<c xmlns="http://www.tei-c.org/ns/1.0" n="."/>
+    </data>
+    <data tls="GD.ZHONGXIN" title="郭店.忠信之道" corresp="#None" notbefore="-400" notafter="-300">
+        <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>4th cent<c xmlns="http://www.tei-c.org/ns/1.0" n="."/>
+    </data>
+    <data tls="HANSHAN" title="寒山詩" corresp="#None" notbefore="620" notafter="750">ca<c xmlns="http://www.tei-c.org/ns/1.0" n="."/> +620 <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/> +650</data>
+    <data tls="HEYINYANG" title="合陰陽" corresp="#None" notbefore="-250" notafter="-200">ca<c xmlns="http://www.tei-c.org/ns/1.0" n="."/> <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>250 <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/> <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>200</data>
+    <data tls="HUAZAN" title="畫贊" corresp="#None" notbefore="" notafter="">
+        <c xmlns="http://www.tei-c.org/ns/1.0" n="("/>check date<c xmlns="http://www.tei-c.org/ns/1.0" n="!"/>
+        <c xmlns="http://www.tei-c.org/ns/1.0" n=")"/>
+    </data>
+    <data tls="HEJI" title="甲骨文字合集" corresp="#None" notbefore="-1200" notafter="-900">ca<c xmlns="http://www.tei-c.org/ns/1.0" n="."/> <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>1200 <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/> <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>900</data>
+    <data tls="KQ" title="孔雀東南飛" corresp="#None" notbefore="300" notafter="500">ca<c xmlns="http://www.tei-c.org/ns/1.0" n="."/> +300 <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/> +500</data>
+    <data tls="Li Bai" title="李白" corresp="#None" notbefore="701" notafter="762">701<c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>762</data>
     <data tls="LISHIMIN" title="李世民" corresp="#None" notbefore="600" notafter="650"> </data>
-    <data tls="MOUZI" title="牟子：理惑論" corresp="#None" notbefore="-400" notafter="-300">+4th cent.</data>
-    <data tls="NJ" title="女戒" corresp="#None" notbefore="0" notafter="100">+1st cent.</data>
+    <data tls="MOUZI" title="牟子：理惑論" corresp="#None" notbefore="-400" notafter="-300">+4th cent<c xmlns="http://www.tei-c.org/ns/1.0" n="."/>
+    </data>
+    <data tls="NJ" title="女戒" corresp="#None" notbefore="0" notafter="100">+1st cent<c xmlns="http://www.tei-c.org/ns/1.0" n="."/>
+    </data>
     <data tls="QYX" title="切韻序" corresp="#None" notbefore="601" notafter="601">+601</data>
-    <data tls="STELAE" title="秦刻石" corresp="#None" notbefore="-250" notafter="-200">second half -3rd century</data>
+    <data tls="STELAE" title="秦刻石" corresp="#None" notbefore="-250" notafter="-200">second half <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>3rd century</data>
     <data tls="RENJING" title="吳亮：忍經" corresp="#KR3j0193" notbefore="1306" notafter="1306">+1306</data>
-    <data tls="SHANG" title="商君書" corresp="#KR3c0004" notbefore="-300" notafter="-200">ca. -300 - -200</data>
-    <data tls="SHENDAO" title="慎到" corresp="#None" notbefore="-300" notafter="-200">ca. -300 - -200</data>
-    <data tls="SIKUNGTU.SHIPIN" title="司空圖:二十四詩品" corresp="#None" notbefore="837" notafter="908">+900 (lived 837-908)</data>
-    <data tls="SHUIHUDI" title="睡虎地" corresp="#None" notbefore="-250" notafter="-250">ca. -250 - -200</data>
+    <data tls="SHANG" title="商君書" corresp="#KR3c0004" notbefore="-300" notafter="-200">ca<c xmlns="http://www.tei-c.org/ns/1.0" n="."/> <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>300 <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/> <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>200</data>
+    <data tls="SHENDAO" title="慎到" corresp="#None" notbefore="-300" notafter="-200">ca<c xmlns="http://www.tei-c.org/ns/1.0" n="."/> <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>300 <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/> <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>200</data>
+    <data tls="SIKUNGTU.SHIPIN" title="司空圖:二十四詩品" corresp="#None" notbefore="837" notafter="908">+900 <c xmlns="http://www.tei-c.org/ns/1.0" n="("/>lived 837<c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>908<c xmlns="http://www.tei-c.org/ns/1.0" n=")"/>
+    </data>
+    <data tls="SHUIHUDI" title="睡虎地" corresp="#None" notbefore="-250" notafter="-250">ca<c xmlns="http://www.tei-c.org/ns/1.0" n="."/> <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>250 <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/> <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>200</data>
     <data tls="SHUOWEN XU" title="説文解字序" corresp="#None" notbefore="100" notafter="100">+100</data>
     <data tls="SUMMA" title="SUMMA.THEOL" corresp="#None" notbefore="1670" notafter="1670">+1670</data>
-    <data tls="SB" title="孫臏" corresp="#None" notbefore="-320" notafter="-280">ca. -300</data>
-    <data tls="SUN" title="孫子" corresp="#None" notbefore="-300" notafter="-200">ca. -300 - -200</data>
-    <data tls="TYM" title="陶淵明詩" corresp="#None" notbefore="-200" notafter="-100">ca. -200 - -100</data>
+    <data tls="SB" title="孫臏" corresp="#None" notbefore="-320" notafter="-280">ca<c xmlns="http://www.tei-c.org/ns/1.0" n="."/> <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>300</data>
+    <data tls="SUN" title="孫子" corresp="#None" notbefore="-300" notafter="-200">ca<c xmlns="http://www.tei-c.org/ns/1.0" n="."/> <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>300 <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/> <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>200</data>
+    <data tls="TYM" title="陶淵明詩" corresp="#None" notbefore="-200" notafter="-100">ca<c xmlns="http://www.tei-c.org/ns/1.0" n="."/> <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>200 <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/> <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>100</data>
     <data tls="Wang Ji" title="王績" corresp="#None" notbefore="" notafter=""/>
-    <data tls="WEN" title="文子" corresp="#None" notbefore="-250" notafter="-100">ca. -250 - -100</data>
-    <data tls="WXP" title="五行篇" corresp="#None" notbefore="-300" notafter="-200">ca. -300 - -200</data>
-    <data tls="XIAOLIN" title="笑林" corresp="#None" notbefore="300" notafter="400">+4th cent.</data>
-    <data tls="XINLUN" title="新論" corresp="#None" notbefore="-60" notafter="0">ca. -60 - 0</data>
+    <data tls="WEN" title="文子" corresp="#None" notbefore="-250" notafter="-100">ca<c xmlns="http://www.tei-c.org/ns/1.0" n="."/> <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>250 <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/> <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>100</data>
+    <data tls="WXP" title="五行篇" corresp="#None" notbefore="-300" notafter="-200">ca<c xmlns="http://www.tei-c.org/ns/1.0" n="."/> <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>300 <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/> <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>200</data>
+    <data tls="XIAOLIN" title="笑林" corresp="#None" notbefore="300" notafter="400">+4th cent<c xmlns="http://www.tei-c.org/ns/1.0" n="."/>
+    </data>
+    <data tls="XINLUN" title="新論" corresp="#None" notbefore="-60" notafter="0">ca<c xmlns="http://www.tei-c.org/ns/1.0" n="."/> <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>60 <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/> 0</data>
     <data tls="ZHONGJING" title="忠經" corresp="#None" notbefore="" notafter=""> </data>
     <data tls="CDL" title="景德傳燈錄" corresp="#KR6q0003" notbefore="1004" notafter="1011"/>
     <data tls="WDHY" title="五燈會元" corresp="#KR6q0012" notbefore="1252" notafter="1255"/>
-    <data tls="SSJ" corresp="#KR3l0099" notbefore="265" notafter="420" title="搜神記">265-420</data>
-    <data tls="BCJJZ" corresp="#KR3e0101" notbefore="456" notafter="536" title="本草經集注">456-536</data>
+    <data tls="SSJ" corresp="#KR3l0099" notbefore="265" notafter="420" title="搜神記">265<c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>420</data>
+    <data tls="BCJJZ" corresp="#KR3e0101" notbefore="456" notafter="536" title="本草經集注">456<c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>536</data>
     <data tls="SNBCJ" corresp="#KR3e0102" notbefore="265" notafter="265" title="神農本草經">265</data>
-    <data tls="BPZ" corresp="#KR5f0019" notbefore="283" notafter="343" title="抱朴子">300-343</data>
-    <data tls="XIAOLIN" corresp="#KR3l0129" notbefore="283" notafter="343" title="笑林">500-543</data>
-    <data corresp="#KR3j0194" notbefore="-390" notafter="-330" title="尸子">-390 - -330</data>
+    <data tls="BPZ" corresp="#KR5f0019" notbefore="283" notafter="343" title="抱朴子">300<c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>343</data>
+    <data tls="XIAOLIN" corresp="#KR3l0129" notbefore="283" notafter="343" title="笑林">500<c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>543</data>
+    <data corresp="#KR3j0194" notbefore="-390" notafter="-330" title="尸子">
+        <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>390 <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/> <c xmlns="http://www.tei-c.org/ns/1.0" n="-"/>330</data>
     <data corresp="#KR3e0079" notbefore="1593" notafter="1596" title="本草綱目">First printed 萬暦23年</data>
     
-<data resp="#chris" modified="2021-12-10T17:18:29.779+09:00" notbefore="250" notafter="300" corresp="#CH2a1468" title="人物志三卷">250 to 300<note>(rough estimate without source)</note>
+<data resp="#chris" modified="2021-12-10T17:18:29.779+09:00" notbefore="250" notafter="300" corresp="#CH2a1468" title="人物志三卷">250 to 300<note>
+            <c xmlns="http://www.tei-c.org/ns/1.0" n="("/>rough estimate without source<c xmlns="http://www.tei-c.org/ns/1.0" n=")"/>
+        </note>
     </data>
-    <data resp="#schwermann" modified="2021-12-10T18:48:57.769+09:00" notbefore="-17" notafter="-17" corresp="#CH1a0907" title="說苑">17 BC. <note>This is the year when the Shuoyuan 說苑 was submitted to the throne.</note>
+    <data resp="#schwermann" modified="2021-12-10T18:48:57.769+09:00" notbefore="-17" notafter="-17" corresp="#CH1a0907" title="說苑">17 BC<c xmlns="http://www.tei-c.org/ns/1.0" n="."/> <note>This is the year when the Shuoyuan 說苑 was submitted to the throne<c xmlns="http://www.tei-c.org/ns/1.0" n="."/>
+        </note>
     </data>
-    <data resp="#schwermann" modified="2021-12-10T18:50:52.433+09:00" notbefore="-24" notafter="-24" corresp="#CH1a0906" title="新序">24 BC. <note>This is the year when the Xinxu 新序 was submitted to the throne.</note>
+    <data resp="#schwermann" modified="2021-12-10T18:50:52.433+09:00" notbefore="-24" notafter="-24" corresp="#CH1a0906" title="新序">24 BC<c xmlns="http://www.tei-c.org/ns/1.0" n="."/> <note>This is the year when the Xinxu 新序 was submitted to the throne<c xmlns="http://www.tei-c.org/ns/1.0" n="."/>
+        </note>
     </data>
 <data resp="#schwermann" modified="2022-01-30T21:53:00.063+09:00" notbefore="330" notafter="361" corresp="#CH2d1716" title="華陽國志十三卷">330 to 361</data>
 </root>
