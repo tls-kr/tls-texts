@@ -11,6 +11,9 @@
             <create qname="@xml:id" type="xs:string"/>
             <create qname="@corresp" type="xs:string"/>
             <create qname="@type" type="xs:string"/>
+            <create qname="@from" type="xs:string"/>
+            <create qname="@to" type="xs:string"/>
+            <create qname="tei:idno" type="xs:string"/>
         </range>
         <ngram qname="tei:p"/>
         <ngram qname="tei:lg"/>
