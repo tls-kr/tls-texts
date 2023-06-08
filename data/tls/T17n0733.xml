@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/cbeta-org/xml-p5/master/schema/cbeta-p5.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="T17n0733">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+                <title>佛說堅意經</title>
+                <author>後漢 安世高譯</author>
+                <respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+            </titleStmt>
+		<editionStmt>
+			<edition>XML TEI P5<idno type="kanripo">KR6i0427</idno>
+                    <idno type="DILA">CA0001539</idno>
+                    <idno type="CBETA">T17n0733</idno>
+                </edition>
+			<respStmt xml:id="resp1">
+                    <resp>corrections</resp>
+                    <name>CBETA</name>
+                </respStmt>
+			<respStmt xml:id="resp2">
+                    <resp>corrections</resp>
+                    <name>Taisho</name>
+                </respStmt>
+		</editionStmt>
+		<extent>
+                <measure unit="char" quantity="632"/>
+                <date when-iso="2023-05-20T09:15:50.31+09:00"/>
+                <measure unit="juan">1</measure>
+            </extent>
+		<publicationStmt>
+			<idno type="CBETA">
+				<idno type="canon">T</idno>.<idno type="vol">17</idno>.<idno type="no">733</idno>
+			</idno>
+			<distributor>
+				<name>中華電子佛典協會 (CBETA)</name>
+				<address>
+					<addrLine>
+                            <email>service@cbeta.org</email>
+                        </addrLine>
+				</address>
+			</distributor>
+			<availability>
+				<p>Available for non-commercial use when distributed with this header intact.</p>
+			</availability>
+			<date>2022-10-12 23:43:51 +0800</date>
+		</publicationStmt>
+		<sourceDesc>
+			<bibl>
+				<title level="s">Taishō Tripiṭaka</title>
+				<title level="s" xml:lang="zh-Hant">大正新脩大藏經</title>
+				<title level="m" xml:lang="zh-Hant">佛說堅意經</title>
+			</bibl>
+		</sourceDesc>
+	</fileDesc>
+	<encodingDesc>
+		<projectDesc>
+			<p cb:type="ly" xml:lang="en">Text as provided by Mr. Hsiao Chen-Kuo, Tripitaka Koreana as provided by Mr. Christian Wittern, Text as provided by Mr. Christian Wittern, Text as provided by Anonymous from USA, Punctuated text as provided by Jasmine, Re-proofing punctuated text as provided by Mr. Zhang Ge-Feng</p>
+			<p cb:type="ly" xml:lang="zh-Hant">蕭鎮國大德提供，維習安大德提供之高麗藏 CD 經文，維習安大德提供，北美某大德提供，Jasmine 提供新式標點，張革豐大德提供新式標點重校</p>
+		</projectDesc>
+		<editorialDecl>
+			<punctuation resp="#resp1">
+                    <p>新式標點</p>
+                </punctuation>
+		</editorialDecl>
+		<tagsDecl>
+			<namespace name="http://www.tei-c.org/ns/1.0">
+				<tagUsage gi="rdg">
+					<listWit>
+						<witness xml:id="wit.cbeta">【CB】</witness>
+						<witness xml:id="wit.orig">【大】</witness>
+						<witness xml:id="wit1">【宋】</witness>
+						<witness xml:id="wit2">【元】</witness>
+						<witness xml:id="wit3">【明】</witness>
+						<witness xml:id="wit4">【宮】</witness>
+					</listWit>
+				</tagUsage>
+			</namespace>
+		</tagsDecl>
+		<charDecl>
+			<char xml:id="CB00416">
+				<charName>CBETA CHARACTER CB00416</charName>
+				<charProp>
+					<localName>composition</localName>
+					<value>[竺-二+帚]</value>
+				</charProp>
+				<charProp>
+					<localName>normalized form</localName>
+					<value>帚</value>
+				</charProp>
+				<mapping type="normal_unicode">U+7B92</mapping>
+				<mapping cb:dec="983456" type="PUA">U+F01A0</mapping>
+			</char>
+		</charDecl>
+	</encodingDesc>
+	<profileDesc>
+		<langUsage>
+			<language ident="en">English</language>
+			<language ident="zh-Hant">Chinese (Traditional)</language>
+		</langUsage>
+	<textClass>
+                <catRef scheme="#kr-categories" target="#KR6i"/>
+                <catRef scheme="#auth-cat" target="#T17"/>
+                <catRef scheme="#tls-regions" target="#reg011"/>
+                <catRef scheme="#tls-internal" target="#tr-en"/>
+            </textClass>
+            <creation>
+                <date notBefore="0148" notAfter="0170"/>
+                <persName xml:lang="zh-Hant" key="#A000366">安清</persName>
+            </creation>
+        </profileDesc>
+	<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name>
+                <name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+		<change when="1999-10-12T10:16:21">
+			CW (ed.) Created initial TEI XML version with BASICX.BAT (99/10/12)
+		</change>
+	<change when="2023-05-20T09:15:50.31+09:00">
+                <name>chris</name>Some changes for compatibility with the TLS Application, derived from the version published by CBETA on GitHub.</change>
+        </revisionDesc>
+</teiHeader>
+<text>
+        <body>
+<milestone n="1" unit="juan"/>
+<lb n="0534c22" ed="T"/>
+<lb n="0534c23" ed="T"/>
+<lb ed="T" n="0534c24"/>
+            <docNumber>No. 733</docNumber>
+<lb n="0534c25" ed="T"/>
+            <juan n="001" fun="open">
+                <mulu type="卷" n="001"/>
+                <jhead>
+                    <title>佛說堅意經</title>
+                </jhead>
+            </juan>
+<lb ed="T" n="0534c26"/>
+<lb n="0534c27" ed="T"/>
+            <byline cb:type="Translator">
+                <seg cb:type="Translator" xml:id="T17n0733_CBETA_001-0534c27.s1">後漢<anchor xml:id="nkr_note_orig_0534034" n="0534034"/>
+                    <anchor xml:id="nkr_note_mod_0534034" n="0534034"/>
+                    <anchor xml:id="beg0534034" n="0534034"/>安息國<anchor xml:id="end0534034"/>三藏安世高譯</seg>
+            </byline>
+<lb ed="T" n="0534c28"/>
+            <div type="jing">
+                <p xml:id="pT17p0534c2801">
+                    <seg xml:id="T17n0733_CBETA_001-0534c2801.s1">聞如是<c n="："/>
+                    </seg>
+                </p>
+                <p xml:id="pT17p0534c2804" cb:place="inline">
+                    <seg xml:id="T17n0733_CBETA_001-0534c2804.s1">一時<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0534c2804.s2">佛在舍衛國祇樹給孤獨園<c n="。"/>
+                    </seg>
+                </p>
+                <p xml:id="pT17p0534c2817" cb:place="inline">
+                    <seg xml:id="T17n0733_CBETA_001-0534c2817.s1">佛<lb ed="T" n="0534c29"/>告阿難<c n="："/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0534c2817.s2">
+                        <c n="「"/>我今禪定<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0534c2817.s3">憐傷世人不知佛道正真<pb n="0535a" ed="T" facs="17" xml:id="T17n0733_CBETA_17-0733.0535a"/>
+                        <lb n="0535a01" ed="T"/>弘深<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0534c2817.s4">而以淺偽輕薄之言欲設嫉心謗毀道<lb n="0535a02" ed="T"/>根<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0534c2817.s5">妄作窮難難吾弟子<c n="。"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0534c2817.s6">汝當正心知此罪人<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0534c2817.s7">
+                        <lb ed="T" n="0535a03"/>或是邪妖惡師<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0534c2817.s8">或是不知世俗姦人<c n="。"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0534c2817.s9">若諸菩<lb n="0535a04" ed="T"/>薩<c n="、"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0534c2817.s10">比丘僧<c n="、"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0534c2817.s11">比丘尼<c n="、"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0534c2817.s12">優婆塞<c n="、"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0534c2817.s13">優婆夷<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0534c2817.s14">明經高潔<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0534c2817.s15">
+                        <lb ed="T" n="0535a05"/>開解愚冥<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0534c2817.s16">為說生死罪福所鍾<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0534c2817.s17">設其即解知<lb n="0535a06" ed="T"/>服道真<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0534c2817.s18">此為罪滅福生之人<c n="。"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0534c2817.s19">若其指掌為說<lb n="0535a07" ed="T"/>橋梁<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0534c2817.s20">心懷憒憒<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0534c2817.s21">意不欲聞<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0534c2817.s22">雖欲強聽<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0534c2817.s23">心多睡<lb ed="T" n="0535a08"/>眠<c n="；"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0534c2817.s24">或壞道法<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0534c2817.s25">輕毀沙門及優婆塞<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0534c2817.s26">惡口妄言<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0534c2817.s27">
+                        <lb n="0535a09" ed="T"/>當明此人為罪所牽<c n="。"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0534c2817.s28">沙門賢者<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0534c2817.s29">以忍為先<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0534c2817.s30">當<lb ed="T" n="0535a10"/>如清水<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0534c2817.s31">無所不淨<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0534c2817.s32">死人<c n="、"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0534c2817.s33">死狗<c n="、"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0534c2817.s34">死蛇<c n="、"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0534c2817.s35">屎尿亦皆<lb n="0535a11" ed="T"/>洗之<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0534c2817.s36">然不毀水清<c n="。"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0534c2817.s37">亦當持心<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0534c2817.s38">有如掃<g ref="#CB00416">󰆠</g>掃地<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0534c2817.s39">
+                        <lb n="0535a12" ed="T"/>淨不淨<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0534c2817.s40">死人<c n="、"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0534c2817.s41">死狗<c n="、"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0534c2817.s42">死蛇<c n="、"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0534c2817.s43">屎尿皆亦掃之<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0534c2817.s44">然不<lb n="0535a13" ed="T"/>毀於<g ref="#CB00416">󰆠</g>矣<c n="。"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0534c2817.s45">亦當復如風火之力<c n="、"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0534c2817.s46">光<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0534c2817.s47">死人<c n="、"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0534c2817.s48">死狗<c n="、"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0534c2817.s49">
+                        <lb ed="T" n="0535a14"/>死蛇<c n="、"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0534c2817.s50">屎尿<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0534c2817.s51">亦吹亦燒<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0534c2817.s52">然不毀風火之力<c n="、"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0534c2817.s53">光<c n="。"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0534c2817.s54">若<lb n="0535a15" ed="T"/>人欲來殺己<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0534c2817.s55">己亦不瞋<c n="；"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0534c2817.s56">欲來謗己<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0534c2817.s57">己亦不瞋<c n="；"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0534c2817.s58">
+                        <lb n="0535a16" ed="T"/>欲來譖己<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0534c2817.s59">己亦不瞋<c n="；"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0534c2817.s60">欲<anchor xml:id="nkr_note_add_0535a1601" n="0535a1601"/>
+                        <anchor xml:id="beg0535a1601" n="0535a1601"/>來<anchor xml:id="end0535a1601"/>笑己<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0534c2817.s61">己亦不瞋<c n="；"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0534c2817.s62">欲<lb ed="T" n="0535a17"/>來壞己<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0534c2817.s63">使不事佛法<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0534c2817.s64">己亦不瞋<c n="；"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0534c2817.s65">但當慈心正<lb ed="T" n="0535a18"/>
+                        <anchor xml:id="nkr_note_orig_0535001" n="0535001"/>
+                        <anchor xml:id="nkr_note_mod_0535001" n="0535001"/>
+                        <anchor xml:id="beg0535001" n="0535001"/>意<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0534c2817.s66">罪<anchor xml:id="end0535001"/>滅福生<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0534c2817.s67">邪不入正<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0534c2817.s68">萬惡消爛<c n="。"/>
+                    </seg>
+                </p>
+                <p xml:id="pT17p0535a1814" cb:place="inline">
+                    <seg xml:id="T17n0733_CBETA_001-0535a1814.s1">佛告阿<lb n="0535a19" ed="T"/>難<c n="："/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0535a1814.s2">
+                        <c n="「"/>其有好心善意之人<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0535a1814.s3">聞佛明法<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0535a1814.s4">一心而聽<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0535a1814.s5">
+                        <lb ed="T" n="0535a20"/>能一日可<c n="；"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0535a1814.s6">不能一日<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0535a1814.s7">半日可<c n="；"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0535a1814.s8">不能半日<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0535a1814.s9">一時<lb ed="T" n="0535a21"/>可<c n="；"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0535a1814.s10">不能一時<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0535a1814.s11">半時可<c n="；"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0535a1814.s12">不能半時<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0535a1814.s13">須臾可<c n="；"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0535a1814.s14">其<lb ed="T" n="0535a22"/>福不可量<c n="、"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0535a1814.s15">不可訾也<c n="。"/>
+                    </seg>
+                </p>
+                <p xml:id="pT17p0535a2209" cb:place="inline">
+                    <seg xml:id="T17n0733_CBETA_001-0535a2209.s1">
+                        <c n="「"/>汝當廣為諸比丘僧<c n="、"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0535a2209.s2">比<lb n="0535a23" ed="T"/>丘尼<c n="、"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0535a2209.s3">優婆塞<c n="、"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0535a2209.s4">優婆夷<c n="、"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0535a2209.s5">白衣人民說之<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0535a2209.s6">并當廣<lb n="0535a24" ed="T"/>為說布施<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0535a2209.s7">種生死糧<c n="。"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0535a2209.s8">其有齋日<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0535a2209.s9">施設飯食<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0535a2209.s10">請<lb ed="T" n="0535a25"/>召四輩高經賢者<c n="、"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0535a2209.s11">沙門<c n="、"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0535a2209.s12">道人<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0535a2209.s13">施設高座<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0535a2209.s14">論講<lb n="0535a26" ed="T"/>佛經<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0535a2209.s15">燒香然燈<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0535a2209.s16">光明達天<c n="。"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0535a2209.s17">諸天喜笑<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0535a2209.s18">皆下虛<lb ed="T" n="0535a27"/>空<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0535a2209.s19">側耳來聽<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0535a2209.s20">莫不欣然<c n="。"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0535a2209.s21">其有破慳<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0535a2209.s22">布施為<lb ed="T" n="0535a28"/>福<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0535a2209.s23">善神即下<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0535a2209.s24">營救門戶<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0535a2209.s25">
+                        <anchor xml:id="nkr_note_orig_0535002" n="0535002"/>
+                        <anchor xml:id="nkr_note_mod_0535002" n="0535002"/>
+                        <anchor xml:id="beg0535002" n="0535002"/>攘<anchor xml:id="end0535002"/>禍滅怪<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0535a2209.s26">出與利<lb ed="T" n="0535a29"/>會<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0535a2209.s27">利則而吉<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0535a2209.s28">終無怨惡<c n="。"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0535a2209.s29">譬如種穀<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0535a2209.s30">隨種而生<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0535a2209.s31">
+                        <pb n="0535b" ed="T" facs="17" xml:id="T17n0733_CBETA_17-0733.0535b"/>
+                        <lb ed="T" n="0535b01"/>種善得福<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0535a2209.s32">種惡獲<anchor xml:id="nkr_note_orig_0535003" n="0535003"/>
+                        <anchor xml:id="nkr_note_mod_0535003" n="0535003"/>
+                        <anchor xml:id="beg0535003" n="0535003"/>殃<anchor xml:id="end0535003"/>
+                        <c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0535a2209.s33">未有不種而獲果實<c n="。"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0535a2209.s34">
+                        <lb n="0535b02" ed="T"/>當正爾心<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0535a2209.s35">福自歸身<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0535a2209.s36">慎無卜問<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0535a2209.s37">為邪所牽<c n="；"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0535a2209.s38">心<lb n="0535b03" ed="T"/>懷狐疑<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0535a2209.s39">善神遠人<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0535a2209.s40">動入罪地<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0535a2209.s41">所為不成<c n="。"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0535a2209.s42">不知<lb ed="T" n="0535b04"/>毀戒<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0535a2209.s43">反怨佛神<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0535a2209.s44">事之無益<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0535a2209.s45">遂不正心<c n="。"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0535a2209.s46">男子<c n="、"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0535a2209.s47">女<lb ed="T" n="0535b05"/>人其有聞此經者<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0535a2209.s48">及奉持讀誦者<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0535a2209.s49">莫不得福<lb ed="T" n="0535b06"/>
+                        <anchor xml:id="nkr_note_orig_0535004" n="0535004"/>
+                        <anchor xml:id="nkr_note_mod_0535004a" n="0535004a"/>
+                        <anchor xml:id="beg0535004a" n="0535004a"/>者<c n="。"/>
+                    </seg>
+                </p>
+                <p xml:id="pT17p0535b0602" cb:place="inline">
+                    <seg xml:id="T17n0733_CBETA_001-0535b0602.s1">
+                        <anchor xml:id="nkr_note_mod_0535004b" n="0535004b"/>
+                        <anchor xml:id="beg0535004b" n="0535004b"/>佛說經已<anchor xml:id="end0535004b"/>
+                        <c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0535b0602.s2">阿難歡喜<c n="，"/>
+                    </seg>
+                    <seg xml:id="T17n0733_CBETA_001-0535b0602.s3">起為佛作禮<c n="。"/>
+                    </seg>
+                </p>
+            </div>
+<lb ed="T" n="0535b07"/>
+            <juan n="001" fun="close">
+                <jhead>
+                    <title>佛說堅意經</title>
+                </jhead>
+            </juan>
+</body>
+<back>
+<cb:div type="apparatus">
+<head>校注</head>
+<p>
+<app from="#beg0534034" to="#end0534034">
+                        <lem wit="#wit.orig">安息國</lem>
+                        <rdg wit="#wit1 #wit2 #wit3 #wit4" resp="#resp2">
+                            <space quantity="0"/>
+                        </rdg>
+                    </app>
+<app from="#beg0535a1601" to="#end0535a1601">
+                        <lem wit="#wit.cbeta" resp="#resp1">來</lem>
+                        <rdg wit="#wit.orig">時</rdg>
+                    </app>
+<app from="#beg0535001" to="#end0535001">
+                        <lem wit="#wit.orig">意，罪</lem>
+                        <rdg wit="#wit1 #wit2 #wit3 #wit4" resp="#resp2">心惡</rdg>
+                    </app>
+<app from="#beg0535002" to="#end0535002">
+                        <lem wit="#wit.orig">攘</lem>
+                        <rdg wit="#wit1 #wit2 #wit3" resp="#resp2">禳</rdg>
+                    </app>
+<app from="#beg0535003" to="#end0535003">
+                        <lem wit="#wit.orig">殃</lem>
+                        <rdg resp="#resp2" wit="#wit1 #wit2 #wit3 #wit4">罪殃</rdg>
+                    </app>
+<app from="#beg0535004a" to="#end0535004a">
+                        <lem wit="#wit.orig">者。」</lem>
+                        <rdg wit="#wit1 #wit2 #wit3 #wit4" resp="#resp2">
+                            <space quantity="0"/>
+                        </rdg>
+                    </app>
+<app from="#beg0535004b" to="#end0535004b">
+                        <lem wit="#wit.orig">佛說經已</lem>
+                        <rdg wit="#wit1 #wit2 #wit3 #wit4" resp="#resp2">
+                            <space quantity="0"/>
+                        </rdg>
+                    </app>
+</p>
+</cb:div>
+<cb:div type="cbeta-notes">
+<head>CBETA 校注</head>
+<p>
+<note n="0534034" type="mod" resp="#resp1" target="#nkr_note_mod_0534034">安息國【大】，〔－〕【宋】【元】【明】【宮】</note>
+<note resp="#resp1" type="mod" n="0535001" target="#nkr_note_mod_0535001">意罪【大】，心惡【宋】【元】【明】【宮】</note>
+<note n="0535002" resp="#resp1" type="mod" target="#nkr_note_mod_0535002">攘【大】，禳【宋】【元】【明】</note>
+<note resp="#resp1" type="mod" n="0535003" target="#nkr_note_mod_0535003">殃【大】，罪殃【宋】【元】【明】【宮】</note>
+<note resp="#resp1" type="mod" n="0535004a" target="#nkr_note_mod_0535004a">者【大】，〔－〕【宋】【元】【明】【宮】</note>
+<note resp="#resp1" type="mod" n="0535004b" target="#nkr_note_mod_0535004b">佛說經已【大】，〔－〕【宋】【元】【明】【宮】</note>
+</p>
+</cb:div>
+<cb:div type="taisho-notes">
+<head>大正藏 校注</head>
+<p>
+<note resp="#resp2" type="orig" n="0534034" place="foot text" target="#nkr_note_orig_0534034">〔安息國〕－【三】【宮】</note>
+<note resp="#resp2" type="orig" n="0535001" place="foot text" target="#nkr_note_orig_0535001">意罪＝心惡【三】【宮】</note>
+<note n="0535002" place="foot text" resp="#resp2" type="orig" target="#nkr_note_orig_0535002">攘＝禳【三】</note>
+<note type="orig" resp="#resp2" n="0535003" place="foot text" target="#nkr_note_orig_0535003">（罪）＋殃【三】【宮】</note>
+<note n="0535004" place="foot text" type="orig" resp="#resp2" target="#nkr_note_orig_0535004">〔者佛說經已〕－【三】【宮】</note>
+</p>
+</cb:div>
+<cb:div type="add-notes">
+<head>新增校注</head>
+<p>
+<note n="0535a1601" resp="#resp1" type="add" target="#nkr_note_add_0535a1601">來【CB】，時【大】</note>
+</p>
+</cb:div>
+</back>
+    </text>
+</TEI>

@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KR3fa001">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>周髀算經音義</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <idno type="kanripo">KR3fa001</idno>
+                </edition>
+            </editionStmt>
+            <extent>
+                <measure unit="char" quantity="4239"/>
+                <date when-iso="2023-06-03T16:15:51.59+09:00"/>
+            </extent>
+            <publicationStmt>
+                <p>Published electronically</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>[宋]李籍撰　 版本信息[宋刻本]</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <catRef scheme="#kr-categories" target="#KR3fa"/>
+            </textClass>
+            <creation/>
+        </profileDesc>
+        <encodingDesc>
+            <variantEncoding location="external" method="double-end-point"/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <p>
+                    <pb ed="KX" n="03-07-002.1" xml:id="KR3fa001_tls_1a"/>
+                    <head xml:id="KR3fa001_tls_p1.s1-h">
+                        <seg xml:id="KR3fa001_tls_p1.s1" state="locked">
+                            <lb n="1" ed="KX"/>秘書省</seg>
+                    </head>
+                    <seg xml:id="KR3fa001_tls_p1.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻" quantity="1"/>周髀筭經一部上下共二冊</seg>
+                    <seg xml:id="KR3fa001_tls_p1.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻" quantity="1"/>元豐七年九月<space n="䶻" quantity="1"/>日校訂降授宣德郎秘書省校書郎臣葉祖洽上進</seg>
+                    <seg xml:id="KR3fa001_tls_p1.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻䶻䶻䶻䶻䶻" quantity="6"/>校訂承議郎行秘書省校書郎臣王仲脩</seg>
+                    <seg xml:id="KR3fa001_tls_p1.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻䶻䶻䶻䶻䶻" quantity="6"/>校訂朝奉郎行秘書省校書郎臣錢長卿</seg>
+                    <pb ed="KX" n="03-07-002.1" xml:id="KR3fa001_tls_1b"/>
+                    <seg xml:id="KR3fa001_tls_p1.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻䶻䶻䶻䶻䶻䶻䶻䶻䶻䶻䶻" quantity="12"/>奉議郎守秘書丞臣韓<space n="䶻" quantity="1"/>宗古</seg>
+                    <seg xml:id="KR3fa001_tls_p1.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻䶻䶻䶻䶻䶻䶻䶻䶻䶻䶻" quantity="11"/>朝請郎試秘書少監臣孫<space n="䶻" quantity="1"/>覺</seg>
+                    <seg xml:id="KR3fa001_tls_p1.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻䶻䶻䶻䶻䶻䶻䶻䶻䶻䶻" quantity="11"/>降授朝散郎試秘書監臣趙<space n="䶻" quantity="1"/>彥若</seg>
+                    <pb ed="KX" n="03-07-002.2" xml:id="KR3fa001_tls_2a"/>
+                    <seg xml:id="KR3fa001_tls_p2.s1" state="locked">
+                        <lb n="1" ed="KX"/>周髀筭經音義</seg>
+                    <seg xml:id="KR3fa001_tls_p2.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻" quantity="1"/>假承務郎秘書省鉤考筭經文字臣李籍撰</seg>
+                    <seg xml:id="KR3fa001_tls_p2.s3" state="locked">
+                        <lb n="3" ed="KX"/>周髀序</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p2.s4.1">
+                        <lb n="4" ed="KX"/>周髀</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p2.s4.2" type="comm">步米切周髀筭經者以九數句股重差筭<lb type="/"/>日月周天行度遠近之數皆得於股表即</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p2.s5.1" type="comm">
+                        <lb n="5" ed="KX"/>推步蓋天職法也髀者股也以表為股周天曆<lb type="/"/>度本包犧氏立法其傳自州公受之於大夫商</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p2.s6.1" type="comm">
+                        <lb n="6" ed="KX"/>高周人志之<lb type="/"/>故曰周髀</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p2.s6.2">趙君卿撰</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p2.s6.3" type="comm">難免切述也君卿趙<lb type="/"/>𠁊字也不詳何代人</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p2.s6.4">恢</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p2.s7.1" type="comm">
+                        <lb n="7" ed="KX"/>苦回切<lb type="/"/>大也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p2.s7.2">廓頥</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p2.s7.3" type="comm">上枯郭切<lb type="/"/>下歴各切</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p2.s7.4">𠷳儀</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p2.s7.5" type="comm">居洧切<lb type="/"/>日影也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p2.s7.6">度量</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p2.s7.7" type="comm">上達<lb type="/"/>各切</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p2.s8.1" type="comm">
+                        <lb n="8" ed="KX"/>下錄<lb type="/"/>章切</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p2.s8.2">探頥</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p2.s8.3" type="comm">上吐南切下士革切頥者含畜<lb type="/"/>含畜者探之可及故易曰探頥</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p2.s8.4">索隱</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p2.s9.1" type="comm">
+                        <lb n="9" ed="KX"/>上色白切下於謹切隱者隱匿<lb type="/"/>隱匿者索之可得故曰索隱</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p2.s9.2">詭異</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p2.s9.3" type="comm">古委切莊<lb type="/"/>子曰恢詭</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p2.s11.1" type="comm">
+                        <lb n="11" ed="KX"/>譎<lb type="/"/>詭</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p2.s11.2">渾天</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p2.s11.3" type="comm">胡昆切渾天者言田地之體狀如鳥卵<lb type="/"/>天包地外猶殼之裹黃也周旋無端其</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p2.s12.1" type="comm">
+                        <lb n="12" ed="KX"/>形渾渾然故曰渾天史官侯臺所用銅儀則其<lb type="/"/>法也立八尺圓體具天地之形以正黃道占察</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p2.s13.1" type="comm">
+                        <lb n="13" ed="KX"/>發歛以行日月以步五緯精微深妙百<lb type="/"/>代不易之道也官有其器而無本書</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p2.s13.2">蓋天</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p2.s13.3" type="comm">居<lb type="/"/>大</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p2.s14.1" type="comm">
+                        <lb n="14" ed="KX"/>切蓋天之說即周髀是也其言天似蓋笠地似<lb type="/"/>覆槃天地各中高外下比極之下為天地之中</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p2.s15.1" type="comm">
+                        <lb n="15" ed="KX"/>其地最高而滂沲四隤三光隱映以為畫夜天<lb type="/"/>中高猶於𢖍冬至日之所在六萬里北極下地</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p2.s16.1" type="comm">
+                        <lb n="16" ed="KX"/>高於外衡下地亦六萬里外𢖍高於北極下地<lb type="/"/>二萬里天地隆高相從日去地常八萬里日麗</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p2.s17.1" type="comm">
+                        <lb n="17" ed="KX"/>天而平轉分冬夏之間日前行道為七𢖍六間<lb type="/"/>每衡周徑里數各依筭術用句股重差推𠷳影</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p2.s18.1" type="comm">
+                        <lb n="18" ed="KX"/>極游以為遠近之數皆得於表股者也故曰周<lb type="/"/>髀又周髀家云天圓如張蓋地蓋如棊局天旁</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p2.s19.1" type="comm">
+                        <lb n="19" ed="KX"/>轉如推磨而左行日月右行隨天左轉故日月<lb type="/"/>實東行而天牽之以西沒譬之於蟻行磨石之</seg>
+                    <pb ed="KX" n="03-07-002.3" xml:id="KR3fa001_tls_3a"/>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s1.1" type="comm">
+                        <lb n="1" ed="KX"/>上磨左旋而蟻右去磨疾而蟻遲故不得不隨<lb type="/"/>磨以左廻焉天形南高而北下日出高故見日</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s2.1" type="comm">
+                        <lb n="2" ed="KX"/>入下故不見天之居如倚蓋故極在人北是其<lb type="/"/>證也極在天之中而今在人北所以知天之形</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s3.1" type="comm">
+                        <lb n="3" ed="KX"/>如倚<lb type="/"/>蓋也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s3.2">靈憲</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s3.3" type="comm">許建切靈憲張衡所<lb type="/"/>述其說主於渾天</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s3.4">重仭</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s3.5" type="comm">上直龍切<lb type="/"/>下音刄入</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s4.1" type="comm">
+                        <lb n="4" ed="KX"/>尺曰<lb type="/"/>刄</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s4.2">奧</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s4.3" type="comm">於到<lb type="/"/>切</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s4.4">逈</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s4.5" type="comm">戶頂切<lb type="/"/>遠也</seg>
+                    <seg xml:id="KR3fa001_tls_p3.s5" state="locked">
+                        <lb n="5" ed="KX"/>周髀卷上</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s6.1">
+                        <lb n="6" ed="KX"/>甄鸞</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s6.2" type="comm">上之人切下曆官切<lb type="/"/>甄鸞漢司隸校尉</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s6.3">重述</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s6.4" type="comm">上直龍切下時<lb type="/"/>律切趙𠁊旣加</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s7.1" type="comm">
+                        <lb n="7" ed="KX"/>注釋甄鸞又從而<lb type="/"/>發明故曰重述</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s7.2">善數</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s7.3" type="comm">色具切<lb type="/"/>數筭也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s7.4">包犧</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s7.5" type="comm">上蒲交切<lb type="/"/>下虛冝切</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s8.1">
+                        <lb n="8" ed="KX"/>曆度</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s8.2" type="comm">徒固<lb type="/"/>切</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s8.3">而度</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s8.4" type="comm">大各切<lb type="/"/>量也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s9.1">
+                        <lb n="9" ed="KX"/>句股圓方圖</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s9.2" type="comm">句古侯切股公土切圓徑一而周<lb type="/"/>三方徑一而匝四申圓之周而為</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s11.1" type="comm">
+                        <lb n="11" ed="KX"/>句展方之匝而為股共結一角而邪適五乃圓<lb type="/"/>方邪徑相通之率也句股圓方圖蓋以此設學</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s12.1" type="comm">
+                        <lb n="12" ed="KX"/>者觀之思<lb type="/"/>過半矣</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s12.2">弦</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s12.3" type="comm">胡田切共<lb type="/"/>結一角也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s12.4">率</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s12.5" type="comm">朔律切數相<lb type="/"/>與也又音律</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s12.6">竒耦</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s12.7" type="comm">上<lb type="/"/>居</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s13.1" type="comm">
+                        <lb n="13" ed="KX"/>冝切下<lb type="/"/>烏口切</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s13.2">矩</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s13.3" type="comm">倶兩<lb type="/"/>切</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s13.4">折</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s13.5" type="comm">之列<lb type="/"/>切</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s13.6">更相</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s13.7" type="comm">上古𢖍切<lb type="/"/>下息羊切</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s13.8">共盤</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s13.9" type="comm">上<lb type="/"/>渠</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s14.1" type="comm">
+                        <lb n="14" ed="KX"/>用切下<lb type="/"/>蒲官切</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s14.2">昏墊</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s14.3" type="comm">都念切下也書<lb type="/"/>曰下民昏墊</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s14.4">并</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s14.5" type="comm">𤰞政<lb type="/"/>切</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s14.6">句股之差</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s15.1" type="comm">
+                        <lb n="15" ed="KX"/>楚佳切不齊也句股之差<lb type="/"/>其數差一謂句三股四也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s15.2">量均</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s15.3" type="comm">力仗<lb type="/"/>切</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s15.4">為袤</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s15.5" type="comm">莫候<lb type="/"/>切長</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s16.1" type="comm">
+                        <lb n="16" ed="KX"/>也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s16.2">偃矩覆矩</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s16.3" type="comm">偃於憲切仰也覆敷目切俯也矩<lb type="/"/>表也仰表所以望高俯表所以測</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s17.1" type="comm">
+                        <lb n="17" ed="KX"/>深</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s17.2">方屬地</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s17.3" type="comm">殊玉切<lb type="/"/>下同</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s17.4">滂沲</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s17.5" type="comm">上普郎切<lb type="/"/>下唐何切</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s17.6">四隤</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s17.7" type="comm">徒回<lb type="/"/>切</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s17.8">列</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s18.1">
+                        <lb n="18" ed="KX"/>星之宿</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s18.2" type="comm">息救切二十八宿之度也<lb type="/"/>禮記月令宿離不忒是也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s18.3">不省</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s18.4" type="comm">息井切<lb type="/"/>省寤也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s19.1" type="comm">
+                        <lb n="19" ed="KX"/>不省言不寤也<lb type="/"/>猶言不敏也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s19.2">累思</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s19.3" type="comm">魯水<lb type="/"/>切</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s19.4">累重也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s19.5" type="comm">直龍<lb type="/"/>切</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s19.6">才單</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p3.s19.7" type="comm">德<lb type="/"/>寒</seg>
+                    <pb ed="KX" n="03-07-002.4" xml:id="KR3fa001_tls_4a"/>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s1.1" type="comm">
+                        <lb n="1" ed="KX"/>切單<lb type="/"/>盡也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s1.2">馳思</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s1.3" type="comm">相吏切<lb type="/"/>慮也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s1.4">捕影</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s1.5" type="comm">蒲故切<lb type="/"/>索也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s1.6">掩日</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s1.7" type="comm">衣檢切<lb type="/"/>覆也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s1.8">表</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s2.1">
+                        <lb n="2" ed="KX"/>間</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s2.2" type="comm">古閑<lb type="/"/>切</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s2.3">隆殺</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s2.4" type="comm">所介<lb type="/"/>切</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s2.5">薄地</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s2.6" type="comm">補谷切<lb type="/"/>迫也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s2.7">姜岌</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s2.8" type="comm">逆及切<lb type="/"/>晉人也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s2.9">交</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s3.1">
+                        <lb n="3" ed="KX"/>趾</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s3.2" type="comm">音止郡名也去洛<lb type="/"/>陽一萬一千里</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s3.3">路迂</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s3.4" type="comm">雲倶切<lb type="/"/>遠也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s3.5">潁川</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s3.6" type="comm">𢈔頃切<lb type="/"/>郡名</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s4.1">
+                        <lb n="4" ed="KX"/>祖冲之</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s4.2" type="comm">持中切冲之宋南徐州<lb type="/"/>從事史撰綴述五卷</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s4.3">秣陵</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s4.4" type="comm">音末<lb type="/"/>郡名</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s4.5">信都</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s5.1">
+                        <lb n="5" ed="KX"/>芳</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s5.2" type="comm">並如字善筭者<lb type="/"/>也撰器準三卷</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s5.3">虞𠠎</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s5.4" type="comm">𠰥郭切梁<lb type="/"/>太史令</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s6.1">
+                        <lb n="6" ed="KX"/>日高圖</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s6.2" type="comm">並如字日高圖者求日高之法也求日<lb type="/"/>高法先置表八尺為八萬里為袤以兩</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s7.1" type="comm">
+                        <lb n="7" ed="KX"/>表相去二千里為廣廣袤相乗得一億六千萬<lb type="/"/>里為黃甲之實以影差二寸為二千里為法除</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s8.1" type="comm">
+                        <lb n="8" ed="KX"/>之得黃乙之袤八萬里即<lb type="/"/>上與日齊此設圖之意也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s8.2">黃甲</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s8.3" type="comm">古狎切王城<lb type="/"/>去天名曰甲</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s8.4">黃</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s9.1">
+                        <lb n="9" ed="KX"/>乙</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s9.2" type="comm">億栗切日底地<lb type="/"/>上至日名乙</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s9.3">青丙</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s9.4" type="comm">補永切上<lb type="/"/>天名青丙</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s9.5">青戊</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s9.6" type="comm">莫侯切<lb type="/"/>下地名</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s11.1" type="comm">
+                        <lb n="11" ed="KX"/>青<lb type="/"/>戊</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s11.2">極者</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s11.3" type="comm">竭憶切諸言極者斥天之<lb type="/"/>中極去周十萬三千里</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s11.4">奄觀</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s11.5" type="comm">衣檢切<lb type="/"/>覆也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s12.1">
+                        <lb n="12" ed="KX"/>九隩</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s12.2" type="comm">於到切土<lb type="/"/>可居也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s12.3">靡地</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s12.4" type="comm">毋被切<lb type="/"/>無也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s12.5">斥</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s12.6" type="comm">昌石切<lb type="/"/>指也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s12.7">綠宿</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s12.8" type="comm">息<lb type="/"/>救</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s13.1" type="comm">
+                        <lb n="13" ed="KX"/>切二十<lb type="/"/>八宿也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s13.2">蝕</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s13.3" type="comm">乗力切日月虧曰蝕稍小<lb type="/"/>侵虧如蟲草木之葉也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s13.4">適至</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s13.5" type="comm">施直<lb type="/"/>切恰</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s14.1" type="comm">
+                        <lb n="14" ed="KX"/>也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s14.2">發斂</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s14.3" type="comm">力冉切發<lb type="/"/>斂還也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s14.4">璿璣</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s14.5" type="comm">上音旋<lb type="/"/>下音機</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s14.6">逮</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s14.7" type="comm">音逮<lb type="/"/>及也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s14.8">有竒</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s14.9" type="comm">居<lb type="/"/>冝</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s15.1" type="comm">
+                        <lb n="15" ed="KX"/>切數之餘也易<lb type="/"/>曰歸竒於㧅</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s15.2">冬至夏至觀律之數聽鐘之音</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s16.1" type="comm">
+                        <lb n="16" ed="KX"/>律呂戌切聽佗定切此謂冬夏二至合八能之<lb type="/"/>士以觀律之數而聽鐘音之清濁也晉律曆志</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s17.1" type="comm">
+                        <lb n="17" ed="KX"/>曰陰陽和則景至律氣應則灰除是故天子常<lb type="/"/>以冬夏至日御前殿合八能之士陳八音聽樂</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s18.1" type="comm">
+                        <lb n="18" ed="KX"/>均度𠷳影侯鐘律權土炭效陰陽冬至陽氣應<lb type="/"/>則灰除是故樂均清影長極黃鐘通土炭輕而</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p4.s19.1" type="comm">
+                        <lb n="19" ed="KX"/>𢖍仰夏至陰氣應則樂均濁景短極蕤實通土<lb type="/"/>炭重而𢖍低進退於先後五日之中八能各以</seg>
+                    <pb ed="KX" n="03-07-002.5" xml:id="KR3fa001_tls_5a"/>
+                    <seg state="locked" xml:id="KR3fa001_tls_p5.s1.1" type="comm">
+                        <lb n="1" ed="KX"/>候狀聞太史令封<lb type="/"/>上效則和否則占</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p5.s2.1">
+                        <lb n="2" ed="KX"/>七𢖍圖</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p5.s2.2" type="comm">何庚切七𢖍者七規也謂規為𢖍者取<lb type="/"/>其𢖍運則生規規者正圖之謂也內一</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p5.s3.1" type="comm">
+                        <lb n="3" ed="KX"/>𢖍徑二十三萬八千里次二𢖍徑二十七萬七<lb type="/"/>千六百六十六里二百步次三𢖍徑三十一萬</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p5.s4.1" type="comm">
+                        <lb n="4" ed="KX"/>七千三百三十三里一百步次四𢖍徑三十五<lb type="/"/>萬七千里次五𢖍徑三十九萬六千六百六十</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p5.s5.1" type="comm">
+                        <lb n="5" ed="KX"/>六里二百步次六𢖍徑四十三萬六千三百三<lb type="/"/>十三里一百步次七𢖍徑四十七萬六千里即</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p5.s6.1" type="comm">
+                        <lb n="6" ed="KX"/>其徑而三之則各得其周也凡日月運行之圖<lb type="/"/>周七𢖍周而六間一𢖍之間萬九千八百三十</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p5.s7.1" type="comm">
+                        <lb n="7" ed="KX"/>三里一百步以六𢖍乗之即夏<lb type="/"/>至冬至相去十一萬九千里也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p5.s7.2">青圖畫者</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p5.s7.3" type="comm">胡卦<lb type="/"/>切界</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p5.s8.1" type="comm">
+                        <lb n="8" ed="KX"/>也俗<lb type="/"/>作畫</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p5.s8.2">合際</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p5.s8.3" type="comm">上胡閣切<lb type="/"/>下子例切</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p5.s8.4">常處</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p5.s8.5" type="comm">昌劇切<lb type="/"/>所也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p5.s8.6">𨇠</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p5.s8.7" type="comm">呈延切<lb type="/"/>次也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p5.s8.8">卯</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p5.s9.1">
+                        <lb n="9" ed="KX"/>酉</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p5.s9.2" type="comm">上莫飽切下以乆切皆辰<lb type="/"/>名也卯正東也酉正西也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p5.s9.3">牽牛</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p5.s9.4" type="comm">上輕煙切下<lb type="/"/>如字牽牛北</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p5.s11.1" type="comm">
+                        <lb n="11" ed="KX"/>方宿也冬至<lb type="/"/>日在牽牛</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p5.s11.2">婁</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p5.s11.3" type="comm">盧候切婁西方宿<lb type="/"/>也春分日在婁</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p5.s11.4">東井</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p5.s11.5" type="comm">子郢切<lb type="/"/>南方宿</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p5.s12.1" type="comm">
+                        <lb n="12" ed="KX"/>也夏至日<lb type="/"/>在東井</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p5.s12.2">角</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p5.s12.3" type="comm">訖岳切東方宿<lb type="/"/>也秋分日在角</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p5.s12.4">用繒</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p5.s12.5" type="comm">慈陵切<lb type="/"/>帛也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p5.s12.6">呂氏</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p5.s13.1" type="comm">
+                        <lb n="13" ed="KX"/>兩舉切呂氏者呂氏春秋也呂不韋為秦相國<lb type="/"/>集當世儒士使著所聞為十二紀八覽六論合</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p5.s14.1" type="comm">
+                        <lb n="14" ed="KX"/>十餘萬言備古今之<lb type="/"/>事名為呂氏春秋</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p5.s14.2">四海</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p5.s14.3" type="comm">呼改切呂氏春秋曰<lb type="/"/>凡四海之內東西二</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p5.s15.1" type="comm">
+                        <lb n="15" ed="KX"/>萬八千里南北二萬六千里爾雅云九夷八狄<lb type="/"/>七戎六蠻謂之四海言東西南北之數者將明</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p5.s16.1" type="comm">
+                        <lb n="16" ed="KX"/>車轍馬跡之所至河圖括地象亦云里數而有<lb type="/"/>君長之州九阻中國之文德及而不治又云八</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p5.s17.1" type="comm">
+                        <lb n="17" ed="KX"/>極之廣東西二億二萬三千五百里南北二億<lb type="/"/>三萬三千五百里淮南子地形訓云禹使大章</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p5.s18.1" type="comm">
+                        <lb n="18" ed="KX"/>步自東極至于西極孺亥步<lb type="/"/>自北極至于南極而數皆然</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p5.s18.2">河圖括地象</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p5.s18.3" type="comm">括音<lb type="/"/>聒河</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p5.s19.1" type="comm">
+                        <lb n="19" ed="KX"/>圖括地象<lb type="/"/>緯書名也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p5.s19.2">淮南子</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p5.s19.3" type="comm">並如字漢淮南王<lb type="/"/>安所著之書也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p5.s19.4">大章</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p5.s19.5" type="comm">音泰<lb type="/"/>人名</seg>
+                    <pb ed="KX" n="03-07-002.6" xml:id="KR3fa001_tls_6a"/>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s1.1">
+                        <lb n="1" ed="KX"/>六間</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s1.2" type="comm">古閑切兩𢖍<lb type="/"/>相去之間也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s1.3">粗通</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s1.4" type="comm">徂五切<lb type="/"/>略也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s1.5">放此</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s1.6" type="comm">甫兩切效<lb type="/"/>也下同</seg>
+                    <seg xml:id="KR3fa001_tls_p6.s2" state="locked">
+                        <lb n="2" ed="KX"/>周髀卷下</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s3.1">
+                        <lb n="3" ed="KX"/>四和</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s3.2" type="comm">戶戈切調也四和者謂之極子午卯酉得<lb type="/"/>東西南北之中天地之所合四時之所交</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s4.1" type="comm">
+                        <lb n="4" ed="KX"/>風雨之所會陰陽之所和然則<lb type="/"/>百物阜安草木蕃庶故曰四和</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s4.2">阜安</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s4.3" type="comm">房𦈢切<lb type="/"/>盛也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s4.4">蕃</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s5.1">
+                        <lb n="5" ed="KX"/>庶</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s5.2" type="comm">符𡋡切<lb type="/"/>茂也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s5.3">易處</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s5.4" type="comm">夷益切<lb type="/"/>交也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s5.5">蓋笠</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s5.6" type="comm">上居大切<lb type="/"/>下音立</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s5.7">覆槃</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s5.8" type="comm">上<lb type="/"/>方</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s6.1" type="comm">
+                        <lb n="6" ed="KX"/>六切下<lb type="/"/>蒲官切</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s6.2">離地</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s6.3" type="comm">力智切<lb type="/"/>去也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s6.4">障蔽</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s6.5" type="comm">上之亮切隔也<lb type="/"/>下必袂切奄也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s6.6">日兆</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s7.1">
+                        <lb n="7" ed="KX"/>月</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s7.2" type="comm">直紹切日者陽之精譬猶火光月者陰之精<lb type="/"/>譬猶水光月含影故月光生於日之所照魄</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s8.1" type="comm">
+                        <lb n="8" ed="KX"/>生於日之所蔽當日則光盈就日則明<lb type="/"/>盡月稟日光而成形兆故云日兆月也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s8.2">魄</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s8.3" type="comm">匹陌<lb type="/"/>切月</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s9.1" type="comm">
+                        <lb n="9" ed="KX"/>之明消也康誥曰惟三月哉生魄孔安國曰三<lb type="/"/>月始生魄月十六日明消而魄生楊子曰既望</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s11.1" type="comm">
+                        <lb n="11" ed="KX"/>則終魄於東<lb type="/"/>亦此意也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s11.2">行列</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s11.3" type="comm">胡剛<lb type="/"/>切</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s11.4">極樞</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s11.5" type="comm">春朱切爾雅曰樞<lb type="/"/>謂之椳郭璞云門</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s12.1" type="comm">
+                        <lb n="12" ed="KX"/>戶扉樞也此言極樞者取<lb type="/"/>其居中而臨制四方也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s12.2">繩繫</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s12.3" type="comm">古詣切<lb type="/"/>結也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s12.4">表顛</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s12.5" type="comm">多<lb type="/"/>年</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s13.1" type="comm">
+                        <lb n="13" ed="KX"/>切頂<lb type="/"/>也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s13.2">中折</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s13.3" type="comm">之列切<lb type="/"/>屈也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s13.4">漏</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s13.5" type="comm">盧侯切漏以銅受水刻節<lb type="/"/>晝夜百刻𠷳漏中星略例</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s14.1" type="comm">
+                        <lb n="14" ed="KX"/>曰日行有南北𠷳漏有長短然二十四氣𠷳差<lb type="/"/>遲疾不同句股使然也直規中則差遲與句股</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s15.1" type="comm">
+                        <lb n="15" ed="KX"/>數齊則差急隨辰極高下所遇不同如黃道刻<lb type="/"/>漏此乃數之淺者近代且猶未曉今推黃道去</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s16.1" type="comm">
+                        <lb n="16" ed="KX"/>極與𠷳影漏刻昏距中星四術返覆相<lb type="/"/>求消息同率旋相為中以合九服之變</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s16.2">揆度</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s16.3" type="comm">上<lb type="/"/>巨</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s17.1" type="comm">
+                        <lb n="17" ed="KX"/>癸切下<lb type="/"/>大各切</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s17.2">釋</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s17.3" type="comm">施隻切<lb type="/"/>散也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s17.4">朝生</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s17.5" type="comm">陟遙切<lb type="/"/>旦也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s17.6">暮獲</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s17.7" type="comm">胡麥<lb type="/"/>切</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s17.8">穫</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s17.9" type="comm">胡<lb type="/"/>郭</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s18.1" type="comm">
+                        <lb n="18" ed="KX"/>切收<lb type="/"/>也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s18.2">葶藶</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s18.3" type="comm">上音亭<lb type="/"/>下音歷</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s18.4">薺麥</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s18.5" type="comm">在禮<lb type="/"/>切</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s18.6">正句</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s18.7" type="comm">上音政<lb type="/"/>下音鉤</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s18.8">無令</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s19.1" type="comm">
+                        <lb n="19" ed="KX"/>離呈切<lb type="/"/>使也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s19.2">織微</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s19.3" type="comm">思廉切<lb type="/"/>細也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s19.4">督</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s19.5" type="comm">音篤<lb type="/"/>察也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s19.6">分度</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s19.7" type="comm">徒固切<lb type="/"/>數也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p6.s19.8">經緯</seg>
+                    <pb ed="KX" n="03-07-002.7" xml:id="KR3fa001_tls_7a"/>
+                    <seg state="locked" xml:id="KR3fa001_tls_p7.s1.1" type="comm">
+                        <lb n="1" ed="KX"/>上堅丁切下于貴切<lb type="/"/>南北為經東西為緯</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p7.s1.2">圓定正</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p7.s1.3" type="comm">音<lb type="/"/>政</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p7.s1.4">則復</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p7.s1.5" type="comm">扶富切<lb type="/"/>又也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p7.s1.6">須</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p7.s2.1">
+                        <lb n="2" ed="KX"/>女</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p7.s2.2" type="comm">如字星<lb type="/"/>名也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p7.s2.3">游儀</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p7.s2.4" type="comm">如字游儀所以望星也正觀中<lb type="/"/>李淳風造四游儀元樞為軸以</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p7.s3.1" type="comm">
+                        <lb n="3" ed="KX"/>連結玉𢖍游筩而貫約規矩又元樞北立北辰<lb type="/"/>南距地軸旁轉於內玉𢖍在元樞之間而南北</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p7.s4.1" type="comm">
+                        <lb n="4" ed="KX"/>游仰以觀天之辰宿下以識器之𠷳度開元九<lb type="/"/>年率府兵曹參軍梁令瓉以木為游儀一行是</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p7.s5.1" type="comm">
+                        <lb n="5" ed="KX"/>之乃奏黃道游儀古有其術而無其器昔人潜<lb type="/"/>思未能得今令瓉所為日道月交皆自然契合</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p7.s6.1" type="comm">
+                        <lb n="6" ed="KX"/>於推步尤要請更<lb type="/"/>鑄以銅十年儀成</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p7.s6.2">車輻</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p7.s6.3" type="comm">方六切所以實輪而湊<lb type="/"/>轂者也以圓度為輻</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p7.s7.1">
+                        <lb n="7" ed="KX"/>為轂</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p7.s7.2" type="comm">古祿切所以受輻也<lb type="/"/>以經緯之交為轂</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p7.s7.3">二十八宿</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p7.s7.4" type="comm">息救<lb type="/"/>切</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p7.s7.5">副置</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p7.s8.1" type="comm">
+                        <lb n="8" ed="KX"/>敷救切別也別<lb type="/"/>置筭也下同</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p7.s8.2">地恊</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p7.s8.3" type="comm">檄頰切<lb type="/"/>合也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p7.s8.4">相應</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p7.s8.5" type="comm">於證<lb type="/"/>切</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p7.s8.6">參正</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p7.s8.7" type="comm">上<lb type="/"/>倉</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p7.s9.1" type="comm">
+                        <lb n="9" ed="KX"/>含切下<lb type="/"/>音改</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p7.s9.2">八節</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p7.s9.3" type="comm">並如字二至者寒暑之極二分者<lb type="/"/>陰陽之和四立者生長收藏之始</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p7.s11.1" type="comm">
+                        <lb n="11" ed="KX"/>是為<lb type="/"/>八節</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p7.s11.2">二十四氣</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p7.s11.3" type="comm">並如字一歲凡八節節三氣<lb type="/"/>三而八之故為二十四氣</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p7.s11.4">氣</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p7.s12.1">
+                        <lb n="12" ed="KX"/>損益九寸九分六分分之一</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p7.s12.2" type="comm">並如字損者減也<lb type="/"/>破一分為六分然</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p7.s13.1" type="comm">
+                        <lb n="13" ed="KX"/>後減之益者加也加以<lb type="/"/>小分滿六分得一從分</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p7.s13.2">冬至</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p7.s13.3" type="comm">並如字至極也冬<lb type="/"/>至夏至寒暑之極</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p7.s14.1">
+                        <lb n="14" ed="KX"/>啓蟄</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p7.s14.2" type="comm">直立切藏也易曰龍虵之蟄以<lb type="/"/>存身也左氏傳曰啓蟄而郊</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p7.s14.3">春分</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p7.s14.4" type="comm">府文<lb type="/"/>切分</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p7.s15.1" type="comm">
+                        <lb n="15" ed="KX"/>之言中也春分為陽<lb type="/"/>之中秋分為陰之中</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p7.s15.2">芒種</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p7.s15.3" type="comm">上莫郎切<lb type="/"/>下只用切</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p7.s15.4">處暑</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p7.s15.5" type="comm">昌據<lb type="/"/>切所</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p7.s16.1" type="comm">
+                        <lb n="16" ed="KX"/>也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p7.s16.2">時舎</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p7.s16.3" type="comm">音捨不<lb type="/"/>用也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p7.s16.4">虛誕</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p7.s16.5" type="comm">音但<lb type="/"/>謾也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p7.s16.6">一概</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p7.s16.7" type="comm">古代<lb type="/"/>切</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p7.s16.8">矛楯</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p7.s16.9" type="comm">上莫<lb type="/"/>浮切</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p7.s17.1" type="comm">
+                        <lb n="17" ed="KX"/>下食閏切矛所以句楯所以蔽器不同<lb type="/"/>不相為用凡言矛楯折況其所趣異也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p7.s17.2">後天</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p7.s17.3" type="comm">並<lb type="/"/>如</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p7.s18.1" type="comm">
+                        <lb n="18" ed="KX"/>字月後天者月東行者也此見日月與天倶西<lb type="/"/>南游一日一夜天一周而月在昨夜之東故曰</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p7.s19.1" type="comm">
+                        <lb n="19" ed="KX"/>月後<lb type="/"/>天</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p7.s19.2">小歲</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p7.s19.3" type="comm">並如字小歲者<lb type="/"/>十二月為一歲</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p7.s19.4">故舎</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p7.s19.5" type="comm">式夜切舎謂二<lb type="/"/>十八宿之舎也</seg>
+                    <pb ed="KX" n="03-07-002.8" xml:id="KR3fa001_tls_8a"/>
+                    <seg state="locked" xml:id="KR3fa001_tls_p8.s1.1">
+                        <lb n="1" ed="KX"/>積後天</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p8.s1.2" type="comm">資昔切以月後天分看小<lb type="/"/>歲積分則積後天分也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p8.s1.3">大歲</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p8.s1.4" type="comm">徒蓋切<lb type="/"/>大歲者</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p8.s2.1" type="comm">
+                        <lb n="2" ed="KX"/>十三月<lb type="/"/>為一歲</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p8.s2.2">經嵗</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p8.s2.3" type="comm">堅丁切經常也經嵗者<lb type="/"/>通十二月十九分之七</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p8.s2.4">小月</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p8.s2.5" type="comm">並如<lb type="/"/>字小</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p8.s3.1" type="comm">
+                        <lb n="3" ed="KX"/>月者二十九<lb type="/"/>日為一月</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p8.s3.2">大月</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p8.s3.3" type="comm">徒蓋切大月者<lb type="/"/>三十日為一月</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p8.s3.4">經月</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p8.s3.5" type="comm">堅丁切<lb type="/"/>經月者</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p8.s4.1" type="comm">
+                        <lb n="4" ed="KX"/>以十九乗周天<lb type="/"/>分則經月之積</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p8.s4.2">合朔</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p8.s4.3" type="comm">上曷閤切<lb type="/"/>下色角切</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p8.s4.4">覆九</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p8.s4.5" type="comm">敷救切蓋<lb type="/"/>也下同</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p8.s5.1">
+                        <lb n="5" ed="KX"/>當</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p8.s5.2" type="comm">音<lb type="/"/>璫</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p8.s5.3">正南方</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p8.s5.4" type="comm">音<lb type="/"/>政</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p8.s5.5">三十六頭</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p8.s5.6" type="comm">並如字考靈曜曰分<lb type="/"/>周天為三十六頭頭</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p8.s6.1" type="comm">
+                        <lb n="6" ed="KX"/>有十度九十六分之十四長日分於寅行二十<lb type="/"/>四頭入於戍行十二頭短日分於辰行十二頭</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p8.s7.1" type="comm">
+                        <lb n="7" ed="KX"/>入於申行二十<lb type="/"/>四頭此之謂也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p8.s7.2">坎</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p8.s7.3" type="comm">苦感切正北<lb type="/"/>方之卦也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p8.s7.4">巽</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p8.s7.5" type="comm">蘇困切東南<lb type="/"/>隅之卦也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p8.s8.1">
+                        <lb n="8" ed="KX"/>坤</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p8.s8.2" type="comm">苦昆切西南<lb type="/"/>隅之卦也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p8.s8.3">離</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p8.s8.4" type="comm">呂支切正南<lb type="/"/>方之卦也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p8.s8.5">艮</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p8.s8.6" type="comm">古恨切東北<lb type="/"/>隅之卦也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p8.s9.1">
+                        <lb n="9" ed="KX"/>乾</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p8.s9.2" type="comm">渠焉切西北<lb type="/"/>隅之卦也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p8.s9.3">章</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p8.s9.4" type="comm">止良切章條也十九歲為一<lb type="/"/>章言餘閏盡為曆法章條也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p8.s11.1">
+                        <lb n="11" ed="KX"/>蔀</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p8.s11.2" type="comm">薄口切蔀之言齊同日月之分也而又衆殘<lb type="/"/>齊合羣數異蒲故謂之蔀四章為一蔀凡七</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p8.s12.1" type="comm">
+                        <lb n="12" ed="KX"/>十六<lb type="/"/>歲也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p8.s12.2">遂</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p8.s12.3" type="comm">徐醉切遂者終也言五行之德一終盡<lb type="/"/>極日月辰終也二十蔀為一遂凡千五</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p8.s13.1" type="comm">
+                        <lb n="13" ed="KX"/>百二<lb type="/"/>十歲</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p8.s13.2">首</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p8.s13.3" type="comm">始九切首始也言日月五星終而復始<lb type="/"/>也三遂為一首凡四千五百六十歲也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p8.s14.1">
+                        <lb n="14" ed="KX"/>極</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p8.s14.2" type="comm">如字極終也言日月星辰弦望晦朔寒暑推<lb type="/"/>移萬物生育終而復始故謂之極七首為一</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p8.s15.1" type="comm">
+                        <lb n="15" ed="KX"/>極凡三萬一千<lb type="/"/>九百二十歲也</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p8.s15.2">乾𨯳度</seg>
+                    <seg state="locked" xml:id="KR3fa001_tls_p8.s15.3" type="comm">徒固切乾𨯳<lb type="/"/>度易緯書也</seg>
+                    <seg xml:id="KR3fa001_tls_p8.s17" state="locked">
+                        <lb n="17" ed="KX"/>周髀筭經音義</seg>
+                    <pb ed="KX" n="03-07-002.9" xml:id="KR3fa001_tls_9a"/>
+                    <seg xml:id="KR3fa001_tls_p9.s2" state="locked">
+                        <lb n="2" ed="KX"/>周髀筭經二卷古蓋天之學也以句股之法度</seg>
+                    <seg xml:id="KR3fa001_tls_p9.s3" state="locked">
+                        <lb n="3" ed="KX"/>天地之高厚推日月之運行而得其度數其書</seg>
+                    <seg xml:id="KR3fa001_tls_p9.s4" state="locked">
+                        <lb n="4" ed="KX"/>出於商周之間自周公受之於商高周人志之</seg>
+                    <seg xml:id="KR3fa001_tls_p9.s5" state="locked">
+                        <lb n="5" ed="KX"/>謂之周髀其所從來遠矣隋書經籍志有周髀</seg>
+                    <seg xml:id="KR3fa001_tls_p9.s6" state="locked">
+                        <lb n="6" ed="KX"/>一卷趙嬰注周髀一卷甄鸞重述而唐之藝文</seg>
+                    <seg xml:id="KR3fa001_tls_p9.s7" state="locked">
+                        <lb n="7" ed="KX"/>志天文類有趙嬰注周髀一卷甄鸞注周髀一</seg>
+                    <seg xml:id="KR3fa001_tls_p9.s8" state="locked">
+                        <lb n="8" ed="KX"/>卷其曆筭類仍有李淳風注周髀筭經二卷本</seg>
+                    <seg xml:id="KR3fa001_tls_p9.s9" state="locked">
+                        <lb n="9" ed="KX"/>此一書耳至於<space n="䶻" quantity="1"/>本朝崇文緫目與夫中興館</seg>
+                    <seg xml:id="KR3fa001_tls_p9.s11" state="locked">
+                        <lb n="11" ed="KX"/>閣書目皆有周髀筭經二卷云趙君卿注甄鸞</seg>
+                    <seg xml:id="KR3fa001_tls_p9.s12" state="locked">
+                        <lb n="12" ed="KX"/>重述李淳風等注釋趙君卿名𠁊君卿其字也</seg>
+                    <seg xml:id="KR3fa001_tls_p9.s13" state="locked">
+                        <lb n="13" ed="KX"/>如是則在唐以前則有趙嬰之注而<space n="䶻" quantity="1"/>本朝以</seg>
+                    <seg xml:id="KR3fa001_tls_p9.s14" state="locked">
+                        <lb n="14" ed="KX"/>來則是趙𠁊之本所記不同意者趙嬰趙𠁊止</seg>
+                    <seg xml:id="KR3fa001_tls_p9.s15" state="locked">
+                        <lb n="15" ed="KX"/>是一人豈其字文相類轉寫之誤耶然亦當以</seg>
+                    <seg xml:id="KR3fa001_tls_p9.s16" state="locked">
+                        <lb n="16" ed="KX"/>隋唐之書為正可也文崇文緫目及李籍周髀</seg>
+                    <seg xml:id="KR3fa001_tls_p9.s17" state="locked">
+                        <lb n="17" ed="KX"/>音義皆云趙君卿不詳何代人今以序文考之</seg>
+                    <seg xml:id="KR3fa001_tls_p9.s18" state="locked">
+                        <lb n="18" ed="KX"/>有曰渾天有靈憲之文蓋天有周髀之法靈憲</seg>
+                    <seg xml:id="KR3fa001_tls_p9.s19" state="locked">
+                        <lb n="19" ed="KX"/>乃張𢖍之所作實後漢安順之丗而甄鸞之重</seg>
+                    <pb ed="KX" n="03-07-002.10" xml:id="KR3fa001_tls_10a"/>
+                    <seg xml:id="KR3fa001_tls_p10.s1" state="locked">
+                        <lb n="1" ed="KX"/>述者乃是解釋君卿之所注出於宇文周之時</seg>
+                    <seg xml:id="KR3fa001_tls_p10.s2" state="locked">
+                        <lb n="2" ed="KX"/>以此推之則君卿者其亦魏晉之間人乎若夫</seg>
+                    <seg xml:id="KR3fa001_tls_p10.s3" state="locked">
+                        <lb n="3" ed="KX"/>乗句股朱黃之實立倍差減并之術以盡開方</seg>
+                    <seg xml:id="KR3fa001_tls_p10.s4" state="locked">
+                        <lb n="4" ed="KX"/>之妙百丗之下莫之可易則君卿者誡筭學之</seg>
+                    <seg xml:id="KR3fa001_tls_p10.s5" state="locked">
+                        <lb n="5" ed="KX"/>宗師也嘉定六年癸酉十一月一日丁卯冬至</seg>
+                    <seg xml:id="KR3fa001_tls_p10.s6" state="locked">
+                        <lb n="6" ed="KX"/>承議郎權知汀州軍州兼管內權農事主管坑</seg>
+                    <seg xml:id="KR3fa001_tls_p10.s7" state="locked">
+                        <lb n="7" ed="KX"/>冶括蒼鮑澣之仲祺謹書</seg>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KR3fb016">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>交食曆書</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <idno type="kanripo">KR3fb016</idno>
+                </edition>
+            </editionStmt>
+            <extent>
+                <measure unit="char" quantity="619"/>
+                <date when-iso="2023-06-03T16:09:52.071+09:00"/>
+            </extent>
+            <publicationStmt>
+                <p>Published electronically</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>[清]南懷仁　版本信息[清康熙刻本]</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <catRef scheme="#kr-categories" target="#KR3fb"/>
+            </textClass>
+            <creation/>
+        </profileDesc>
+        <encodingDesc>
+            <variantEncoding location="external" method="double-end-point"/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <p>
+                    <pb ed="KX" n="03-07-048.1" xml:id="KR3fb016_tls_1a"/>
+                    <figure>
+                        <graphic facs="KR3fb016/8E39D23B_3607_4E08_9156_2F7C1F1DBE53.png" type="inline"/>
+                    </figure>
+                    <pb ed="KX" n="03-07-048.1" xml:id="KR3fb016_tls_1b"/>
+                    <seg xml:id="KR3fb016_tls_p1.s11" state="locked">
+                        <lb n="11" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>黃道九十度表</seg>
+                    <seg xml:id="KR3fb016_tls_p1.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻" quantity="1"/>康熙二十二年癸亥孟春依</seg>
+                    <seg xml:id="KR3fb016_tls_p1.s13" state="locked">
+                        <lb n="13" ed="KX"/>盛京北極高四十二度推</seg>
+                    <seg xml:id="KR3fb016_tls_p1.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>治理曆法加工部右侍郎又加二級南懷仁立法<space n="䶻" quantity="1"/>
+                    </seg>
+                    <pb ed="KX" n="03-07-048.2" xml:id="KR3fb016_tls_2a"/>
+                    <seg xml:id="KR3fb016_tls_p2.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>黃道九十度表圖説</seg>
+                    <seg xml:id="KR3fb016_tls_p2.s2" state="locked">
+                        <lb n="2" ed="KX"/>黃道九十度限者卽黃道出地平東西各九十度之中限</seg>
+                    <seg xml:id="KR3fb016_tls_p2.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻" quantity="1"/>也凡推日食以此爲最要其理論詳在交食曆指等書</seg>
+                    <seg xml:id="KR3fb016_tls_p2.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻" quantity="1"/>然多理之論亦或可簡略干目前一面之圖如所見渾</seg>
+                    <seg xml:id="KR3fb016_tls_p2.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻" quantity="1"/>天之廣大簡略于一目之小然庶可因圖而推立法之</seg>
+                    <seg xml:id="KR3fb016_tls_p2.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻" quantity="1"/>原由矣故照<space n="䶻" quantity="1"/>盛京北極出地約四十二度之高並依</seg>
+                    <seg state="locked" xml:id="KR3fb016_tls_p2.s7.1">
+                        <lb n="7" ed="KX"/>其地脉正南向</seg>
+                    <seg state="locked" xml:id="KR3fb016_tls_p2.s7.2" type="comm">指南針天下萬國多有偏向或車<lb type="/"/>或西惟盛京正指南向而不偏</seg>
+                    <seg state="locked" xml:id="KR3fb016_tls_p2.s7.3">繪渾</seg>
+                    <seg xml:id="KR3fb016_tls_p2.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻" quantity="1"/>天儀象如左</seg>
+                    <pb ed="KX" n="03-07-048.3" xml:id="KR3fb016_tls_3a"/>
+                    <seg xml:id="KR3fb016_tls_p3.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻" quantity="1"/>庚子午爲子午圈庚午爲地平乙巳爲黃道甲卯爲赤</seg>
+                    <seg xml:id="KR3fb016_tls_p3.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻" quantity="1"/>道庚子爲北極出地平四十二度高戊爲天頂丙爲黃</seg>
+                    <seg xml:id="KR3fb016_tls_p3.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻" quantity="1"/>道九十度限丙戊爲本限距天頂弧丙丁爲限出地平</seg>
+                    <seg xml:id="KR3fb016_tls_p3.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻" quantity="1"/>高弧乙丙爲限距正午弧戊乙丙角爲黃道與子午圈</seg>
+                    <seg xml:id="KR3fb016_tls_p3.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻" quantity="1"/>相交角乙爲黃道在天中度甲乙弧爲中度赤道南之</seg>
+                    <seg xml:id="KR3fb016_tls_p3.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻" quantity="1"/>緯弧戊乙爲中度距天頂弧諸弧彼此相交則成曲線</seg>
+                    <seg xml:id="KR3fb016_tls_p3.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻" quantity="1"/>三角形爲戊乙丙者因三角形之理而立九十度表法</seg>
+                    <seg xml:id="KR3fb016_tls_p3.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻" quantity="1"/>其三角形內全備者有三其一中度距天頂乙戊弧其</seg>
+                    <seg xml:id="KR3fb016_tls_p3.s9" state="locked">
+                        <lb n="9" ed="KX"/>
+                        <space n="䶻" quantity="1"/>二戊乙丙角其三戊丙乙角恒爲直角者立表法之要</seg>
+                    <seg xml:id="KR3fb016_tls_p3.s11" state="locked">
+                        <lb n="11" ed="KX"/>
+                        <space n="䶻" quantity="1"/>亦有三</seg>
+                    <seg xml:id="KR3fb016_tls_p3.s12" state="locked">
+                        <lb n="12" ed="KX"/>其一求戊丙弧卽九十度限距天頂若干度分法曰戊乙</seg>
+                    <seg xml:id="KR3fb016_tls_p3.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻" quantity="1"/>弦之正弦數與戊乙丙角之正弦數相乘其總數以戊</seg>
+                    <seg xml:id="KR3fb016_tls_p3.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻" quantity="1"/>丙乙直角之正弦數除之所得之數卽戊丙弧正弧之</seg>
+                    <seg xml:id="KR3fb016_tls_p3.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻" quantity="1"/>數也</seg>
+                    <seg xml:id="KR3fb016_tls_p3.s16" state="locked">
+                        <lb n="16" ed="KX"/>其二求乙丙弧卽九十度限距正午若干度分法曰戊乙</seg>
+                    <seg xml:id="KR3fb016_tls_p3.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻" quantity="1"/>丙角之餘弦數與戊乙弧之切弦數相乘其總數以戊</seg>
+                    <seg xml:id="KR3fb016_tls_p3.s18" state="locked">
+                        <lb n="18" ed="KX"/>
+                        <space n="䶻" quantity="1"/>丙乙直角之正弦數除之所得之數卽乙丙弧之正切</seg>
+                    <seg xml:id="KR3fb016_tls_p3.s19" state="locked">
+                        <lb n="19" ed="KX"/>
+                        <space n="䶻" quantity="1"/>弦數以各弦之數查八線表卽得其相應之度分也</seg>
+                    <pb ed="KX" n="03-07-048.4" xml:id="KR3fb016_tls_4a"/>
+                    <seg xml:id="KR3fb016_tls_p4.s1" state="locked">
+                        <lb n="1" ed="KX"/>其三求九十度限在黃道何宫度分法曰若九十度限在</seg>
+                    <seg xml:id="KR3fb016_tls_p4.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻" quantity="1"/>天中度之東則乙丙弧之度分加于中度若九十度限</seg>
+                    <seg xml:id="KR3fb016_tls_p4.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻" quantity="1"/>在天中度之西則乙丙弧之度分減于中度加減所得</seg>
+                    <seg xml:id="KR3fb016_tls_p4.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻" quantity="1"/>之度分者卽黃道之宫度分也其餘仿此</seg>
+                    <pb ed="KX" n="03-07-048.5" xml:id="KR3fb016_tls_5a"/>
+                    <figure>
+                        <graphic facs="KR3fb016/974DFA68_9F41_4D3A_8D46_AA9FA62A8F4F.png" type="inline"/>
+                    </figure>
+                    <pb ed="KX" n="03-07-048.6" xml:id="KR3fb016_tls_6a"/>
+                    <figure>
+                        <graphic facs="KR3fb016/70312E86_8476_451B_9DF7_DE3C318812F8.png" type="inline"/>
+                    </figure>
+                    <pb ed="KX" n="03-07-048.7" xml:id="KR3fb016_tls_7a"/>
+                    <figure>
+                        <graphic facs="KR3fb016/30FF8D91_D411_44FD_B34C_488931A8F2F3.png" type="inline"/>
+                    </figure>
+                    <pb ed="KX" n="03-07-048.8" xml:id="KR3fb016_tls_8a"/>
+                    <figure>
+                        <graphic facs="KR3fb016/7434BE90_A5C7_42DA_80FD_AE19E3564154.png" type="inline"/>
+                    </figure>
+                    <pb ed="KX" n="03-07-048.9" xml:id="KR3fb016_tls_9a"/>
+                    <figure>
+                        <graphic facs="KR3fb016/FC9C67E2_4E20_451A_9175_5F3447E743E5.png" type="inline"/>
+                    </figure>
+                    <pb ed="KX" n="03-07-048.10" xml:id="KR3fb016_tls_10a"/>
+                    <figure>
+                        <graphic facs="KR3fb016/DACD6186_B816_4B8F_AABE_F17A1944CB24.png" type="inline"/>
+                    </figure>
+                    <pb ed="KX" n="03-07-048.11" xml:id="KR3fb016_tls_11a"/>
+                    <figure>
+                        <graphic facs="KR3fb016/D4A13A4C_77F4_4524_A4B7_043E22F4D56D.png" type="inline"/>
+                    </figure>
+                    <pb ed="KX" n="03-07-048.12" xml:id="KR3fb016_tls_12a"/>
+                    <figure>
+                        <graphic facs="KR3fb016/753AA4F1_0530_4E80_AF8F_C4958AA317F1.png" type="inline"/>
+                    </figure>
+                    <pb ed="KX" n="03-07-048.13" xml:id="KR3fb016_tls_13a"/>
+                    <figure>
+                        <graphic facs="KR3fb016/97B3FF29_74D3_434B_BEE2_8C6881F3B78D.png" type="inline"/>
+                    </figure>
+                    <pb ed="KX" n="03-07-048.14" xml:id="KR3fb016_tls_14a"/>
+                    <figure>
+                        <graphic facs="KR3fb016/72E8BBE9_215A_4E35_98B2_47070A2874FB.png" type="inline"/>
+                    </figure>
+                    <pb ed="KX" n="03-07-048.15" xml:id="KR3fb016_tls_15a"/>
+                    <figure>
+                        <graphic facs="KR3fb016/33763E21_9F70_4513_B4DD_399FBF1B323D.png" type="inline"/>
+                    </figure>
+                    <pb ed="KX" n="03-07-048.16" xml:id="KR3fb016_tls_16a"/>
+                    <figure>
+                        <graphic facs="KR3fb016/89E9F842_8C82_4231_ABCA_783530B05A78.png" type="inline"/>
+                    </figure>
+                    <pb ed="KX" n="03-07-048.17" xml:id="KR3fb016_tls_17a"/>
+                    <figure>
+                        <graphic facs="KR3fb016/82135EF4_2F3A_4A46_884B_BF52E348A282.png" type="inline"/>
+                    </figure>
+                    <pb ed="KX" n="03-07-048.18" xml:id="KR3fb016_tls_18a"/>
+                    <figure>
+                        <graphic facs="KR3fb016/068A841B_FFCB_42A1_9362_30ED11C8DBF8.png" type="inline"/>
+                    </figure>
+                    <pb ed="KX" n="03-07-048.19" xml:id="KR3fb016_tls_19a"/>
+                    <figure>
+                        <graphic facs="KR3fb016/8D62E168_208B_472B_B068_37434236A53C.png" type="inline"/>
+                    </figure>
+                    <pb ed="KX" n="03-07-048.20" xml:id="KR3fb016_tls_20a"/>
+                    <figure>
+                        <graphic facs="KR3fb016/D84D6AB9_26A3_4B16_935B_E9430CA201A6.png" type="inline"/>
+                    </figure>
+                    <pb ed="KX" n="03-07-048.21" xml:id="KR3fb016_tls_21a"/>
+                    <figure>
+                        <graphic facs="KR3fb016/E888710B_C6FE_4A47_BBEF_D1F19BB462B6.png" type="inline"/>
+                    </figure>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

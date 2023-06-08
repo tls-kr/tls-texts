@@ -1,0 +1,1391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KR3fa010">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>天文略</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <idno type="kanripo">KR3fa010</idno>
+                </edition>
+            </editionStmt>
+            <extent>
+                <measure unit="char" quantity="6346"/>
+                <date when-iso="2023-06-03T16:15:51.59+09:00"/>
+            </extent>
+            <publicationStmt>
+                <p>Published electronically</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>[明]蔡汝楠撰　 版本信息[明嘉靖白石精舍刻本]</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <catRef scheme="#kr-categories" target="#KR3fa"/>
+            </textClass>
+            <creation/>
+        </profileDesc>
+        <encodingDesc>
+            <variantEncoding location="external" method="double-end-point"/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <p>
+                    <pb ed="KX" n="03-07-008.1" xml:id="KR3fa010_tls_1a"/>
+                    <head xml:id="KR3fa010_tls_p1.s1-h">
+                        <seg xml:id="KR3fa010_tls_p1.s1" state="locked">
+                            <lb n="1" ed="KX"/>天文與地畧</seg>
+                    </head>
+                    <seg xml:id="KR3fa010_tls_p1.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻" quantity="1"/>天文畧一卷</seg>
+                    <seg xml:id="KR3fa010_tls_p1.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>天文有圖及論述徥來巳久獨因世語天文者</seg>
+                    <seg xml:id="KR3fa010_tls_p1.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>雜述禨祥不明本體究心荒物何益於學故祗</seg>
+                    <seg xml:id="KR3fa010_tls_p1.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>敘天文之體諸家附會之論削而不録</seg>
+                    <seg xml:id="KR3fa010_tls_p1.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻" quantity="1"/>與地畧一卷</seg>
+                    <seg xml:id="KR3fa010_tls_p1.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>右故大學士桂見山所考余因論與地者率纂</seg>
+                    <seg xml:id="KR3fa010_tls_p1.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>記事實罔禪時用故此卷詳其要害欲陳治安</seg>
+                    <seg xml:id="KR3fa010_tls_p1.s9" state="locked">
+                        <lb n="9" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>之策者因之乃究與地之用其他見一統志者</seg>
+                    <seg xml:id="KR3fa010_tls_p1.s10" state="locked">
+                        <lb n="10" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>令自考焉</seg>
+                    <pb ed="KX" n="03-07-008.2" xml:id="KR3fa010_tls_2a"/>
+                    <seg xml:id="KR3fa010_tls_p2.s1" state="locked">
+                        <lb n="1" ed="KX"/>天文畧</seg>
+                    <seg xml:id="KR3fa010_tls_p2.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>一</seg>
+                    <seg xml:id="KR3fa010_tls_p2.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻䶻䶻" quantity="3"/>總圖</seg>
+                    <seg xml:id="KR3fa010_tls_p2.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>二</seg>
+                    <seg xml:id="KR3fa010_tls_p2.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻䶻䶻" quantity="3"/>紫微垣</seg>
+                    <seg xml:id="KR3fa010_tls_p2.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>三</seg>
+                    <seg xml:id="KR3fa010_tls_p2.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻䶻䶻" quantity="3"/>太微垣</seg>
+                    <seg xml:id="KR3fa010_tls_p2.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>四</seg>
+                    <seg xml:id="KR3fa010_tls_p2.s9" state="locked">
+                        <lb n="9" ed="KX"/>
+                        <space n="䶻䶻䶻" quantity="3"/>天市垣</seg>
+                    <seg xml:id="KR3fa010_tls_p2.s10" state="locked">
+                        <lb n="10" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>五</seg>
+                    <seg xml:id="KR3fa010_tls_p2.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻䶻䶻" quantity="3"/>東方七宿</seg>
+                    <seg xml:id="KR3fa010_tls_p2.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻䶻䶻䶻" quantity="4"/>角亢氏房心尾箕</seg>
+                    <seg xml:id="KR3fa010_tls_p2.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>六</seg>
+                    <seg xml:id="KR3fa010_tls_p2.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻䶻䶻" quantity="3"/>北方七宿</seg>
+                    <seg xml:id="KR3fa010_tls_p2.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻䶻䶻䶻" quantity="4"/>斗牛女虛危室壁</seg>
+                    <seg xml:id="KR3fa010_tls_p2.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>七</seg>
+                    <seg xml:id="KR3fa010_tls_p2.s18" state="locked">
+                        <lb n="18" ed="KX"/>
+                        <space n="䶻䶻䶻" quantity="3"/>西方七宿</seg>
+                    <seg xml:id="KR3fa010_tls_p2.s19" state="locked">
+                        <lb n="19" ed="KX"/>
+                        <space n="䶻䶻䶻䶻" quantity="4"/>奎婁胃昂畢觜參<space n="䶻䶻䶻䶻䶻䶻" quantity="6"/>
+                    </seg>
+                    <seg xml:id="KR3fa010_tls_p2.s20" state="locked">
+                        <lb n="20" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>八</seg>
+                    <seg xml:id="KR3fa010_tls_p2.s21" state="locked">
+                        <lb n="21" ed="KX"/>
+                        <space n="䶻䶻䶻" quantity="3"/>南方七宿</seg>
+                    <pb ed="KX" n="03-07-008.3" xml:id="KR3fa010_tls_3a"/>
+                    <seg xml:id="KR3fa010_tls_p3.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻䶻䶻" quantity="3"/>井鬼柳星張翼軫<space n="䶻䶻䶻䶻䶻䶻" quantity="6"/>
+                    </seg>
+                    <pb ed="KX" n="03-07-008.4" xml:id="KR3fa010_tls_4a"/>
+                    <seg xml:id="KR3fa010_tls_p4.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻䶻䶻" quantity="3"/>右天文総圖</seg>
+                    <seg xml:id="KR3fa010_tls_p4.s2" state="locked">
+                        <lb n="2" ed="KX"/>天文三垣二十八宿并附近星官總計二百八十三</seg>
+                    <seg state="locked" xml:id="KR3fa010_tls_p4.s3.1">
+                        <lb n="3" ed="KX"/>座一千四百六十四星</seg>
+                    <seg state="locked" xml:id="KR3fa010_tls_p4.s3.2" type="comm"> 微星萬一千<lb type="/"/> 五百二十</seg>
+                    <seg state="locked" xml:id="KR3fa010_tls_p4.s3.3"> </seg>
+                    <seg xml:id="KR3fa010_tls_p4.s4" state="locked">
+                        <lb n="4" ed="KX"/>几星居之曰次曰舍曰雷同舍曰合變爲妖星曰散</seg>
+                    <seg xml:id="KR3fa010_tls_p4.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻" quantity="1"/>經之曰歷相擊曰闘早出曰嬴晚出曰縮又失次</seg>
+                    <seg xml:id="KR3fa010_tls_p4.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻" quantity="1"/>上二三宿曰嬴失次下二三宿曰縮在下</seg>
+                    <seg xml:id="KR3fa010_tls_p4.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻" quantity="1"/>陵在上而下月乘周匝曰繞東西曰鈎南北</seg>
+                    <seg xml:id="KR3fa010_tls_p4.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻" quantity="1"/>星月相陵曰食七寸以內光芒相及曰</seg>
+                    <seg state="locked" xml:id="KR3fa010_tls_p4.s9.1">
+                        <lb n="9" ed="KX"/>曰守守之而久曰復曰還</seg>
+                    <seg state="locked" xml:id="KR3fa010_tls_p4.s9.2" type="comm"> 星宿<lb type="/"/> 行例</seg>
+                    <seg state="locked" xml:id="KR3fa010_tls_p4.s9.3"> </seg>
+                    <seg xml:id="KR3fa010_tls_p4.s10" state="locked">
+                        <lb n="10" ed="KX"/>行兩角間行亢外三尺行氏外四尺行房中間行心</seg>
+                    <seg xml:id="KR3fa010_tls_p4.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻" quantity="1"/>內二尺行尾內十二尺行箕內六尺行斗柄一尺</seg>
+                    <seg xml:id="KR3fa010_tls_p4.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻" quantity="1"/>行牛上間行女外四入行虛外六尺行危外七尺</seg>
+                    <seg xml:id="KR3fa010_tls_p4.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻" quantity="1"/>行室外十三尺行壁外十四尺行奎外十三尺行</seg>
+                    <seg xml:id="KR3fa010_tls_p4.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻" quantity="1"/>婁外九尺行胃外九尺行昂外十五尺外畢左角</seg>
+                    <seg xml:id="KR3fa010_tls_p4.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻" quantity="1"/>行觜內八尺行參內十三尺行井中行鬼外四尺</seg>
+                    <seg xml:id="KR3fa010_tls_p4.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻" quantity="1"/>行星內十五尺行張內十八尺行翼內六尺行軫</seg>
+                    <seg state="locked" xml:id="KR3fa010_tls_p4.s18.1">
+                        <lb n="18" ed="KX"/>內三</seg>
+                    <seg state="locked" xml:id="KR3fa010_tls_p4.s18.2" type="comm"> 日月五星<lb type="/"/> 常形黃道</seg>
+                    <seg state="locked" xml:id="KR3fa010_tls_p4.s18.3"> </seg>
+                    <seg xml:id="KR3fa010_tls_p4.s19" state="locked">
+                        <lb n="19" ed="KX"/>天漢起東方經箕尾之間謂之漢津乃分為二道其</seg>
+                    <seg xml:id="KR3fa010_tls_p4.s20" state="locked">
+                        <lb n="20" ed="KX"/>
+                        <space n="䶻" quantity="1"/>南經傳説魚天籥天弁河鼓其壯經龜貫箕下次</seg>
+                    <seg xml:id="KR3fa010_tls_p4.s21" state="locked">
+                        <lb n="21" ed="KX"/>
+                        <space n="䶻" quantity="1"/>絡南斗魁左旗至天津下而合南道乃西南行又</seg>
+                    <pb ed="KX" n="03-07-008.5" xml:id="KR3fa010_tls_5a"/>
+                    <seg xml:id="KR3fa010_tls_p5.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻" quantity="1"/>分夾□瓜人星杵造父騰蛇王良附路閣道北端</seg>
+                    <seg xml:id="KR3fa010_tls_p5.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻" quantity="1"/>大陵天船卷舌而南行絡五車經北河之南入東</seg>
+                    <seg xml:id="KR3fa010_tls_p5.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻" quantity="1"/>非水位而東南行絡南河闕丘天狗天紀天稷在</seg>
+                    <seg state="locked" xml:id="KR3fa010_tls_p5.s4.1">
+                        <lb n="4" ed="KX"/>七星南而沒</seg>
+                    <seg state="locked" xml:id="KR3fa010_tls_p5.s4.2" type="comm"> 天漢起沒</seg>
+                    <seg state="locked" xml:id="KR3fa010_tls_p5.s4.3"> </seg>
+                    <seg xml:id="KR3fa010_tls_p5.s5" state="locked">
+                        <lb n="5" ed="KX"/>周天三百六十五度五百八十九分度之百四十五</seg>
+                    <seg xml:id="KR3fa010_tls_p5.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻" quantity="1"/>半覆地上半在地下其二端謂之南極北極北極</seg>
+                    <seg xml:id="KR3fa010_tls_p5.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻" quantity="1"/>出地三十六度南極入地三十六度兩極相去百</seg>
+                    <seg xml:id="KR3fa010_tls_p5.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻" quantity="1"/>八十二度半強繞北極經七十二度常見不隱謂</seg>
+                    <seg xml:id="KR3fa010_tls_p5.s9" state="locked">
+                        <lb n="9" ed="KX"/>
+                        <space n="䶻" quantity="1"/>之上規繞南極徑七十二度常隱不見謂之下規</seg>
+                    <seg xml:id="KR3fa010_tls_p5.s10" state="locked">
+                        <lb n="10" ed="KX"/>
+                        <space n="䶻" quantity="1"/>赤道帶天之紘去兩極各九十一度少強黃道日</seg>
+                    <seg xml:id="KR3fa010_tls_p5.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻" quantity="1"/>之所行也半在赤道外半在赤道內與赤道東交</seg>
+                    <seg xml:id="KR3fa010_tls_p5.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻" quantity="1"/>於角五少弱西交於奎十四少強黃道外極遠者</seg>
+                    <seg xml:id="KR3fa010_tls_p5.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻" quantity="1"/>去赤道二十四度斗二十一度是也其入赤道內</seg>
+                    <seg xml:id="KR3fa010_tls_p5.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻" quantity="1"/>極遠者亦二十四度井二十五度是也日南志在</seg>
+                    <seg xml:id="KR3fa010_tls_p5.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻" quantity="1"/>斗二十一度去極百一十五度少強日最南去極</seg>
+                    <seg xml:id="KR3fa010_tls_p5.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻" quantity="1"/>最遠故景最長黃道斗二十一度出辰入申個日</seg>
+                    <seg xml:id="KR3fa010_tls_p5.s18" state="locked">
+                        <lb n="18" ed="KX"/>
+                        <space n="䶻" quantity="1"/>亦出辰入申日晝行地上百四十六度少強故日</seg>
+                    <seg xml:id="KR3fa010_tls_p5.s19" state="locked">
+                        <lb n="19" ed="KX"/>
+                        <space n="䶻" quantity="1"/>短夜行地下二百一十六度少弱故夜長白南至</seg>
+                    <seg xml:id="KR3fa010_tls_p5.s20" state="locked">
+                        <lb n="20" ed="KX"/>
+                        <space n="䶻" quantity="1"/>後日去極稍近故景稍短日晝行地上度稍多故</seg>
+                    <seg xml:id="KR3fa010_tls_p5.s21" state="locked">
+                        <lb n="21" ed="KX"/>
+                        <space n="䶻" quantity="1"/>日稍長夜行地下度稍少故夜稍短日所在度稍</seg>
+                    <pb ed="KX" n="03-07-008.6" xml:id="KR3fa010_tls_6a"/>
+                    <seg xml:id="KR3fa010_tls_p6.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻" quantity="1"/>北故日稍北以至於夏至日在井二十五度去極</seg>
+                    <seg xml:id="KR3fa010_tls_p6.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻" quantity="1"/>六十七度少強日最北去極最近故景最短黃道</seg>
+                    <seg xml:id="KR3fa010_tls_p6.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻" quantity="1"/>井二十五度出寅入戌故日亦出寅入戌日晝行</seg>
+                    <seg xml:id="KR3fa010_tls_p6.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻" quantity="1"/>地上二百一十九度少弱故日長夜行地下百四</seg>
+                    <seg xml:id="KR3fa010_tls_p6.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻" quantity="1"/>十六度少弱故夜短自夏至後日去極稍遠故景</seg>
+                    <seg xml:id="KR3fa010_tls_p6.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻" quantity="1"/>稍長日晝行地上度稍少故日短夜行地下度稍</seg>
+                    <seg xml:id="KR3fa010_tls_p6.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻" quantity="1"/>多故夜長日所在度稍南故日稍南以至於南至</seg>
+                    <seg xml:id="KR3fa010_tls_p6.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻" quantity="1"/>而復初焉斗二十一井二十五南北相應四十八</seg>
+                    <seg xml:id="KR3fa010_tls_p6.s9" state="locked">
+                        <lb n="9" ed="KX"/>
+                        <space n="䶻" quantity="1"/>度春分日在奎十四少強秋分日在角五少弱此</seg>
+                    <seg xml:id="KR3fa010_tls_p6.s10" state="locked">
+                        <lb n="10" ed="KX"/>
+                        <space n="䶻" quantity="1"/>黃赤二道之交中也去極俱九十一度少強南北</seg>
+                    <seg xml:id="KR3fa010_tls_p6.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻" quantity="1"/>處斗二十一井二十五之中故景居二至短長之</seg>
+                    <seg xml:id="KR3fa010_tls_p6.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻" quantity="1"/>中奎十四角五出卯入酉故日亦出卯入酉日晝</seg>
+                    <seg xml:id="KR3fa010_tls_p6.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻" quantity="1"/>行地上夜行地下俱百八十二度半強故日見之</seg>
+                    <seg xml:id="KR3fa010_tls_p6.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻" quantity="1"/>漏五十刻不見之漏五十刻謂之晝夜同夫何以</seg>
+                    <seg xml:id="KR3fa010_tls_p6.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻" quantity="1"/>謂晝數多而夜數少也夫天之晝夜以日出沒爲</seg>
+                    <seg xml:id="KR3fa010_tls_p6.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻" quantity="1"/>分人之晝夜以昏名爲限日未出二刻半而明日</seg>
+                    <seg xml:id="KR3fa010_tls_p6.s18" state="locked">
+                        <lb n="18" ed="KX"/>
+                        <space n="䶻" quantity="1"/>入二刻半而昏故抬夜五科以益晝是以春秋分</seg>
+                    <seg xml:id="KR3fa010_tls_p6.s19" state="locked">
+                        <lb n="19" ed="KX"/>
+                        <space n="䶻" quantity="1"/>漏晝五十五刻也洛書甄矅度春秋考異□皆云</seg>
+                    <seg xml:id="KR3fa010_tls_p6.s20" state="locked">
+                        <lb n="20" ed="KX"/>
+                        <space n="䶻" quantity="1"/>周天一百七萬一千里一度爲二千九百三十二</seg>
+                    <seg xml:id="KR3fa010_tls_p6.s21" state="locked">
+                        <lb n="21" ed="KX"/>
+                        <space n="䶻" quantity="1"/>里七十一步二尺七寸四分周禮日至之景尺有</seg>
+                    <pb ed="KX" n="03-07-008.7" xml:id="KR3fa010_tls_7a"/>
+                    <seg xml:id="KR3fa010_tls_p7.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻" quantity="1"/>五寸謂之地中鄭裹説土圭長尺有五寸以夏至</seg>
+                    <seg xml:id="KR3fa010_tls_p7.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻" quantity="1"/>日立八尺之表共影與土圭等謂之地中今穎川</seg>
+                    <seg xml:id="KR3fa010_tls_p7.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻" quantity="1"/>陽城是也鄭玄云凢影於地千里而差一寸景尺</seg>
+                    <seg xml:id="KR3fa010_tls_p7.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻" quantity="1"/>有五寸者南戴日下萬五千里也□此日當去地</seg>
+                    <seg xml:id="KR3fa010_tls_p7.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻" quantity="1"/>八萬里矣日邪射陽城則天徑之半也以勾股法</seg>
+                    <seg xml:id="KR3fa010_tls_p7.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻" quantity="1"/>言之以周率乘之經率約之得五十一萬三千六</seg>
+                    <seg xml:id="KR3fa010_tls_p7.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻" quantity="1"/>百八十七里六十八步一尺八寸二分一度凢千</seg>
+                    <seg xml:id="KR3fa010_tls_p7.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻" quantity="1"/>四百六里二十四步六尺四分墓象紀數言人人</seg>
+                    <seg xml:id="KR3fa010_tls_p7.s9" state="locked">
+                        <lb n="9" ed="KX"/>
+                        <space n="䶻" quantity="1"/>殊何居要之周渾無際日月畛營馴幽咫步宜莫</seg>
+                    <seg xml:id="KR3fa010_tls_p7.s10" state="locked">
+                        <lb n="10" ed="KX"/>
+                        <space n="䶻" quantity="1"/>螢其所以然者</seg>
+                    <seg xml:id="KR3fa010_tls_p7.s12" state="locked">
+                        <lb n="12" ed="KX"/>日循黃道東行一日一夜行一度三百六十五日有</seg>
+                    <seg xml:id="KR3fa010_tls_p7.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻" quantity="1"/>竒而周天行東陸謂之春行南陸謂之夏行西陸</seg>
+                    <seg xml:id="KR3fa010_tls_p7.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻" quantity="1"/>謂之秋行北陸謂之冬以成陰陽寒暑之節傳云</seg>
+                    <seg xml:id="KR3fa010_tls_p7.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻" quantity="1"/>日太陽之精</seg>
+                    <seg xml:id="KR3fa010_tls_p7.s16" state="locked">
+                        <lb n="16" ed="KX"/>月者陰之精其形圓其質清日光照之則見其明日</seg>
+                    <seg xml:id="KR3fa010_tls_p7.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻" quantity="1"/>光所不照則謂之魄故月望之日日月相望人居</seg>
+                    <seg xml:id="KR3fa010_tls_p7.s18" state="locked">
+                        <lb n="18" ed="KX"/>
+                        <space n="䶻" quantity="1"/>其間盡覩其明故形圓也二弦在日日照其側人</seg>
+                    <seg xml:id="KR3fa010_tls_p7.s19" state="locked">
+                        <lb n="19" ed="KX"/>
+                        <space n="䶻" quantity="1"/>觀其傍故半明半魄也晦朔之日日照其表人在</seg>
+                    <seg xml:id="KR3fa010_tls_p7.s20" state="locked">
+                        <lb n="20" ed="KX"/>
+                        <space n="䶻" quantity="1"/>其裏故不見也其行有遲疾其極遲則日行十二</seg>
+                    <seg xml:id="KR3fa010_tls_p7.s21" state="locked">
+                        <lb n="21" ed="KX"/>
+                        <space n="䶻" quantity="1"/>度強其極疾則日行十四度半強遲極漸疾疾極</seg>
+                    <pb ed="KX" n="03-07-008.8" xml:id="KR3fa010_tls_8a"/>
+                    <seg xml:id="KR3fa010_tls_p8.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻" quantity="1"/>漸遲二十七日半強而遲疾一終矣又月行之道</seg>
+                    <seg xml:id="KR3fa010_tls_p8.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻" quantity="1"/>斜帶黃帶十三日有奇在黃道表十三日有竒在</seg>
+                    <seg xml:id="KR3fa010_tls_p8.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻" quantity="1"/>黃道裏表裏極遠者去黃道六度二十七日有竒</seg>
+                    <seg xml:id="KR3fa010_tls_p8.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻" quantity="1"/>而陰陽一終矣</seg>
+                    <seg xml:id="KR3fa010_tls_p8.s5" state="locked">
+                        <lb n="5" ed="KX"/>日有中道月有九行中道者黃道一日光道光道北</seg>
+                    <seg xml:id="KR3fa010_tls_p8.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻" quantity="1"/>至東井南至牽牛東至角西至婁夏至至於東井</seg>
+                    <seg xml:id="KR3fa010_tls_p8.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻" quantity="1"/>北近極故晷短立八尺之表而畧景長尺五寸八</seg>
+                    <seg xml:id="KR3fa010_tls_p8.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻" quantity="1"/>分冬至至於牽牛遠極故畧長立八尺之表而畧</seg>
+                    <seg xml:id="KR3fa010_tls_p8.s9" state="locked">
+                        <lb n="9" ed="KX"/>
+                        <space n="䶻" quantity="1"/>景長丈三尺一寸四分春秋分日至婁角去極中</seg>
+                    <seg xml:id="KR3fa010_tls_p8.s10" state="locked">
+                        <lb n="10" ed="KX"/>
+                        <space n="䶻" quantity="1"/>而畧中立八尺之表而畧景長七尺三寸六分日</seg>
+                    <seg xml:id="KR3fa010_tls_p8.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻" quantity="1"/>去極遠近難知要以畧景畧景者所以知日□□</seg>
+                    <seg xml:id="KR3fa010_tls_p8.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻" quantity="1"/>北也月行九道者黑道二出黃道北赤道二出黃</seg>
+                    <seg xml:id="KR3fa010_tls_p8.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻" quantity="1"/>道南白道二出黃道西青道二出黃道東立春春</seg>
+                    <seg xml:id="KR3fa010_tls_p8.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻" quantity="1"/>分東從青道立秋秋分西從白道立冬冬至北從</seg>
+                    <seg xml:id="KR3fa010_tls_p8.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻" quantity="1"/>黑道立夏夏至南從赤道青亦出陽道白黑出陰</seg>
+                    <seg xml:id="KR3fa010_tls_p8.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻" quantity="1"/>道</seg>
+                    <seg xml:id="KR3fa010_tls_p8.s18" state="locked">
+                        <lb n="18" ed="KX"/>歲星太歲在四仲則嵗行三宿太嵗在四孟四季則</seg>
+                    <seg xml:id="KR3fa010_tls_p8.s19" state="locked">
+                        <lb n="19" ed="KX"/>
+                        <space n="䶻" quantity="1"/>歲行二宿二八十六三四十二而行二十八宿十</seg>
+                    <seg xml:id="KR3fa010_tls_p8.s20" state="locked">
+                        <lb n="20" ed="KX"/>
+                        <space n="䶻" quantity="1"/>二歲而周天</seg>
+                    <seg xml:id="KR3fa010_tls_p8.s21" state="locked">
+                        <lb n="21" ed="KX"/>熒惑帝以十月入太□受制而出行列宿司無道□</seg>
+                    <pb ed="KX" n="03-07-008.9" xml:id="KR3fa010_tls_9a"/>
+                    <seg xml:id="KR3fa010_tls_p9.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻" quantity="1"/>入無常二嵗而周天</seg>
+                    <seg xml:id="KR3fa010_tls_p9.s2" state="locked">
+                        <lb n="2" ed="KX"/>填星常以甲辰元始見斗之嵗鎮行一宿二十八歲</seg>
+                    <seg xml:id="KR3fa010_tls_p9.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻" quantity="1"/>而周天</seg>
+                    <seg xml:id="KR3fa010_tls_p9.s4" state="locked">
+                        <lb n="4" ed="KX"/>太白常以正月甲寅與熒惑晨出東方一百四十日</seg>
+                    <seg xml:id="KR3fa010_tls_p9.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻" quantity="1"/>而入四十日又出西方二百四十日而入入三十</seg>
+                    <seg xml:id="KR3fa010_tls_p9.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻" quantity="1"/>五日而復出東方出寅戌入以丑未</seg>
+                    <seg xml:id="KR3fa010_tls_p9.s7" state="locked">
+                        <lb n="7" ed="KX"/>辰星常以二月春分見奎角五月夏至見東井八月</seg>
+                    <seg xml:id="KR3fa010_tls_p9.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻" quantity="1"/>秋分見角亢十一月冬至見牽牛出以辰戌入以</seg>
+                    <seg xml:id="KR3fa010_tls_p9.s9" state="locked">
+                        <lb n="9" ed="KX"/>
+                        <space n="䶻" quantity="1"/>丑未二旬而入晨候之東方夕候之西方</seg>
+                    <seg xml:id="KR3fa010_tls_p9.s10" state="locked">
+                        <lb n="10" ed="KX"/>月行遇木火土金四星向之則速背之則遲五星行</seg>
+                    <seg xml:id="KR3fa010_tls_p9.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻" quantity="1"/>四方列宿各有所好惡所居遇其好者則畱多行</seg>
+                    <seg xml:id="KR3fa010_tls_p9.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻" quantity="1"/>遲見早遇其惡者則惡少行速見遲與常數並差</seg>
+                    <seg xml:id="KR3fa010_tls_p9.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻" quantity="1"/>少至五度多至三十度計其□星支行見伏之異</seg>
+                    <seg xml:id="KR3fa010_tls_p9.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻" quantity="1"/>晨應見在雨水後立夏前夕應見在處署後霜降</seg>
+                    <seg xml:id="KR3fa010_tls_p9.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻" quantity="1"/>前並不見啓蟄立夏立秋霜降四氣之內晨夕去</seg>
+                    <seg xml:id="KR3fa010_tls_p9.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻" quantity="1"/>日前後三十六度內十八度外有水火土金一星</seg>
+                    <seg xml:id="KR3fa010_tls_p9.s18" state="locked">
+                        <lb n="18" ed="KX"/>
+                        <space n="䶻" quantity="1"/>者見無者不見</seg>
+                    <seg xml:id="KR3fa010_tls_p9.s19" state="locked">
+                        <lb n="19" ed="KX"/>五星為五德之主其行或入黃道裏或出黃道表猶</seg>
+                    <seg xml:id="KR3fa010_tls_p9.s20" state="locked">
+                        <lb n="20" ed="KX"/>
+                        <space n="䶻" quantity="1"/>月行出有陰陽也然出入無常不可以筭數求也</seg>
+                    <seg xml:id="KR3fa010_tls_p9.s21" state="locked">
+                        <lb n="21" ed="KX"/>
+                        <space n="䶻" quantity="1"/>其東行日順西行日逆順疾逆遲通而率之終為</seg>
+                    <pb ed="KX" n="03-07-008.10" xml:id="KR3fa010_tls_10a"/>
+                    <seg xml:id="KR3fa010_tls_p10.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻" quantity="1"/>東行矣不東行不西行曰畱與日相近而不見曰</seg>
+                    <seg xml:id="KR3fa010_tls_p10.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻" quantity="1"/>伏與日同度曰合</seg>
+                    <seg xml:id="KR3fa010_tls_p10.s3" state="locked">
+                        <lb n="3" ed="KX"/>木火土三星行遲夜半經天其始皆與日合度而後</seg>
+                    <seg xml:id="KR3fa010_tls_p10.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻" quantity="1"/>順行漸遲追日不及晨見東方行去稍遠朝時近</seg>
+                    <seg xml:id="KR3fa010_tls_p10.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻" quantity="1"/>中則畱經旦過中則逆行逆行至夕時近中則又</seg>
+                    <seg xml:id="KR3fa010_tls_p10.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻" quantity="1"/>畱畱而又順先遲漸速以至于夕伏西方乃更與</seg>
+                    <seg xml:id="KR3fa010_tls_p10.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻" quantity="1"/>日合金水二星行速而下經天自始與日合之後</seg>
+                    <seg xml:id="KR3fa010_tls_p10.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻" quantity="1"/>行宿而先日夕見西方去日前稍遠夕時欲近南</seg>
+                    <seg xml:id="KR3fa010_tls_p10.s9" state="locked">
+                        <lb n="9" ed="KX"/>
+                        <space n="䶻" quantity="1"/>方則漸遲遲極則畱畱而近日則逆行而合日在</seg>
+                    <seg xml:id="KR3fa010_tls_p10.s10" state="locked">
+                        <lb n="10" ed="KX"/>
+                        <space n="䶻" quantity="1"/>于自後晨見東方逆極則畱畱而後遲極去日稍</seg>
+                    <seg xml:id="KR3fa010_tls_p10.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻" quantity="1"/>遠旦時欲近南方則速行以追日晨伏于東方復</seg>
+                    <seg xml:id="KR3fa010_tls_p10.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻" quantity="1"/>與日合此五星合見遲速逆順流行之大經也昏</seg>
+                    <seg xml:id="KR3fa010_tls_p10.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻" quantity="1"/>旦者陰陽之大分也南方者太陽之位而天地之</seg>
+                    <seg xml:id="KR3fa010_tls_p10.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻" quantity="1"/>經也七曜行至陽位當天之經則□昃畱逆而不</seg>
+                    <seg xml:id="KR3fa010_tls_p10.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻" quantity="1"/>居焉此天地之常遂也三星經天二星不經天參</seg>
+                    <seg xml:id="KR3fa010_tls_p10.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻" quantity="1"/>天兩地之道也</seg>
+                    <pb ed="KX" n="03-07-008.11" xml:id="KR3fa010_tls_11a"/>
+                    <figure>
+                        <graphic facs="KR3fa010/FCEA4775_8075_49A7_8F6D_32E1704E38D9.png" type="inline"/>
+                    </figure>
+                    <seg state="locked" xml:id="KR3fa010_tls_p11.s12.1">
+                        <lb n="12" ed="KX"/>右紫㣲坦</seg>
+                    <seg state="locked" xml:id="KR3fa010_tls_p11.s12.2" type="comm">星共五十六座</seg>
+                    <seg xml:id="KR3fa010_tls_p11.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>中元圵極紫㣲宫<space n="䶻䶻" quantity="2"/>圵極五星在其中</seg>
+                    <seg xml:id="KR3fa010_tls_p11.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>大帝之座第二珠<space n="䶻䶻" quantity="2"/>第三只星庶子居</seg>
+                    <seg xml:id="KR3fa010_tls_p11.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>苐一號曰爲太子<space n="䶻䶻" quantity="2"/>四爲后宫五天樞</seg>
+                    <seg xml:id="KR3fa010_tls_p11.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>左右四星是四輔<space n="䶻䶻" quantity="2"/>天一太一當門路</seg>
+                    <seg xml:id="KR3fa010_tls_p11.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>左樞右樞夾南門<space n="䶻䶻" quantity="2"/>兩面營衞一十五</seg>
+                    <seg xml:id="KR3fa010_tls_p11.s18" state="locked">
+                        <lb n="18" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>上宰少尉两相對<space n="䶻䶻" quantity="2"/>少宰上輔次少輔</seg>
+                    <seg xml:id="KR3fa010_tls_p11.s19" state="locked">
+                        <lb n="19" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>上衞少衞次上丞<space n="䶻䶻" quantity="2"/>後門東邊太替府</seg>
+                    <seg xml:id="KR3fa010_tls_p11.s20" state="locked">
+                        <lb n="20" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>門東喚作一少丞<space n="䶻䶻" quantity="2"/>以次却向前門數</seg>
+                    <seg xml:id="KR3fa010_tls_p11.s21" state="locked">
+                        <lb n="21" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>隂德門裏两鳥聚<space n="䶻䶻" quantity="2"/>尚書以次其位五<space n="䶻䶻" quantity="2"/>
+                    </seg>
+                    <pb ed="KX" n="03-07-008.12" xml:id="KR3fa010_tls_12a"/>
+                    <seg xml:id="KR3fa010_tls_p12.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>女史柱史各一戶<space n="䶻䶻" quantity="2"/>䘖女四星五天柱</seg>
+                    <seg xml:id="KR3fa010_tls_p12.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>大理两黄隂德邊<space n="䶻䶻" quantity="2"/>勾陳尾指圵極顛</seg>
+                    <seg xml:id="KR3fa010_tls_p12.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>勾陳六星六甲前<space n="䶻䶻" quantity="2"/>天皇獨在勾陳裏</seg>
+                    <seg xml:id="KR3fa010_tls_p12.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>五帝內座後門是<space n="䶻䶻" quantity="2"/>華盖并杠十六星</seg>
+                    <seg xml:id="KR3fa010_tls_p12.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>杠作柄象華盖形<space n="䶻䶻" quantity="2"/>蓋上連連九箇星</seg>
+                    <seg xml:id="KR3fa010_tls_p12.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>名曰傳舍如連丁<space n="䶻䶻" quantity="2"/>垣□左右各六珠</seg>
+                    <seg xml:id="KR3fa010_tls_p12.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>右是內階左天㕑<space n="䶻䶻" quantity="2"/>階前八星名八糓</seg>
+                    <seg xml:id="KR3fa010_tls_p12.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>厨下五箇天棓宿<space n="䶻䶻" quantity="2"/>天床六星左樞在</seg>
+                    <seg xml:id="KR3fa010_tls_p12.s9" state="locked">
+                        <lb n="9" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>內厨两星右樞對<space n="䶻䶻" quantity="2"/>文昌斗上半月形</seg>
+                    <seg xml:id="KR3fa010_tls_p12.s10" state="locked">
+                        <lb n="10" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>稀踈分明六箇星<space n="䶻䶻" quantity="2"/>文昌之下曰三師</seg>
+                    <seg xml:id="KR3fa010_tls_p12.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>太尊只向三公明<space n="䶻䶻" quantity="2"/>天牢六星太尊邊</seg>
+                    <seg xml:id="KR3fa010_tls_p12.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>太陽之守四勢前<space n="䶻䶻" quantity="2"/>一箇宰相太陽側</seg>
+                    <seg xml:id="KR3fa010_tls_p12.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>更有三公相西偏<space n="䶻䶻" quantity="2"/>即是玄戈一星圓</seg>
+                    <seg xml:id="KR3fa010_tls_p12.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>天理四星斗裏暗<space n="䶻䶻" quantity="2"/>輔星近着開陽淡</seg>
+                    <seg xml:id="KR3fa010_tls_p12.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>圵斗之宿七星明<space n="䶻䶻" quantity="2"/>苐一主帝爲樞精</seg>
+                    <seg xml:id="KR3fa010_tls_p12.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>苐二苐三璇璣星<space n="䶻䶻" quantity="2"/>苐四名權苐五□</seg>
+                    <seg xml:id="KR3fa010_tls_p12.s18" state="locked">
+                        <lb n="18" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>開陽搖光六七名<space n="䶻䶻" quantity="2"/>搖光左三夭槍紅<space n="䶻䶻" quantity="2"/>
+                    </seg>
+                    <pb ed="KX" n="03-07-008.13" xml:id="KR3fa010_tls_13a"/>
+                    <figure>
+                        <graphic facs="KR3fa010/164BB3D4_C47E_471B_B783_80D5835A321B.png" type="inline"/>
+                    </figure>
+                    <pb ed="KX" n="03-07-008.13" xml:id="KR3fa010_tls_13b"/>
+                    <seg xml:id="KR3fa010_tls_p13.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>上元天庭太㣲官<space n="䶻䶻" quantity="2"/>昭昭列象布蒼穹</seg>
+                    <seg xml:id="KR3fa010_tls_p13.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>端門只是門之中<space n="䶻䶻" quantity="2"/>左右執法門西東</seg>
+                    <seg xml:id="KR3fa010_tls_p13.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>門左皂衣一謁者<space n="䶻䶻" quantity="2"/>以次即是烏三公</seg>
+                    <seg xml:id="KR3fa010_tls_p13.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>三黑九卿公背旁<space n="䶻䶻" quantity="2"/>五黑諸俟卿後行</seg>
+                    <seg xml:id="KR3fa010_tls_p13.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>四筒門西主軒屏<space n="䶻䶻" quantity="2"/>五帝內座於中正</seg>
+                    <seg xml:id="KR3fa010_tls_p13.s18" state="locked">
+                        <lb n="18" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>幸臣太子并從官<space n="䶻䶻" quantity="2"/>烏列帝後從東定</seg>
+                    <seg xml:id="KR3fa010_tls_p13.s19" state="locked">
+                        <lb n="19" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>郎将虎賁居左右<space n="䶻䶻" quantity="2"/>常陳郎位居其後</seg>
+                    <seg xml:id="KR3fa010_tls_p13.s20" state="locked">
+                        <lb n="20" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>常陳七星不相誤<space n="䶻䶻" quantity="2"/>郎位陳東一十五</seg>
+                    <seg xml:id="KR3fa010_tls_p13.s21" state="locked">
+                        <lb n="21" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>两面官垣十星布<space n="䶻䶻" quantity="2"/>左右執法是其數<space n="䶻䶻" quantity="2"/>
+                    </seg>
+                    <pb ed="KX" n="03-07-008.14" xml:id="KR3fa010_tls_14a"/>
+                    <seg xml:id="KR3fa010_tls_p14.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>宫外明堂布政宫<space n="䶻䶻" quantity="2"/>三箇靈臺候雲雨</seg>
+                    <seg xml:id="KR3fa010_tls_p14.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>少㣲四星西南隅<space n="䶻䶻" quantity="2"/>長垣雙雙㣲两居</seg>
+                    <seg xml:id="KR3fa010_tls_p14.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>北門西外接三台<space n="䶻䶻" quantity="2"/>與垣相對無兵災</seg>
+                    <seg state="locked" xml:id="KR3fa010_tls_p14.s4.1" type="comm">
+                        <lb n="4" ed="KX"/>太微垣左右共十星端门東第一星曰左執法二上相三次相四次将</seg>
+                    <seg state="locked" xml:id="KR3fa010_tls_p14.s5.1" type="comm">
+                        <lb n="5" ed="KX"/>五上将西第一星曰右執法二上将三次将四次相五上相</seg>
+                    <pb ed="KX" n="03-07-008.15" xml:id="KR3fa010_tls_15a"/>
+                    <figure>
+                        <graphic facs="KR3fa010/2F67D104_C004_4FCF_99DE_0192F21FAA01.png" type="inline"/>
+                    </figure>
+                    <seg state="locked" xml:id="KR3fa010_tls_p15.s12.1">
+                        <lb n="12" ed="KX"/>右天市垣</seg>
+                    <seg state="locked" xml:id="KR3fa010_tls_p15.s12.2" type="comm">星昔三十九座</seg>
+                    <seg xml:id="KR3fa010_tls_p15.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>下元一宫名天市<space n="䶻䶻" quantity="2"/>两扇垣牆二十二</seg>
+                    <seg xml:id="KR3fa010_tls_p15.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>當門六箇黑市楼<space n="䶻䶻" quantity="2"/>門左两星是車肆</seg>
+                    <seg xml:id="KR3fa010_tls_p15.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>两箇宗正四宗人<space n="䶻䶻" quantity="2"/>宗星一雙亦依次</seg>
+                    <seg xml:id="KR3fa010_tls_p15.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>帛度两星屠肆前<space n="䶻䶻" quantity="2"/>候星還在帝座邉</seg>
+                    <seg xml:id="KR3fa010_tls_p15.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>帝座一星常光明<space n="䶻䶻" quantity="2"/>四箇㣲芒宦者星</seg>
+                    <seg xml:id="KR3fa010_tls_p15.s18" state="locked">
+                        <lb n="18" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>以次两星名列肆<space n="䶻䶻" quantity="2"/>斗斛帝前依其次</seg>
+                    <seg xml:id="KR3fa010_tls_p15.s19" state="locked">
+                        <lb n="19" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>斗是五星斛是四<space n="䶻䶻" quantity="2"/>垣圵九箇貫索星</seg>
+                    <seg xml:id="KR3fa010_tls_p15.s20" state="locked">
+                        <lb n="20" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>索口横着七公成<space n="䶻䶻" quantity="2"/>天紀恰似七公形</seg>
+                    <seg xml:id="KR3fa010_tls_p15.s21" state="locked">
+                        <lb n="21" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>數着分明多两星<space n="䶻䶻" quantity="2"/>紀圵三星名女牀<space n="䶻䶻" quantity="2"/>
+                    </seg>
+                    <pb ed="KX" n="03-07-008.16" xml:id="KR3fa010_tls_16a"/>
+                    <figure>
+                        <graphic facs="KR3fa010/EFB4A8BF_D0A6_46C1_B27C_6B830DDB0220.png" type="inline"/>
+                    </figure>
+                    <seg xml:id="KR3fa010_tls_p16.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>此坐還衣織女旁<space n="䶻䶻" quantity="2"/>三元之象無相侵</seg>
+                    <seg xml:id="KR3fa010_tls_p16.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>二十八宿随其隂<space n="䶻䶻" quantity="2"/>水火木土并與金</seg>
+                    <seg xml:id="KR3fa010_tls_p16.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>以此別有五行吟</seg>
+                    <seg state="locked" xml:id="KR3fa010_tls_p16.s4.1" type="comm">
+                        <lb n="4" ed="KX"/>天市垣左右環曲各十一星其求垣南第一星日宋二南海三燕</seg>
+                    <seg state="locked" xml:id="KR3fa010_tls_p16.s5.1" type="comm">
+                        <lb n="5" ed="KX"/>四東海五徐六吳越七齊八中山九河十趙十一魏西垣第一星</seg>
+                    <seg state="locked" xml:id="KR3fa010_tls_p16.s6.1" type="comm">
+                        <lb n="6" ed="KX"/>日韓二楚三梁四巴五蜀六秦七周八鄭九晋十河间十一河</seg>
+                    <seg state="locked" xml:id="KR3fa010_tls_p16.s7.1" type="comm">
+                        <lb n="7" ed="KX"/>中盖兮配以應二十二方</seg>
+                    <pb ed="KX" n="03-07-008.17" xml:id="KR3fa010_tls_17a"/>
+                    <figure>
+                        <graphic facs="KR3fa010/4E5E57C7_518C_437A_A1EB_004B1115E6D2.png" type="inline"/>
+                    </figure>
+                    <seg state="locked" xml:id="KR3fa010_tls_p17.s12.1">
+                        <lb n="12" ed="KX"/>東方七宿</seg>
+                    <seg state="locked" xml:id="KR3fa010_tls_p17.s12.2" type="comm">星共十五座</seg>
+                    <seg xml:id="KR3fa010_tls_p17.s13" state="locked">
+                        <lb n="13" ed="KX"/>角<space n="䶻" quantity="1"/>两星南圵正直着<space n="䶻䶻" quantity="2"/>中有平道上天田</seg>
+                    <seg xml:id="KR3fa010_tls_p17.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>總是黑星两相連<space n="䶻䶻" quantity="2"/>別有一烏名進賢</seg>
+                    <seg xml:id="KR3fa010_tls_p17.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>平道右畔獨淵然<space n="䶻䶻" quantity="2"/>最上三星周鼎形</seg>
+                    <seg xml:id="KR3fa010_tls_p17.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>角下天門左平星<space n="䶻䶻" quantity="2"/>雙雙横於庫楼上</seg>
+                    <seg xml:id="KR3fa010_tls_p17.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>庫樓十星屈曲明<space n="䶻䶻" quantity="2"/>樓中五桎十五星</seg>
+                    <seg xml:id="KR3fa010_tls_p17.s18" state="locked">
+                        <lb n="18" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>三三相似如鼎形<space n="䶻䶻" quantity="2"/>其中四星別名衡<space n="䶻䶻" quantity="2"/>
+                    </seg>
+                    <seg xml:id="KR3fa010_tls_p17.s19" state="locked">
+                        <lb n="19" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>南門樓外两星横</seg>
+                    <pb ed="KX" n="03-07-008.18" xml:id="KR3fa010_tls_18a"/>
+                    <figure>
+                        <graphic facs="KR3fa010/A749B4F9_27BA_4CDB_AEB7_47CEBECF2F50.png" type="inline"/>
+                    </figure>
+                    <seg xml:id="KR3fa010_tls_p18.s12" state="locked">
+                        <lb n="12" ed="KX"/>亢<space n="䶻" quantity="1"/>四星恰似彎弓狀<space n="䶻䶻" quantity="2"/>大角一星直上明</seg>
+                    <seg xml:id="KR3fa010_tls_p18.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>折威七子亢下橫<space n="䶻䶻" quantity="2"/>大角左右攝提星</seg>
+                    <seg xml:id="KR3fa010_tls_p18.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>三三相似如鼎形<space n="䶻䶻" quantity="2"/>折威下左頡頏星</seg>
+                    <seg xml:id="KR3fa010_tls_p18.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>两箇斜安黃色精<space n="䶻䶻" quantity="2"/>頏下二星號陽門<space n="䶻䶻" quantity="2"/>
+                    </seg>
+                    <seg xml:id="KR3fa010_tls_p18.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>色若頡頏直下存</seg>
+                    <pb ed="KX" n="03-07-008.19" xml:id="KR3fa010_tls_19a"/>
+                    <figure>
+                        <graphic facs="KR3fa010/A7943865_B20F_4406_A058_A062C6CBE4E2.png" type="inline"/>
+                    </figure>
+                    <seg xml:id="KR3fa010_tls_p19.s12" state="locked">
+                        <lb n="12" ed="KX"/>氐<space n="䶻" quantity="1"/>四星似斗側量米<space n="䶻䶻" quantity="2"/>天乳氐上黑一星</seg>
+                    <seg xml:id="KR3fa010_tls_p19.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>世人不識稱無名<space n="䶻䶻" quantity="2"/>一箇招搖梗河上</seg>
+                    <seg xml:id="KR3fa010_tls_p19.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>梗河横列三星狀<space n="䶻䶻" quantity="2"/>帝席三黑河之西</seg>
+                    <seg xml:id="KR3fa010_tls_p19.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>亢池六星近攝提<space n="䶻䶻" quantity="2"/>氐下衆星騎官出</seg>
+                    <seg xml:id="KR3fa010_tls_p19.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>騎官之衆二十七<space n="䶻䶻" quantity="2"/>三三相連十欠一</seg>
+                    <seg xml:id="KR3fa010_tls_p19.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>陣車氐下騎官次<space n="䶻䶻" quantity="2"/>騎官下三車騎位</seg>
+                    <seg xml:id="KR3fa010_tls_p19.s18" state="locked">
+                        <lb n="18" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>天輻两星立陣旁<space n="䶻䶻" quantity="2"/>将軍陣裏鎮威霜<space n="䶻䶻" quantity="2"/>
+                    </seg>
+                    <seg state="locked" xml:id="KR3fa010_tls_p19.s19.1" type="comm">
+                        <lb n="19" ed="KX"/>氐星共十一座</seg>
+                    <seg state="locked" xml:id="KR3fa010_tls_p19.s21.1" type="comm">
+                        <lb n="21" ed="KX"/>房日兔四星五度東</seg>
+                    <pb ed="KX" n="03-07-008.20" xml:id="KR3fa010_tls_20a"/>
+                    <figure>
+                        <graphic facs="KR3fa010/416965A3_CCB3_4A07_8DF9_6A9EC4CC975F.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fa010/A2BD776E_CC70_47BA_8A76_04671CE9DCD9.png" type="inline"/>
+                    </figure>
+                    <seg xml:id="KR3fa010_tls_p20.s6" state="locked">
+                        <lb n="6" ed="KX"/>房<space n="䶻" quantity="1"/>四星直下主明堂<space n="䶻䶻" quantity="2"/>鍵閉一黃斜向上</seg>
+                    <seg xml:id="KR3fa010_tls_p20.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>鈎鈐两箇近其旁<space n="䶻䶻" quantity="2"/>罰有三星直鍵上</seg>
+                    <seg xml:id="KR3fa010_tls_p20.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>两咸夾罰似房状<space n="䶻䶻" quantity="2"/>房西一星□為日主明伤</seg>
+                    <seg state="locked" xml:id="KR3fa010_tls_p20.s9.1" type="comm">
+                        <lb n="9" ed="KX"/>房星共八座</seg>
+                    <seg xml:id="KR3fa010_tls_p20.s17" state="locked">
+                        <lb n="17" ed="KX"/>心<space n="䶻" quantity="1"/>三星中央色最深<space n="䶻䶻" quantity="2"/>下頭積卒共十二</seg>
+                    <seg xml:id="KR3fa010_tls_p20.s18" state="locked">
+                        <lb n="18" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>三三相聚心下是</seg>
+                    <seg state="locked" xml:id="KR3fa010_tls_p20.s19.1" type="comm">
+                        <lb n="19" ed="KX"/>心星共二座心宿中是天子前星为太子。後星□庶子稜卒主三营<lb type="/"/>暈吉</seg>
+                    <seg state="locked" xml:id="KR3fa010_tls_p20.s20.1" type="comm">
+                        <lb n="20" ed="KX"/>天会三星五度为□室□为月在省□□</seg>
+                    <pb ed="KX" n="03-07-008.21" xml:id="KR3fa010_tls_21a"/>
+                    <figure>
+                        <graphic facs="KR3fa010/D6DC81E6_E45A_4B83_86D4_9AAE880DC4B4.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fa010/8633627D_44D8_400D_B173_91FAADE880A9.png" type="inline"/>
+                    </figure>
+                    <seg xml:id="KR3fa010_tls_p21.s6" state="locked">
+                        <lb n="6" ed="KX"/>尾<space n="䶻" quantity="1"/>九星如鈎蒼龍尾<space n="䶻䶻" quantity="2"/>下頭五點號龜星</seg>
+                    <seg state="locked" xml:id="KR3fa010_tls_p21.s7.1" type="comm">
+                        <lb n="7" ed="KX"/>十七度为不和为□□<lb type="/"/>在炁为大在肖为虙</seg>
+                    <seg state="locked" xml:id="KR3fa010_tls_p21.s7.2">尾上天江四橫是尾東一箇各傳說</seg>
+                    <seg xml:id="KR3fa010_tls_p21.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>傳説東畔一魚子<space n="䶻䶻" quantity="2"/>尾西一室是神宮</seg>
+                    <seg xml:id="KR3fa010_tls_p21.s9" state="locked">
+                        <lb n="9" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>所以列在后妃中</seg>
+                    <seg state="locked" xml:id="KR3fa010_tls_p21.s10.1" type="comm">
+                        <lb n="10" ed="KX"/>尾星共六座<lb type="/"/>大会九□大六度□不和为成豈在只为火在百为虎</seg>
+                    <seg state="locked" xml:id="KR3fa010_tls_p21.s18.1">
+                        <lb n="18" ed="KX"/>箕四星形状似</seg>
+                    <seg state="locked" xml:id="KR3fa010_tls_p21.s18.2" type="comm">皮<lb type="/"/>箕</seg>
+                    <seg state="locked" xml:id="KR3fa010_tls_p21.s18.3">箕箕下三星名木杵</seg>
+                    <seg xml:id="KR3fa010_tls_p21.s19" state="locked">
+                        <lb n="19" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>箕前一黑是糠皮</seg>
+                    <seg state="locked" xml:id="KR3fa010_tls_p21.s20.1" type="comm">
+                        <lb n="20" ed="KX"/>箕星共三座</seg>
+                    <seg state="locked" xml:id="KR3fa010_tls_p21.s21.1" type="comm">
+                        <lb n="21" ed="KX"/>大全复四星十度为口舌写□在□为水在为豹</seg>
+                    <seg state="locked" xml:id="KR3fa010_tls_p21.s22.1" type="comm">
+                        <lb n="22" ed="KX"/>斗六星□四度为又聀为科名在六为水在为□狮</seg>
+                    <pb ed="KX" n="03-07-008.22" xml:id="KR3fa010_tls_22a"/>
+                    <figure>
+                        <graphic facs="KR3fa010/A963326A_9665_4186_9017_1A94821D9440.png" type="inline"/>
+                    </figure>
+                    <seg state="locked" xml:id="KR3fa010_tls_p22.s1.1" type="comm">
+                        <lb n="1" ed="KX"/>匀宿为宰相酌量政为主互尤主天子之事印斗南云□</seg>
+                    <seg state="locked" xml:id="KR3fa010_tls_p22.s2.1" type="comm">
+                        <lb n="2" ed="KX"/>建主为湿亭</seg>
+                    <seg state="locked" xml:id="KR3fa010_tls_p22.s3.1" type="comm">
+                        <lb n="3" ed="KX"/>天竒布生云長建上主列肆</seg>
+                    <seg xml:id="KR3fa010_tls_p22.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻䶻䶻䶻䶻" quantity="5"/>北方七宿</seg>
+                    <seg xml:id="KR3fa010_tls_p22.s14" state="locked">
+                        <lb n="14" ed="KX"/>斗<space n="䶻" quantity="1"/>六星其狀似北斗<space n="䶻䶻" quantity="2"/>魁星建星三相聚</seg>
+                    <seg xml:id="KR3fa010_tls_p22.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>天弁建上三三久<space n="䶻䶻" quantity="2"/>斗下圓安十四星</seg>
+                    <seg xml:id="KR3fa010_tls_p22.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>雖然名鼈貫索形<space n="䶻䶻" quantity="2"/>天雞建背雙黑星</seg>
+                    <seg xml:id="KR3fa010_tls_p22.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>天籥柄前八黃精<space n="䶻䶻" quantity="2"/>狗國四方雞下生</seg>
+                    <seg xml:id="KR3fa010_tls_p22.s18" state="locked">
+                        <lb n="18" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>天淵十星鼈東邉<space n="䶻䶻" quantity="2"/>更有兩狗斗魁前</seg>
+                    <seg xml:id="KR3fa010_tls_p22.s19" state="locked">
+                        <lb n="19" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>農家丈人斗下眠<space n="䶻䶻" quantity="2"/>天淵十黃狗色玄</seg>
+                    <seg state="locked" xml:id="KR3fa010_tls_p22.s20.1" type="comm">
+                        <lb n="20" ed="KX"/>斗宿为宰相的量以为之互龙主天为之声即斗南二羔天弁市反云長</seg>
+                    <seg state="locked" xml:id="KR3fa010_tls_p22.s21.1" type="comm">
+                        <lb n="21" ed="KX"/>建王主列肆</seg>
+                    <pb ed="KX" n="03-07-008.23" xml:id="KR3fa010_tls_23a"/>
+                    <figure>
+                        <graphic facs="KR3fa010/0896B2B2_81CF_4BC1_B3B9_AF2E18A24CE5.png" type="inline"/>
+                    </figure>
+                    <seg xml:id="KR3fa010_tls_p23.s12" state="locked">
+                        <lb n="12" ed="KX"/>牛<space n="䶻" quantity="1"/>六星近在河岸頭<space n="䶻䶻" quantity="2"/>頭上雖然有兩角</seg>
+                    <seg xml:id="KR3fa010_tls_p23.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>腹下從來欠一腳<space n="䶻䶻" quantity="2"/>牛下九黑是天田</seg>
+                    <seg xml:id="KR3fa010_tls_p23.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>田下三三九坎連<space n="䶻䶻" quantity="2"/>牛上直建三河鼓</seg>
+                    <seg xml:id="KR3fa010_tls_p23.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>鼓上三星號織女<space n="䶻䶻" quantity="2"/>左旗右旗各九星</seg>
+                    <seg xml:id="KR3fa010_tls_p23.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>河鼓兩畔右邉明<space n="䶻䶻" quantity="2"/>更有四黃名天桴</seg>
+                    <seg xml:id="KR3fa010_tls_p23.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>河鼓直下如連珠<space n="䶻䶻" quantity="2"/>羅堰三鳥牛東居</seg>
+                    <seg xml:id="KR3fa010_tls_p23.s18" state="locked">
+                        <lb n="18" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>漸臺四星如口形<space n="䶻䶻" quantity="2"/>輦道東足連五丁</seg>
+                    <seg xml:id="KR3fa010_tls_p23.s19" state="locked">
+                        <lb n="19" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>輦道漸臺在何許<space n="䶻䶻" quantity="2"/>欲得見時近織女</seg>
+                    <seg state="locked" xml:id="KR3fa010_tls_p23.s20.1" type="comm">
+                        <lb n="20" ed="KX"/>女土惕の□土度半为□乱</seg>
+                    <pb ed="KX" n="03-07-008.24" xml:id="KR3fa010_tls_24a"/>
+                    <figure>
+                        <graphic facs="KR3fa010/AD888124_DA1F_48B3_9AFC_4A89EB487362.png" type="inline"/>
+                    </figure>
+                    <seg xml:id="KR3fa010_tls_p24.s12" state="locked">
+                        <lb n="12" ed="KX"/>女<space n="䶻" quantity="1"/>四星如箕主嫁娶<space n="䶻䶻" quantity="2"/>十二諸國在下陳</seg>
+                    <seg xml:id="KR3fa010_tls_p24.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>先從越國向東論<space n="䶻䶻" quantity="2"/>東西兩周次二泰</seg>
+                    <seg xml:id="KR3fa010_tls_p24.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>雍州南下雙雁門<space n="䶻䶻" quantity="2"/>代國向西一晉伸</seg>
+                    <seg xml:id="KR3fa010_tls_p24.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>韓魏各一晉北輪<space n="䶻䶻" quantity="2"/>楚之一國魏西屯</seg>
+                    <seg xml:id="KR3fa010_tls_p24.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>楚城南畔獨燕軍<space n="䶻䶻" quantity="2"/>燕西一郡是齊隣</seg>
+                    <seg xml:id="KR3fa010_tls_p24.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>齊北兩邑平原君<space n="䶻䶻" quantity="2"/>欲知鄭在越下存</seg>
+                    <seg xml:id="KR3fa010_tls_p24.s18" state="locked">
+                        <lb n="18" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>十六黃星細區分<space n="䶻䶻" quantity="2"/>五箇離珠女上星</seg>
+                    <seg xml:id="KR3fa010_tls_p24.s19" state="locked">
+                        <lb n="19" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>敗瓜之上瓠瓜生<space n="䶻䶻" quantity="2"/>兩箇各五瓠瓜明</seg>
+                    <seg xml:id="KR3fa010_tls_p24.s20" state="locked">
+                        <lb n="20" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>天津九箇彈亐形<space n="䶻䶻" quantity="2"/>兩星入牛河中橫</seg>
+                    <seg xml:id="KR3fa010_tls_p24.s21" state="locked">
+                        <lb n="21" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>四箇奚仲天津上<space n="䶻䶻" quantity="2"/>七箇仲則扶筐星<space n="䶻䶻" quantity="2"/>
+                    </seg>
+                    <pb ed="KX" n="03-07-008.25" xml:id="KR3fa010_tls_25a"/>
+                    <figure>
+                        <graphic facs="KR3fa010/82DC54D1_7248_4E69_9814_38C42204017F.png" type="inline"/>
+                    </figure>
+                    <seg state="locked" xml:id="KR3fa010_tls_p25.s1.1" type="comm">
+                        <lb n="1" ed="KX"/>虛尚家宰之□亦主死丧命主的罚司禄主常禄司元主骄陎司非主慧过</seg>
+                    <seg state="locked" xml:id="KR3fa010_tls_p25.s2.1" type="comm">
+                        <lb n="2" ed="KX"/>唐日□星力唐丰各关注为丧狗</seg>
+                    <seg xml:id="KR3fa010_tls_p25.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻" quantity="1"/>
+                        <space n="䶻" quantity="1"/>虚<space n="䶻" quantity="1"/>上下各一如連珠<space n="䶻䶻" quantity="2"/>命禄危非虛上呈</seg>
+                    <seg xml:id="KR3fa010_tls_p25.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻" quantity="1"/>
+                        <space n="䶻" quantity="1"/>
+                        <space n="䶻䶻" quantity="2"/>虗危之下哭泣星<space n="䶻䶻" quantity="2"/>哭泣□雙下壘城</seg>
+                    <seg xml:id="KR3fa010_tls_p25.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻" quantity="1"/>
+                        <space n="䶻" quantity="1"/>
+                        <space n="䶻䶻" quantity="2"/>天壘圑圓十三星<space n="䶻䶻" quantity="2"/>敗臼四星城下橫</seg>
+                    <seg xml:id="KR3fa010_tls_p25.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻" quantity="1"/>
+                        <space n="䶻" quantity="1"/>
+                        <space n="䶻䶻" quantity="2"/>臼西三箇離瑜明</seg>
+                    <seg xml:id="KR3fa010_tls_p25.s21" state="locked">
+                        <lb n="21" ed="KX"/>冬月燕三星十八度为蓋屋为名宏</seg>
+                    <pb ed="KX" n="03-07-008.26" xml:id="KR3fa010_tls_26a"/>
+                    <figure>
+                        <graphic facs="KR3fa010/B9297D9F_0EB7_4C60_8B0C_96ACE7CA6087.png" type="inline"/>
+                    </figure>
+                    <seg state="locked" xml:id="KR3fa010_tls_p26.s1.1" type="comm">
+                        <lb n="1" ed="KX"/>危宿义畧同虛憤墓主丧壘事虛宋主國陵寢庙非命處</seg>
+                    <seg state="locked" xml:id="KR3fa010_tls_p26.s2.1" type="comm">
+                        <lb n="2" ed="KX"/>天钓主乘第順節该式</seg>
+                    <seg xml:id="KR3fa010_tls_p26.s12" state="locked">
+                        <lb n="12" ed="KX"/>危<space n="䶻" quantity="1"/>三星不宜舊先知<space n="䶻" quantity="1"/>危上五黑號人星</seg>
+                    <seg xml:id="KR3fa010_tls_p26.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>人畔三四杵臼形<space n="䶻" quantity="1"/>人上七鳥號車府</seg>
+                    <seg xml:id="KR3fa010_tls_p26.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>府上天鈎九黃晶<space n="䶻" quantity="1"/>鈎下五鴉字造父</seg>
+                    <seg xml:id="KR3fa010_tls_p26.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>危下四星號墳墓<space n="䶻" quantity="1"/>墓下四星斜虛梁</seg>
+                    <seg xml:id="KR3fa010_tls_p26.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>十箇天錢梁下黃<space n="䶻" quantity="1"/>墓傍兩星能盖屋</seg>
+                    <seg xml:id="KR3fa010_tls_p26.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>身著黑衣危下宿</seg>
+                    <pb ed="KX" n="03-07-008.27" xml:id="KR3fa010_tls_27a"/>
+                    <figure>
+                        <graphic facs="KR3fa010/B1AE320B_F4C5_407D_8DA3_485CCD8DF4CA.png" type="inline"/>
+                    </figure>
+                    <seg state="locked" xml:id="KR3fa010_tls_p27.s1.1" type="comm">
+                        <lb n="1" ed="KX"/>室宿天子之宗離公天子主□容雷電主吳雷勒垫羽林軍天軍也夾阵主北常以陰宏</seg>
+                    <seg state="locked" xml:id="KR3fa010_tls_p27.s2.1" type="comm">
+                        <lb n="2" ed="KX"/>室火猪二星七度为庙食为主位</seg>
+                    <seg xml:id="KR3fa010_tls_p27.s12" state="locked">
+                        <lb n="12" ed="KX"/>室<space n="䶻" quantity="1"/>两星上有離宮出<space n="䶻䶻䶻䶻䶻" quantity="5"/>逵室三□有六星</seg>
+                    <seg xml:id="KR3fa010_tls_p27.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>下頭六箇雷電形<space n="䶻䶻䶻䶻䶻" quantity="5"/>壘壁陳次十二星</seg>
+                    <seg xml:id="KR3fa010_tls_p27.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>十二兩頭大似井<space n="䶻䶻䶻䶻䶻" quantity="5"/>陳下分布羽林軍</seg>
+                    <seg xml:id="KR3fa010_tls_p27.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>四十五卒三為群<space n="䶻䶻䶻䶻䶻" quantity="5"/>軍西西下多難論</seg>
+                    <seg xml:id="KR3fa010_tls_p27.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>仔細歷歷看區分<space n="䶻䶻䶻䶻䶻" quantity="5"/>三粒黃金名鐡鉞</seg>
+                    <seg xml:id="KR3fa010_tls_p27.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>一顆真珠北落門<space n="䶻䶻䶻䶻䶻" quantity="5"/>門東八魁九箇子</seg>
+                    <seg xml:id="KR3fa010_tls_p27.s18" state="locked">
+                        <lb n="18" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>門西一宿天網是<space n="䶻䶻䶻䶻䶻" quantity="5"/>雷旁兩黑土公吏</seg>
+                    <seg xml:id="KR3fa010_tls_p27.s19" state="locked">
+                        <lb n="19" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>螣蛇室上二十二</seg>
+                    <seg xml:id="KR3fa010_tls_p27.s20" state="locked">
+                        <lb n="20" ed="KX"/>壁水榆二星十度为又亲为和床</seg>
+                    <pb ed="KX" n="03-07-008.28" xml:id="KR3fa010_tls_28a"/>
+                    <figure>
+                        <graphic facs="KR3fa010/6DB9F251_9F4A_4725_A354_2910CF8B804A.png" type="inline"/>
+                    </figure>
+                    <seg xml:id="KR3fa010_tls_p28.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻" quantity="1"/>壁<space n="䶻" quantity="1"/>两星下頭是霹靂<space n="䶻" quantity="1"/>霹靂五星橫著行</seg>
+                    <seg xml:id="KR3fa010_tls_p28.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻" quantity="1"/>
+                        <space n="䶻" quantity="1"/>
+                        <space n="䶻" quantity="1"/>雲雨之次口四方<space n="䶻" quantity="1"/>璧上天厩十圓黃</seg>
+                    <seg xml:id="KR3fa010_tls_p28.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻" quantity="1"/>
+                        <space n="䶻" quantity="1"/>
+                        <space n="䶻" quantity="1"/>鈇鑕五星羽林旁<space n="䶻" quantity="1"/>土公兩黑壁下藏<space n="䶻䶻" quantity="2"/>
+                    </seg>
+                    <seg xml:id="KR3fa010_tls_p28.s21" state="locked">
+                        <lb n="21" ed="KX"/>摩禾狼十六星十乄半度为又藻为击夜</seg>
+                    <pb ed="KX" n="03-07-008.29" xml:id="KR3fa010_tls_29a"/>
+                    <figure>
+                        <graphic facs="KR3fa010/575F8642_9F15_4082_90FB_CEBD1C30A5DA.png" type="inline"/>
+                    </figure>
+                    <seg xml:id="KR3fa010_tls_p29.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻䶻䶻䶻䶻䶻" quantity="6"/>西方七宿</seg>
+                    <seg xml:id="KR3fa010_tls_p29.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻" quantity="1"/>奎<space n="䶻" quantity="1"/>腰細頭尖似破鞋<space n="䶻䶻" quantity="2"/>一十六星逵鞋生</seg>
+                    <seg xml:id="KR3fa010_tls_p29.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻䶻䶻" quantity="3"/>外屏七鳥奎下橫<space n="䶻䶻" quantity="2"/>屏下七星天溷明</seg>
+                    <seg xml:id="KR3fa010_tls_p29.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻䶻䶻" quantity="3"/>司空之畔土之精<space n="䶻䶻" quantity="2"/>奎上二宿軍南門</seg>
+                    <seg xml:id="KR3fa010_tls_p29.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻䶻䶻" quantity="3"/>河中六箇閣道形<space n="䶻䶻" quantity="2"/>附路一星道旁明</seg>
+                    <seg xml:id="KR3fa010_tls_p29.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻䶻䶻" quantity="3"/>五箇吐花王良星<space n="䶻䶻" quantity="2"/>王良近上一筞明</seg>
+                    <seg xml:id="KR3fa010_tls_p29.s20" state="locked">
+                        <lb n="20" ed="KX"/>娄金狗<space n="䶻" quantity="1"/>三星十三度为與容为代艾<space n="䶻" quantity="1"/>□在氘在为時金<space n="䶻䶻䶻" quantity="3"/>
+                    </seg>
+                    <pb ed="KX" n="03-07-008.30" xml:id="KR3fa010_tls_30a"/>
+                    <figure>
+                        <graphic facs="KR3fa010/D2766249_727D_4366_AFDC_15A3E021781D.png" type="inline"/>
+                    </figure>
+                    <seg xml:id="KR3fa010_tls_p30.s12" state="locked">
+                        <lb n="12" ed="KX"/>婁<space n="䶻" quantity="1"/>三星不勻近一頭<space n="䶻䶻" quantity="2"/>左更右更鳥夾婁</seg>
+                    <seg xml:id="KR3fa010_tls_p30.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>天倉六箇婁下頭<space n="䶻䶻" quantity="2"/>天□三星倉東腳<space n="䶻" quantity="1"/>
+                    </seg>
+                    <seg xml:id="KR3fa010_tls_p30.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>天上十一將軍候</seg>
+                    <seg xml:id="KR3fa010_tls_p30.s21" state="locked">
+                        <lb n="21" ed="KX"/>胃土維三星少度半<space n="䶻" quantity="1"/>为合席为盲戻</seg>
+                    <pb ed="KX" n="03-07-008.31" xml:id="KR3fa010_tls_31a"/>
+                    <figure>
+                        <graphic facs="KR3fa010/41967BA5_F9D5_4BCE_B67B_3221E3D764CD.png" type="inline"/>
+                    </figure>
+                    <seg xml:id="KR3fa010_tls_p31.s12" state="locked">
+                        <lb n="12" ed="KX"/>胃<space n="䶻" quantity="1"/>三星鼎足河之次<space n="䶻䶻" quantity="2"/>天□胃下斜四星</seg>
+                    <seg xml:id="KR3fa010_tls_p31.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>天困十三如乙形<space n="䶻䶻" quantity="2"/>河中八星名大陵</seg>
+                    <seg xml:id="KR3fa010_tls_p31.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>陵北九箇天船名<space n="䶻䶻" quantity="2"/>陵中積尸一箇星<space n="䶻䶻" quantity="2"/>
+                    </seg>
+                    <seg xml:id="KR3fa010_tls_p31.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>積水船中一黑精</seg>
+                    <seg xml:id="KR3fa010_tls_p31.s21" state="locked">
+                        <lb n="21" ed="KX"/>昂日雞七星十一度为白衣为儒林</seg>
+                    <pb ed="KX" n="03-07-008.32" xml:id="KR3fa010_tls_32a"/>
+                    <figure>
+                        <graphic facs="KR3fa010/0DBDEAE3_E4B2_47C7_9EE7_565878990A14.png" type="inline"/>
+                    </figure>
+                    <seg state="locked" xml:id="KR3fa010_tls_p32.s1.1" type="comm">
+                        <lb n="1" ed="KX"/>昂宿天之阳日也河月並主女人灾福天陰主從天子戈□之臣預陰理也</seg>
+                    <seg state="locked" xml:id="KR3fa010_tls_p32.s2.1" type="comm">
+                        <lb n="2" ed="KX"/>蒭藁供牛马之食天尻天子之苑□卷舌主知谗佞□星主谗佞之王八</seg>
+                    <seg state="locked" xml:id="KR3fa010_tls_p32.s3.1" type="comm">
+                        <lb n="3" ed="KX"/>谗佞臣宴砺石主磨砺锋刀</seg>
+                    <seg xml:id="KR3fa010_tls_p32.s12" state="locked">
+                        <lb n="12" ed="KX"/>昂<space n="䶻" quantity="1"/>七星一聚實不少<space n="䶻" quantity="1"/>阿西月東各一星</seg>
+                    <seg xml:id="KR3fa010_tls_p32.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>阿下五黄天陰名<space n="䶻" quantity="1"/>陰下六鳥蒭藁營</seg>
+                    <seg xml:id="KR3fa010_tls_p32.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>營南十六天苑形<space n="䶻" quantity="1"/>河中六星名卷舌</seg>
+                    <seg xml:id="KR3fa010_tls_p32.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>舌中黑點天䜛星<space n="䶻" quantity="1"/>礪石舌旁斜四丁</seg>
+                    <seg xml:id="KR3fa010_tls_p32.s21" state="locked">
+                        <lb n="21" ed="KX"/>畢月烏八星十六度为戈为□田</seg>
+                    <pb ed="KX" n="03-07-008.33" xml:id="KR3fa010_tls_33a"/>
+                    <figure>
+                        <graphic facs="KR3fa010/D157BE93_9312_4502_876A_7EE78260CBF9.png" type="inline"/>
+                    </figure>
+                    <seg xml:id="KR3fa010_tls_p33.s12" state="locked">
+                        <lb n="12" ed="KX"/>畢<space n="䶻" quantity="1"/>恪似瓜久八星出<space n="䶻" quantity="1"/>附耳畢股一星光</seg>
+                    <seg xml:id="KR3fa010_tls_p33.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>天街两星畢背旁<space n="䶻" quantity="1"/>天節耳下八鳥幢</seg>
+                    <seg xml:id="KR3fa010_tls_p33.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>畢上橫列六諸王<space n="䶻" quantity="1"/>王下四皂天高星</seg>
+                    <seg xml:id="KR3fa010_tls_p33.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>節下團圓九州城<space n="䶻" quantity="1"/>畢口斜對五車口</seg>
+                    <seg xml:id="KR3fa010_tls_p33.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>車有三柱任縱橫<space n="䶻" quantity="1"/>車中五箇天潢精</seg>
+                    <seg xml:id="KR3fa010_tls_p33.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>潢畔咸池三黑星<space n="䶻" quantity="1"/>天闗一星車脚邊</seg>
+                    <seg xml:id="KR3fa010_tls_p33.s18" state="locked">
+                        <lb n="18" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>參旗九箇參軍間<space n="䶻" quantity="1"/>旗下宜建九斿連</seg>
+                    <seg state="locked" xml:id="KR3fa010_tls_p33.s19.1" type="comm">
+                        <lb n="19" ed="KX"/>月鸟</seg>
+                    <seg state="locked" xml:id="KR3fa010_tls_p33.s19.2">斿下十三鳥天園九斿天園參脚邊</seg>
+                    <seg state="locked" xml:id="KR3fa010_tls_p33.s20.1" type="comm">
+                        <lb n="20" ed="KX"/>畢八星十六度為□戈为□田在然为月在肖为鳥</seg>
+                    <pb ed="KX" n="03-07-008.34" xml:id="KR3fa010_tls_34a"/>
+                    <figure>
+                        <graphic facs="KR3fa010/AA132AD3_EEA9_4BF3_AD04_544CCCBF59BB.png" type="inline"/>
+                    </figure>
+                    <seg state="locked" xml:id="KR3fa010_tls_p34.s13.1">
+                        <lb n="13" ed="KX"/>觜三星相近作參藥觜上座旗直指天</seg>
+                    <seg state="locked" xml:id="KR3fa010_tls_p34.s13.2" type="comm">尊</seg>
+                    <seg xml:id="KR3fa010_tls_p34.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>尊卑之位九相連<space n="䶻" quantity="1"/>司恠曲立座旗邊</seg>
+                    <seg xml:id="KR3fa010_tls_p34.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>四鴉大近井銊前</seg>
+                    <seg state="locked" xml:id="KR3fa010_tls_p34.s16.1" type="comm">
+                        <lb n="16" ed="KX"/>觜三星一度為葆旅为行商在□为火在肖为猴</seg>
+                    <pb ed="KX" n="03-07-008.35" xml:id="KR3fa010_tls_35a"/>
+                    <figure>
+                        <graphic facs="KR3fa010/069AECB6_471B_4E26_8989_716697655BA0.png" type="inline"/>
+                    </figure>
+                    <seg xml:id="KR3fa010_tls_p35.s12" state="locked">
+                        <lb n="12" ed="KX"/>參<space n="䶻" quantity="1"/>総是七星觜相侵<space n="䶻" quantity="1"/>两肩雙足三為□</seg>
+                    <seg xml:id="KR3fa010_tls_p35.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>伐有三星足裹深<space n="䶻" quantity="1"/>王井四星右足陰</seg>
+                    <seg xml:id="KR3fa010_tls_p35.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>屏星两扇井南襟<space n="䶻" quantity="1"/>軍井四星屏上吟</seg>
+                    <seg xml:id="KR3fa010_tls_p35.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>左足下四天厕臨<space n="䶻" quantity="1"/>厕下一物天屎沉</seg>
+                    <seg state="locked" xml:id="KR3fa010_tls_p35.s16.1" type="comm">
+                        <lb n="16" ed="KX"/>參十星九度為斬艾在□为水在肖为猿</seg>
+                    <seg state="locked" xml:id="KR3fa010_tls_p35.s21.1" type="comm">
+                        <lb n="21" ed="KX"/>月去水泉主选侯□威王公之住銊主月夸浮而斬之兩河南河主火北河主水天樽主盛佅以给贫铭</seg>
+                    <seg state="locked" xml:id="KR3fa010_tls_p35.s22.1" type="comm">
+                        <lb n="22" ed="KX"/>諸□常为常之颖仪積水以供泊積薪以供质用水府主□温流四□江淮河济軍市天</seg>
+                    <pb ed="KX" n="03-07-008.36" xml:id="KR3fa010_tls_36a"/>
+                    <figure>
+                        <graphic facs="KR3fa010/C37CF284_4823_4485_AA4F_A0296DC22F12.png" type="inline"/>
+                    </figure>
+                    <seg state="locked" xml:id="KR3fa010_tls_p36.s8.1" type="comm">
+                        <lb n="8" ed="KX"/>井八星三十一度为水患为行舟<lb type="/"/>在□为木在肖为犴</seg>
+                    <seg xml:id="KR3fa010_tls_p36.s9" state="locked">
+                        <lb n="9" ed="KX"/>
+                        <space n="䶻䶻䶻䶻䶻" quantity="5"/>南方七宿</seg>
+                    <seg xml:id="KR3fa010_tls_p36.s10" state="locked">
+                        <lb n="10" ed="KX"/>井<space n="䶻" quantity="1"/>八星橫列河中靜<space n="䶻" quantity="1"/>一星名越井邊安</seg>
+                    <seg xml:id="KR3fa010_tls_p36.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>兩河各三南北正<space n="䶻" quantity="1"/>天鐏三星井上頭</seg>
+                    <seg xml:id="KR3fa010_tls_p36.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>鐏上橫列五諸侯<space n="䶻" quantity="1"/>侯上北河西積水</seg>
+                    <seg xml:id="KR3fa010_tls_p36.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>欲覔積薪東畔是<space n="䶻" quantity="1"/>銊下四星名水府</seg>
+                    <seg xml:id="KR3fa010_tls_p36.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>水位東畔四星序<space n="䶻" quantity="1"/>四漬橫列南河裹</seg>
+                    <seg xml:id="KR3fa010_tls_p36.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>南河下頭是軍市<space n="䶻" quantity="1"/>軍市團圓十三星</seg>
+                    <seg xml:id="KR3fa010_tls_p36.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>中有一箇野雞精<space n="䶻" quantity="1"/>孫子丈人市下列</seg>
+                    <seg xml:id="KR3fa010_tls_p36.s18" state="locked">
+                        <lb n="18" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>各立兩星從東説<space n="䶻" quantity="1"/>闕丘兩星南河東</seg>
+                    <seg xml:id="KR3fa010_tls_p36.s19" state="locked">
+                        <lb n="19" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>丘下一狼光□茸<space n="䶻" quantity="1"/>左畔九箇孿孤兮</seg>
+                    <seg xml:id="KR3fa010_tls_p36.s20" state="locked">
+                        <lb n="20" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>一矢擬射頑狼胸<space n="䶻" quantity="1"/>有箇老人南極中<space n="䶻䶻" quantity="2"/>
+                    </seg>
+                    <seg xml:id="KR3fa010_tls_p36.s21" state="locked">
+                        <lb n="21" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>春秋出入壽無窮</seg>
+                    <pb ed="KX" n="03-07-008.37" xml:id="KR3fa010_tls_37a"/>
+                    <figure>
+                        <graphic facs="KR3fa010/4507E0F6_07F9_4AB9_B318_1314B5F2B579.png" type="inline"/>
+                    </figure>
+                    <seg xml:id="KR3fa010_tls_p37.s12" state="locked">
+                        <lb n="12" ed="KX"/>鬼<space n="䶻" quantity="1"/>四星冊方似木櫃<space n="䶻" quantity="1"/>中央白者積尸氣</seg>
+                    <seg xml:id="KR3fa010_tls_p37.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>鬼上四星是爟位<space n="䶻" quantity="1"/>天狗七星鬼下是</seg>
+                    <seg xml:id="KR3fa010_tls_p37.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>外厨六間柳星次<space n="䶻" quantity="1"/>天社六星弧東倚<space n="䶻䶻" quantity="2"/>
+                    </seg>
+                    <seg xml:id="KR3fa010_tls_p37.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>社東一星名天記</seg>
+                    <seg state="locked" xml:id="KR3fa010_tls_p37.s16.1" type="comm">
+                        <lb n="16" ed="KX"/>三度为□□为妖孽</seg>
+                    <pb ed="KX" n="03-07-008.38" xml:id="KR3fa010_tls_38a"/>
+                    <figure>
+                        <graphic facs="KR3fa010/9FD87077_6F88_49BE_A33F_C977B50F1C30.png" type="inline"/>
+                    </figure>
+                    <seg xml:id="KR3fa010_tls_p38.s13" state="locked">
+                        <lb n="13" ed="KX"/>柳<space n="䶻" quantity="1"/>八星曲頭垂似柳<space n="䶻" quantity="1"/>近上三星號为酒</seg>
+                    <seg xml:id="KR3fa010_tls_p38.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>享宴大酺五星守</seg>
+                    <seg state="locked" xml:id="KR3fa010_tls_p38.s15.1" type="comm">
+                        <lb n="15" ed="KX"/>柳土獐八星十□度为木□为血</seg>
+                    <pb ed="KX" n="03-07-008.39" xml:id="KR3fa010_tls_39a"/>
+                    <figure>
+                        <graphic facs="KR3fa010/D66B8137_563C_4924_9AA9_37D60F130B03.png" type="inline"/>
+                    </figure>
+                    <seg state="locked" xml:id="KR3fa010_tls_p39.s1.1" type="comm">
+                        <lb n="1" ed="KX"/>星日馬七星七度为□及为非□補註星宿主后妃□女□住为□土軒□主雷雨之神□□</seg>
+                    <seg state="locked" xml:id="KR3fa010_tls_p39.s2.1" type="comm">
+                        <lb n="2" ed="KX"/>之魚也為□□□□天相丞相主□天□主□□</seg>
+                    <seg xml:id="KR3fa010_tls_p39.s12" state="locked">
+                        <lb n="12" ed="KX"/>星<space n="䶻" quantity="1"/>七星如鈎柳下生<space n="䶻䶻䶻䶻䶻" quantity="5"/>星上十七軒轅形</seg>
+                    <seg xml:id="KR3fa010_tls_p39.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>軒轅東頭四內平<space n="䶻䶻䶻䶻䶻" quantity="5"/>平下三箇名天相</seg>
+                    <seg xml:id="KR3fa010_tls_p39.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>相下稷星橫五靈</seg>
+                    <seg state="locked" xml:id="KR3fa010_tls_p39.s15.1" type="comm">
+                        <lb n="15" ed="KX"/>張月鹿六星十九度为遠□為分离</seg>
+                    <pb ed="KX" n="03-07-008.40" xml:id="KR3fa010_tls_40a"/>
+                    <figure>
+                        <graphic facs="KR3fa010/A645BDEA_D4AA_496E_B513_421AC42C1A36.png" type="inline"/>
+                    </figure>
+                    <seg state="locked" xml:id="KR3fa010_tls_p40.s1.1" type="comm">
+                        <lb n="1" ed="KX"/>張宿主太庙□□御史之位天庙天上之祖庙長□主界城乃□夷</seg>
+                    <seg xml:id="KR3fa010_tls_p40.s12" state="locked">
+                        <lb n="12" ed="KX"/>張<space n="䶻" quantity="1"/>六星似軫在星旁<space n="䶻" quantity="1"/>張下只是有天廟</seg>
+                    <seg xml:id="KR3fa010_tls_p40.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>十四之星冊四方<space n="䶻" quantity="1"/>長垣少㣲雖向上</seg>
+                    <seg xml:id="KR3fa010_tls_p40.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>星數欹在太㣲旁<space n="䶻" quantity="1"/>太尊一星直上黃</seg>
+                    <seg state="locked" xml:id="KR3fa010_tls_p40.s21.1" type="comm">
+                        <lb n="21" ed="KX"/>翼火蛀二十二星十八度为能一□□□主化造□□東□□□□也</seg>
+                    <pb ed="KX" n="03-07-008.41" xml:id="KR3fa010_tls_41a"/>
+                    <figure>
+                        <graphic facs="KR3fa010/D26C8F8A_EE19_4587_8ACC_F1486B0AD0DD.png" type="inline"/>
+                    </figure>
+                    <seg xml:id="KR3fa010_tls_p41.s12" state="locked">
+                        <lb n="12" ed="KX"/>翼<space n="䶻" quantity="1"/>二十二星大難識<space n="䶻" quantity="1"/>上五下五橫着行</seg>
+                    <seg xml:id="KR3fa010_tls_p41.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>中心六箇恪似張<space n="䶻" quantity="1"/>更有六星在何處</seg>
+                    <seg xml:id="KR3fa010_tls_p41.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>三三相連張畔附<space n="䶻" quantity="1"/>必着不能分處所</seg>
+                    <seg xml:id="KR3fa010_tls_p41.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>更請向前看野取<space n="䶻" quantity="1"/>五箇黑星翼下頭<space n="䶻䶻" quantity="2"/>
+                    </seg>
+                    <seg xml:id="KR3fa010_tls_p41.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>欲知名字是東甌</seg>
+                    <seg state="locked" xml:id="KR3fa010_tls_p41.s17.1" type="comm">
+                        <lb n="17" ed="KX"/>軫水□四星十八度半为車順为□□</seg>
+                    <pb ed="KX" n="03-07-008.42" xml:id="KR3fa010_tls_42a"/>
+                    <figure>
+                        <graphic facs="KR3fa010/20BAD758_56F1_4378_B661_BE2A72E4EC0F.png" type="inline"/>
+                    </figure>
+                    <seg xml:id="KR3fa010_tls_p42.s12" state="locked">
+                        <lb n="12" ed="KX"/>軫<space n="䶻" quantity="1"/>四星似張翼相近<space n="䶻" quantity="1"/>中央一箇長沙子</seg>
+                    <seg xml:id="KR3fa010_tls_p42.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>左轄右轄附兩星<space n="䶻" quantity="1"/>軍門兩黃近翼是</seg>
+                    <seg xml:id="KR3fa010_tls_p42.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>門西四箇土司空<space n="䶻" quantity="1"/>門東七鳥青丘子</seg>
+                    <seg xml:id="KR3fa010_tls_p42.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>青丘之下名器府<space n="䶻" quantity="1"/>器府之星三十二</seg>
+                    <seg xml:id="KR3fa010_tls_p42.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>已上便是太㣲宫<space n="䶻" quantity="1"/>黃道向上看取是<space n="䶻䶻" quantity="2"/>
+                    </seg>
+                    <pb ed="KX" n="03-07-008.43" xml:id="KR3fa010_tls_43a"/>
+                    <seg xml:id="KR3fa010_tls_p43.s1" state="locked">
+                        <lb n="1" ed="KX"/>天文略後語</seg>
+                    <seg xml:id="KR3fa010_tls_p43.s2" state="locked">
+                        <lb n="2" ed="KX"/>王者齊政一本扵璿璣七正二十八舍十</seg>
+                    <seg xml:id="KR3fa010_tls_p43.s3" state="locked">
+                        <lb n="3" ed="KX"/>母十二子可求其故而知也能諗象者必</seg>
+                    <seg xml:id="KR3fa010_tls_p43.s4" state="locked">
+                        <lb n="4" ed="KX"/>善脩太上脩德其次脩政次脩救次脩穰</seg>
+                    <seg xml:id="KR3fa010_tls_p43.s5" state="locked">
+                        <lb n="5" ed="KX"/>天文之發現明矅與政事最近通乎三五</seg>
+                    <seg xml:id="KR3fa010_tls_p43.s6" state="locked">
+                        <lb n="6" ed="KX"/>終始鮮有否政太史公曰合符節通道德</seg>
+                    <seg xml:id="KR3fa010_tls_p43.s7" state="locked">
+                        <lb n="7" ed="KX"/>即泛殆此謂耶頃有考甘石巫氏經為天</seg>
+                    <seg xml:id="KR3fa010_tls_p43.s8" state="locked">
+                        <lb n="8" ed="KX"/>文圖又有柝垣舍為步天歌者余得而觀</seg>
+                    <seg xml:id="KR3fa010_tls_p43.s9" state="locked">
+                        <lb n="9" ed="KX"/>之以為至精之所□傳懸象之所由悉矣</seg>
+                    <seg xml:id="KR3fa010_tls_p43.s10" state="locked">
+                        <lb n="10" ed="KX"/>有逐能悉其説明時貞度以弼</seg>
+                    <seg xml:id="KR3fa010_tls_p43.s12" state="locked">
+                        <lb n="12" ed="KX"/>國□□知天之绩也若乃演踌占候之法</seg>
+                    <seg xml:id="KR3fa010_tls_p43.s13" state="locked">
+                        <lb n="13" ed="KX"/>自有司存</seg>
+                    <seg xml:id="KR3fa010_tls_p43.s14" state="locked">
+                        <lb n="14" ed="KX"/>明嘉靖壬寅夏德清白蔡汝楠譔</seg>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

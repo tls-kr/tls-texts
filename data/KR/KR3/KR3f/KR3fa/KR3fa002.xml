@@ -1,0 +1,1628 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KR3fa002">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>古周髀算經</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <idno type="kanripo">KR3fa002</idno>
+                </edition>
+            </editionStmt>
+            <extent>
+                <measure unit="char" quantity="6677"/>
+                <date when-iso="2023-06-03T16:15:51.59+09:00"/>
+            </extent>
+            <publicationStmt>
+                <p>Published electronically</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>[題[漢]趙君卿注[明]朱載堉圖解　 版本信息[明刻本]</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <catRef scheme="#kr-categories" target="#KR3fa"/>
+            </textClass>
+            <creation/>
+        </profileDesc>
+        <encodingDesc>
+            <variantEncoding location="external" method="double-end-point"/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <p>
+                    <pb ed="KX" n="03-07-003.1" xml:id="KR3fa002_tls_1a"/>
+                    <head xml:id="KR3fa002_tls_p1.s1-h">
+                        <seg xml:id="KR3fa002_tls_p1.s1" state="locked">
+                            <lb n="1" ed="KX"/>圓方句股圖解序</seg>
+                    </head>
+                    <seg xml:id="KR3fa002_tls_p1.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻䶻䶻䶻䶻䶻䶻䶻䶻䶻䶻" quantity="11"/>後學載堉著</seg>
+                    <seg xml:id="KR3fa002_tls_p1.s3" state="locked">
+                        <lb n="3" ed="KX"/>圓方句股之説出於古周髀筭經者周公之</seg>
+                    <seg xml:id="KR3fa002_tls_p1.s4" state="locked">
+                        <lb n="4" ed="KX"/>遺書也舊有圖解若干趙君卿所撰也新增</seg>
+                    <seg xml:id="KR3fa002_tls_p1.s5" state="locked">
+                        <lb n="5" ed="KX"/>圖解若干余所撰也夫新增者何爲而作耶</seg>
+                    <seg xml:id="KR3fa002_tls_p1.s6" state="locked">
+                        <lb n="6" ed="KX"/>余觀諸家筭術最疎謬者莫如圓田之屬蓋</seg>
+                    <seg xml:id="KR3fa002_tls_p1.s7" state="locked">
+                        <lb n="7" ed="KX"/>彼尊信圍三徑一舊率而執守之不肯運一</seg>
+                    <seg xml:id="KR3fa002_tls_p1.s8" state="locked">
+                        <lb n="8" ed="KX"/>規於壁間以尺量之較其是否儒者之學以</seg>
+                    <pb ed="KX" n="03-07-003.1" xml:id="KR3fa002_tls_1b"/>
+                    <seg xml:id="KR3fa002_tls_p1.s10" state="locked">
+                        <lb n="10" ed="KX"/>格物窮理爲先務數居六藝之一規矩方圓</seg>
+                    <seg xml:id="KR3fa002_tls_p1.s11" state="locked">
+                        <lb n="11" ed="KX"/>之至此最易察者而尚莫能辨何況理之玄</seg>
+                    <seg xml:id="KR3fa002_tls_p1.s12" state="locked">
+                        <lb n="12" ed="KX"/>奧者乎無待運規不拘何等圓器但周徑分</seg>
+                    <seg xml:id="KR3fa002_tls_p1.s13" state="locked">
+                        <lb n="13" ed="KX"/>明者皆可較耳用紙一條圍器一周均作三</seg>
+                    <seg xml:id="KR3fa002_tls_p1.s14" state="locked">
+                        <lb n="14" ed="KX"/>折以較其徑顯然不相合矣是知圍三徑一</seg>
+                    <seg xml:id="KR3fa002_tls_p1.s15" state="locked">
+                        <lb n="15" ed="KX"/>之説姑舉大槩而言非密率也古周髀筭經</seg>
+                    <seg xml:id="KR3fa002_tls_p1.s16" state="locked">
+                        <lb n="16" ed="KX"/>首章載周公與商高相問荅此理甚明後人</seg>
+                    <seg xml:id="KR3fa002_tls_p1.s17" state="locked">
+                        <lb n="17" ed="KX"/>續以圍三徑一之術蓋傳訛也商高所謂圓</seg>
+                    <pb ed="KX" n="03-07-003.2" xml:id="KR3fa002_tls_2a"/>
+                    <seg xml:id="KR3fa002_tls_p2.s1" state="locked">
+                        <lb n="1" ed="KX"/>出於方方出於矩矩出於九九八十一又曰</seg>
+                    <seg xml:id="KR3fa002_tls_p2.s2" state="locked">
+                        <lb n="2" ed="KX"/>環矩以爲圓合矩以爲方方屬地圓屬天天</seg>
+                    <seg xml:id="KR3fa002_tls_p2.s3" state="locked">
+                        <lb n="3" ed="KX"/>圓地方方數爲典以方出圓今詳其意謂書</seg>
+                    <seg xml:id="KR3fa002_tls_p2.s4" state="locked">
+                        <lb n="4" ed="KX"/>方形若棋盤紋每行九寸九行共有八十一</seg>
+                    <seg xml:id="KR3fa002_tls_p2.s5" state="locked">
+                        <lb n="5" ed="KX"/>寸却於四隅之外運規爲圓與四隅適相投</seg>
+                    <seg xml:id="KR3fa002_tls_p2.s6" state="locked">
+                        <lb n="6" ed="KX"/>較量四面方外餘圓各長一尺則其一周共</seg>
+                    <seg xml:id="KR3fa002_tls_p2.s7" state="locked">
+                        <lb n="7" ed="KX"/>有四尺是謂出於矩耳傳曰不以規矩不能</seg>
+                    <seg xml:id="KR3fa002_tls_p2.s8" state="locked">
+                        <lb n="8" ed="KX"/>成方圓此之謂也今之學者小九九尚不熟</seg>
+                    <pb ed="KX" n="03-07-003.2" xml:id="KR3fa002_tls_2b"/>
+                    <seg xml:id="KR3fa002_tls_p2.s10" state="locked">
+                        <lb n="10" ed="KX"/>何況以語其圓率之疎密也哉卽有通筭者</seg>
+                    <seg xml:id="KR3fa002_tls_p2.s11" state="locked">
+                        <lb n="11" ed="KX"/>亦以爲丈量田地不過得其大略摠差一二</seg>
+                    <seg xml:id="KR3fa002_tls_p2.s12" state="locked">
+                        <lb n="12" ed="KX"/>步何妨也殊不知聖人設此術豈專爲圓田</seg>
+                    <seg xml:id="KR3fa002_tls_p2.s13" state="locked">
+                        <lb n="13" ed="KX"/>耶大而璇璣玉衡小而黃鐘玉琯凡爲圓器</seg>
+                    <seg xml:id="KR3fa002_tls_p2.s14" state="locked">
+                        <lb n="14" ed="KX"/>必求周徑豈容一秒一忽而有錯誤寧於求</seg>
+                    <seg xml:id="KR3fa002_tls_p2.s15" state="locked">
+                        <lb n="15" ed="KX"/>圓之謬而竟不之察乎今編此書難採古人</seg>
+                    <seg xml:id="KR3fa002_tls_p2.s16" state="locked">
+                        <lb n="16" ed="KX"/>成説而獨詳於求圓一事蓋欲微顯闡幽補</seg>
+                    <seg xml:id="KR3fa002_tls_p2.s17" state="locked">
+                        <lb n="17" ed="KX"/>其闕略而已</seg>
+                    <pb ed="KX" n="03-07-003.3" xml:id="KR3fa002_tls_3a"/>
+                    <seg xml:id="KR3fa002_tls_p3.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻" quantity="1"/>方圓密率筭術周徑羃積相求</seg>
+                    <seg xml:id="KR3fa002_tls_p3.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻" quantity="1"/>周求徑者置周全數九因四十除之所得</seg>
+                    <seg xml:id="KR3fa002_tls_p3.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻" quantity="1"/>自乗倍之爲實開平方法除之得徑徑求</seg>
+                    <seg xml:id="KR3fa002_tls_p3.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻" quantity="1"/>周者置徑全數自乗半之爲實開平方法</seg>
+                    <seg xml:id="KR3fa002_tls_p3.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻" quantity="1"/>除之所得四十乗之九歸得周周求面羃</seg>
+                    <seg xml:id="KR3fa002_tls_p3.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻" quantity="1"/>者置周全數九因四十除之所得自乗倍</seg>
+                    <seg xml:id="KR3fa002_tls_p3.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻" quantity="1"/>之爲實又自乘畢以一百乗之一百六十</seg>
+                    <seg xml:id="KR3fa002_tls_p3.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻" quantity="1"/>二除之所得爲實開平方法除之得面羃</seg>
+                    <pb ed="KX" n="03-07-003.3" xml:id="KR3fa002_tls_3b"/>
+                    <seg xml:id="KR3fa002_tls_p3.s10" state="locked">
+                        <lb n="10" ed="KX"/>
+                        <space n="䶻" quantity="1"/>徑求面羃者置徑全數自乗爲實又自乗</seg>
+                    <seg xml:id="KR3fa002_tls_p3.s11" state="locked">
+                        <lb n="11" ed="KX"/>
+                        <space n="䶻" quantity="1"/>畢一百乗之一百六十二除之所得爲實</seg>
+                    <seg xml:id="KR3fa002_tls_p3.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻" quantity="1"/>開平方法除之得面羃面羃求周及徑者</seg>
+                    <seg xml:id="KR3fa002_tls_p3.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻" quantity="1"/>置面羃全數自乗所得一百六十二乗之</seg>
+                    <seg xml:id="KR3fa002_tls_p3.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻" quantity="1"/>一百除之爲實開平方法除之所得副置</seg>
+                    <seg xml:id="KR3fa002_tls_p3.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻" quantity="1"/>其一折半爲實開平方法除之所得四十</seg>
+                    <seg xml:id="KR3fa002_tls_p3.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻" quantity="1"/>乗之九歸得周其一則不折半但以開平</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p3.s17.1">
+                        <lb n="17" ed="KX"/>方法除之得徑</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p3.s17.2" type="comm"> 此乃周公所撰而筭<lb type="/"/> 家失其傳故表出之</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p3.s17.3"> </seg>
+                    <pb ed="KX" n="03-07-003.4" xml:id="KR3fa002_tls_4a"/>
+                    <head xml:id="KR3fa002_tls_p4.s1-h">
+                        <seg xml:id="KR3fa002_tls_p4.s1" state="locked">
+                            <lb n="1" ed="KX"/>圓方圖解凡例</seg>
+                    </head>
+                    <seg xml:id="KR3fa002_tls_p4.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻" quantity="1"/>一蓋天之學固疎於渾天然而中間以方</seg>
+                    <seg xml:id="KR3fa002_tls_p4.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>測圓一節實是玄妙不可以其所短棄</seg>
+                    <seg xml:id="KR3fa002_tls_p4.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>其所長也況一切筭書泥於圍三徑一</seg>
+                    <seg xml:id="KR3fa002_tls_p4.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>疎舛之率雖劉徽主蕃祖沖之輩素號</seg>
+                    <seg xml:id="KR3fa002_tls_p4.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>知筭創制密率名密實疎不如周髀所</seg>
+                    <seg xml:id="KR3fa002_tls_p4.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>載實乃古法以其深奧世莫能曉雖趙</seg>
+                    <seg xml:id="KR3fa002_tls_p4.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>君卿李淳風等尚未究其根柢沖之輩</seg>
+                    <pb ed="KX" n="03-07-003.4" xml:id="KR3fa002_tls_4b"/>
+                    <seg xml:id="KR3fa002_tls_p4.s10" state="locked">
+                        <lb n="10" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>豈能識之歟今擇圓方筭率一段而表</seg>
+                    <seg xml:id="KR3fa002_tls_p4.s11" state="locked">
+                        <lb n="11" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>章之以爲圓方密率之本源也</seg>
+                    <seg xml:id="KR3fa002_tls_p4.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻" quantity="1"/>一君卿舊註煩者刪之斷者續之不必盡</seg>
+                    <seg xml:id="KR3fa002_tls_p4.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>依舊註</seg>
+                    <seg xml:id="KR3fa002_tls_p4.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻" quantity="1"/>一除圓內容方筭率外凡係天文曆法今</seg>
+                    <seg xml:id="KR3fa002_tls_p4.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>並不述</seg>
+                    <seg xml:id="KR3fa002_tls_p4.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻" quantity="1"/>一舊有圖若干新添圖若干各隨經文次</seg>
+                    <seg xml:id="KR3fa002_tls_p4.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>序列之</seg>
+                    <pb ed="KX" n="03-07-003.5" xml:id="KR3fa002_tls_5a"/>
+                    <figure>
+                        <graphic facs="KR3fa002/4873234D_BD6E_455B_BCDD_A9689B674C5F.png" type="inline"/>
+                    </figure>
+                    <seg state="locked" xml:id="KR3fa002_tls_p5.s1.1">
+                        <lb n="1" ed="KX"/>圍三徑一圖解</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p5.s1.2" type="comm">內徑一尺而六面各五寸<lb type="/"/>五六三十是名圍三徑一</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p5.s16.1" type="comm">
+                        <lb n="16" ed="KX"/>夫圍三徑一乃六角田之圍徑內層是也<lb type="/"/>外層圓田則非圍三徑一觀此圖雖愚夫</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p5.s17.1" type="comm">
+                        <lb n="17" ed="KX"/>愚婦可以知其理矣善筭名家返執守之<lb type="/"/>認爲圓率豈非最謬也哉</seg>
+                    <pb ed="KX" n="03-07-003.6" xml:id="KR3fa002_tls_6a"/>
+                    <figure>
+                        <graphic facs="KR3fa002/2C44438C_B680_4E2C_82DF_1BA0DB1DD936.png" type="inline"/>
+                    </figure>
+                    <seg state="locked" xml:id="KR3fa002_tls_p6.s1.1">
+                        <lb n="1" ed="KX"/>求圓於方圖解</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p6.s1.2" type="comm">商高曰數之法出於圓方<lb type="/"/>圓出於方方出於矩卽此</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p6.s16.1" type="comm">
+                        <lb n="16" ed="KX"/>先畫方形若棋盤紋每面九行每行九寸<lb type="/"/>共計九九八十一寸後於四隅運規爲圓</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p6.s17.1" type="comm">
+                        <lb n="17" ed="KX"/>與四隅適相投却量方外四面之圓共計<lb type="/"/>四十寸所謂圓出於方也</seg>
+                    <pb ed="KX" n="03-07-003.7" xml:id="KR3fa002_tls_7a"/>
+                    <seg xml:id="KR3fa002_tls_p7.s1" state="locked">
+                        <lb n="1" ed="KX"/>周髀序</seg>
+                    <seg xml:id="KR3fa002_tls_p7.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻䶻䶻䶻䶻䶻䶻䶻䶻䶻" quantity="10"/>後漢趙君卿撰</seg>
+                    <seg xml:id="KR3fa002_tls_p7.s3" state="locked">
+                        <lb n="3" ed="KX"/>夫高而大者莫大於天厚而廣者莫廣於地</seg>
+                    <seg xml:id="KR3fa002_tls_p7.s4" state="locked">
+                        <lb n="4" ed="KX"/>體恢宏而廓落形脩廣而幽清可以玄象課</seg>
+                    <seg xml:id="KR3fa002_tls_p7.s5" state="locked">
+                        <lb n="5" ed="KX"/>其進退然而弘遠不可指掌也可以晷儀驗</seg>
+                    <seg xml:id="KR3fa002_tls_p7.s6" state="locked">
+                        <lb n="6" ed="KX"/>其長知然而巨闊不可度量也雖窮神知化</seg>
+                    <seg xml:id="KR3fa002_tls_p7.s7" state="locked">
+                        <lb n="7" ed="KX"/>不能極其妙探賾索隱不能盡其微是以詭</seg>
+                    <seg xml:id="KR3fa002_tls_p7.s8" state="locked">
+                        <lb n="8" ed="KX"/>異之説出則兩端之理生遂有渾天蓋天兼</seg>
+                    <pb ed="KX" n="03-07-003.7" xml:id="KR3fa002_tls_7b"/>
+                    <seg xml:id="KR3fa002_tls_p7.s10" state="locked">
+                        <lb n="10" ed="KX"/>而並之故能彌綸天地之道有以見天地之</seg>
+                    <seg xml:id="KR3fa002_tls_p7.s11" state="locked">
+                        <lb n="11" ed="KX"/>賾則渾天有靈憲之文蓋天有周髀之法累</seg>
+                    <seg xml:id="KR3fa002_tls_p7.s12" state="locked">
+                        <lb n="12" ed="KX"/>代存之官司是掌所以欽若昊天恭授民時</seg>
+                    <seg xml:id="KR3fa002_tls_p7.s13" state="locked">
+                        <lb n="13" ed="KX"/>爽以暗蔽才學淺昧憐高山之仰止慕景行</seg>
+                    <seg xml:id="KR3fa002_tls_p7.s14" state="locked">
+                        <lb n="14" ed="KX"/>之軌轍負薪餘日聊觀周髀其旨約而遠其</seg>
+                    <seg xml:id="KR3fa002_tls_p7.s15" state="locked">
+                        <lb n="15" ed="KX"/>言曲而中將恐廢替濡滯不通使談天者無</seg>
+                    <seg xml:id="KR3fa002_tls_p7.s16" state="locked">
+                        <lb n="16" ed="KX"/>所取則輒依經爲圖仍冀頺毀重級之牆披</seg>
+                    <seg xml:id="KR3fa002_tls_p7.s17" state="locked">
+                        <lb n="17" ed="KX"/>露堂室之奧庶博物君子時逈思焉</seg>
+                    <pb ed="KX" n="03-07-003.8" xml:id="KR3fa002_tls_8a"/>
+                    <head xml:id="KR3fa002_tls_p8.s1-h">
+                        <seg xml:id="KR3fa002_tls_p8.s1" state="locked">
+                            <lb n="1" ed="KX"/>古周髀筭經</seg>
+                    </head>
+                    <seg xml:id="KR3fa002_tls_p8.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻䶻䶻䶻䶻䶻䶻䶻䶻䶻" quantity="10"/>後漢趙君卿註</seg>
+                    <seg xml:id="KR3fa002_tls_p8.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻䶻䶻䶻䶻䶻䶻䶻䶻䶻" quantity="10"/>後學載堉圍解</seg>
+                    <seg xml:id="KR3fa002_tls_p8.s4" state="locked">
+                        <lb n="4" ed="KX"/>昔者周公問於商高曰竊聞乎大夫善數也</seg>
+                    <seg xml:id="KR3fa002_tls_p8.s5" state="locked">
+                        <lb n="5" ed="KX"/>請部古者包犠立周天曆度夫天不可階而</seg>
+                    <seg xml:id="KR3fa002_tls_p8.s6" state="locked">
+                        <lb n="6" ed="KX"/>升地不可尺寸而度請問數安從出</seg>
+                    <seg xml:id="KR3fa002_tls_p8.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻" quantity="1"/>趙君卿註曰商高周時賢大夫善筭者也</seg>
+                    <seg xml:id="KR3fa002_tls_p8.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻" quantity="1"/>以商高善數請問其目</seg>
+                    <pb ed="KX" n="03-07-003.8" xml:id="KR3fa002_tls_8b"/>
+                    <seg xml:id="KR3fa002_tls_p8.s10" state="locked">
+                        <lb n="10" ed="KX"/>商高曰數之法出於圓方圓出於方方出於</seg>
+                    <seg xml:id="KR3fa002_tls_p8.s11" state="locked">
+                        <lb n="11" ed="KX"/>矩矩出於九九八十一</seg>
+                    <seg xml:id="KR3fa002_tls_p8.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻" quantity="1"/>趙君卿註曰圓方者天地之形陰陽之數</seg>
+                    <seg xml:id="KR3fa002_tls_p8.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻" quantity="1"/>圓規之數理之以方方同匝也方正之物</seg>
+                    <seg xml:id="KR3fa002_tls_p8.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻" quantity="1"/>出之以矩矩廣長也推圓方之率適廣長</seg>
+                    <seg xml:id="KR3fa002_tls_p8.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻" quantity="1"/>之數須乗除以計之九九者乗除之原也</seg>
+                    <seg xml:id="KR3fa002_tls_p8.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻" quantity="1"/>又曰此言求圓於方之法萬物周事而圓</seg>
+                    <seg xml:id="KR3fa002_tls_p8.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻" quantity="1"/>方用焉大匠造制而規矩設焉或毀方而</seg>
+                    <pb ed="KX" n="03-07-003.9" xml:id="KR3fa002_tls_9a"/>
+                    <figure>
+                        <graphic facs="KR3fa002/73495A45_466D_4EB4_9FEA_58EA90794920.png" type="inline"/>
+                    </figure>
+                    <seg xml:id="KR3fa002_tls_p9.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻" quantity="1"/>爲圓或破圓而爲方方中爲圓者謂之圓</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p9.s2.1">
+                        <lb n="2" ed="KX"/>方圓中爲方者謂之方圓</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p9.s2.2" type="comm">中當<lb type="/"/>作外</seg>
+                    <pb ed="KX" n="03-07-003.9" xml:id="KR3fa002_tls_9b"/>
+                    <seg state="locked" xml:id="KR3fa002_tls_p9.s8.1">
+                        <lb n="8" ed="KX"/>已上二圖舊本原有</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p9.s8.2" type="comm">此言求圓<lb type="/"/>於方之法</seg>
+                    <pb ed="KX" n="03-07-003.9" xml:id="KR3fa002_tls_9b"/>
+                    <pb ed="KX" n="03-07-003.9" xml:id="KR3fa002_tls_9b"/>
+                    <figure>
+                        <graphic facs="KR3fa002/E88324CB_5FB3_45BD_B4F0_10C7554D1F16.png" type="inline"/>
+                    </figure>
+                    <pb ed="KX" n="03-07-003.10" xml:id="KR3fa002_tls_10a"/>
+                    <seg xml:id="KR3fa002_tls_p10.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻" quantity="1"/>載堉圖解曰今有方池一所每面方一尺</seg>
+                    <seg xml:id="KR3fa002_tls_p10.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻" quantity="1"/>欲要改爲圓池問圓池周徑各幾何</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p10.s3.1">
+                        <lb n="3" ed="KX"/>荅曰周四尺四寸四分</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p10.s3.2" type="comm">四釐四毫四絲<lb type="/"/>四忽四微四纖</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p10.s4.1">
+                        <lb n="4" ed="KX"/>徑一尺四寸一分</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p10.s4.2" type="comm">四釐二毫一絲<lb type="/"/>三忽五微六纖</seg>
+                    <seg xml:id="KR3fa002_tls_p10.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻" quantity="1"/>法曰置方一尺以四十乗之九歸得四尺</seg>
+                    <seg xml:id="KR3fa002_tls_p10.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻" quantity="1"/>四寸四分有奇卽周又置方一尺以一尺</seg>
+                    <seg xml:id="KR3fa002_tls_p10.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻" quantity="1"/>四寸一分四釐二毫一絲三忽五微六纖</seg>
+                    <seg xml:id="KR3fa002_tls_p10.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻" quantity="1"/>乗之一尺除之所得卽徑</seg>
+                    <pb ed="KX" n="03-07-003.10" xml:id="KR3fa002_tls_10b"/>
+                    <pb ed="KX" n="03-07-003.10" xml:id="KR3fa002_tls_10b"/>
+                    <pb ed="KX" n="03-07-003.11" xml:id="KR3fa002_tls_11a"/>
+                    <seg xml:id="KR3fa002_tls_p11.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻" quantity="1"/>載堉圖解曰今有方池一所每面方二尺</seg>
+                    <seg xml:id="KR3fa002_tls_p11.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻" quantity="1"/>欲要改爲圓池問圓池周徑各幾何</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p11.s3.1">
+                        <lb n="3" ed="KX"/>荅曰周八尺八寸八分</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p11.s3.2" type="comm"> 分釐八毫八絲<lb type="/"/> 八忽八微八纖</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p11.s3.3"> </seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p11.s4.1">
+                        <lb n="4" ed="KX"/>徑二尺八寸二分</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p11.s4.2" type="comm"> 八釐四毫二絲<lb type="/"/> 七忽一微二纖</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p11.s4.3"> </seg>
+                    <seg xml:id="KR3fa002_tls_p11.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻" quantity="1"/>法曰置方二尺以四十乗之九歸得八尺</seg>
+                    <seg xml:id="KR3fa002_tls_p11.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻" quantity="1"/>八寸八分有奇卽周又置方二尺以一尺</seg>
+                    <seg xml:id="KR3fa002_tls_p11.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻" quantity="1"/>四寸一分四釐二毫一絲三忽五微六纖</seg>
+                    <seg xml:id="KR3fa002_tls_p11.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻" quantity="1"/>乗之一尺除之所得卽徑</seg>
+                    <pb ed="KX" n="03-07-003.11" xml:id="KR3fa002_tls_11b"/>
+                    <pb ed="KX" n="03-07-003.11" xml:id="KR3fa002_tls_11b"/>
+                    <pb ed="KX" n="03-07-003.12" xml:id="KR3fa002_tls_12a"/>
+                    <seg xml:id="KR3fa002_tls_p12.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻" quantity="1"/>載堉圖解曰今有方池一所每面方三尺</seg>
+                    <seg xml:id="KR3fa002_tls_p12.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻" quantity="1"/>欲要改爲圓池問圓池周徑各幾何</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p12.s3.1">
+                        <lb n="3" ed="KX"/>荅曰周一丈三尺三寸三分</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p12.s3.2" type="comm">三釐三毫三<lb type="/"/>絲三忽三微</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p12.s4.1">
+                        <lb n="4" ed="KX"/>徑四尺二寸四分</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p12.s4.2" type="comm">二釐六毫四絲<lb type="/"/>忽六微八纖</seg>
+                    <seg xml:id="KR3fa002_tls_p12.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻" quantity="1"/>法曰置方三尺以四十乗之九歸得一丈</seg>
+                    <seg xml:id="KR3fa002_tls_p12.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻" quantity="1"/>三尺三寸三分有奇卽周又置方三尺以</seg>
+                    <seg xml:id="KR3fa002_tls_p12.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻" quantity="1"/>一尺四寸一分四釐二毫一絲三忽五微</seg>
+                    <seg xml:id="KR3fa002_tls_p12.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻" quantity="1"/>六纖乗之一尺除之所得卽徑</seg>
+                    <pb ed="KX" n="03-07-003.12" xml:id="KR3fa002_tls_12b"/>
+                    <pb ed="KX" n="03-07-003.12" xml:id="KR3fa002_tls_12b"/>
+                    <figure>
+                        <graphic facs="KR3fa002/4AC771F4_2E5B_4FEA_9D8D_833FCF3CB7E9.png" type="inline"/>
+                    </figure>
+                    <pb ed="KX" n="03-07-003.13" xml:id="KR3fa002_tls_13a"/>
+                    <seg xml:id="KR3fa002_tls_p13.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻" quantity="1"/>載堉圖解曰今有方池一所每面方四尺</seg>
+                    <seg xml:id="KR3fa002_tls_p13.s2" state="locked">
+                        <lb n="2" ed="KX"/>欲要改爲圓池問圓池周徑各幾何</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p13.s3.1">
+                        <lb n="3" ed="KX"/>荅曰周一丈七尺七寸七分</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p13.s3.2" type="comm">七釐七毫七<lb type="/"/>絲七忽七微</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p13.s4.1">
+                        <lb n="4" ed="KX"/>徑五尺六寸五分</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p13.s4.2" type="comm">六釐八毫五絲<lb type="/"/>四忽二微四纖</seg>
+                    <seg xml:id="KR3fa002_tls_p13.s5" state="locked">
+                        <lb n="5" ed="KX"/>法曰置方四尺以四十乗之九歸得一丈</seg>
+                    <seg xml:id="KR3fa002_tls_p13.s6" state="locked">
+                        <lb n="6" ed="KX"/>七尺七寸七分有奇卽周又置方四尺以</seg>
+                    <seg xml:id="KR3fa002_tls_p13.s7" state="locked">
+                        <lb n="7" ed="KX"/>一尺四寸一分四釐二毫一絲三忽五微</seg>
+                    <seg xml:id="KR3fa002_tls_p13.s8" state="locked">
+                        <lb n="8" ed="KX"/>六纖乗之一尺除之所得卽徑</seg>
+                    <pb ed="KX" n="03-07-003.13" xml:id="KR3fa002_tls_13b"/>
+                    <pb ed="KX" n="03-07-003.13" xml:id="KR3fa002_tls_13b"/>
+                    <figure>
+                        <graphic facs="KR3fa002/CE6DDFF8_5B22_414D_A610_78467E35F80E.png" type="inline"/>
+                    </figure>
+                    <pb ed="KX" n="03-07-003.14" xml:id="KR3fa002_tls_14a"/>
+                    <seg xml:id="KR3fa002_tls_p14.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻" quantity="1"/>載堉圖解曰今有方池一所每面方五尺</seg>
+                    <seg xml:id="KR3fa002_tls_p14.s2" state="locked">
+                        <lb n="2" ed="KX"/>欲要改爲圓池問圓池周徑各幾何</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p14.s3.1">
+                        <lb n="3" ed="KX"/>荅曰周二丈二尺二寸二分</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p14.s3.2" type="comm">二釐二毫二<lb type="/"/>絲二忽二微</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p14.s4.1">
+                        <lb n="4" ed="KX"/>徑七尺寸七分</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p14.s4.2" type="comm">一釐毫六<lb type="/"/>絲七忽六微</seg>
+                    <seg xml:id="KR3fa002_tls_p14.s5" state="locked">
+                        <lb n="5" ed="KX"/>法曰置方五尺以四十乗之九歸得二丈</seg>
+                    <seg xml:id="KR3fa002_tls_p14.s6" state="locked">
+                        <lb n="6" ed="KX"/>二尺二寸二分有奇卽周又置方五尺以</seg>
+                    <seg xml:id="KR3fa002_tls_p14.s7" state="locked">
+                        <lb n="7" ed="KX"/>一尺四寸一分四釐二毫一絲三忽五微</seg>
+                    <seg xml:id="KR3fa002_tls_p14.s8" state="locked">
+                        <lb n="8" ed="KX"/>六纖乗之一尺除之所得卽徑</seg>
+                    <pb ed="KX" n="03-07-003.14" xml:id="KR3fa002_tls_14b"/>
+                    <pb ed="KX" n="03-07-003.14" xml:id="KR3fa002_tls_14b"/>
+                    <figure>
+                        <graphic facs="KR3fa002/14DA7B4D_F898_46A4_AB5D_CD9B2B77A4F5.png" type="inline"/>
+                    </figure>
+                    <pb ed="KX" n="03-07-003.15" xml:id="KR3fa002_tls_15a"/>
+                    <seg xml:id="KR3fa002_tls_p15.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻" quantity="1"/>載堉圖解曰今有方池一所每面方六尺</seg>
+                    <seg xml:id="KR3fa002_tls_p15.s2" state="locked">
+                        <lb n="2" ed="KX"/>欲要改爲圓池問圓池周徑各幾何</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p15.s3.1">
+                        <lb n="3" ed="KX"/>荅曰周二丈六尺六寸六分</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p15.s3.2" type="comm">六釐六毫六<lb type="/"/>絲六忽六微</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p15.s4.1">
+                        <lb n="4" ed="KX"/>徑八尺四寸八分</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p15.s4.2" type="comm">五釐二毫八絲<lb type="/"/>一忽三微六纖</seg>
+                    <seg xml:id="KR3fa002_tls_p15.s5" state="locked">
+                        <lb n="5" ed="KX"/>法曰置方六尺以四十乗之九歸得二丈</seg>
+                    <seg xml:id="KR3fa002_tls_p15.s6" state="locked">
+                        <lb n="6" ed="KX"/>六尺六寸六分有奇卽周又置方六尺以</seg>
+                    <seg xml:id="KR3fa002_tls_p15.s7" state="locked">
+                        <lb n="7" ed="KX"/>一尺四寸一分四釐二毫一絲三忽五微</seg>
+                    <seg xml:id="KR3fa002_tls_p15.s8" state="locked">
+                        <lb n="8" ed="KX"/>六纖乗之一尺除之所得卽徑</seg>
+                    <pb ed="KX" n="03-07-003.15" xml:id="KR3fa002_tls_15b"/>
+                    <pb ed="KX" n="03-07-003.15" xml:id="KR3fa002_tls_15b"/>
+                    <figure>
+                        <graphic facs="KR3fa002/32FA8631_59D0_4601_89D6_B2F17F0FF411.png" type="inline"/>
+                    </figure>
+                    <pb ed="KX" n="03-07-003.16" xml:id="KR3fa002_tls_16a"/>
+                    <seg xml:id="KR3fa002_tls_p16.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻" quantity="1"/>載堉圖解曰今有方池一所每面方七尺</seg>
+                    <seg xml:id="KR3fa002_tls_p16.s2" state="locked">
+                        <lb n="2" ed="KX"/>欲要改爲圓池問圓池周徑各幾何</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p16.s3.1">
+                        <lb n="3" ed="KX"/>荅曰周三丈一尺一寸一分</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p16.s3.2" type="comm">一釐一毫一<lb type="/"/>絲一忽一微</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p16.s4.1">
+                        <lb n="4" ed="KX"/>徑九尺八寸九分</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p16.s4.2" type="comm">九釐四毫九絲<lb type="/"/>四忽九微二纖</seg>
+                    <seg xml:id="KR3fa002_tls_p16.s5" state="locked">
+                        <lb n="5" ed="KX"/>法曰置方七尺以四十乗之九歸得三丈</seg>
+                    <seg xml:id="KR3fa002_tls_p16.s6" state="locked">
+                        <lb n="6" ed="KX"/>一尺一寸一分有奇卽周又置方七尺以</seg>
+                    <seg xml:id="KR3fa002_tls_p16.s7" state="locked">
+                        <lb n="7" ed="KX"/>一尺四寸一分四釐二毫一絲三忽五微</seg>
+                    <seg xml:id="KR3fa002_tls_p16.s8" state="locked">
+                        <lb n="8" ed="KX"/>六纖乗之一尺除之所得卽徑</seg>
+                    <pb ed="KX" n="03-07-003.16" xml:id="KR3fa002_tls_16b"/>
+                    <pb ed="KX" n="03-07-003.16" xml:id="KR3fa002_tls_16b"/>
+                    <figure>
+                        <graphic facs="KR3fa002/2AF98C5D_8A58_4C6E_A74F_5153F98A7767.png" type="inline"/>
+                    </figure>
+                    <pb ed="KX" n="03-07-003.17" xml:id="KR3fa002_tls_17a"/>
+                    <seg xml:id="KR3fa002_tls_p17.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻" quantity="1"/>載堉圖解曰今有方池一所每面方八尺</seg>
+                    <seg xml:id="KR3fa002_tls_p17.s2" state="locked">
+                        <lb n="2" ed="KX"/>欲要改爲圓池問圓池周徑各幾何</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p17.s3.1">
+                        <lb n="3" ed="KX"/>荅曰周三丈五尺五寸五分</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p17.s3.2" type="comm">五釐五毫五<lb type="/"/>絲五忽五微</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p17.s4.1">
+                        <lb n="4" ed="KX"/>徑一丈一尺三寸一分</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p17.s4.2" type="comm">三釐七毫<lb type="/"/>絲八忽四微</seg>
+                    <seg xml:id="KR3fa002_tls_p17.s5" state="locked">
+                        <lb n="5" ed="KX"/>法曰置方八尺以四十乗之九歸得三丈</seg>
+                    <seg xml:id="KR3fa002_tls_p17.s6" state="locked">
+                        <lb n="6" ed="KX"/>五尺五寸五分有奇卽周又置方八尺以</seg>
+                    <seg xml:id="KR3fa002_tls_p17.s7" state="locked">
+                        <lb n="7" ed="KX"/>一尺四寸一分四釐二毫一絲三忽五微</seg>
+                    <seg xml:id="KR3fa002_tls_p17.s8" state="locked">
+                        <lb n="8" ed="KX"/>六纖乗之一尺除之所得卽徑</seg>
+                    <pb ed="KX" n="03-07-003.17" xml:id="KR3fa002_tls_17b"/>
+                    <pb ed="KX" n="03-07-003.17" xml:id="KR3fa002_tls_17b"/>
+                    <figure>
+                        <graphic facs="KR3fa002/9EE414F7_7C47_4681_835F_EAB934E66810.png" type="inline"/>
+                    </figure>
+                    <pb ed="KX" n="03-07-003.18" xml:id="KR3fa002_tls_18a"/>
+                    <seg xml:id="KR3fa002_tls_p18.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻" quantity="1"/>載堉圖解曰今有方池一所每面方九尺</seg>
+                    <seg xml:id="KR3fa002_tls_p18.s2" state="locked">
+                        <lb n="2" ed="KX"/>欲要改爲圓池問圓池周徑各幾何</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p18.s3.1">
+                        <lb n="3" ed="KX"/>荅曰周四丈</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p18.s3.2" type="comm">惟此圖<lb type="/"/>無餘分</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p18.s4.1">
+                        <lb n="4" ed="KX"/>徑一丈二尺七寸二分</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p18.s4.2" type="comm">七釐九毫二絲<lb type="/"/>二忽微</seg>
+                    <seg xml:id="KR3fa002_tls_p18.s5" state="locked">
+                        <lb n="5" ed="KX"/>法曰置方九尺以四十乗之九歸得四丈</seg>
+                    <seg xml:id="KR3fa002_tls_p18.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻" quantity="1"/>卽周又置方九尺以一尺四寸一分四釐</seg>
+                    <seg xml:id="KR3fa002_tls_p18.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻" quantity="1"/>二毫一絲三忽五微六纖乗之一尺除之</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p18.s8.1">
+                        <lb n="8" ed="KX"/>所得卽徑</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p18.s8.2" type="comm">商高謂圓出於方方出於矩<lb type="/"/>矩出於九九八十一者卽此</seg>
+                    <pb ed="KX" n="03-07-003.18" xml:id="KR3fa002_tls_18b"/>
+                    <pb ed="KX" n="03-07-003.18" xml:id="KR3fa002_tls_18b"/>
+                    <figure>
+                        <graphic facs="KR3fa002/CC7FA700_5DF0_471B_BD48_1D8D4C4DF4F5.png" type="inline"/>
+                    </figure>
+                    <pb ed="KX" n="03-07-003.19" xml:id="KR3fa002_tls_19a"/>
+                    <seg xml:id="KR3fa002_tls_p19.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻" quantity="1"/>載堉圖解曰今有方池一所每面方一丈</seg>
+                    <seg xml:id="KR3fa002_tls_p19.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻" quantity="1"/>欲要改爲圓池問圓池周徑各幾何</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p19.s3.1">
+                        <lb n="3" ed="KX"/>荅曰周四丈四尺四寸四分</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p19.s3.2" type="comm">四釐四毫四<lb type="/"/>絲四忽四微</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p19.s4.1">
+                        <lb n="4" ed="KX"/>徑一丈四尺一寸四分</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p19.s4.2" type="comm">二釐一毫三<lb type="/"/>絲五忽六微</seg>
+                    <seg xml:id="KR3fa002_tls_p19.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻" quantity="1"/>法曰置方一丈以四十乗之九歸得四丈</seg>
+                    <seg xml:id="KR3fa002_tls_p19.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻" quantity="1"/>四尺四寸四分有奇卽周又置方一丈以</seg>
+                    <seg xml:id="KR3fa002_tls_p19.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻" quantity="1"/>一尺四寸一分四釐二毫一絲三忽五微</seg>
+                    <seg xml:id="KR3fa002_tls_p19.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻" quantity="1"/>六幾乗之一尺除之所得卽徑</seg>
+                    <pb ed="KX" n="03-07-003.19" xml:id="KR3fa002_tls_19b"/>
+                    <seg xml:id="KR3fa002_tls_p19.s10" state="locked">
+                        <lb n="10" ed="KX"/>
+                        <space n="䶻" quantity="1"/>巳上十圖皆係新添世俗視之澹然無味</seg>
+                    <seg xml:id="KR3fa002_tls_p19.s11" state="locked">
+                        <lb n="11" ed="KX"/>
+                        <space n="䶻" quantity="1"/>達者觀之有無窮之味焉其容方五及容</seg>
+                    <seg xml:id="KR3fa002_tls_p19.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻" quantity="1"/>方十得河圖之中數周公嘉量所自出也</seg>
+                    <seg xml:id="KR3fa002_tls_p19.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻" quantity="1"/>惟容方九乃乾卦之陽數配以四十坤卦</seg>
+                    <seg xml:id="KR3fa002_tls_p19.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻" quantity="1"/>老隂之數故無餘分此尤妙中至妙者也</seg>
+                    <seg xml:id="KR3fa002_tls_p19.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻" quantity="1"/>容方八者祖沖之所造疎淺率出於此也</seg>
+                    <seg xml:id="KR3fa002_tls_p19.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻" quantity="1"/>一百一十三三百五十五皆有餘分沖之</seg>
+                    <seg xml:id="KR3fa002_tls_p19.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻" quantity="1"/>削去是以疎淺以此證彼其謬可知也</seg>
+                    <pb ed="KX" n="03-07-003.20" xml:id="KR3fa002_tls_20a"/>
+                    <seg xml:id="KR3fa002_tls_p20.s1" state="locked">
+                        <lb n="1" ed="KX"/>周公曰大哉言數請問用矩之道商高曰平</seg>
+                    <seg xml:id="KR3fa002_tls_p20.s2" state="locked">
+                        <lb n="2" ed="KX"/>矩以正繩偃矩以望高覆矩以測深臥矩以</seg>
+                    <seg xml:id="KR3fa002_tls_p20.s3" state="locked">
+                        <lb n="3" ed="KX"/>知達環矩以爲圓合矩以爲方方屬地圓屬</seg>
+                    <seg xml:id="KR3fa002_tls_p20.s4" state="locked">
+                        <lb n="4" ed="KX"/>天天圓地方方數爲典以方出圓笠以寫天</seg>
+                    <seg xml:id="KR3fa002_tls_p20.s5" state="locked">
+                        <lb n="5" ed="KX"/>天青黑地黃赤天數之爲笠也青黑爲表丹</seg>
+                    <seg xml:id="KR3fa002_tls_p20.s6" state="locked">
+                        <lb n="6" ed="KX"/>黃爲裏以象天地之位是故知地者智知天</seg>
+                    <seg xml:id="KR3fa002_tls_p20.s7" state="locked">
+                        <lb n="7" ed="KX"/>者聖智出於句句出於矩夫矩之於數其裁</seg>
+                    <seg xml:id="KR3fa002_tls_p20.s8" state="locked">
+                        <lb n="8" ed="KX"/>制萬物唯所爲耳周公曰善哉</seg>
+                    <pb ed="KX" n="03-07-003.20" xml:id="KR3fa002_tls_20b"/>
+                    <seg xml:id="KR3fa002_tls_p20.s10" state="locked">
+                        <lb n="10" ed="KX"/>
+                        <space n="䶻" quantity="1"/>趙君卿註曰物有圓方數有奇耦天動爲</seg>
+                    <seg xml:id="KR3fa002_tls_p20.s11" state="locked">
+                        <lb n="11" ed="KX"/>
+                        <space n="䶻" quantity="1"/>圓其數奇地靜爲方其數耦此配隂陽之</seg>
+                    <seg xml:id="KR3fa002_tls_p20.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻" quantity="1"/>義非實天地之體也天不可窮而見地不</seg>
+                    <seg xml:id="KR3fa002_tls_p20.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻" quantity="1"/>可盡而觀豈能定其圓方乎夫體方則度</seg>
+                    <seg xml:id="KR3fa002_tls_p20.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻" quantity="1"/>影正形圓則審實難蓋方者有常而圓者</seg>
+                    <seg xml:id="KR3fa002_tls_p20.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻" quantity="1"/>多變故當制法而理之理之法者半周半</seg>
+                    <seg xml:id="KR3fa002_tls_p20.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻" quantity="1"/>徑相乗則得方矣雙可周徑相乗四而一</seg>
+                    <seg xml:id="KR3fa002_tls_p20.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻" quantity="1"/>又可徑自乗三之四而一又可周自乗十</seg>
+                    <pb ed="KX" n="03-07-003.21" xml:id="KR3fa002_tls_21a"/>
+                    <seg xml:id="KR3fa002_tls_p21.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻" quantity="1"/>二而一故圓出於方</seg>
+                    <seg xml:id="KR3fa002_tls_p21.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻" quantity="1"/>載堉曰平圓面羃古有四法其二可用其</seg>
+                    <seg xml:id="KR3fa002_tls_p21.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻" quantity="1"/>二不可用周徑相乗者是也周徑自乗者</seg>
+                    <seg xml:id="KR3fa002_tls_p21.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻" quantity="1"/>非也後二者六角田非圓田也余按商高</seg>
+                    <seg xml:id="KR3fa002_tls_p21.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻" quantity="1"/>曰青黑爲表丹黃爲裏以象天地有此器</seg>
+                    <seg xml:id="KR3fa002_tls_p21.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻" quantity="1"/>故云耳今以木造成圓方格式其形圓徑</seg>
+                    <seg xml:id="KR3fa002_tls_p21.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻" quantity="1"/>與方斜同方中矩圓中規方圓皆厚一寸</seg>
+                    <seg xml:id="KR3fa002_tls_p21.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻" quantity="1"/>方每面皆九寸一周共計三十六寸圓每</seg>
+                    <pb ed="KX" n="03-07-003.21" xml:id="KR3fa002_tls_21b"/>
+                    <seg xml:id="KR3fa002_tls_p21.s10" state="locked">
+                        <lb n="10" ed="KX"/>
+                        <space n="䶻" quantity="1"/>面皆十寸一周共計四十寸用紙條絜圓</seg>
+                    <seg xml:id="KR3fa002_tls_p21.s11" state="locked">
+                        <lb n="11" ed="KX"/>
+                        <space n="䶻" quantity="1"/>一匝絜方一匝看餘幾寸若餘四寸是與</seg>
+                    <seg xml:id="KR3fa002_tls_p21.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻" quantity="1"/>筭合此乃周公所造密率之源流也</seg>
+                    <seg xml:id="KR3fa002_tls_p21.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>萬曆庚戌余年七十五自三月至七月</seg>
+                    <seg xml:id="KR3fa002_tls_p21.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>信手握筆著此三書以成一家之言其</seg>
+                    <seg xml:id="KR3fa002_tls_p21.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>一曰律呂正論其二曰嘉量筭經其三</seg>
+                    <seg xml:id="KR3fa002_tls_p21.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>曰圓方圖解皆樂律書所未載者</seg>
+                    <seg xml:id="KR3fa002_tls_p21.s17" state="locked">
+                        <lb n="17" ed="KX"/>圓方圖解卷終</seg>
+                    <pb ed="KX" n="03-07-003.22" xml:id="KR3fa002_tls_22a"/>
+                    <seg xml:id="KR3fa002_tls_p22.s1" state="locked">
+                        <lb n="1" ed="KX"/>古周髀筭經圖解</seg>
+                    <seg xml:id="KR3fa002_tls_p22.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻䶻䶻䶻䶻䶻䶻䶻䶻䶻" quantity="10"/>後漢趙君卿註</seg>
+                    <seg xml:id="KR3fa002_tls_p22.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻䶻䶻䶻䶻䶻䶻䶻䶻䶻" quantity="10"/>後學載堉圖解</seg>
+                    <seg xml:id="KR3fa002_tls_p22.s4" state="locked">
+                        <lb n="4" ed="KX"/>周髀經文曰故折矩以爲勾廣三股修四徑</seg>
+                    <seg xml:id="KR3fa002_tls_p22.s5" state="locked">
+                        <lb n="5" ed="KX"/>隅五</seg>
+                    <seg xml:id="KR3fa002_tls_p22.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻" quantity="1"/>趙君卿註曰將爲勾股之率故曰折矩也</seg>
+                    <seg xml:id="KR3fa002_tls_p22.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻" quantity="1"/>橫者謂之廣勾亦廣廣短也從者謂之修</seg>
+                    <seg xml:id="KR3fa002_tls_p22.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻" quantity="1"/>股亦修修長也徑直隅角也亦謂之弦</seg>
+                    <pb ed="KX" n="03-07-003.22" xml:id="KR3fa002_tls_22b"/>
+                    <seg xml:id="KR3fa002_tls_p22.s10" state="locked">
+                        <lb n="10" ed="KX"/>
+                        <space n="䶻" quantity="1"/>載堉圖解曰勾股者筭術之名也其形狀</seg>
+                    <seg xml:id="KR3fa002_tls_p22.s11" state="locked">
+                        <lb n="11" ed="KX"/>
+                        <space n="䶻" quantity="1"/>如曲尺幫謂之矩尺身短者勾也尺稍長</seg>
+                    <seg xml:id="KR3fa002_tls_p22.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻" quantity="1"/>者股也尺稍至尺身斜絣一線者弦也假</seg>
+                    <seg xml:id="KR3fa002_tls_p22.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻" quantity="1"/>如勾三尺股四尺則弦該五尺也</seg>
+                    <seg xml:id="KR3fa002_tls_p22.s14" state="locked">
+                        <lb n="14" ed="KX"/>既方之外半其一矩環而共盤得成三四五</seg>
+                    <seg xml:id="KR3fa002_tls_p22.s15" state="locked">
+                        <lb n="15" ed="KX"/>兩矩共長二十有五是謂積矩</seg>
+                    <seg xml:id="KR3fa002_tls_p22.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻" quantity="1"/>趙君卿註曰勾股之法先知二數然後推</seg>
+                    <seg xml:id="KR3fa002_tls_p22.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻" quantity="1"/>一見勾股然後求弦先各自乗成其實實</seg>
+                    <pb ed="KX" n="03-07-003.23" xml:id="KR3fa002_tls_23a"/>
+                    <seg xml:id="KR3fa002_tls_p23.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻" quantity="1"/>成勢化外乃變通故曰既方其外或幷勾</seg>
+                    <seg xml:id="KR3fa002_tls_p23.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻" quantity="1"/>股之實以求弦實之中乃求勾股之分幷</seg>
+                    <seg xml:id="KR3fa002_tls_p23.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻" quantity="1"/>實不正等更相取與互有所得故曰半其</seg>
+                    <seg xml:id="KR3fa002_tls_p23.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻" quantity="1"/>一矩其術勾股各自乗三三如九四四一</seg>
+                    <seg xml:id="KR3fa002_tls_p23.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻" quantity="1"/>十六幷爲弦自乗之實二十五減勾於弦</seg>
+                    <seg xml:id="KR3fa002_tls_p23.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻" quantity="1"/>爲股之實一十六減股於弦爲勾之實九</seg>
+                    <seg xml:id="KR3fa002_tls_p23.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻" quantity="1"/>兩矩者勾股各自乗之實共長者幷實之</seg>
+                    <seg xml:id="KR3fa002_tls_p23.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻" quantity="1"/>數將以施於萬事而此先陳其率也</seg>
+                    <pb ed="KX" n="03-07-003.23" xml:id="KR3fa002_tls_23b"/>
+                    <seg xml:id="KR3fa002_tls_p23.s10" state="locked">
+                        <lb n="10" ed="KX"/>
+                        <space n="䶻" quantity="1"/>載堉圖解曰按經文作既方之外而註文</seg>
+                    <seg xml:id="KR3fa002_tls_p23.s11" state="locked">
+                        <lb n="11" ed="KX"/>
+                        <space n="䶻" quantity="1"/>作既方其外之其二字不同必有一誤疑</seg>
+                    <seg xml:id="KR3fa002_tls_p23.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻" quantity="1"/>之者誤也其者是也既方其外者言勾實</seg>
+                    <seg xml:id="KR3fa002_tls_p23.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻" quantity="1"/>股實弦實三者外面皆方所謂羃也羃者</seg>
+                    <seg xml:id="KR3fa002_tls_p23.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻" quantity="1"/>方之義也註文當作或併勾股之實以求</seg>
+                    <seg xml:id="KR3fa002_tls_p23.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻" quantity="1"/>弦實弦實之中乃求勾股之分併也此處</seg>
+                    <seg xml:id="KR3fa002_tls_p23.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻" quantity="1"/>該重弦實二字原文脫去止存二字讀之</seg>
+                    <seg xml:id="KR3fa002_tls_p23.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻" quantity="1"/>文義不相接矣</seg>
+                    <pb ed="KX" n="03-07-003.24" xml:id="KR3fa002_tls_24a"/>
+                    <pb ed="KX" n="03-07-003.24" xml:id="KR3fa002_tls_24b"/>
+                    <figure>
+                        <graphic facs="KR3fa002/697F0611_C747_4AC6_91E2_0CF5A5E89DF1.png" type="inline"/>
+                    </figure>
+                    <pb ed="KX" n="03-07-003.25" xml:id="KR3fa002_tls_25a"/>
+                    <seg xml:id="KR3fa002_tls_p25.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻" quantity="1"/>趙君卿註曰按弦圖又可以勾股相乗爲</seg>
+                    <seg xml:id="KR3fa002_tls_p25.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻" quantity="1"/>朱實二倍之爲朱實四以勾股之差自相</seg>
+                    <seg xml:id="KR3fa002_tls_p25.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻" quantity="1"/>乗爲中黃實加差實亦成弦實以差實減</seg>
+                    <seg xml:id="KR3fa002_tls_p25.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻" quantity="1"/>弦實半其餘以差爲從法開方除之復得</seg>
+                    <seg xml:id="KR3fa002_tls_p25.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻" quantity="1"/>勾矣加差於勾即股凡幷勾股之實即成</seg>
+                    <seg xml:id="KR3fa002_tls_p25.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻" quantity="1"/>弦實或矩於內或方於外形詭而量均體</seg>
+                    <seg xml:id="KR3fa002_tls_p25.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻" quantity="1"/>殊而數齊</seg>
+                    <seg xml:id="KR3fa002_tls_p25.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻" quantity="1"/>載堉圖解曰按君即古註文義深奧讀者</seg>
+                    <pb ed="KX" n="03-07-003.25" xml:id="KR3fa002_tls_25b"/>
+                    <seg xml:id="KR3fa002_tls_p25.s10" state="locked">
+                        <lb n="10" ed="KX"/>
+                        <space n="䶻" quantity="1"/>難曉茲以愚見通俗直説使人易曉分作</seg>
+                    <seg xml:id="KR3fa002_tls_p25.s11" state="locked">
+                        <lb n="11" ed="KX"/>
+                        <space n="䶻" quantity="1"/>五段解之大字者即趙氏本文也小字者</seg>
+                    <seg xml:id="KR3fa002_tls_p25.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻" quantity="1"/>新添箋註也</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p25.s13.1">
+                        <lb n="13" ed="KX"/>按弦圖</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p25.s13.2" type="comm">即前大方圖也</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p25.s13.3">又可以勾</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p25.s13.4" type="comm">三</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p25.s13.5">股</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p25.s13.6" type="comm">四</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p25.s14.1">
+                        <lb n="14" ed="KX"/>相乗</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p25.s14.2" type="comm">得一十二名</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p25.s14.3">爲朱實</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p25.s14.4" type="comm">蓋用朱筆界書</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p25.s15.1">
+                        <lb n="15" ed="KX"/>故名二</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p25.s15.2" type="comm">次</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p25.s15.3">倍之</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p25.s15.4" type="comm">得四十八是</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p25.s15.5">爲朱實</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p25.s15.6" type="comm">一十</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p25.s16.1" type="comm">
+                        <lb n="16" ed="KX"/>二者</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p25.s16.2">四</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p25.s16.3" type="comm">箇也</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p25.s16.4">以勾</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p25.s16.5" type="comm">三</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p25.s16.6">股</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p25.s16.7" type="comm">四相減</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p25.s16.8">之</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p25.s16.9" type="comm">所餘一</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p25.s17.1" type="comm">
+                        <lb n="17" ed="KX"/>名日差</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p25.s17.2">差自相乗</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p25.s17.3" type="comm">一一如一</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p25.s17.4">爲中黃實</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p25.s17.5" type="comm">一</seg>
+                    <pb ed="KX" n="03-07-003.26" xml:id="KR3fa002_tls_26a"/>
+                    <seg state="locked" xml:id="KR3fa002_tls_p26.s1.1" type="comm">
+                        <lb n="1" ed="KX"/>以黃筆界書故名</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p26.s1.2">加差實</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p26.s1.3" type="comm">一於兩箇朱實</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p26.s2.1" type="comm">
+                        <lb n="2" ed="KX"/>內</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p26.s2.2">亦成弦實</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p26.s2.3" type="comm">二十五</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p26.s2.4">以差實</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p26.s2.5" type="comm">一</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p26.s2.6">減弦實</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p26.s2.7" type="comm">二</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p26.s3.1" type="comm">
+                        <lb n="3" ed="KX"/>十五</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p26.s3.2">半其餘</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p26.s3.3" type="comm">得一十二</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p26.s3.4">以差</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p26.s3.5" type="comm">一</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p26.s3.6">爲從法開</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p26.s4.1">
+                        <lb n="4" ed="KX"/>方除之復得</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p26.s4.2" type="comm">三即</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p26.s4.3">勾矣加差</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p26.s4.4" type="comm">一</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p26.s4.5">於勾</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p26.s4.6" type="comm">三</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p26.s4.7">即</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p26.s5.1">
+                        <lb n="5" ed="KX"/>股</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p26.s5.2" type="comm">四</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p26.s5.3">凡幷勾股</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p26.s5.4" type="comm">各自乗</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p26.s5.5">之實即成弦實</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p26.s5.6" type="comm">共</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p26.s6.1" type="comm">
+                        <lb n="6" ed="KX"/>二十五</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p26.s6.2">或矩於內或方於外形詭而量均</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p26.s7.1">
+                        <lb n="7" ed="KX"/>體殊而數齊</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p26.s7.2" type="comm">此四句解見後二段</seg>
+                    <seg xml:id="KR3fa002_tls_p26.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>右第一段</seg>
+                    <pb ed="KX" n="03-07-003.26" xml:id="KR3fa002_tls_26b"/>
+                    <pb ed="KX" n="03-07-003.26" xml:id="KR3fa002_tls_26b"/>
+                    <pb ed="KX" n="03-07-003.26" xml:id="KR3fa002_tls_26b"/>
+                    <figure>
+                        <graphic facs="KR3fa002/45914703_447C_49E2_9A82_FB840106AA74.png" type="inline"/>
+                    </figure>
+                    <pb ed="KX" n="03-07-003.27" xml:id="KR3fa002_tls_27a"/>
+                    <seg xml:id="KR3fa002_tls_p27.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻" quantity="1"/>趙君卿註曰勾實之矩以股弦差爲廣股</seg>
+                    <seg xml:id="KR3fa002_tls_p27.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻" quantity="1"/>弦幷爲袤而股實方其裏減矩勾之實於</seg>
+                    <seg xml:id="KR3fa002_tls_p27.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻" quantity="1"/>弦實開其餘即股倍股在兩邊爲從法開</seg>
+                    <seg xml:id="KR3fa002_tls_p27.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻" quantity="1"/>矩勾之角即股弦差加股爲弦以差除勾</seg>
+                    <seg xml:id="KR3fa002_tls_p27.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻" quantity="1"/>實得股弦幷以幷除勾實亦得股弦差令</seg>
+                    <seg xml:id="KR3fa002_tls_p27.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻" quantity="1"/>幷自乗與勾實爲實倍幷爲法所得亦弦</seg>
+                    <seg xml:id="KR3fa002_tls_p27.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻" quantity="1"/>色實減幷自乗如法爲股</seg>
+                    <seg xml:id="KR3fa002_tls_p27.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻" quantity="1"/>載堉圖解曰股弦差即今筭家所謂股弦</seg>
+                    <pb ed="KX" n="03-07-003.27" xml:id="KR3fa002_tls_27b"/>
+                    <seg xml:id="KR3fa002_tls_p27.s10" state="locked">
+                        <lb n="10" ed="KX"/>
+                        <space n="䶻" quantity="1"/>較者是也股弦幷即今筭家所謂股弦和</seg>
+                    <seg xml:id="KR3fa002_tls_p27.s11" state="locked">
+                        <lb n="11" ed="KX"/>
+                        <space n="䶻" quantity="1"/>者是也廣者短而闊者也袤者長而曲者</seg>
+                    <seg xml:id="KR3fa002_tls_p27.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻" quantity="1"/>也餘詳下文</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p27.s13.1">
+                        <lb n="13" ed="KX"/>勾實之矩</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p27.s13.2" type="comm">九</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p27.s13.3">以股弦差</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p27.s13.4" type="comm">一</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p27.s13.5">爲廣股弦幷</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p27.s13.6" type="comm">九</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p27.s14.1">
+                        <lb n="14" ed="KX"/>爲袤而股實</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p27.s14.2" type="comm">十六</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p27.s14.3">方其裏減矩勾之實</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p27.s14.4" type="comm">九</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p27.s15.1">
+                        <lb n="15" ed="KX"/>於弦實</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p27.s15.2" type="comm">二十五</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p27.s15.3">開其餘</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p27.s15.4" type="comm">十六</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p27.s15.5">即股</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p27.s15.6" type="comm">四</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p27.s15.7">倍股</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p27.s16.1" type="comm">
+                        <lb n="16" ed="KX"/>四</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p27.s16.2">在兩邊爲從法</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p27.s16.3" type="comm">入</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p27.s16.4">開矩勾之角</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p27.s16.5" type="comm">九得一</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p27.s17.1">
+                        <lb n="17" ed="KX"/>即股弦差加</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p27.s17.2" type="comm">差一於</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p27.s17.3">股</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p27.s17.4" type="comm">四</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p27.s17.5">爲弦</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p27.s17.6" type="comm">五</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p27.s17.7">以</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p27.s17.8" type="comm">差一</seg>
+                    <pb ed="KX" n="03-07-003.28" xml:id="KR3fa002_tls_28a"/>
+                    <seg state="locked" xml:id="KR3fa002_tls_p28.s1.1" type="comm">
+                        <lb n="1" ed="KX"/>爲法</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p28.s1.2">除勾實</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p28.s1.3" type="comm">九</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p28.s1.4">得股弦并</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p28.s1.5" type="comm">九</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p28.s1.6">以幷</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p28.s1.7" type="comm">九為法</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p28.s2.1">
+                        <lb n="2" ed="KX"/>除勾實</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p28.s2.2" type="comm">九</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p28.s2.3">亦得股弦差</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p28.s2.4" type="comm">一</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p28.s2.5">令幷</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p28.s2.6" type="comm">九</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p28.s2.7">自乗</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p28.s2.8" type="comm">得</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p28.s3.1" type="comm">
+                        <lb n="3" ed="KX"/>八十一</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p28.s3.2">與勾實</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p28.s3.3" type="comm">九共九十</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p28.s3.4">爲實倍幷</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p28.s3.5" type="comm">九得</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p28.s4.1" type="comm">
+                        <lb n="4" ed="KX"/>十八</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p28.s4.2">爲法</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p28.s4.3" type="comm">除之</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p28.s4.4">所得亦弦</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p28.s4.5" type="comm">五</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p28.s4.6">勾實</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p28.s4.7" type="comm">九</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p28.s4.8">減幷</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p28.s5.1" type="comm">
+                        <lb n="5" ed="KX"/>九</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p28.s5.2">自乗</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p28.s5.3" type="comm">八十一餘七十二</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p28.s5.4">如法</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p28.s5.5" type="comm">十八除之</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p28.s6.1">
+                        <lb n="6" ed="KX"/>爲股</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p28.s6.2" type="comm">四</seg>
+                    <seg xml:id="KR3fa002_tls_p28.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>右第二段</seg>
+                    <pb ed="KX" n="03-07-003.28" xml:id="KR3fa002_tls_28b"/>
+                    <pb ed="KX" n="03-07-003.28" xml:id="KR3fa002_tls_28b"/>
+                    <pb ed="KX" n="03-07-003.28" xml:id="KR3fa002_tls_28b"/>
+                    <figure>
+                        <graphic facs="KR3fa002/A0707C3E_8FC0_4950_8A6C_B2271C8191CE.png" type="inline"/>
+                    </figure>
+                    <pb ed="KX" n="03-07-003.29" xml:id="KR3fa002_tls_29a"/>
+                    <seg xml:id="KR3fa002_tls_p29.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻" quantity="1"/>趙君卿註曰股實之矩以勾弦差爲廣勾</seg>
+                    <seg xml:id="KR3fa002_tls_p29.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻" quantity="1"/>弦幷爲袤而勾實方其裏減矩股之實於</seg>
+                    <seg xml:id="KR3fa002_tls_p29.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻" quantity="1"/>矩股之角即勾弦差加勾爲弦以差除股</seg>
+                    <seg xml:id="KR3fa002_tls_p29.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻" quantity="1"/>實得勾弦幷以幷除股實亦得勾弦差令</seg>
+                    <seg xml:id="KR3fa002_tls_p29.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻" quantity="1"/>幷自乗與股實爲實倍幷爲法所得亦弦</seg>
+                    <seg xml:id="KR3fa002_tls_p29.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻" quantity="1"/>股實減幷自乗如法爲勾</seg>
+                    <seg xml:id="KR3fa002_tls_p29.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻" quantity="1"/>載堉圖解曰勾弦差即今筭家所謂勾弦</seg>
+                    <pb ed="KX" n="03-07-003.29" xml:id="KR3fa002_tls_29b"/>
+                    <seg xml:id="KR3fa002_tls_p29.s9" state="locked">
+                        <lb n="9" ed="KX"/>
+                        <space n="䶻" quantity="1"/>較者是也勾弦幷即今筭家所謂勾弦和</seg>
+                    <seg xml:id="KR3fa002_tls_p29.s10" state="locked">
+                        <lb n="10" ed="KX"/>
+                        <space n="䶻" quantity="1"/>者是也此叚大槩與上叚同而其所不同</seg>
+                    <seg xml:id="KR3fa002_tls_p29.s11" state="locked">
+                        <lb n="11" ed="KX"/>
+                        <space n="䶻" quantity="1"/>者勾與股二字也</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p29.s12.1">
+                        <lb n="12" ed="KX"/>股實之矩</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p29.s12.2" type="comm">十六</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p29.s12.3">以勾弦差</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p29.s12.4" type="comm">二</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p29.s12.5">爲廣勾弦幷</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p29.s13.1" type="comm">
+                        <lb n="13" ed="KX"/>八</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p29.s13.2">爲袤而勾實</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p29.s13.3" type="comm">九</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p29.s13.4">方其裏減矩股之實</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p29.s13.5" type="comm">十</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p29.s14.1" type="comm">
+                        <lb n="14" ed="KX"/>六</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p29.s14.2">於弦實</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p29.s14.3" type="comm">二十五</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p29.s14.4">開其餘</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p29.s14.5" type="comm">九</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p29.s14.6">即勾</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p29.s14.7" type="comm">三</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p29.s14.8">倍勾</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p29.s15.1" type="comm">
+                        <lb n="15" ed="KX"/>三</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p29.s15.2">在兩邊爲從法</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p29.s15.3" type="comm">六</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p29.s15.4">開矩股之角</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p29.s15.5" type="comm">十六得</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p29.s16.1" type="comm">
+                        <lb n="16" ed="KX"/>二</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p29.s16.2">即勾弦差加</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p29.s16.3" type="comm">差二於</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p29.s16.4">勾</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p29.s16.5" type="comm">三</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p29.s16.6">爲弦</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p29.s16.7" type="comm">五</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p29.s16.8">以差</seg>
+                    <pb ed="KX" n="03-07-003.30" xml:id="KR3fa002_tls_30a"/>
+                    <seg state="locked" xml:id="KR3fa002_tls_p30.s1.1" type="comm">
+                        <lb n="1" ed="KX"/>二爲法</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p30.s1.2">除股實</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p30.s1.3" type="comm">十六</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p30.s1.4">得勾弦幷</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p30.s1.5" type="comm">八</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p30.s1.6">以幷</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p30.s1.7" type="comm">八</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p30.s2.1" type="comm">
+                        <lb n="2" ed="KX"/>爲法</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p30.s2.2">除股實</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p30.s2.3" type="comm">十六</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p30.s2.4">亦得勾弦差</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p30.s2.5" type="comm">二</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p30.s2.6">令幷</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p30.s2.7" type="comm">八</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p30.s3.1">
+                        <lb n="3" ed="KX"/>自乗</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p30.s3.2" type="comm">得六十四</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p30.s3.3">與股實</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p30.s3.4" type="comm">十六共八十</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p30.s3.5">爲實</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p30.s4.1">
+                        <lb n="4" ed="KX"/>倍幷</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p30.s4.2" type="comm">八得十六</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p30.s4.3">爲法</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p30.s4.4" type="comm">除之</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p30.s4.5">所得亦弦</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p30.s4.6" type="comm">五</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p30.s4.7">股</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p30.s5.1">
+                        <lb n="5" ed="KX"/>實</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p30.s5.2" type="comm">十六</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p30.s5.3">減幷</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p30.s5.4" type="comm">八</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p30.s5.5">自乗</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p30.s5.6" type="comm">六十四餘四十八</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p30.s5.7">如</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p30.s6.1">
+                        <lb n="6" ed="KX"/>法</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p30.s6.2" type="comm">十六除之</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p30.s6.3">爲勾</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p30.s6.4" type="comm">三</seg>
+                    <seg xml:id="KR3fa002_tls_p30.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>右第三段</seg>
+                    <pb ed="KX" n="03-07-003.30" xml:id="KR3fa002_tls_30b"/>
+                    <pb ed="KX" n="03-07-003.30" xml:id="KR3fa002_tls_30b"/>
+                    <figure>
+                        <graphic facs="KR3fa002/28CF736B_DA8B_4275_96CD_49B1255CF3D3.png" type="inline"/>
+                    </figure>
+                    <pb ed="KX" n="03-07-003.31" xml:id="KR3fa002_tls_31a"/>
+                    <seg xml:id="KR3fa002_tls_p31.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻" quantity="1"/>趙君卿註曰兩差相乗倍而開之所得以</seg>
+                    <seg xml:id="KR3fa002_tls_p31.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻" quantity="1"/>股弦差增之爲勾以勾弦差增之爲股兩</seg>
+                    <seg xml:id="KR3fa002_tls_p31.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻" quantity="1"/>差增之爲弦倍弦實列勾股差實見弦實</seg>
+                    <seg xml:id="KR3fa002_tls_p31.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻" quantity="1"/>者以圖考之倍弦實滿外大方而多黃實</seg>
+                    <seg xml:id="KR3fa002_tls_p31.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻" quantity="1"/>黃實之多即勾股差實以差實減之開其</seg>
+                    <seg xml:id="KR3fa002_tls_p31.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻" quantity="1"/>餘得外大方外大方之面即勾股幷也冷</seg>
+                    <seg xml:id="KR3fa002_tls_p31.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻" quantity="1"/>幷自乗倍弦實乃減之開其餘得中黃方</seg>
+                    <seg xml:id="KR3fa002_tls_p31.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻" quantity="1"/>中黃方之面即勾股差以差減幷而半之</seg>
+                    <pb ed="KX" n="03-07-003.31" xml:id="KR3fa002_tls_31b"/>
+                    <seg xml:id="KR3fa002_tls_p31.s10" state="locked">
+                        <lb n="10" ed="KX"/>
+                        <space n="䶻" quantity="1"/>爲勾加差於幷而半之爲股</seg>
+                    <seg xml:id="KR3fa002_tls_p31.s11" state="locked">
+                        <lb n="11" ed="KX"/>
+                        <space n="䶻" quantity="1"/>載堉圖解曰此段總説上文三段之意</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p31.s12.1">
+                        <lb n="12" ed="KX"/>兩差</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p31.s12.2" type="comm"> 勾股差一勾弦差二</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p31.s12.3"> 相乗</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p31.s12.4" type="comm"> 一二如二</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p31.s12.5"> </seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p31.s13.1">
+                        <lb n="13" ed="KX"/>倍而</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p31.s13.2" type="comm"> 爲四</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p31.s13.3"> 開之所得</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p31.s13.4" type="comm"> 二</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p31.s13.5"> 以股弦差</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p31.s13.6" type="comm"> 一</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p31.s13.7"> 增之</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p31.s14.1">
+                        <lb n="14" ed="KX"/>爲勾</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p31.s14.2" type="comm"> 三</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p31.s14.3"> 以勾弦差</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p31.s14.4" type="comm"> 二</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p31.s14.5"> 增之爲股</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p31.s14.6" type="comm"> 四</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p31.s14.7"> 兩差</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p31.s14.8" type="comm"> 一</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p31.s14.9"> </seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p31.s15.1" type="comm">
+                        <lb n="15" ed="KX"/> 二</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p31.s15.2"> 增之爲弦</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p31.s15.3" type="comm"> 五</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p31.s15.4"> 倍弦實</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p31.s15.5" type="comm"> 二十五得五十</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p31.s15.6"> 列</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p31.s16.1">
+                        <lb n="16" ed="KX"/>勾股差實</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p31.s16.2" type="comm"> 一</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p31.s16.3"> 見弦實</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p31.s16.4" type="comm"> 二十五</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p31.s16.5"> 者以圖考之</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p31.s17.1">
+                        <lb n="17" ed="KX"/>倍弦實</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p31.s17.2" type="comm"> 得五十</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p31.s17.3"> 滿外大方</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p31.s17.4" type="comm"> 四十九</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p31.s17.5"> 而多黃</seg>
+                    <pb ed="KX" n="03-07-003.31" xml:id="KR3fa002_tls_31b"/>
+                    <pb ed="KX" n="03-07-003.32" xml:id="KR3fa002_tls_32a"/>
+                    <seg state="locked" xml:id="KR3fa002_tls_p32.s1.1">
+                        <lb n="1" ed="KX"/>實</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p32.s1.2" type="comm">一</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p32.s1.3">黃實</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p32.s1.4" type="comm">一</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p32.s1.5">之多即勾股差實</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p32.s1.6" type="comm">一</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p32.s1.7">以差實</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p32.s2.1" type="comm">
+                        <lb n="2" ed="KX"/>一</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p32.s2.2">減之</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p32.s2.3" type="comm">五十</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p32.s2.4">開其餘</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p32.s2.5" type="comm">四十九</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p32.s2.6">得外大方外</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p32.s3.1">
+                        <lb n="3" ed="KX"/>大方之面即勾股幷</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p32.s3.2" type="comm">七</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p32.s3.3">也令幷</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p32.s3.4" type="comm">七</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p32.s3.5">自乗</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p32.s3.6" type="comm">得</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p32.s4.1" type="comm">
+                        <lb n="4" ed="KX"/>四十九</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p32.s4.2">倍弦實</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p32.s4.3" type="comm">二十五爲五十</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p32.s4.4">乃</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p32.s4.5" type="comm">以四十</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p32.s5.1" type="comm">
+                        <lb n="5" ed="KX"/>九</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p32.s5.2">減之開其餘</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p32.s5.3" type="comm">一</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p32.s5.4">得中黃方</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p32.s5.5" type="comm">一</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p32.s5.6">中黃方</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p32.s5.7" type="comm">一</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p32.s6.1">
+                        <lb n="6" ed="KX"/>之面即勾股差</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p32.s6.2" type="comm">一</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p32.s6.3">以差</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p32.s6.4" type="comm">一</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p32.s6.5">減幷</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p32.s6.6" type="comm">七</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p32.s6.7">而半之</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p32.s7.1" type="comm">
+                        <lb n="7" ed="KX"/>得三</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p32.s7.2">爲勾加差</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p32.s7.3" type="comm">一</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p32.s7.4">於幷</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p32.s7.5" type="comm">七</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p32.s7.6">而半多</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p32.s7.7" type="comm">得四</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p32.s7.8">爲</seg>
+                    <seg xml:id="KR3fa002_tls_p32.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻" quantity="1"/>股右第四段</seg>
+                    <pb ed="KX" n="03-07-003.32" xml:id="KR3fa002_tls_32b"/>
+                    <pb ed="KX" n="03-07-003.32" xml:id="KR3fa002_tls_32b"/>
+                    <pb ed="KX" n="03-07-003.32" xml:id="KR3fa002_tls_32b"/>
+                    <figure>
+                        <graphic facs="KR3fa002/F8AFF231_823D_4E89_A113_B85BB81A4C0B.png" type="inline"/>
+                    </figure>
+                    <pb ed="KX" n="03-07-003.33" xml:id="KR3fa002_tls_33a"/>
+                    <figure>
+                        <graphic facs="KR3fa002/69C767DB_2546_47B8_B110_59B97C9C1E84.png" type="inline"/>
+                    </figure>
+                    <pb ed="KX" n="03-07-003.33" xml:id="KR3fa002_tls_33b"/>
+                    <pb ed="KX" n="03-07-003.33" xml:id="KR3fa002_tls_33b"/>
+                    <seg xml:id="KR3fa002_tls_p33.s10" state="locked">
+                        <lb n="10" ed="KX"/>
+                        <space n="䶻" quantity="1"/>趙君卿註曰其倍弦爲黃袤合而令勾股</seg>
+                    <seg xml:id="KR3fa002_tls_p33.s11" state="locked">
+                        <lb n="11" ed="KX"/>
+                        <space n="䶻" quantity="1"/>見者自乗爲其實四實以減之開其餘所</seg>
+                    <seg xml:id="KR3fa002_tls_p33.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻" quantity="1"/>得爲差以差減合半其餘爲黃減黃於弦</seg>
+                    <seg xml:id="KR3fa002_tls_p33.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻" quantity="1"/>即所求也觀其迭相規矩共爲反覆互爲</seg>
+                    <seg xml:id="KR3fa002_tls_p33.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻" quantity="1"/>通分各有所得然則統敘羣倫經稽眾理</seg>
+                    <seg xml:id="KR3fa002_tls_p33.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻" quantity="1"/>貫幽入微鉤深致遠故曰其裁制萬物唯</seg>
+                    <seg xml:id="KR3fa002_tls_p33.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻" quantity="1"/>所爲之也</seg>
+                    <seg xml:id="KR3fa002_tls_p33.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻" quantity="1"/>李淳風註曰謹按列廣袤術宜云倍弦五</seg>
+                    <pb ed="KX" n="03-07-003.34" xml:id="KR3fa002_tls_34a"/>
+                    <seg xml:id="KR3fa002_tls_p34.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻" quantity="1"/>得十爲廣袤合令自乗者十自乗得一百</seg>
+                    <seg xml:id="KR3fa002_tls_p34.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻" quantity="1"/>四實者大方廣袤之中有四方若據勾實</seg>
+                    <seg xml:id="KR3fa002_tls_p34.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻" quantity="1"/>而言一方之中有實九四實有三十六減</seg>
+                    <seg xml:id="KR3fa002_tls_p34.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻" quantity="1"/>上一百餘六十四開之得八即廣袤差此</seg>
+                    <seg xml:id="KR3fa002_tls_p34.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻" quantity="1"/>是股弦差減股弦幷餘數也若據股實而</seg>
+                    <seg xml:id="KR3fa002_tls_p34.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻" quantity="1"/>言一方之中有實十六四實有六十四減</seg>
+                    <seg xml:id="KR3fa002_tls_p34.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻" quantity="1"/>上一百餘三十六開之得六即廣袤差此</seg>
+                    <seg xml:id="KR3fa002_tls_p34.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻" quantity="1"/>是勾弦差減勾弦幷餘數也以差八六各</seg>
+                    <pb ed="KX" n="03-07-003.34" xml:id="KR3fa002_tls_34b"/>
+                    <seg xml:id="KR3fa002_tls_p34.s10" state="locked">
+                        <lb n="10" ed="KX"/>
+                        <space n="䶻" quantity="1"/>減合十餘二四半之得一二一即股弦差</seg>
+                    <seg xml:id="KR3fa002_tls_p34.s11" state="locked">
+                        <lb n="11" ed="KX"/>
+                        <space n="䶻" quantity="1"/>二即勾弦差以差減弦倍之即廣袤差也</seg>
+                    <seg xml:id="KR3fa002_tls_p34.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻" quantity="1"/>唐寅箋註曰大方之中有四弦實故四其</seg>
+                    <seg xml:id="KR3fa002_tls_p34.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻" quantity="1"/>勾實得三十六減之餘六十四開得八爲</seg>
+                    <seg xml:id="KR3fa002_tls_p34.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻" quantity="1"/>勾之廣袤差四其股實得六十四減之餘</seg>
+                    <seg xml:id="KR3fa002_tls_p34.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻" quantity="1"/>三十六開得六爲股之廣袤差以勾之廣</seg>
+                    <seg xml:id="KR3fa002_tls_p34.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻" quantity="1"/>袤差八減廣袤合十餘二半之爲勾之廣</seg>
+                    <seg xml:id="KR3fa002_tls_p34.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻" quantity="1"/>以股之廣袤差六減廣袤合十餘四半之</seg>
+                    <pb ed="KX" n="03-07-003.35" xml:id="KR3fa002_tls_35a"/>
+                    <seg xml:id="KR3fa002_tls_p35.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻" quantity="1"/>爲股之廣所謂廣袤差者勾廣一而袤九</seg>
+                    <seg xml:id="KR3fa002_tls_p35.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻" quantity="1"/>股廣二而袤八廣袤相減之餘也</seg>
+                    <seg xml:id="KR3fa002_tls_p35.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻" quantity="1"/>載堉圖解曰此一段當分作兩條解之先</seg>
+                    <seg xml:id="KR3fa002_tls_p35.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻" quantity="1"/>就勾説次就股説詳見下文</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p35.s5.1">
+                        <lb n="5" ed="KX"/>其倍弦</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p35.s5.2" type="comm"> 五得十</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p35.s5.3"> 爲廣袤合而令勾股見者</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p35.s6.1" type="comm">
+                        <lb n="6" ed="KX"/> 以弦五倍之又</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p35.s6.2"> 自乗</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p35.s6.3" type="comm"> 得一百</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p35.s6.4"> 爲其實乃四</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p35.s7.1" type="comm">
+                        <lb n="7" ed="KX"/> 因勾</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p35.s7.2"> 實</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p35.s7.3" type="comm"> 九得三十六</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p35.s7.4"> 以減</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p35.s7.5" type="comm"> 一百</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p35.s7.6"> 之</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p35.s7.7" type="comm"> 數</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p35.s7.8"> 開其</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p35.s8.1">
+                        <lb n="8" ed="KX"/>餘</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p35.s8.2" type="comm"> 六十四</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p35.s8.3"> 所得</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p35.s8.4" type="comm"> 八</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p35.s8.5"> 爲差以差</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p35.s8.6" type="comm"> 八</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p35.s8.7"> 減合</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p35.s8.8" type="comm"> 十</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p35.s8.9"> 半</seg>
+                    <pb ed="KX" n="03-07-003.35" xml:id="KR3fa002_tls_35b"/>
+                    <seg state="locked" xml:id="KR3fa002_tls_p35.s10.1">
+                        <lb n="10" ed="KX"/>其餘</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p35.s10.2" type="comm"> 得一</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p35.s10.3"> 爲廣減廣於弦</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p35.s10.4" type="comm"> 得四</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p35.s10.5"> 即所求</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p35.s10.6" type="comm"> 股</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p35.s10.7"> </seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p35.s11.1" type="comm">
+                        <lb n="11" ed="KX"/> 四</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p35.s11.2"> 也</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p35.s11.3" type="comm"> 此就勾說</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p35.s11.4"> </seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p35.s12.1">
+                        <lb n="12" ed="KX"/>其倍弦</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p35.s12.2" type="comm"> 五得十</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p35.s12.3"> 爲廣袤合而令勾股見者</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p35.s13.1" type="comm">
+                        <lb n="13" ed="KX"/> 以弦五倍之又</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p35.s13.2"> 自乗</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p35.s13.3" type="comm"> 得一百</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p35.s13.4"> 爲其實乃四</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p35.s14.1" type="comm">
+                        <lb n="14" ed="KX"/> 因股</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p35.s14.2"> 實</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p35.s14.3" type="comm"> 十六得六十四</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p35.s14.4"> 以減</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p35.s14.5" type="comm"> 一百</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p35.s14.6"> 之</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p35.s14.7" type="comm"> 數</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p35.s14.8"> 開</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p35.s15.1">
+                        <lb n="15" ed="KX"/>其餘</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p35.s15.2" type="comm"> 三十六</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p35.s15.3"> 所得</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p35.s15.4" type="comm"> 六</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p35.s15.5"> 爲差以差</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p35.s15.6" type="comm"> 六</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p35.s15.7"> 減合</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p35.s15.8" type="comm"> 十</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p35.s15.9"> </seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p35.s16.1">
+                        <lb n="16" ed="KX"/>半其餘</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p35.s16.2" type="comm"> 得二</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p35.s16.3"> 爲廣減廣於弦</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p35.s16.4" type="comm"> 得三</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p35.s16.5"> 即所求</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p35.s17.1" type="comm">
+                        <lb n="17" ed="KX"/> 勾三</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p35.s17.2"> 也</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p35.s17.3" type="comm"> 此就股說</seg>
+                    <seg state="locked" xml:id="KR3fa002_tls_p35.s17.4"> 右第五段</seg>
+                    <pb ed="KX" n="03-07-003.36" xml:id="KR3fa002_tls_36a"/>
+                    <head xml:id="KR3fa002_tls_p36.s1-h">
+                        <seg xml:id="KR3fa002_tls_p36.s1" state="locked">
+                            <lb n="1" ed="KX"/>周髀筭徑後序</seg>
+                    </head>
+                    <seg xml:id="KR3fa002_tls_p36.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻䶻䶻䶻䶻䶻䶻䶻䶻䶻䶻" quantity="11"/>宋鮑澣之撰</seg>
+                    <seg xml:id="KR3fa002_tls_p36.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻" quantity="1"/>周髀筭徑二卷古蓋天之學也以勾股之</seg>
+                    <seg xml:id="KR3fa002_tls_p36.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻" quantity="1"/>法度天地之高厚推日月之運行而得其</seg>
+                    <seg xml:id="KR3fa002_tls_p36.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻" quantity="1"/>度數其書出於商周之間自周公受之於</seg>
+                    <seg xml:id="KR3fa002_tls_p36.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻" quantity="1"/>商高周人志之謂之周髀其所從來達矣</seg>
+                    <seg xml:id="KR3fa002_tls_p36.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻" quantity="1"/>隋書經籍志有周髀一卷趙嬰註周髀一</seg>
+                    <seg xml:id="KR3fa002_tls_p36.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻" quantity="1"/>卷甄鸞重述而唐之藝文志天文類有趙</seg>
+                    <pb ed="KX" n="03-07-003.36" xml:id="KR3fa002_tls_36b"/>
+                    <seg xml:id="KR3fa002_tls_p36.s10" state="locked">
+                        <lb n="10" ed="KX"/>
+                        <space n="䶻" quantity="1"/>嬰註周髀一卷甄鸞註周髀一卷其曆筭</seg>
+                    <seg xml:id="KR3fa002_tls_p36.s11" state="locked">
+                        <lb n="11" ed="KX"/>
+                        <space n="䶻" quantity="1"/>類仍有李淳風註周髀筭經二卷本此一</seg>
+                    <seg xml:id="KR3fa002_tls_p36.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻" quantity="1"/>書耳至於本朝崇文總目與夫中興館閣</seg>
+                    <seg xml:id="KR3fa002_tls_p36.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻" quantity="1"/>書目皆有周髀筭經二卷云趙君卿述甄</seg>
+                    <seg xml:id="KR3fa002_tls_p36.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻" quantity="1"/>鸞重述李淳風等註釋趙君卿名爽君卿</seg>
+                    <seg xml:id="KR3fa002_tls_p36.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻" quantity="1"/>其字也如是則在唐以前則有趙嬰之註</seg>
+                    <seg xml:id="KR3fa002_tls_p36.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻" quantity="1"/>而本朝以來則是趙爽之本所記不同意</seg>
+                    <seg xml:id="KR3fa002_tls_p36.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻" quantity="1"/>者趙嬰趙爽止是一人豈其字文相類轉</seg>
+                    <pb ed="KX" n="03-07-003.37" xml:id="KR3fa002_tls_37a"/>
+                    <seg xml:id="KR3fa002_tls_p37.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻" quantity="1"/>寫之誤耶然亦當以隋唐之書爲正可也</seg>
+                    <seg xml:id="KR3fa002_tls_p37.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻" quantity="1"/>又崇文總目及李籍周髀音義皆云趙君</seg>
+                    <seg xml:id="KR3fa002_tls_p37.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻" quantity="1"/>卿不詳何代人今以序文考之有曰渾天</seg>
+                    <seg xml:id="KR3fa002_tls_p37.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻" quantity="1"/>有靈憲之文蓋天有周髀之法靈憲乃張</seg>
+                    <seg xml:id="KR3fa002_tls_p37.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻" quantity="1"/>衡之所作實後漢安順之世而甄鸞之重</seg>
+                    <seg xml:id="KR3fa002_tls_p37.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻" quantity="1"/>述者乃是解釋君卿之所註出於宇文周</seg>
+                    <seg xml:id="KR3fa002_tls_p37.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻" quantity="1"/>之世以此推之則君卿者其亦■晉之間</seg>
+                    <seg xml:id="KR3fa002_tls_p37.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻" quantity="1"/>人乎若夫乗勾股朱黃之實立倍差減幷</seg>
+                    <pb ed="KX" n="03-07-003.37" xml:id="KR3fa002_tls_37b"/>
+                    <seg xml:id="KR3fa002_tls_p37.s10" state="locked">
+                        <lb n="10" ed="KX"/>
+                        <space n="䶻" quantity="1"/>之術以盡開方之妙百世之下莫之可易</seg>
+                    <seg xml:id="KR3fa002_tls_p37.s11" state="locked">
+                        <lb n="11" ed="KX"/>
+                        <space n="䶻" quantity="1"/>則君卿者誠筭學之宗師也</seg>
+                    <seg xml:id="KR3fa002_tls_p37.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻" quantity="1"/>嘉定六年癸酉十一月一日丁卯冬至承</seg>
+                    <seg xml:id="KR3fa002_tls_p37.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻" quantity="1"/>議郎權知汀州軍州兼管內勸農事主管</seg>
+                    <seg xml:id="KR3fa002_tls_p37.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻" quantity="1"/>坑冶括蒼鮑澣之仲祺謹書</seg>
+                    <seg xml:id="KR3fa002_tls_p37.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻" quantity="1"/>載堉曰齊有晏嬰漢有灌嬰皆大臣也故</seg>
+                    <seg xml:id="KR3fa002_tls_p37.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻" quantity="1"/>趙嬰字君卿蓋取此也以此證之爽字誤</seg>
+                    <seg xml:id="KR3fa002_tls_p37.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻" quantity="1"/>無疑矣</seg>
+                    <pb ed="KX" n="03-07-003.38" xml:id="KR3fa002_tls_38a"/>
+                    <head xml:id="KR3fa002_tls_p38.s1-h">
+                        <seg xml:id="KR3fa002_tls_p38.s1" state="locked">
+                            <lb n="1" ed="KX"/>句股圖解跋</seg>
+                    </head>
+                    <seg xml:id="KR3fa002_tls_p38.s2" state="locked">
+                        <lb n="2" ed="KX"/>辟如行遠必自邇辟如登高必自卑蓋名言</seg>
+                    <seg xml:id="KR3fa002_tls_p38.s3" state="locked">
+                        <lb n="3" ed="KX"/>哉句股筭術本非難曉人多以爲難曉何也</seg>
+                    <seg xml:id="KR3fa002_tls_p38.s4" state="locked">
+                        <lb n="4" ed="KX"/>學之躐等而非循序故也愚按九章筭術所</seg>
+                    <seg xml:id="KR3fa002_tls_p38.s5" state="locked">
+                        <lb n="5" ed="KX"/>載句股備矣然於初學無所利益惟古周髀</seg>
+                    <seg xml:id="KR3fa002_tls_p38.s6" state="locked">
+                        <lb n="6" ed="KX"/>筭經所謂句爲青實股爲黃實弦爲朱實者</seg>
+                    <seg xml:id="KR3fa002_tls_p38.s7" state="locked">
+                        <lb n="7" ed="KX"/>名義有可取蓋青者象天也黃者象地也朱</seg>
+                    <seg xml:id="KR3fa002_tls_p38.s8" state="locked">
+                        <lb n="8" ed="KX"/>者象人也取名初無別義聊以識別三實耳</seg>
+                    <pb ed="KX" n="03-07-003.38" xml:id="KR3fa002_tls_38b"/>
+                    <seg xml:id="KR3fa002_tls_p38.s10" state="locked">
+                        <lb n="10" ed="KX"/>或有不曉者而問於余余以筭書所稱甲乙</seg>
+                    <seg xml:id="KR3fa002_tls_p38.s11" state="locked">
+                        <lb n="11" ed="KX"/>丙丁四人喻之遂悟曰恐是以色界書故曰</seg>
+                    <seg xml:id="KR3fa002_tls_p38.s12" state="locked">
+                        <lb n="12" ed="KX"/>青實等耳余以爲然乃用三色紙而奇中尤</seg>
+                    <seg xml:id="KR3fa002_tls_p38.s13" state="locked">
+                        <lb n="13" ed="KX"/>奇庶幾便於初學也鳴呼句股一術雖在九</seg>
+                    <seg xml:id="KR3fa002_tls_p38.s14" state="locked">
+                        <lb n="14" ed="KX"/>章之末實爲筭術之本以方測圓而弧矢之</seg>
+                    <seg xml:id="KR3fa002_tls_p38.s15" state="locked">
+                        <lb n="15" ed="KX"/>妙在是矣初學由此漸入佳境不可以其淺</seg>
+                    <seg xml:id="KR3fa002_tls_p38.s16" state="locked">
+                        <lb n="16" ed="KX"/>近而忽之也是故列於弧矢真理之前爲弧</seg>
+                    <seg xml:id="KR3fa002_tls_p38.s17" state="locked">
+                        <lb n="17" ed="KX"/>矢之發軔也歟句曲山人跋</seg>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

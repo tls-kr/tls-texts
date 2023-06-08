@@ -1,0 +1,1285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KR3fb017">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>曆象本要</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <idno type="kanripo">KR3fb017</idno>
+                </edition>
+            </editionStmt>
+            <extent>
+                <measure unit="char" quantity="11914"/>
+                <date when-iso="2023-06-03T16:09:52.071+09:00"/>
+            </extent>
+            <publicationStmt>
+                <p>Published electronically</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>[清]楊文言　版本信息[清康熙刻本]</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <catRef scheme="#kr-categories" target="#KR3fb"/>
+            </textClass>
+            <creation/>
+        </profileDesc>
+        <encodingDesc>
+            <variantEncoding location="external" method="double-end-point"/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <p>
+                    <pb ed="KX" n="03-07-049.1" xml:id="KR3fb017_tls_1a"/>
+                    <figure>
+                        <graphic facs="KR3fb017/C2574744_DBA4_47AE_8545_A72B07C88FD2.png" type="inline"/>
+                    </figure>
+                    <head xml:id="KR3fb017_tls_p1.s1-h">
+                        <seg xml:id="KR3fb017_tls_p1.s1" state="locked">
+                            <lb n="1" ed="KX"/>序</seg>
+                    </head>
+                    <pb ed="KX" n="03-07-049.2" xml:id="KR3fb017_tls_2a"/>
+                    <head xml:id="KR3fb017_tls_p2.s1-h">
+                        <seg xml:id="KR3fb017_tls_p2.s1" state="locked">
+                            <lb n="1" ed="KX"/>曆象本要</seg>
+                    </head>
+                    <seg xml:id="KR3fb017_tls_p2.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻" quantity="1"/>新曆法名</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p2.s3.1">
+                        <lb n="3" ed="KX"/>周天度古三百六十五度有奇今三百六十</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p2.s3.2" type="comm">書中述古曆者用<lb type="/"/>古度餘皆是今度</seg>
+                    <seg xml:id="KR3fb017_tls_p2.s4" state="locked">
+                        <lb n="4" ed="KX"/>天體古恒星卽天體今言宗動爲天體其樞紐爲兩極恒星之</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p2.s5.1">
+                        <lb n="5" ed="KX"/>天麗宗動而漸移與日月五星一理</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p2.s5.2" type="comm">其移處卽<lb type="/"/>𡷫差之根</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p2.s5.3">天地體古言天</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p2.s6.1">
+                        <lb n="6" ed="KX"/>圓地平今言天地皆圓</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p2.s6.2" type="comm">凡測極度日晷等<lb type="/"/>法皆以地圓起數</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p2.s6.3">恆星七政古以爲同</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p2.s7.1">
+                        <lb n="7" ed="KX"/>在一天今言各有層次高下</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p2.s7.2" type="comm">凡月五星與日交食合望之遠近<lb type="/"/>高下及遲速留逆之變皆生於此</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p2.s8.1">
+                        <lb n="8" ed="KX"/>日五星行古有盈縮曆月行有遲疾曆今以最高度加減</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p2.s8.2" type="comm">或用<lb type="/"/>不同</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p2.s9.1" type="comm">
+                        <lb n="9" ed="KX"/>心天或用同心天而加<lb type="/"/>本輪其高卑皆同理</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p2.s9.2">五星行古有遲留伏逆段今以歲輪周</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p2.s10.1">
+                        <lb n="10" ed="KX"/>加減</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p2.s10.2" type="comm">亦曰<lb type="/"/>次輪</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p2.s10.3">○以日行爲天度正也然三百六十之外旣有畸零</seg>
+                    <seg xml:id="KR3fb017_tls_p2.s11" state="locked">
+                        <lb n="11" ed="KX"/>而所謂四分之一者又歷代增減紛紜迄無確定且其行有冬</seg>
+                    <seg xml:id="KR3fb017_tls_p2.s13" state="locked">
+                        <lb n="13" ed="KX"/>夏盈縮一歲平行者無幾日焉是以推步甚難夫施於黃道之</seg>
+                    <seg xml:id="KR3fb017_tls_p2.s14" state="locked">
+                        <lb n="14" ed="KX"/>算巳難矣至于南北緯度黃赤斜交之度月五星經緯之度一</seg>
+                    <seg xml:id="KR3fb017_tls_p2.s15" state="locked">
+                        <lb n="15" ed="KX"/>一皆以日𨇠之度推算則愈難也今槪以三百六十爲率自周</seg>
+                    <seg xml:id="KR3fb017_tls_p2.s16" state="locked">
+                        <lb n="16" ed="KX"/>天經緯以及七政大小諸輪皆以此數比例相求而絫黍不失</seg>
+                    <seg xml:id="KR3fb017_tls_p2.s17" state="locked">
+                        <lb n="17" ed="KX"/>故定爲三百六十者便於算而適於用也極星在古去不動處</seg>
+                    <seg xml:id="KR3fb017_tls_p2.s18" state="locked">
+                        <lb n="18" ed="KX"/>甚近今則離三度餘以故二十八宿緯度皆有今古南北之殊</seg>
+                    <seg xml:id="KR3fb017_tls_p2.s19" state="locked">
+                        <lb n="19" ed="KX"/>則知恒星之天猶非本體也本體之樞不變故赤道有常處太</seg>
+                    <seg xml:id="KR3fb017_tls_p2.s20" state="locked">
+                        <lb n="20" ed="KX"/>陽之樞亦不變故黃道有常行以是二者爲天之大綱而巳矣</seg>
+                    <seg xml:id="KR3fb017_tls_p2.s21" state="locked">
+                        <lb n="21" ed="KX"/>天地體七政以下書中詳之若太陽遇宫爲定氣及各地域節</seg>
+                    <seg xml:id="KR3fb017_tls_p2.s22" state="locked">
+                        <lb n="22" ed="KX"/>應之差則古人之法巳備但今始以注曆爾</seg>
+                    <pb ed="KX" n="03-07-049.3" xml:id="KR3fb017_tls_3a"/>
+                    <figure>
+                        <graphic facs="KR3fb017/50E8BB1A_2F2A_47FF_A7A0_CFCC05F0006F.png" type="inline"/>
+                    </figure>
+                    <seg xml:id="KR3fb017_tls_p3.s13" state="locked">
+                        <lb n="13" ed="KX"/>天包地外以兩極爲樞地居天中地平適當天徑之半分兩極</seg>
+                    <seg xml:id="KR3fb017_tls_p3.s14" state="locked">
+                        <lb n="14" ed="KX"/>之中爲赤道自地中上指爲天頂兩極爲赤道之宗天頂爲地</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p3.s15.1">
+                        <lb n="15" ed="KX"/>平之宗距赤道地平各得平周四之一</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p3.s15.2" type="comm">曆家省<lb type="/"/>曰象弧</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p3.s15.3">地面遷轉則極</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p3.s16.1">
+                        <lb n="16" ed="KX"/>高度數不齊</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p3.s16.2" type="comm">地向北行則北極漸高<lb type="/"/>向南行則北極漸下</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p3.s16.3">天頂經緯易度</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p3.s16.4" type="comm">向東行則<lb type="/"/>天頂亦東</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p3.s17.1" type="comm">
+                        <lb n="17" ed="KX"/>向西行則天頂<lb type="/"/>亦西南北亦然</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p3.s17.2">北極赤道與天頂地平參相距亦互相眎</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p3.s17.3" type="comm">北極<lb type="/"/>高度</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p3.s18.1" type="comm">
+                        <lb n="18" ed="KX"/>視赤道距天頂之弧北極距天<lb type="/"/>頂度視赤道距地平之高弧</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p3.s18.2">○言渾天者謂天包地如卵裹</seg>
+                    <seg xml:id="KR3fb017_tls_p3.s19" state="locked">
+                        <lb n="19" ed="KX"/>黃然則卵圜而黃亦圜矣又謂之地平何哉新曆言地之體圓</seg>
+                    <seg xml:id="KR3fb017_tls_p3.s20" state="locked">
+                        <lb n="20" ed="KX"/>斯得其實古稱天圓地方者語乎其動静之性尒故曾子曰天</seg>
+                    <seg xml:id="KR3fb017_tls_p3.s21" state="locked">
+                        <lb n="21" ed="KX"/>道曰圓地道曰方如地之果方則是四角之不掩也又天地對</seg>
+                    <seg xml:id="KR3fb017_tls_p3.s22" state="locked">
+                        <lb n="22" ed="KX"/>言蓋亦以道相配實則天大地小以天視地不遇一撮其四方</seg>
+                    <seg xml:id="KR3fb017_tls_p3.s23" state="locked">
+                        <lb n="23" ed="KX"/>上下去天極闊而其度數道里皆均非能横亘其中與天相際</seg>
+                    <pb ed="KX" n="03-07-049.4" xml:id="KR3fb017_tls_4a"/>
+                    <seg xml:id="KR3fb017_tls_p4.s1" state="locked">
+                        <lb n="1" ed="KX"/>也然地形雖圓而小而人周圍附居隨所立以望四遠目力所</seg>
+                    <seg xml:id="KR3fb017_tls_p4.s2" state="locked">
+                        <lb n="2" ed="KX"/>極皆適得圜形之半則雖圜而與平體不二雖小而與際天之</seg>
+                    <seg xml:id="KR3fb017_tls_p4.s3" state="locked">
+                        <lb n="3" ed="KX"/>理不殊就一處窺天一方立法雖謂之地平可也惟極輪晷蚤</seg>
+                    <seg xml:id="KR3fb017_tls_p4.s4" state="locked">
+                        <lb n="4" ed="KX"/>晚永短之差究交食實高望高之異則知今日之測轉爲精密</seg>
+                    <seg xml:id="KR3fb017_tls_p4.s5" state="locked">
+                        <lb n="5" ed="KX"/>昔所謂景中而巳昳景巳正而未中八耒同昏萬方皆晝眞無</seg>
+                    <seg xml:id="KR3fb017_tls_p4.s6" state="locked">
+                        <lb n="6" ed="KX"/>是理矣</seg>
+                    <pb ed="KX" n="03-07-049.5" xml:id="KR3fb017_tls_5a"/>
+                    <figure>
+                        <graphic facs="KR3fb017/5554FBEF_CDC3_4694_87B0_D3AD01E2FAD4.png" type="inline"/>
+                    </figure>
+                    <seg xml:id="KR3fb017_tls_p5.s12" state="locked">
+                        <lb n="12" ed="KX"/>兩極出圜線至赤道以剖經度作平限全周三百六十○經度</seg>
+                    <seg xml:id="KR3fb017_tls_p5.s13" state="locked">
+                        <lb n="13" ed="KX"/>者以南北直下分之中間闊兩頭狹闊狹皆以三百六十度爲</seg>
+                    <seg xml:id="KR3fb017_tls_p5.s14" state="locked">
+                        <lb n="14" ed="KX"/>準以正宫分以限平度者也其度在赤道正得一度之廣去赤</seg>
+                    <seg xml:id="KR3fb017_tls_p5.s15" state="locked">
+                        <lb n="15" ed="KX"/>道漸遠漸狹</seg>
+                    <pb ed="KX" n="03-07-049.6" xml:id="KR3fb017_tls_6a"/>
+                    <figure>
+                        <graphic facs="KR3fb017/366BF960_5D89_4B33_8ED6_CAC2FE138C62.png" type="inline"/>
+                    </figure>
+                    <seg xml:id="KR3fb017_tls_p6.s13" state="locked">
+                        <lb n="13" ed="KX"/>赤道居兩極之中距南距北横歷各九十度爲準○緯度者以</seg>
+                    <seg xml:id="KR3fb017_tls_p6.s14" state="locked">
+                        <lb n="14" ed="KX"/>赤道爲中其南北至兩極皆以平度分之所以驗日月五星之</seg>
+                    <seg xml:id="KR3fb017_tls_p6.s15" state="locked">
+                        <lb n="15" ed="KX"/>行道表裏遠近而推其交食凌犯之詳者也</seg>
+                    <pb ed="KX" n="03-07-049.7" xml:id="KR3fb017_tls_7a"/>
+                    <figure>
+                        <graphic facs="KR3fb017/CF4345EC_01BC_4A2A_A783_CDCF88208903.png" type="inline"/>
+                    </figure>
+                    <seg xml:id="KR3fb017_tls_p7.s13" state="locked">
+                        <lb n="13" ed="KX"/>黃赤道經度各自其極而縱剖二道斜交互形大小分後黃道</seg>
+                    <seg xml:id="KR3fb017_tls_p7.s14" state="locked">
+                        <lb n="14" ed="KX"/>率小於赤道故同升之積赤道少而黃道多漸遠漸大一象弧</seg>
+                    <seg xml:id="KR3fb017_tls_p7.s15" state="locked">
+                        <lb n="15" ed="KX"/>而平至後黃道率大於赤道故同升之積赤道多而黃道少漸</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p7.s16.1">
+                        <lb n="16" ed="KX"/>遠漸小亦一象孤而平</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p7.s16.2" type="comm">月星之道斜交黃道而<lb type="/"/>與之同升與此同理</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p7.s16.3">○赤道正當天</seg>
+                    <seg xml:id="KR3fb017_tls_p7.s17" state="locked">
+                        <lb n="17" ed="KX"/>腰黃道斜帶赤道兩道各有平度因其相交而比校之則闊狹</seg>
+                    <seg xml:id="KR3fb017_tls_p7.s18" state="locked">
+                        <lb n="18" ed="KX"/>不等何也腰度最廣而漸近兩端則漸狹今以赤道爲主而以</seg>
+                    <seg xml:id="KR3fb017_tls_p7.s19" state="locked">
+                        <lb n="19" ed="KX"/>黃度準之則在二至者黃道之腰度而赤道之兩端也故二至</seg>
+                    <seg xml:id="KR3fb017_tls_p7.s20" state="locked">
+                        <lb n="20" ed="KX"/>日行一度而見其餘於一度也至於二分則兩道皆腰度矣然</seg>
+                    <seg xml:id="KR3fb017_tls_p7.s21" state="locked">
+                        <lb n="21" ed="KX"/>其時赤道平而黃道斜故二分日行一度而見其不及一度也</seg>
+                    <seg xml:id="KR3fb017_tls_p7.s22" state="locked">
+                        <lb n="22" ed="KX"/>二至日度雖大而晝夜晷刻之差少二分日度雖小而晝夜晷</seg>
+                    <seg xml:id="KR3fb017_tls_p7.s23" state="locked">
+                        <lb n="23" ed="KX"/>刻之差多由其自南而北自北而南之勢二至則紆二分則徑</seg>
+                    <pb ed="KX" n="03-07-049.8" xml:id="KR3fb017_tls_8a"/>
+                    <seg xml:id="KR3fb017_tls_p8.s1" state="locked">
+                        <lb n="1" ed="KX"/>是以永短進退或遲或速也○新説言天有數重蓋一氣運旋</seg>
+                    <seg xml:id="KR3fb017_tls_p8.s2" state="locked">
+                        <lb n="2" ed="KX"/>而有高下如曾雲疊浪之比與然其説有赤極則天樞也又有</seg>
+                    <seg xml:id="KR3fb017_tls_p8.s3" state="locked">
+                        <lb n="3" ed="KX"/>黃極日天之樞也是雖一氣運旋而其樞不同也愚意不獨日</seg>
+                    <seg xml:id="KR3fb017_tls_p8.s4" state="locked">
+                        <lb n="4" ed="KX"/>與天自恒星五緯與月皆宜有其極焉今若以赤極卽爲恒星</seg>
+                    <seg xml:id="KR3fb017_tls_p8.s5" state="locked">
+                        <lb n="5" ed="KX"/>之極則極星去不動處有古今遠近之差列宿緯度亦有古今</seg>
+                    <seg xml:id="KR3fb017_tls_p8.s6" state="locked">
+                        <lb n="6" ed="KX"/>南北之異是以不動處爲極者宗動之極非恒星之極也恒星</seg>
+                    <seg xml:id="KR3fb017_tls_p8.s7" state="locked">
+                        <lb n="7" ed="KX"/>有極則月五星可知然而日月五星之極可指其處其周道明</seg>
+                    <seg xml:id="KR3fb017_tls_p8.s8" state="locked">
+                        <lb n="8" ed="KX"/>也恒星之極未可知其周道在數萬年之後而今未察也或曰</seg>
+                    <seg xml:id="KR3fb017_tls_p8.s9" state="locked">
+                        <lb n="9" ed="KX"/>極者羣動所宗一而巳矣若是其多與曰衆極起於一極故曰</seg>
+                    <seg xml:id="KR3fb017_tls_p8.s10" state="locked">
+                        <lb n="10" ed="KX"/>宗動如樹然衆幹根於一根而又各以幹爲之根是以長條遠</seg>
+                    <seg xml:id="KR3fb017_tls_p8.s11" state="locked">
+                        <lb n="11" ed="KX"/>揚横出斜向而不爲與根背也如曰不然則日月星宿皆須共</seg>
+                    <seg xml:id="KR3fb017_tls_p8.s13" state="locked">
+                        <lb n="13" ed="KX"/>行一道而後可今旣各有其道則其道必在其木天腰圍折中</seg>
+                    <seg xml:id="KR3fb017_tls_p8.s14" state="locked">
+                        <lb n="14" ed="KX"/>之處微樞何以運之但月五星雖各有道而皆與黃道近故其</seg>
+                    <seg xml:id="KR3fb017_tls_p8.s15" state="locked">
+                        <lb n="15" ed="KX"/>樞亦與黃極近而恒星歲差隨黃道行其極必當更近則是月</seg>
+                    <seg xml:id="KR3fb017_tls_p8.s16" state="locked">
+                        <lb n="16" ed="KX"/>五星恒星並宗黃極東行又共宗宗動之極爲一日一周西運</seg>
+                    <seg xml:id="KR3fb017_tls_p8.s17" state="locked">
+                        <lb n="17" ed="KX"/>之樞故曰衆極根於一極也</seg>
+                    <pb ed="KX" n="03-07-049.9" xml:id="KR3fb017_tls_9a"/>
+                    <figure>
+                        <graphic facs="KR3fb017/85363804_11AA_488C_9B20_E39DE78E89D2.png" type="inline"/>
+                    </figure>
+                    <seg xml:id="KR3fb017_tls_p9.s13" state="locked">
+                        <lb n="13" ed="KX"/>各矅升降隨赤緯之南北爲早晚黃道旣出入赤道月星之道</seg>
+                    <seg xml:id="KR3fb017_tls_p9.s14" state="locked">
+                        <lb n="14" ed="KX"/>又出入黃道以出入黃道故有在兩道之南者北者界其間者</seg>
+                    <seg xml:id="KR3fb017_tls_p9.s15" state="locked">
+                        <lb n="15" ed="KX"/>各據所入黃道經緯辨之○在北則入地後赤道而疾見在南</seg>
+                    <seg xml:id="KR3fb017_tls_p9.s16" state="locked">
+                        <lb n="16" ed="KX"/>則入地先赤道而遲見凡日行冬夏與月星出入黃赤道表裏</seg>
+                    <seg xml:id="KR3fb017_tls_p9.s17" state="locked">
+                        <lb n="17" ed="KX"/>其理皆同</seg>
+                    <pb ed="KX" n="03-07-049.10" xml:id="KR3fb017_tls_10a"/>
+                    <figure>
+                        <graphic facs="KR3fb017/C6AE3001_E3A0_47E1_AEBE_17CCEE485FEA.png" type="inline"/>
+                    </figure>
+                    <seg xml:id="KR3fb017_tls_p10.s13" state="locked">
+                        <lb n="13" ed="KX"/>黃道斜交於赤道自春分交北至夏至而極北距赤道最遠轉</seg>
+                    <seg xml:id="KR3fb017_tls_p10.s14" state="locked">
+                        <lb n="14" ed="KX"/>而南行至秋分交赤道之南至冬至而極南距赤道最遠又轉</seg>
+                    <seg xml:id="KR3fb017_tls_p10.s15" state="locked">
+                        <lb n="15" ed="KX"/>而北行至春分復交於赤道凡四象孤而一周每周退天之分</seg>
+                    <seg xml:id="KR3fb017_tls_p10.s16" state="locked">
+                        <lb n="16" ed="KX"/>爲歲差○鄭世子黃鐘曆議云黃道斜絡於二十八宿之間如</seg>
+                    <seg xml:id="KR3fb017_tls_p10.s17" state="locked">
+                        <lb n="17" ed="KX"/>人捲絲爲圃絲絲𦆑絡雖重複參差而周道則一譬如月之出</seg>
+                    <seg xml:id="KR3fb017_tls_p10.s18" state="locked">
+                        <lb n="18" ed="KX"/>入黃道每交退移變動不居日出入於赤道大率亦然但月之</seg>
+                    <seg xml:id="KR3fb017_tls_p10.s19" state="locked">
+                        <lb n="19" ed="KX"/>退移也著而日之退移也微古人造曆初未之覺以爲天周卽</seg>
+                    <seg xml:id="KR3fb017_tls_p10.s20" state="locked">
+                        <lb n="20" ed="KX"/>歲周晉虞喜始覺之因損歲餘益天周立歲差法歷代治曆者</seg>
+                    <seg xml:id="KR3fb017_tls_p10.s21" state="locked">
+                        <lb n="21" ed="KX"/>宗焉初喜以天體爲三百六十五度二十六分乃四分之一有</seg>
+                    <seg xml:id="KR3fb017_tls_p10.s22" state="locked">
+                        <lb n="22" ed="KX"/>餘歲策爲三百六十五日二十四分乃四分之一不足計五十</seg>
+                    <seg xml:id="KR3fb017_tls_p10.s23" state="locked">
+                        <lb n="23" ed="KX"/>年而差一度宋何承天以歲差太速改周天爲三百六十五度</seg>
+                    <pb ed="KX" n="03-07-049.11" xml:id="KR3fb017_tls_11a"/>
+                    <seg xml:id="KR3fb017_tls_p11.s1" state="locked">
+                        <lb n="1" ed="KX"/>二十五分半周歲爲三百六十五日二十四分半百年差一度</seg>
+                    <seg xml:id="KR3fb017_tls_p11.s2" state="locked">
+                        <lb n="2" ed="KX"/>祖沖之以四十五年差一度隋劉焯以七十五年差一度唐傅</seg>
+                    <seg xml:id="KR3fb017_tls_p11.s3" state="locked">
+                        <lb n="3" ed="KX"/>仁均以五十五年差一度僧一行以八十二年差一度自後諸</seg>
+                    <seg xml:id="KR3fb017_tls_p11.s4" state="locked">
+                        <lb n="4" ed="KX"/>曆各各不同宋曆多在七十五度左右惟統天曆取大衍歲差</seg>
+                    <seg xml:id="KR3fb017_tls_p11.s5" state="locked">
+                        <lb n="5" ed="KX"/>率八十二年及開元所距之差五十五年折中得六十六年三</seg>
+                    <seg xml:id="KR3fb017_tls_p11.s6" state="locked">
+                        <lb n="6" ed="KX"/>分年之二爲日退移一度之限故謂周天三百六十五度二十</seg>
+                    <seg xml:id="KR3fb017_tls_p11.s7" state="locked">
+                        <lb n="7" ed="KX"/>五分七十五秒周歲六十五日二十四分二十五秒百年差一</seg>
+                    <seg xml:id="KR3fb017_tls_p11.s8" state="locked">
+                        <lb n="8" ed="KX"/>度半又謂上古歲策多後世歲策少故上古歲差少後世歲差</seg>
+                    <seg xml:id="KR3fb017_tls_p11.s9" state="locked">
+                        <lb n="9" ed="KX"/>多元授時曆從之比之諸家亦近密矣○桉古以歲差爲太陽</seg>
+                    <seg xml:id="KR3fb017_tls_p11.s10" state="locked">
+                        <lb n="10" ed="KX"/>移度新法以歲差爲恒星行度步法雖同而推本則異然恒星</seg>
+                    <seg xml:id="KR3fb017_tls_p11.s11" state="locked">
+                        <lb n="11" ed="KX"/>原有移動驗之實測而太陽軌景萬古不殊則新法之理長也</seg>
+                    <seg xml:id="KR3fb017_tls_p11.s13" state="locked">
+                        <lb n="13" ed="KX"/>恒星行歲萬分度之百四十二弱約七十年餘而差一度但所</seg>
+                    <seg xml:id="KR3fb017_tls_p11.s14" state="locked">
+                        <lb n="14" ed="KX"/>謂度者以三百六十爲率與古不同○統天曆謂古今歲策有</seg>
+                    <seg xml:id="KR3fb017_tls_p11.s15" state="locked">
+                        <lb n="15" ed="KX"/>多少卽授時百年消長之説也然自授時後又復長則此法不</seg>
+                    <seg xml:id="KR3fb017_tls_p11.s16" state="locked">
+                        <lb n="16" ed="KX"/>可用而歲差因之有多少者亦復不的矣至於諸曆所定差分</seg>
+                    <seg xml:id="KR3fb017_tls_p11.s17" state="locked">
+                        <lb n="17" ed="KX"/>或增或減皆取驗於當時者耳夫以尋尺儀表仰究蒼形失之</seg>
+                    <seg xml:id="KR3fb017_tls_p11.s18" state="locked">
+                        <lb n="18" ed="KX"/>纖微年久則著雖有聖者莫適爲中惟取精密附近之數施於</seg>
+                    <seg xml:id="KR3fb017_tls_p11.s19" state="locked">
+                        <lb n="19" ed="KX"/>協用而使疇人專家世明其説體澤火之象數十年而一修正</seg>
+                    <seg xml:id="KR3fb017_tls_p11.s20" state="locked">
+                        <lb n="20" ed="KX"/>斯爲坐致之通術無敝之至法矣</seg>
+                    <pb ed="KX" n="03-07-049.12" xml:id="KR3fb017_tls_12a"/>
+                    <figure>
+                        <graphic facs="KR3fb017/338BC833_5D89_4720_86C7_30BA749B1555.png" type="inline"/>
+                    </figure>
+                    <seg xml:id="KR3fb017_tls_p12.s13" state="locked">
+                        <lb n="13" ed="KX"/>晝夜生於日之出入日道斜交而隨天在旋二分日交赤道出</seg>
+                    <seg xml:id="KR3fb017_tls_p12.s14" state="locked">
+                        <lb n="14" ed="KX"/>入於卯酉㝡中地平上下其度適均故晝夜平夏至前後日𨇠</seg>
+                    <seg xml:id="KR3fb017_tls_p12.s15" state="locked">
+                        <lb n="15" ed="KX"/>赤道內出入於卯酉之北天度分界地平上多下少故晝長夜</seg>
+                    <seg xml:id="KR3fb017_tls_p12.s16" state="locked">
+                        <lb n="16" ed="KX"/>短冬至前後日𨇠赤道外出入於卯酉之南天度分界地平上</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p12.s17.1">
+                        <lb n="17" ed="KX"/>少下多故晝短夜長北極愈高長短之差愈甚</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p12.s17.2" type="comm">廣東極高二十<lb type="/"/>三度半其夏日</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p12.s18.1" type="comm">
+                        <lb n="18" ed="KX"/>冬夜各五十三刻十一分冬日夏夜各四十二刻四分京師極<lb type="/"/>高四十度其夏日冬夜各五十九刻七分冬日夏夜各三十六</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p12.s19.1" type="comm">
+                        <lb n="19" ed="KX"/>刻八分○此分是以<lb type="/"/>一刻十五分約之</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p12.s19.2">○自古天地道里日月軌景之說多矣至</seg>
+                    <seg xml:id="KR3fb017_tls_p12.s20" state="locked">
+                        <lb n="20" ed="KX"/>於今日其説彌詳以爲地在天中止一彈丸上下四方大氣束</seg>
+                    <seg xml:id="KR3fb017_tls_p12.s21" state="locked">
+                        <lb n="21" ed="KX"/>之周圍度數與天相應環地上下皆有國土人物各以戴天爲</seg>
+                    <seg xml:id="KR3fb017_tls_p12.s22" state="locked">
+                        <lb n="22" ed="KX"/>上履地爲下南北東西隨處改觀晝夜寒溫因之互異赤道之</seg>
+                    <seg xml:id="KR3fb017_tls_p12.s23" state="locked">
+                        <lb n="23" ed="KX"/>下其地㝡熱其景則四時常均無有短永桉其燠熱凉寒之節</seg>
+                    <pb ed="KX" n="03-07-049.13" xml:id="KR3fb017_tls_13a"/>
+                    <seg xml:id="KR3fb017_tls_p13.s1" state="locked">
+                        <lb n="1" ed="KX"/>蓋一年而兩其四時也近兩極處其地最寒景則短者極短長</seg>
+                    <seg xml:id="KR3fb017_tls_p13.s2" state="locked">
+                        <lb n="2" ed="KX"/>者極長至有數日常晝常夜者數旬常晝常夜者正當兩極之</seg>
+                    <seg xml:id="KR3fb017_tls_p13.s3" state="locked">
+                        <lb n="3" ed="KX"/>下恒以半年爲晝半年爲夜而晝夜寒暑合矣惟距赤道二十</seg>
+                    <seg xml:id="KR3fb017_tls_p13.s4" state="locked">
+                        <lb n="4" ed="KX"/>三度至四十度許其地寒不極寒熱不極熱溫和可居其景則</seg>
+                    <seg xml:id="KR3fb017_tls_p13.s5" state="locked">
+                        <lb n="5" ed="KX"/>與冬夏進退長短之極皆無過十之七此寒暑晝夜之交和氣</seg>
+                    <seg xml:id="KR3fb017_tls_p13.s6" state="locked">
+                        <lb n="6" ed="KX"/>之會也中國九州正當黃道北軌距赤道二十三度之外起於</seg>
+                    <seg xml:id="KR3fb017_tls_p13.s7" state="locked">
+                        <lb n="7" ed="KX"/>廣州夏至戴日之下迤邐而北至於夏至去日十六度許則今</seg>
+                    <seg xml:id="KR3fb017_tls_p13.s8" state="locked">
+                        <lb n="8" ed="KX"/>直隸也自直隸越塞而北風氣彌寒晝夜之刻彌長彌短自廣</seg>
+                    <seg xml:id="KR3fb017_tls_p13.s9" state="locked">
+                        <lb n="9" ed="KX"/>州縣海而南風氣彌熱晝夜之刻漸無冬夏矣此説得之親歷</seg>
+                    <seg xml:id="KR3fb017_tls_p13.s10" state="locked">
+                        <lb n="10" ed="KX"/>實測非騶莊荒忽者比而今日遠賈內販飄泊周游道其所至</seg>
+                    <seg xml:id="KR3fb017_tls_p13.s11" state="locked">
+                        <lb n="11" ed="KX"/>光景風候悉與推法符合故知天地之大變化萬端未可迹其</seg>
+                    <seg xml:id="KR3fb017_tls_p13.s13" state="locked">
+                        <lb n="13" ed="KX"/>一域疑其區際蓋自周公周髀之書巳𧦴言之於後大儒亦有</seg>
+                    <seg xml:id="KR3fb017_tls_p13.s14" state="locked">
+                        <lb n="14" ed="KX"/>心知其意而發其理者並述於左以徵信學者云○周髀之説</seg>
+                    <seg xml:id="KR3fb017_tls_p13.s15" state="locked">
+                        <lb n="15" ed="KX"/>以爲天象蓋笠地法覆槃北極下地高四隤而下則今地圜之</seg>
+                    <seg xml:id="KR3fb017_tls_p13.s16" state="locked">
+                        <lb n="16" ed="KX"/>説也不言南極者闕於所不見也旣以北極爲中而又曰天如</seg>
+                    <seg xml:id="KR3fb017_tls_p13.s17" state="locked">
+                        <lb n="17" ed="KX"/>倚蓋亦就沖國言之也極旁四方之地晝夜易處加四時相反</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p13.s18.1" type="comm">
+                        <lb n="18" ed="KX"/>謂北方日中南方夜半東方早晨西方晚<lb type="/"/>暮子午卯酉每加四箇時辰然後相追及</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p13.s18.2">卽今經度節氣時刻</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p13.s19.1">
+                        <lb n="19" ed="KX"/>之說也北極左右夏有不釋之冰中衡左右冬有不死之草</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p13.s19.2" type="comm">言<lb type="/"/>其</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p13.s20.1" type="comm">
+                        <lb n="20" ed="KX"/>極寒<lb type="/"/>極熱</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p13.s20.2">中衡左右五穀一歲再熟北極之下物有朝生暮穫</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p13.s20.3" type="comm">赤道<lb type="/"/>之下</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p13.s21.1" type="comm">
+                        <lb n="21" ed="KX"/>有兩春秋雨冬夏故一歲再熟北極之<lb type="/"/>下以半年爲晝半年爲夜故朝生暮穫</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p13.s21.2">卽今緯度五帶之說也</seg>
+                    <seg xml:id="KR3fb017_tls_p13.s22" state="locked">
+                        <lb n="22" ed="KX"/>自漢揚雄蔡邕皆不信蓋天之術更今二千年理始明曉然周</seg>
+                    <seg xml:id="KR3fb017_tls_p13.s23" state="locked">
+                        <lb n="23" ed="KX"/>官大司徒土圭之法則未嘗及此者土圭測景爲九州之內擇</seg>
+                    <pb ed="KX" n="03-07-049.14" xml:id="KR3fb017_tls_14a"/>
+                    <seg xml:id="KR3fb017_tls_p14.s1" state="locked">
+                        <lb n="1" ed="KX"/>建都畿設爾九州之地南則景短之時多暑北則景長之時多</seg>
+                    <seg xml:id="KR3fb017_tls_p14.s2" state="locked">
+                        <lb n="2" ed="KX"/>寒東則景夕之時多風西則景朝之時多陰故惟洛邑土中爲</seg>
+                    <seg xml:id="KR3fb017_tls_p14.s3" state="locked">
+                        <lb n="3" ed="KX"/>天地四時之所交合陰陽風雨之所和會多暑多寒者由去日</seg>
+                    <seg xml:id="KR3fb017_tls_p14.s4" state="locked">
+                        <lb n="4" ed="KX"/>近遠也多風多陰則以瀕海負山之故乃通氣之爲非容光之</seg>
+                    <seg xml:id="KR3fb017_tls_p14.s5" state="locked">
+                        <lb n="5" ed="KX"/>變也周公相九土之中和而立王國故不及周髀之事且經以</seg>
+                    <seg xml:id="KR3fb017_tls_p14.s6" state="locked">
+                        <lb n="6" ed="KX"/>存信術以稽異具九州之理於經而盡六合之變於術言各有</seg>
+                    <seg xml:id="KR3fb017_tls_p14.s7" state="locked">
+                        <lb n="7" ed="KX"/>所當矣○明道程子曰據測景地以三萬里取中若有窮也然</seg>
+                    <seg xml:id="KR3fb017_tls_p14.s8" state="locked">
+                        <lb n="8" ed="KX"/>有至一邊已及一萬五千里者而天地蓋如初也然則地形有</seg>
+                    <seg xml:id="KR3fb017_tls_p14.s9" state="locked">
+                        <lb n="9" ed="KX"/>高下無適而不爲中此天地之化所以不可窮也若有不易之</seg>
+                    <seg xml:id="KR3fb017_tls_p14.s10" state="locked">
+                        <lb n="10" ed="KX"/>中則須有左右前後四隅雖百千萬里終有盡處又曰地旣無</seg>
+                    <seg xml:id="KR3fb017_tls_p14.s11" state="locked">
+                        <lb n="11" ed="KX"/>適而不爲中則日無適而不爲精也至寅則寅上有光至卯則</seg>
+                    <seg xml:id="KR3fb017_tls_p14.s13" state="locked">
+                        <lb n="13" ed="KX"/>卯上有光氣行滿天地之中知此則知生物之理又曰今人所</seg>
+                    <seg xml:id="KR3fb017_tls_p14.s14" state="locked">
+                        <lb n="14" ed="KX"/>定天體且以目定爾向有於海上見南極星者則所見蓋未盡</seg>
+                    <seg xml:id="KR3fb017_tls_p14.s15" state="locked">
+                        <lb n="15" ed="KX"/>也昔在澤州嘗三次食韭始食懷州次食澤州又次食并州數</seg>
+                    <seg xml:id="KR3fb017_tls_p14.s16" state="locked">
+                        <lb n="16" ed="KX"/>百里間氣候之爭如此以此差之須爭半歲如此則有在此冬</seg>
+                    <seg xml:id="KR3fb017_tls_p14.s17" state="locked">
+                        <lb n="17" ed="KX"/>至在彼夏至者然其爲冬夏一爾觀程子三章之言則地之渾</seg>
+                    <seg xml:id="KR3fb017_tls_p14.s18" state="locked">
+                        <lb n="18" ed="KX"/>圜無端日之隨處朝暮氣候之南朔互易蓋皆以理推而得之</seg>
+                    <seg xml:id="KR3fb017_tls_p14.s19" state="locked">
+                        <lb n="19" ed="KX"/>世有拘於所見蔽於大象者乃曰日月麗天萬里同晷自周禮</seg>
+                    <seg xml:id="KR3fb017_tls_p14.s20" state="locked">
+                        <lb n="20" ed="KX"/>明文先自之爲不經況商高之學久失其傳者乎今日天家之</seg>
+                    <seg xml:id="KR3fb017_tls_p14.s21" state="locked">
+                        <lb n="21" ed="KX"/>言乃所以爲往聖前賢之助也</seg>
+                    <pb ed="KX" n="03-07-049.15" xml:id="KR3fb017_tls_15a"/>
+                    <figure>
+                        <graphic facs="KR3fb017/76733FA8_2A22_4796_AF7E_889F1A2F0347.png" type="inline"/>
+                    </figure>
+                    <seg xml:id="KR3fb017_tls_p15.s13" state="locked">
+                        <lb n="13" ed="KX"/>日體光大東升之先西沒之後距地平十八度以下皆有光謂</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p15.s14.1">
+                        <lb n="14" ed="KX"/>之朦景</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p15.s14.2" type="comm">古名昏<lb type="/"/>明分</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p15.s14.3">朦景刻數之差一因日𨇠緯度而多寡不同近</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p15.s15.1">
+                        <lb n="15" ed="KX"/>二分少近二至多而夏至更多</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p15.s15.2" type="comm">江南春秋分五刻十一分冬至<lb type="/"/>六刻七分夏至六刻十三分</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p15.s16.1">
+                        <lb n="16" ed="KX"/>一因北極出地而多寡不同</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p15.s16.2" type="comm">夏至日廣東六刻京師八刻十<lb type="/"/>二分古法槪定爲二刻半者非</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p15.s16.3">○</seg>
+                    <seg xml:id="KR3fb017_tls_p15.s17" state="locked">
+                        <lb n="17" ed="KX"/>度有闊狹亦有斜直所謂地平下十八度有朦景者地平下半</seg>
+                    <seg xml:id="KR3fb017_tls_p15.s18" state="locked">
+                        <lb n="18" ed="KX"/>渾圓之高弧緯度皆闊度也又直度也而天度惟赤道腰圍㝡</seg>
+                    <seg xml:id="KR3fb017_tls_p15.s19" state="locked">
+                        <lb n="19" ed="KX"/>闊漸遠則狹又惟地居赤道下日行度㝡直漸遠則斜設地居</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p15.s20.1">
+                        <lb n="20" ed="KX"/>赤道下又直春秋分則以闊度</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p15.s20.2" type="comm">謂日行<lb type="/"/>赤道</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p15.s20.3">準闊度</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p15.s20.4" type="comm">謂地平<lb type="/"/>下距緯</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p15.s20.5">卽當以</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p15.s21.1">
+                        <lb n="21" ed="KX"/>十八度爲朦景之時刻矣</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p15.s21.2" type="comm">几論時刻並<lb type="/"/>以赤道度</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p15.s21.3">若二至時則以狹度</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p15.s21.4" type="comm">謂<lb type="/"/>日</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p15.s22.1" type="comm">
+                        <lb n="22" ed="KX"/>行在赤<lb type="/"/>道南北</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p15.s22.2">準闊度</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p15.s22.3" type="comm">謂地平<lb type="/"/>下距緯</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p15.s22.4">其朦景時刻必在十八度以上矣是則</seg>
+                    <seg xml:id="KR3fb017_tls_p15.s23" state="locked">
+                        <lb n="23" ed="KX"/>二至朦景多於二分者因度有闊狹而天下皆同雖地居赤道</seg>
+                    <pb ed="KX" n="03-07-049.16" xml:id="KR3fb017_tls_16a"/>
+                    <seg state="locked" xml:id="KR3fb017_tls_p16.s1.1">
+                        <lb n="1" ed="KX"/>之下亦然也又設地在赤道北</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p16.s1.2" type="comm"> 卽中國<lb type="/"/> 地土</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p16.s1.3"> 則雖春秋分日行赤道</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p16.s2.1" type="comm">
+                        <lb n="2" ed="KX"/> 其度<lb type="/"/> 本闊</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p16.s2.2"> 而以斜度</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p16.s2.3" type="comm"> 地在赤道北則地平下日<lb type="/"/> 道亦偏於北而成斜勢</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p16.s2.4"> 準直度</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p16.s2.5" type="comm"> 謂地平<lb type="/"/> 下距緯</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p16.s2.6"> 朦景</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p16.s3.1">
+                        <lb n="3" ed="KX"/>時刻必增矣</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p16.s3.2" type="comm"> 直下十八度者所當<lb type="/"/> 斜度必十八度以上</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p16.s3.3"> 若二至時則度旣狹而勢又</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p16.s4.1">
+                        <lb n="4" ed="KX"/>斜朦景時刻必倍增矣</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p16.s4.2" type="comm"> 斜度當直度旣有所增而所<lb type="/"/> 增者仍爲狹度其增必倍</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p16.s4.3"> 是則偏北</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p16.s5.1">
+                        <lb n="5" ed="KX"/>地勢朦景增多者因度有斜直而愈北則愈多</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p16.s5.2" type="comm"> 如京師多於江<lb type="/"/> 南江南又多於</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p16.s5.3"> </seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p16.s6.1" type="comm">
+                        <lb n="6" ed="KX"/> 浙閩皆以距赤道下<lb type="/"/> 愈遠而朦景愈多</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p16.s6.2"> 夏至彌北故尤多於冬至也</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p16.s6.3" type="comm"> 準此論之地<lb type="/"/> 在赤道南者</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p16.s6.4"> </seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p16.s7.1" type="comm">
+                        <lb n="7" ed="KX"/> 地愈南朦景愈多而<lb type="/"/> 冬至亦多於夏至</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p16.s7.2"> </seg>
+                    <pb ed="KX" n="03-07-049.17" xml:id="KR3fb017_tls_17a"/>
+                    <figure>
+                        <graphic facs="KR3fb017/612FDCD7_5636_4458_9D81_0EE2ABE12E0C.png" type="inline"/>
+                    </figure>
+                    <seg xml:id="KR3fb017_tls_p17.s13" state="locked">
+                        <lb n="13" ed="KX"/>月道斜交黃道交初入黃道北至交半緯度極大乃向黃道行</seg>
+                    <seg xml:id="KR3fb017_tls_p17.s14" state="locked">
+                        <lb n="14" ed="KX"/>至交中出黃道南極於交半緯度又㝡大又向黃道行至交初</seg>
+                    <seg xml:id="KR3fb017_tls_p17.s15" state="locked">
+                        <lb n="15" ed="KX"/>而一周每周退天之度爲交差○黃鐘曆議云今書傳官本有</seg>
+                    <seg xml:id="KR3fb017_tls_p17.s16" state="locked">
+                        <lb n="16" ed="KX"/>圖爲圜規者九而重疊相錯先儒所傳九道蓋如此以理究之</seg>
+                    <seg xml:id="KR3fb017_tls_p17.s17" state="locked">
+                        <lb n="17" ed="KX"/>月道如今𦆑線於彈九上線道雖重然止一縷往來未嘗斷絕</seg>
+                    <seg xml:id="KR3fb017_tls_p17.s18" state="locked">
+                        <lb n="18" ed="KX"/>果如九規則斷而不相屬此可見九行之説非也每一交之終</seg>
+                    <seg xml:id="KR3fb017_tls_p17.s19" state="locked">
+                        <lb n="19" ed="KX"/>退天一度餘凡二百四十九交有奇退天一周終而復始故舊</seg>
+                    <seg xml:id="KR3fb017_tls_p17.s20" state="locked">
+                        <lb n="20" ed="KX"/>曆所謂九道元人一之名曰白道○鄭世子以月道出入黃道</seg>
+                    <seg xml:id="KR3fb017_tls_p17.s21" state="locked">
+                        <lb n="21" ed="KX"/>之差譬黃道交於赤道之差其説巳當然以今曆之理揆之則</seg>
+                    <seg xml:id="KR3fb017_tls_p17.s22" state="locked">
+                        <lb n="22" ed="KX"/>月道之交差者月退也黃道之交差者恒星進也而日度不移</seg>
+                    <seg xml:id="KR3fb017_tls_p17.s23" state="locked">
+                        <lb n="23" ed="KX"/>此其所異也月之爲體最近其行度最著故推日星之理者自</seg>
+                    <pb ed="KX" n="03-07-049.18" xml:id="KR3fb017_tls_18a"/>
+                    <seg xml:id="KR3fb017_tls_p18.s1" state="locked">
+                        <lb n="1" ed="KX"/>月始由其交周可知天日之有歲差矣由其遲疾可知日星之</seg>
+                    <seg xml:id="KR3fb017_tls_p18.s2" state="locked">
+                        <lb n="2" ed="KX"/>有嬴縮矣由其月孛之行可知日㝡高之有移度矣由其倍離</seg>
+                    <seg xml:id="KR3fb017_tls_p18.s3" state="locked">
+                        <lb n="3" ed="KX"/>合日而又有遲疾加減之分可知五星之有歲輪矣</seg>
+                    <pb ed="KX" n="03-07-049.19" xml:id="KR3fb017_tls_19a"/>
+                    <figure>
+                        <graphic facs="KR3fb017/00F9B14E_B295_44EF_8B28_CAE7C4515011.png" type="inline"/>
+                    </figure>
+                    <seg xml:id="KR3fb017_tls_p19.s13" state="locked">
+                        <lb n="13" ed="KX"/>地居天中與天度相應七政運行於天之內去地遠近不同㝡</seg>
+                    <seg xml:id="KR3fb017_tls_p19.s14" state="locked">
+                        <lb n="14" ed="KX"/>近地者月次日金水次火次木次土㝡遠恒星○以行之遲疾</seg>
+                    <seg xml:id="KR3fb017_tls_p19.s15" state="locked">
+                        <lb n="15" ed="KX"/>校之月速日金水遲火又遲木愈遲土㝡遲知彌近則速彌遠</seg>
+                    <seg xml:id="KR3fb017_tls_p19.s16" state="locked">
+                        <lb n="16" ed="KX"/>則遲也以象之高下測之火退望時體大光爍金水退伏則遂</seg>
+                    <seg xml:id="KR3fb017_tls_p19.s17" state="locked">
+                        <lb n="17" ed="KX"/>出日下月長掩日是亦其以次而近之證以理之陰陽推之火</seg>
+                    <seg xml:id="KR3fb017_tls_p19.s18" state="locked">
+                        <lb n="18" ed="KX"/>木土陽也在日之外金水月陰也在日之內有男女正位之義</seg>
+                    <seg xml:id="KR3fb017_tls_p19.s19" state="locked">
+                        <lb n="19" ed="KX"/>焉從前言七政共麗一天然屈子又云圜則九重孰營度之是</seg>
+                    <seg xml:id="KR3fb017_tls_p19.s20" state="locked">
+                        <lb n="20" ed="KX"/>必古有其説而自漢以下失之也今曆言天與九重説合蓋恒</seg>
+                    <seg xml:id="KR3fb017_tls_p19.s21" state="locked">
+                        <lb n="21" ed="KX"/>星七政并宗動故爲九宗動者無星之天一氣旋運而爲衆動</seg>
+                    <seg xml:id="KR3fb017_tls_p19.s22" state="locked">
+                        <lb n="22" ed="KX"/>之宗者也所以知有此天者此天樞紐繫於太虛萬古不移而</seg>
+                    <seg xml:id="KR3fb017_tls_p19.s23" state="locked">
+                        <lb n="23" ed="KX"/>恒星天之極星則去樞紐之不動者較古以漸而遠二十八舍</seg>
+                    <pb ed="KX" n="03-07-049.20" xml:id="KR3fb017_tls_20a"/>
+                    <seg xml:id="KR3fb017_tls_p20.s1" state="locked">
+                        <lb n="1" ed="KX"/>經緯因之亦有古今之異則是恒星自爲一天在此天之下與</seg>
+                    <seg xml:id="KR3fb017_tls_p20.s2" state="locked">
+                        <lb n="2" ed="KX"/>七政同也然此天者外貫軸於太虛而內根極於坤厚所以日</seg>
+                    <seg xml:id="KR3fb017_tls_p20.s3" state="locked">
+                        <lb n="3" ed="KX"/>月星辰潛移嘿運而兩極之在地平者無今古之殊觀是以悟</seg>
+                    <seg xml:id="KR3fb017_tls_p20.s4" state="locked">
+                        <lb n="4" ed="KX"/>其表裏之相應矣○朱子云離騷注解云有九天據某觀之只</seg>
+                    <seg xml:id="KR3fb017_tls_p20.s5" state="locked">
+                        <lb n="5" ed="KX"/>是九重蓋天運行有許多重數在內者較緩至第九重則轉得</seg>
+                    <seg xml:id="KR3fb017_tls_p20.s6" state="locked">
+                        <lb n="6" ed="KX"/>愈緊矣地在中央不動不是在下天包乎地其氣極急形氣相</seg>
+                    <seg xml:id="KR3fb017_tls_p20.s7" state="locked">
+                        <lb n="7" ed="KX"/>催緊束而成體但中間之氣稍寬所以容得許多品物也又曰</seg>
+                    <seg xml:id="KR3fb017_tls_p20.s8" state="locked">
+                        <lb n="8" ed="KX"/>蔡季通欲先論天行次及七政此猶未善要當先論太虛以見</seg>
+                    <seg xml:id="KR3fb017_tls_p20.s9" state="locked">
+                        <lb n="9" ed="KX"/>三百六十餘度一一定位然後論天行以見天度加損虛度之</seg>
+                    <seg xml:id="KR3fb017_tls_p20.s10" state="locked">
+                        <lb n="10" ed="KX"/>歲分歲分旣定然後七政乃可齊爾○按朱子與横渠皆主左</seg>
+                    <seg xml:id="KR3fb017_tls_p20.s11" state="locked">
+                        <lb n="11" ed="KX"/>旋之説惟動天旋急故近之者速遠之者遲愈遠則愈遲與前</seg>
+                    <seg xml:id="KR3fb017_tls_p20.s13" state="locked">
+                        <lb n="13" ed="KX"/>東行遲速之序正相反也曆家取籌算之便儒者求義理之通</seg>
+                    <seg xml:id="KR3fb017_tls_p20.s14" state="locked">
+                        <lb n="14" ed="KX"/>譬如一盆之水急旋其邊則近邊者極速向內者漸遲中間沙</seg>
+                    <seg xml:id="KR3fb017_tls_p20.s15" state="locked">
+                        <lb n="15" ed="KX"/>土聚而不動是爲地體矣況以前陰陽之理推之日以外屬陽</seg>
+                    <seg xml:id="KR3fb017_tls_p20.s16" state="locked">
+                        <lb n="16" ed="KX"/>陽者動故行速以從天日以內屬陰陰者静故行遲以應地是</seg>
+                    <seg xml:id="KR3fb017_tls_p20.s17" state="locked">
+                        <lb n="17" ed="KX"/>尤理之無可疑者所謂天度加損虛度之歲分尤與今恒星東</seg>
+                    <seg xml:id="KR3fb017_tls_p20.s18" state="locked">
+                        <lb n="18" ed="KX"/>行之説相似</seg>
+                    <pb ed="KX" n="03-07-049.21" xml:id="KR3fb017_tls_21a"/>
+                    <figure>
+                        <graphic facs="KR3fb017/FA2AE8A0_0715_4096_8096_614AB7B779B2.png" type="inline"/>
+                    </figure>
+                    <seg xml:id="KR3fb017_tls_p21.s13" state="locked">
+                        <lb n="13" ed="KX"/>七政各有本天而本天各有高卑不以地心爲心七政之行在</seg>
+                    <seg xml:id="KR3fb017_tls_p21.s14" state="locked">
+                        <lb n="14" ed="KX"/>㝡高則遠地視徑小覺行遲其差爲朒在㝡卑則近地視徑大</seg>
+                    <seg xml:id="KR3fb017_tls_p21.s15" state="locked">
+                        <lb n="15" ed="KX"/>覺行速其差爲朓○天有九重故七政各有本天然惟恒星以</seg>
+                    <seg xml:id="KR3fb017_tls_p21.s16" state="locked">
+                        <lb n="16" ed="KX"/>地心爲心七政之天則不以地心爲心者因其有大小遲疾知</seg>
+                    <seg xml:id="KR3fb017_tls_p21.s17" state="locked">
+                        <lb n="17" ed="KX"/>其有高卑因其有高卑知其不以地爲以也然用高卑之説則</seg>
+                    <seg xml:id="KR3fb017_tls_p21.s18" state="locked">
+                        <lb n="18" ed="KX"/>本天之行卽七政之行但月五星爲日所掣轉生次輪而無所</seg>
+                    <seg xml:id="KR3fb017_tls_p21.s19" state="locked">
+                        <lb n="19" ed="KX"/>謂小輪者不用高卑之説則有小輪又有次輪詳見下章○日</seg>
+                    <seg xml:id="KR3fb017_tls_p21.s20" state="locked">
+                        <lb n="20" ed="KX"/>行有及縮古法縮曆起夏至盈曆起冬至卽以二至爲盈縮之</seg>
+                    <seg xml:id="KR3fb017_tls_p21.s21" state="locked">
+                        <lb n="21" ed="KX"/>端而巳新法則極盈極縮不必定於二至之度而歲有不同且</seg>
+                    <seg xml:id="KR3fb017_tls_p21.s22" state="locked">
+                        <lb n="22" ed="KX"/>曰日行原無盈縮人視之有盈縮爾行㝡高則離地遠而見其</seg>
+                    <seg xml:id="KR3fb017_tls_p21.s23" state="locked">
+                        <lb n="23" ed="KX"/>度小是以謂之縮也行㝡卑則離地近而見其度大是以謂之</seg>
+                    <pb ed="KX" n="03-07-049.22" xml:id="KR3fb017_tls_22a"/>
+                    <seg xml:id="KR3fb017_tls_p22.s1" state="locked">
+                        <lb n="1" ed="KX"/>盈也又曰上古㝡高在夏至前今在夏至後由其説考之郭太</seg>
+                    <seg xml:id="KR3fb017_tls_p22.s2" state="locked">
+                        <lb n="2" ed="KX"/>史作曆時㝡高約與夏至同度今定在夏至後七度是其每歲</seg>
+                    <seg xml:id="KR3fb017_tls_p22.s3" state="locked">
+                        <lb n="3" ed="KX"/>移動之驗也蓋日之盈縮月之遲疾今統謂之高卑視差月行</seg>
+                    <seg xml:id="KR3fb017_tls_p22.s4" state="locked">
+                        <lb n="4" ed="KX"/>遲曆爲月孛者月之㝡高處也而月孛一周行三度餘則日之</seg>
+                    <seg xml:id="KR3fb017_tls_p22.s5" state="locked">
+                        <lb n="5" ed="KX"/>㝡高安得定而不移乎但月孛之行也速而日高之動也微約</seg>
+                    <seg xml:id="KR3fb017_tls_p22.s6" state="locked">
+                        <lb n="6" ed="KX"/>六七十年而始行一度故古來推算者未之覺以理揆之則月</seg>
+                    <seg xml:id="KR3fb017_tls_p22.s7" state="locked">
+                        <lb n="7" ed="KX"/>孛周天日高之行亦應周天特其數在千萬年之後未可以意</seg>
+                    <seg xml:id="KR3fb017_tls_p22.s8" state="locked">
+                        <lb n="8" ed="KX"/>斷爾五星之理亦然○授時曆立爲歲分消長之法謂上溯往</seg>
+                    <seg xml:id="KR3fb017_tls_p22.s9" state="locked">
+                        <lb n="9" ed="KX"/>古百年長一下推將來百年消一然自授時後至今實測歲分</seg>
+                    <seg xml:id="KR3fb017_tls_p22.s10" state="locked">
+                        <lb n="10" ed="KX"/>不惟無消而反長矣論者皆莫能明其故惟梅定九以爲根在</seg>
+                    <seg xml:id="KR3fb017_tls_p22.s11" state="locked">
+                        <lb n="11" ed="KX"/>㝡高之行其説曰授時立法之時㝡高卑正與二至同度而前</seg>
+                    <seg xml:id="KR3fb017_tls_p22.s13" state="locked">
+                        <lb n="13" ed="KX"/>此則在至前後此則在至後豈非高衝漸近冬至而歲餘漸消</seg>
+                    <seg xml:id="KR3fb017_tls_p22.s14" state="locked">
+                        <lb n="14" ed="KX"/>及其過冬至而東又復漸長乎然梅子之論止於此而不察言</seg>
+                    <seg xml:id="KR3fb017_tls_p22.s15" state="locked">
+                        <lb n="15" ed="KX"/>之余謂凡稽歲實者始冬至終冬至故消長皆以冬至一日言</seg>
+                    <seg xml:id="KR3fb017_tls_p22.s16" state="locked">
+                        <lb n="16" ed="KX"/>之若以全歲除補則無消長也蓋是日也日行㝡卑故最速最</seg>
+                    <seg xml:id="KR3fb017_tls_p22.s17" state="locked">
+                        <lb n="17" ed="KX"/>速故其景周也不待刻分之滿也據此日以總全歲則若歲分</seg>
+                    <seg xml:id="KR3fb017_tls_p22.s18" state="locked">
+                        <lb n="18" ed="KX"/>之極消焉爾其前者向乎此爲漸消後者過乎此又漸長理勢</seg>
+                    <seg xml:id="KR3fb017_tls_p22.s19" state="locked">
+                        <lb n="19" ed="KX"/>然矣郭太史見往古之遞消而不察其端故謂消分往而不復</seg>
+                    <seg xml:id="KR3fb017_tls_p22.s20" state="locked">
+                        <lb n="20" ed="KX"/>又羍其時適爲消極也因而復長以使後人得知其誤而求其</seg>
+                    <seg xml:id="KR3fb017_tls_p22.s21" state="locked">
+                        <lb n="21" ed="KX"/>説假設歲實而起夏至吾知極消者必爲極長矣故曰以全歲</seg>
+                    <seg xml:id="KR3fb017_tls_p22.s22" state="locked">
+                        <lb n="22" ed="KX"/>除補而初無消長也○㝡高所以有行者緣輪心之東行巳周</seg>
+                    <seg xml:id="KR3fb017_tls_p22.s23" state="locked">
+                        <lb n="23" ed="KX"/>而輪周之西轉未周也蓋心雖爲輪之樞機然心小而輪大故</seg>
+                    <pb ed="KX" n="03-07-049.23" xml:id="KR3fb017_tls_23a"/>
+                    <seg xml:id="KR3fb017_tls_p23.s1" state="locked">
+                        <lb n="1" ed="KX"/>運動之勢中外略不相權而樞機之發遲速微不相應月孛之</seg>
+                    <seg xml:id="KR3fb017_tls_p23.s2" state="locked">
+                        <lb n="2" ed="KX"/>行㝡速者以月行㝡速也月行之速卽輪心之速輪心之東行</seg>
+                    <seg xml:id="KR3fb017_tls_p23.s3" state="locked">
+                        <lb n="3" ed="KX"/>速則輪周之西轉有不能追者而反覺其東去也多矣</seg>
+                    <pb ed="KX" n="03-07-049.24" xml:id="KR3fb017_tls_24a"/>
+                    <figure>
+                        <graphic facs="KR3fb017/6545C89A_623A_4CE8_8BDF_5DCAE1F7E533.png" type="inline"/>
+                    </figure>
+                    <seg state="locked" xml:id="KR3fb017_tls_p24.s13.1">
+                        <lb n="13" ed="KX"/>以本天高卑求朒朓謂之不同心圈</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p24.s13.2" type="comm">前<lb type="/"/>圖</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p24.s13.3">本輪者有小輪在本天</seg>
+                    <seg xml:id="KR3fb017_tls_p24.s14" state="locked">
+                        <lb n="14" ed="KX"/>之周而七政行其上小輪之上半高於本天下半卑於本天人</seg>
+                    <seg xml:id="KR3fb017_tls_p24.s15" state="locked">
+                        <lb n="15" ed="KX"/>自地視之則成不同心之圈矣七政本天皆右移而七政在本</seg>
+                    <seg xml:id="KR3fb017_tls_p24.s16" state="locked">
+                        <lb n="16" ed="KX"/>輪周左旋故下半速而上半遲○此説則七政本天皆以地心</seg>
+                    <seg xml:id="KR3fb017_tls_p24.s17" state="locked">
+                        <lb n="17" ed="KX"/>爲心其所以有高卑者小輪之上下爲之也</seg>
+                    <pb ed="KX" n="03-07-049.25" xml:id="KR3fb017_tls_25a"/>
+                    <figure>
+                        <graphic facs="KR3fb017/CD16B522_4D94_44C1_9283_B06B50306C39.png" type="inline"/>
+                    </figure>
+                    <seg xml:id="KR3fb017_tls_p25.s13" state="locked">
+                        <lb n="13" ed="KX"/>月中距天以地爲心本輪心乙行其上月又行於本輪之上月</seg>
+                    <seg xml:id="KR3fb017_tls_p25.s14" state="locked">
+                        <lb n="14" ed="KX"/>自輪頂㝡高子左旋行至丑輪心乙亦右移至丁月行至本輪</seg>
+                    <seg xml:id="KR3fb017_tls_p25.s15" state="locked">
+                        <lb n="15" ed="KX"/>底辰爲最卑心亦至庚月行本輪滿一周復至子心亦行中距</seg>
+                    <seg xml:id="KR3fb017_tls_p25.s16" state="locked">
+                        <lb n="16" ed="KX"/>滿一周復至乙以輪心右移之速能使輪周上月行之度變爲</seg>
+                    <seg xml:id="KR3fb017_tls_p25.s17" state="locked">
+                        <lb n="17" ed="KX"/>不同心之象日五星並同○七政本輪周左旋之度與輪心在</seg>
+                    <seg xml:id="KR3fb017_tls_p25.s18" state="locked">
+                        <lb n="18" ed="KX"/>本天周右移之度皆同數輪心自本天㝡高右移一度七政在</seg>
+                    <seg xml:id="KR3fb017_tls_p25.s19" state="locked">
+                        <lb n="19" ed="KX"/>輪周亦自小輪之㝡高左旋一度若以一線聯其環行之迹則</seg>
+                    <seg xml:id="KR3fb017_tls_p25.s20" state="locked">
+                        <lb n="20" ed="KX"/>成大圈而與地不同心故曰異名同理○二者法則同歸而理</seg>
+                    <seg xml:id="KR3fb017_tls_p25.s21" state="locked">
+                        <lb n="21" ed="KX"/>以本輪爲確蓋地在天中不動與太虛相應七政無與地不同</seg>
+                    <seg xml:id="KR3fb017_tls_p25.s22" state="locked">
+                        <lb n="22" ed="KX"/>心之理故七政之天皆同心也其行於本天而成輪象者逐動</seg>
+                    <seg xml:id="KR3fb017_tls_p25.s23" state="locked">
+                        <lb n="23" ed="KX"/>天之行勢使然也天圓而動日月五星亦圓而動論者喻之盤</seg>
+                    <pb ed="KX" n="03-07-049.26" xml:id="KR3fb017_tls_26a"/>
+                    <seg xml:id="KR3fb017_tls_p26.s1" state="locked">
+                        <lb n="1" ed="KX"/>之珠丸雖隨盤轉而又自生環繞之形又喻之水之漩渦雖逐</seg>
+                    <seg xml:id="KR3fb017_tls_p26.s2" state="locked">
+                        <lb n="2" ed="KX"/>水流而又自作迴旋之勢旣有環繞迴旋則其形勢或高或下</seg>
+                    <seg xml:id="KR3fb017_tls_p26.s3" state="locked">
+                        <lb n="3" ed="KX"/>而似與地不同心矣</seg>
+                    <pb ed="KX" n="03-07-049.27" xml:id="KR3fb017_tls_27a"/>
+                    <figure>
+                        <graphic facs="KR3fb017/45C6DF17_DF35_4EA1_9B89_9A27EB131A0A.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fb017/6E849C36_F5C5_4035_9247_FAC24CE0F63A.png" type="inline"/>
+                    </figure>
+                    <seg xml:id="KR3fb017_tls_p27.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻" quantity="1"/>太隂次輪</seg>
+                    <seg xml:id="KR3fb017_tls_p27.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻䶻䶻䶻䶻䶻䶻䶻䶻䶻䶻" quantity="11"/>五星皆以次輪心行於本輪之周</seg>
+                    <seg xml:id="KR3fb017_tls_p27.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻䶻䶻䶻䶻䶻䶻䶻䶻䶻䶻" quantity="11"/>月則以次輪㝡近點行於本輪之</seg>
+                    <seg xml:id="KR3fb017_tls_p27.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻䶻䶻䶻䶻䶻䶻䶻䶻䶻䶻" quantity="11"/>周朔望起最近每本輪心離日一</seg>
+                    <seg xml:id="KR3fb017_tls_p27.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻䶻䶻䶻䶻䶻䶻䶻䶻䶻䶻" quantity="11"/>度則次輪最近行於本輪周亦一</seg>
+                    <seg xml:id="KR3fb017_tls_p27.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻䶻䶻䶻䶻䶻䶻䶻䶻䶻䶻" quantity="11"/>度而月在次輪則行兩度朔望至</seg>
+                    <seg xml:id="KR3fb017_tls_p27.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻䶻䶻䶻䶻䶻䶻䶻䶻䶻䶻" quantity="11"/>弦離日九十度而月行次輪一百</seg>
+                    <seg xml:id="KR3fb017_tls_p27.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻䶻䶻䶻䶻䶻䶻䶻䶻䶻䶻" quantity="11"/>八十度至㝡遠弦至朔望亦行一</seg>
+                    <seg xml:id="KR3fb017_tls_p27.s9" state="locked">
+                        <lb n="9" ed="KX"/>
+                        <space n="䶻䶻䶻䶻䶻䶻䶻䶻䶻䶻䶻" quantity="11"/>百八十度復至㝡近故一月行兩</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p27.s10.1">
+                        <lb n="10" ed="KX"/>周</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p27.s10.2" type="comm">所以知者高卑視徑遲疾視行<lb type="/"/>皆至兩弦則其差倍增而朔望</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p27.s11.1" type="comm">
+                        <lb n="11" ed="KX"/>則平<lb type="/"/>也</seg>
+                    <seg xml:id="KR3fb017_tls_p27.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻" quantity="1"/>太隂高卑四限</seg>
+                    <seg xml:id="KR3fb017_tls_p27.s21" state="locked">
+                        <lb n="21" ed="KX"/>本輪最高又遇次輪最遠爲極高本輪最高遇次輪最近爲次</seg>
+                    <seg xml:id="KR3fb017_tls_p27.s22" state="locked">
+                        <lb n="22" ed="KX"/>高本輪最卑遇次輪最近爲次卑本輪最卑又遇次輪最遠爲</seg>
+                    <seg xml:id="KR3fb017_tls_p27.s23" state="locked">
+                        <lb n="23" ed="KX"/>極卑高則去地遠視徑小卑則去地近視徑大</seg>
+                    <pb ed="KX" n="03-07-049.28" xml:id="KR3fb017_tls_28a"/>
+                    <figure>
+                        <graphic facs="KR3fb017/2124E95F_7792_4B90_A2B8_EBDCB3B17790.png" type="inline"/>
+                    </figure>
+                    <seg state="locked" xml:id="KR3fb017_tls_p28.s1.1">
+                        <lb n="1" ed="KX"/>太隂遲疾大差</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p28.s1.2" type="comm">亦分四限</seg>
+                    <seg xml:id="KR3fb017_tls_p28.s13" state="locked">
+                        <lb n="13" ed="KX"/>自本輪最高行滿朒初九十度至留際遲積度五度奇自最卑</seg>
+                    <seg xml:id="KR3fb017_tls_p28.s14" state="locked">
+                        <lb n="14" ed="KX"/>行滿朓初九十度至留際疾積度亦五度奇是爲本輪上遲疾</seg>
+                    <seg xml:id="KR3fb017_tls_p28.s15" state="locked">
+                        <lb n="15" ed="KX"/>大差朔望用之若本輪行至留際又遇次輪之㝡遠則其遲疾</seg>
+                    <seg xml:id="KR3fb017_tls_p28.s16" state="locked">
+                        <lb n="16" ed="KX"/>各得七度四十分以爲大差兩弦用之是爲遲疾大差之四限</seg>
+                    <pb ed="KX" n="03-07-049.29" xml:id="KR3fb017_tls_29a"/>
+                    <figure>
+                        <graphic facs="KR3fb017/17725978_6944_49A3_922B_84F47DC00758.png" type="inline"/>
+                    </figure>
+                    <pb ed="KX" n="03-07-049.30" xml:id="KR3fb017_tls_30a"/>
+                    <figure>
+                        <graphic facs="KR3fb017/001B3764_8BAD_4BDF_BCE9_775AD4A556A7.png" type="inline"/>
+                    </figure>
+                    <pb ed="KX" n="03-07-049.31" xml:id="KR3fb017_tls_31a"/>
+                    <figure>
+                        <graphic facs="KR3fb017/E177FA42_120F_44FE_9B56_92C7B43CE35B.png" type="inline"/>
+                    </figure>
+                    <seg xml:id="KR3fb017_tls_p31.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻" quantity="1"/>水星次輪</seg>
+                    <seg xml:id="KR3fb017_tls_p31.s13" state="locked">
+                        <lb n="13" ed="KX"/>七政各有本天有本輪日五星行本輪而有朓朒盈縮曆是也</seg>
+                    <seg xml:id="KR3fb017_tls_p31.s14" state="locked">
+                        <lb n="14" ed="KX"/>月行本輪而有朓朒遲疾曆是也然惟太陽無次輪故本輪上</seg>
+                    <seg xml:id="KR3fb017_tls_p31.s15" state="locked">
+                        <lb n="15" ed="KX"/>行度卽爲日體月五星則本輪之周又有次輪故本輪上行度</seg>
+                    <seg xml:id="KR3fb017_tls_p31.s16" state="locked">
+                        <lb n="16" ed="KX"/>尙非月五星之體而次輪所行也○七政本天皆右移故本輪</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p31.s17.1">
+                        <lb n="17" ed="KX"/>之心亦右移也</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p31.s17.2" type="comm">卽平<lb type="/"/>行度</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p31.s17.3">而七政本輪周行度皆左旋所以知者七</seg>
+                    <seg xml:id="KR3fb017_tls_p31.s18" state="locked">
+                        <lb n="18" ed="KX"/>政之縮曆遲曆皆輪上半而盈速下半也本輪左旋則次輪亦</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p31.s19.1">
+                        <lb n="19" ed="KX"/>必從之左旋</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p31.s19.2" type="comm">卽星盈縮曆<lb type="/"/>月遲疾庴</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p31.s19.3">而月五星在次輪上仍皆右旋</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p31.s19.4" type="comm">輪周<lb type="/"/>行卽</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p31.s20.1" type="comm">
+                        <lb n="20" ed="KX"/>月星<lb type="/"/>行也</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p31.s20.2">所以知者五星在次輪上半行反速下半則反遲留且退</seg>
+                    <seg xml:id="KR3fb017_tls_p31.s21" state="locked">
+                        <lb n="21" ed="KX"/>月雖無留退亦上速而下遲也○七政行天一周而本輪之朓</seg>
+                    <seg xml:id="KR3fb017_tls_p31.s22" state="locked">
+                        <lb n="22" ed="KX"/>朒亦一周七政從天者也月與日一合一望而次輪再周五星</seg>
+                    <seg xml:id="KR3fb017_tls_p31.s23" state="locked">
+                        <lb n="23" ed="KX"/>與日合望而次輪一周月星從日者也○本輪行度日金水歲</seg>
+                    <pb ed="KX" n="03-07-049.32" xml:id="KR3fb017_tls_32a"/>
+                    <seg xml:id="KR3fb017_tls_p32.s1" state="locked">
+                        <lb n="1" ed="KX"/>一周月一歲十三周有奇火約二歲木約十二歲土約二十八</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p32.s2.1">
+                        <lb n="2" ed="KX"/>歲皆一周</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p32.s2.2" type="comm"> 本輪心行天一周則宿度徧本<lb type="/"/> 輪周行度滿一周則朓朒齊</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p32.s2.3"> 星行次輪土三百七</seg>
+                    <seg xml:id="KR3fb017_tls_p32.s3" state="locked">
+                        <lb n="3" ed="KX"/>十八日奇而一周木三百九十九日弱而一周火七百八十日</seg>
+                    <seg xml:id="KR3fb017_tls_p32.s4" state="locked">
+                        <lb n="4" ed="KX"/>弱而一周金五百八十四日弱而一周水一百一十六日弱而</seg>
+                    <seg xml:id="KR3fb017_tls_p32.s5" state="locked">
+                        <lb n="5" ed="KX"/>一周皆自合伏至合伏也惟月則十四日奇而一周朔至望望</seg>
+                    <seg xml:id="KR3fb017_tls_p32.s6" state="locked">
+                        <lb n="6" ed="KX"/>至朔皆得全周也五星次輪上行度與其離日之度同惟月則</seg>
+                    <seg xml:id="KR3fb017_tls_p32.s7" state="locked">
+                        <lb n="7" ed="KX"/>次輪上行度與其離日之度爲加一倍故名之倍離○七政本</seg>
+                    <seg xml:id="KR3fb017_tls_p32.s8" state="locked">
+                        <lb n="8" ed="KX"/>輪皆不能改易經度東行之向輪小故也太陽無次輪故有盈</seg>
+                    <seg xml:id="KR3fb017_tls_p32.s9" state="locked">
+                        <lb n="9" ed="KX"/>縮而無留退若太陰則有次輪矣何以亦無留退曰太陰次輪</seg>
+                    <seg xml:id="KR3fb017_tls_p32.s10" state="locked">
+                        <lb n="10" ed="KX"/>更小於本輪故但能加損本輪之遲疾而不能改易經度之東</seg>
+                    <seg xml:id="KR3fb017_tls_p32.s11" state="locked">
+                        <lb n="11" ed="KX"/>行五星則次輪皆大故遲疾甚明又能變經度東行之勢俾成</seg>
+                    <seg xml:id="KR3fb017_tls_p32.s13" state="locked">
+                        <lb n="13" ed="KX"/>留退矣○輪有遠近者在七政本輪則爲㝡高卑在土木火次</seg>
+                    <seg xml:id="KR3fb017_tls_p32.s14" state="locked">
+                        <lb n="14" ed="KX"/>輪則爲合日與衝日金水則爲順合與退合故高則在本輪遠</seg>
+                    <seg xml:id="KR3fb017_tls_p32.s15" state="locked">
+                        <lb n="15" ed="KX"/>卑則在本輪近五星合伏則在次輪遠土木火衝日金水退合</seg>
+                    <seg xml:id="KR3fb017_tls_p32.s16" state="locked">
+                        <lb n="16" ed="KX"/>則在次輪近皆以遠近於地心爲遠近也惟太陰不然凡言次</seg>
+                    <seg xml:id="KR3fb017_tls_p32.s17" state="locked">
+                        <lb n="17" ed="KX"/>輪遠近皆遠近於本輪之心非遠近於地心與五星異故高卑</seg>
+                    <seg xml:id="KR3fb017_tls_p32.s18" state="locked">
+                        <lb n="18" ed="KX"/>朓朒之極增數皆在兩弦而仍以本輪爲主遇最高則極高視</seg>
+                    <seg xml:id="KR3fb017_tls_p32.s19" state="locked">
+                        <lb n="19" ed="KX"/>徑加小遇㝡卑亦成極卑眎徑加大遇遲限則極遲遇疾限亦</seg>
+                    <seg xml:id="KR3fb017_tls_p32.s20" state="locked">
+                        <lb n="20" ed="KX"/>極疾迥異常測然而高卑極增之時遲疾反平遲疾極增之時</seg>
+                    <seg xml:id="KR3fb017_tls_p32.s21" state="locked">
+                        <lb n="21" ed="KX"/>高卑眎差祇如中距兩輪相加勢使然也○土木火合伏後起</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p32.s22.1">
+                        <lb n="22" ed="KX"/>㝡遠順輪心行故疾</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p32.s22.2" type="comm"> 本輪西行則次輪心亦宜西行然本輪心<lb type="/"/> 自順本天東行本天度大本輪周度小以</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p32.s22.3"> </seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p32.s23.1" type="comm">
+                        <lb n="23" ed="KX"/> 相折除則次輪<lb type="/"/> 心總爲東行矣</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p32.s23.2"> 中距漸遲人視星自上而下初不見其有動爲</seg>
+                    <pb ed="KX" n="03-07-049.33" xml:id="KR3fb017_tls_33a"/>
+                    <seg xml:id="KR3fb017_tls_p33.s1" state="locked">
+                        <lb n="1" ed="KX"/>留至下半周逆輪心爲退㝡近與日衝近地而星體必大近中</seg>
+                    <seg xml:id="KR3fb017_tls_p33.s2" state="locked">
+                        <lb n="2" ed="KX"/>距自下而上又見爲留至上半周復順疾而再合金水環繞日</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p33.s3.1">
+                        <lb n="3" ed="KX"/>體合伏起日上㝡遠退合在日下最近</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p33.s3.2" type="comm">退合無緯度卽入<lb type="/"/>日而日中有黑子</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p33.s3.3">順逆</seg>
+                    <seg xml:id="KR3fb017_tls_p33.s4" state="locked">
+                        <lb n="4" ed="KX"/>遲留之理與土木火同大氐五星合伏必在次輪㝡遠退望退</seg>
+                    <seg xml:id="KR3fb017_tls_p33.s5" state="locked">
+                        <lb n="5" ed="KX"/>伏必在㝡近而火次輪體徑倍大退望時因直入日天之內去</seg>
+                    <seg xml:id="KR3fb017_tls_p33.s6" state="locked">
+                        <lb n="6" ed="KX"/>地甚近也○五星本輪在本天之上則逐天行而西計輪心退</seg>
+                    <seg xml:id="KR3fb017_tls_p33.s7" state="locked">
+                        <lb n="7" ed="KX"/>天一度輪周亦西轉一度次輪在本輪之上則逐日𨇠而東計</seg>
+                    <seg xml:id="KR3fb017_tls_p33.s8" state="locked">
+                        <lb n="8" ed="KX"/>輪心離日若干度輪周亦東轉若干度梅子曰是皆氣所攝也</seg>
+                    <seg xml:id="KR3fb017_tls_p33.s9" state="locked">
+                        <lb n="9" ed="KX"/>本輪之周爲㝡高所攝故心雖右退而其左轉以向最高者不</seg>
+                    <seg xml:id="KR3fb017_tls_p33.s10" state="locked">
+                        <lb n="10" ed="KX"/>移也次輪之周爲日所攝故心雖左徙而其右轉以向日者不</seg>
+                    <seg xml:id="KR3fb017_tls_p33.s11" state="locked">
+                        <lb n="11" ed="KX"/>移也夫虛空之中一氣而巳其動也一機而巳安得盤桓交錯</seg>
+                    <seg xml:id="KR3fb017_tls_p33.s13" state="locked">
+                        <lb n="13" ed="KX"/>若是棼然㢤曰凡皆理勢之自然也若前盤珠水沫之喻則珠</seg>
+                    <seg xml:id="KR3fb017_tls_p33.s14" state="locked">
+                        <lb n="14" ed="KX"/>之動也常循於其盤而勢必傾或鐵九也而運慈石引之則又</seg>
+                    <seg xml:id="KR3fb017_tls_p33.s15" state="locked">
+                        <lb n="15" ed="KX"/>感於其類而勢必就沫之浮也雖有迴轉而勢常東之或遇漩</seg>
+                    <seg xml:id="KR3fb017_tls_p33.s16" state="locked">
+                        <lb n="16" ed="KX"/>㝢焉則又爲之吞而勢必下究今夫天者盤也水也太陽之於</seg>
+                    <seg xml:id="KR3fb017_tls_p33.s17" state="locked">
+                        <lb n="17" ed="KX"/>星不啻慈鐵之呼噏渦流之茹納也故一氣之中羣象效焉一</seg>
+                    <seg xml:id="KR3fb017_tls_p33.s18" state="locked">
+                        <lb n="18" ed="KX"/>機之發衆動生焉然而兩輪雖周不離其天兩數加減不改平</seg>
+                    <seg xml:id="KR3fb017_tls_p33.s19" state="locked">
+                        <lb n="19" ed="KX"/>度變化而其道有常參差而其數有紀是亦可謂至𦣱至動而</seg>
+                    <seg xml:id="KR3fb017_tls_p33.s20" state="locked">
+                        <lb n="20" ed="KX"/>不可亂者矣</seg>
+                    <pb ed="KX" n="03-07-049.34" xml:id="KR3fb017_tls_34a"/>
+                    <figure>
+                        <graphic facs="KR3fb017/B62EF4EF_9D9F_4C84_B577_97CED8277C50.png" type="inline"/>
+                    </figure>
+                    <pb ed="KX" n="03-07-049.35" xml:id="KR3fb017_tls_35a"/>
+                    <figure>
+                        <graphic facs="KR3fb017/77E544F7_1713_4761_AD03_E83F4E6D82E3.png" type="inline"/>
+                    </figure>
+                    <pb ed="KX" n="03-07-049.36" xml:id="KR3fb017_tls_36a"/>
+                    <figure>
+                        <graphic facs="KR3fb017/F7516934_6C82_46B3_81D9_F69C7B6C406B.png" type="inline"/>
+                    </figure>
+                    <seg xml:id="KR3fb017_tls_p36.s13" state="locked">
+                        <lb n="13" ed="KX"/>土木火合伏起順疾日前星後而晨見漸遠漸遲遲極而留將</seg>
+                    <seg xml:id="KR3fb017_tls_p36.s14" state="locked">
+                        <lb n="14" ed="KX"/>望而逆旣望夕見逆極而留乃順遲行近日復疾再與日合而</seg>
+                    <seg xml:id="KR3fb017_tls_p36.s15" state="locked">
+                        <lb n="15" ed="KX"/>一周金水合伏亦起順疾日後星前而夕見漸遠漸遲遲極而</seg>
+                    <seg xml:id="KR3fb017_tls_p36.s16" state="locked">
+                        <lb n="16" ed="KX"/>留逆行就日而伏旣乃晨見逆而極遠復留漸順遲行近日復</seg>
+                    <seg xml:id="KR3fb017_tls_p36.s17" state="locked">
+                        <lb n="17" ed="KX"/>疾再與日合而一周星道出入黃道與月同理雖有本輪次輪</seg>
+                    <seg xml:id="KR3fb017_tls_p36.s18" state="locked">
+                        <lb n="18" ed="KX"/>而人目所望但見一線迤里出入黃道也凡距黃緯度近交則</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p36.s19.1">
+                        <lb n="19" ed="KX"/>小近半交則大合伏時小退望退伏時㝡大</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p36.s19.2" type="comm">距黃最大緯度月<lb type="/"/>南北五度少強土</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p36.s20.1" type="comm">
+                        <lb n="20" ed="KX"/>三度太木二度太火南六度半強北四度十一分金北八<lb type="/"/>度半強南九度弱水南北四度凡在此以下爲凌犯之界</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p36.s20.2">各周</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p36.s21.1">
+                        <lb n="21" ed="KX"/>所行之實度不等</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p36.s21.2" type="comm">土十二度半強木三十三度強火四百八䖍<lb type="/"/>半強金五百七十五度半強水一百一十五</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p36.s22.1" type="comm">
+                        <lb n="22" ed="KX"/>度<lb type="/"/>強</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p36.s22.2">○漢曆有遲速留逆諸限後人又覺其疏而爲之段目衰序</seg>
+                    <seg xml:id="KR3fb017_tls_p36.s23" state="locked">
+                        <lb n="23" ed="KX"/>然於理莫能明也以今曆之説求之則星在次輪終古平行無</seg>
+                    <pb ed="KX" n="03-07-049.37" xml:id="KR3fb017_tls_37a"/>
+                    <seg xml:id="KR3fb017_tls_p37.s1" state="locked">
+                        <lb n="1" ed="KX"/>遲無速其有遲速而又加有逆留者皆視行也蓋星行上半輪</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p37.s2.1">
+                        <lb n="2" ed="KX"/>在本天之外去地㝡遠與輪心俱逐日而東輪行而星亦行</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p37.s2.2" type="comm">所<lb type="/"/>謂</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p37.s3.1" type="comm">
+                        <lb n="3" ed="KX"/>輪行者輪心也所<lb type="/"/>謂星行者輪周也</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p37.s3.2">故見爲疾漸下在兩旁盡處人自下望其勢</seg>
+                    <seg xml:id="KR3fb017_tls_p37.s4" state="locked">
+                        <lb n="4" ed="KX"/>徑直雖行而似不行然星雖不動而輪猶移也故見爲遲及入</seg>
+                    <seg xml:id="KR3fb017_tls_p37.s5" state="locked">
+                        <lb n="5" ed="KX"/>下半輪稍深輪東星西其數相除恰盡則見爲留星之西行其</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p37.s6.1">
+                        <lb n="6" ed="KX"/>數稍贏則見爲逆</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p37.s6.2" type="comm">方星行下半輪正中時輪心尙爾東行其度<lb type="/"/>大星行次輪其度小安能除盡東行之數而</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p37.s7.1" type="comm">
+                        <lb n="7" ed="KX"/>辰見贏乎不知測驗之理凡七政遠則見遲而度之大者小近<lb type="/"/>則見疾而度之小者大當在下時去地㝡近其度雖小足與大</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p37.s8.1" type="comm">
+                        <lb n="8" ed="KX"/>度相除而<lb type="/"/>猶遇之也</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p37.s8.2">數適相等又見爲留轉至兩旁盡處又見爲遲漸入</seg>
+                    <seg xml:id="KR3fb017_tls_p37.s9" state="locked">
+                        <lb n="9" ed="KX"/>上半輪界又以漸而速是故順逆遲留皆因人所見非星行實</seg>
+                    <seg xml:id="KR3fb017_tls_p37.s10" state="locked">
+                        <lb n="10" ed="KX"/>然而究其故則輪周之轉爲之也金水二星不經天者緣與日</seg>
+                    <seg xml:id="KR3fb017_tls_p37.s11" state="locked">
+                        <lb n="11" ed="KX"/>同天而其輪心行度又與日等故退伏而不退望實則與三星</seg>
+                    <seg xml:id="KR3fb017_tls_p37.s13" state="locked">
+                        <lb n="13" ed="KX"/>之理無有不同○以其兩留之限考之前留土近合後百一十</seg>
+                    <seg xml:id="KR3fb017_tls_p37.s14" state="locked">
+                        <lb n="14" ed="KX"/>四度木百二十六度火百六十三度金百六十七度水百四十</seg>
+                    <seg xml:id="KR3fb017_tls_p37.s15" state="locked">
+                        <lb n="15" ed="KX"/>四度後留土二百四十六度木二百三十四度火百九十七度</seg>
+                    <seg xml:id="KR3fb017_tls_p37.s16" state="locked">
+                        <lb n="16" ed="KX"/>金百九十三度水二百一十六度兩留之間則偒退行夫其兩</seg>
+                    <seg xml:id="KR3fb017_tls_p37.s17" state="locked">
+                        <lb n="17" ed="KX"/>留之間闊狹度殊者蓋輪之東去遲星之西行速則兩數相除</seg>
+                    <seg xml:id="KR3fb017_tls_p37.s18" state="locked">
+                        <lb n="18" ed="KX"/>易盡而先留輪之東去速星之西行遲則兩數相除難盡而後</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p37.s19.1">
+                        <lb n="19" ed="KX"/>留此闊狹之原也土木水皆輪遲而星速</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p37.s19.2" type="comm">輪行土十二度奇木<lb type="/"/>三十三度奇水則一</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p37.s20.1" type="comm">
+                        <lb n="20" ed="KX"/>百一十四度奇星行土三百七十八日奇<lb type="/"/>木三百九十九日弱水一百一十六日弱</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p37.s20.2">故兩留之間多火金</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p37.s21.1">
+                        <lb n="21" ed="KX"/>皆輪速而星遲</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p37.s21.2" type="comm">輪行火四百八度奇金五百七十五度奇星<lb type="/"/>行火七百八十日弱金五百八十四日弱</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p37.s21.3">故</seg>
+                    <seg xml:id="KR3fb017_tls_p37.s22" state="locked">
+                        <lb n="22" ed="KX"/>兩留之間少又前留距合在本天最高則少最卑則多後留在</seg>
+                    <seg xml:id="KR3fb017_tls_p37.s23" state="locked">
+                        <lb n="23" ed="KX"/>本天最高則多最卑則少所以然者在㝡高則次輪心逐本輪</seg>
+                    <pb ed="KX" n="03-07-049.38" xml:id="KR3fb017_tls_38a"/>
+                    <seg xml:id="KR3fb017_tls_p38.s1" state="locked">
+                        <lb n="1" ed="KX"/>周西移而東行之度縮在最卑則順本輪周東過而度益贏縮</seg>
+                    <seg xml:id="KR3fb017_tls_p38.s2" state="locked">
+                        <lb n="2" ed="KX"/>則星度與之相除也易贏則星度與之相除也難與前論留限</seg>
+                    <seg xml:id="KR3fb017_tls_p38.s3" state="locked">
+                        <lb n="3" ed="KX"/>闊狹者異原同歸也又凡人目仰視遠則察見其兩際而近則</seg>
+                    <seg xml:id="KR3fb017_tls_p38.s4" state="locked">
+                        <lb n="4" ed="KX"/>窄土木水輪小故高而遠金火輪大故卑而近在最高則遠在</seg>
+                    <seg xml:id="KR3fb017_tls_p38.s5" state="locked">
+                        <lb n="5" ed="KX"/>最卑則近此其兩留之視所以不同</seg>
+                    <pb ed="KX" n="03-07-049.39" xml:id="KR3fb017_tls_39a"/>
+                    <figure>
+                        <graphic facs="KR3fb017/8B891ADE_BC3F_408C_9A7D_FB8874676BDA.png" type="inline"/>
+                    </figure>
+                    <seg xml:id="KR3fb017_tls_p39.s13" state="locked">
+                        <lb n="13" ed="KX"/>月魄揜日而日爲之蝕故正當月魄之下卽見蝕旣地平經緯</seg>
+                    <seg xml:id="KR3fb017_tls_p39.s14" state="locked">
+                        <lb n="14" ed="KX"/>漸差所見蝕分多寡遂異蓋由日高月下地偏則所見非經緯</seg>
+                    <seg xml:id="KR3fb017_tls_p39.s15" state="locked">
+                        <lb n="15" ed="KX"/>相合之一線漸視兩體空際而所揜漸覺其少故日蝕之分隨</seg>
+                    <seg xml:id="KR3fb017_tls_p39.s16" state="locked">
+                        <lb n="16" ed="KX"/>方不同非如月蝕普天同視也○黃鐘曆議云舊云月行內道</seg>
+                    <seg xml:id="KR3fb017_tls_p39.s17" state="locked">
+                        <lb n="17" ed="KX"/>在黃道之北蝕多有驗月行外道在黃道之南雖遇正交無由</seg>
+                    <seg xml:id="KR3fb017_tls_p39.s18" state="locked">
+                        <lb n="18" ed="KX"/>揜映蝕多不驗又云天之交限雖係內道若在人之交限之外</seg>
+                    <seg xml:id="KR3fb017_tls_p39.s19" state="locked">
+                        <lb n="19" ed="KX"/>類同外道日亦不食此説似而未盡假如夏至前後日食於寅</seg>
+                    <seg xml:id="KR3fb017_tls_p39.s20" state="locked">
+                        <lb n="20" ed="KX"/>卯酉戌之間人向東北西北而視之則外道食分反多於內道</seg>
+                    <seg xml:id="KR3fb017_tls_p39.s21" state="locked">
+                        <lb n="21" ed="KX"/>矣桉內外道卽陰陽曆也月行陰曆爲內道則有北緯行陽曆</seg>
+                    <seg xml:id="KR3fb017_tls_p39.s22" state="locked">
+                        <lb n="22" ed="KX"/>爲外道則有南緯古法日食求差以赤道午線爲中則日食距</seg>
+                    <seg xml:id="KR3fb017_tls_p39.s23" state="locked">
+                        <lb n="23" ed="KX"/>中之度或大於象限故授時曆東西南北差有反減法黃鐘曆</seg>
+                    <pb ed="KX" n="03-07-049.40" xml:id="KR3fb017_tls_40a"/>
+                    <seg xml:id="KR3fb017_tls_p40.s1" state="locked">
+                        <lb n="1" ed="KX"/>議之説蓋出於此今法以黃平限爲中可無此疑何則日食三</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p40.s2.1">
+                        <lb n="2" ed="KX"/>差並以高下差爲根</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p40.s2.2" type="comm"> 詳見<lb type="/"/> 後條</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p40.s2.3"> 黃平限恆居天頂之南而人居其北</seg>
+                    <seg xml:id="KR3fb017_tls_p40.s3" state="locked">
+                        <lb n="3" ed="KX"/>北高南下故能以北緯變南緯無南緯變北之理冬夏一也惟</seg>
+                    <seg xml:id="KR3fb017_tls_p40.s4" state="locked">
+                        <lb n="4" ed="KX"/>地近交廣極出地在二十三度以下黃平限有時在天頂之北</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p40.s5.1">
+                        <lb n="5" ed="KX"/>則其時南緯可以變北耳</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p40.s5.2" type="comm"> 南緯變北則外道食<lb type="/"/> 分反多惟此時爲然</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p40.s5.3"> </seg>
+                    <pb ed="KX" n="03-07-049.41" xml:id="KR3fb017_tls_41a"/>
+                    <figure>
+                        <graphic facs="KR3fb017/4FCCF59D_E23D_4585_B39E_43A232AE66D2.png" type="inline"/>
+                    </figure>
+                    <pb ed="KX" n="03-07-049.42" xml:id="KR3fb017_tls_42a"/>
+                    <figure>
+                        <graphic facs="KR3fb017/7B804523_A9CC_4D1D_B8EC_9C485BBD8A3D.png" type="inline"/>
+                    </figure>
+                    <seg xml:id="KR3fb017_tls_p42.s13" state="locked">
+                        <lb n="13" ed="KX"/>推步日蝕爲曆法至要而至難卽立法精微布算巧密而所推</seg>
+                    <seg xml:id="KR3fb017_tls_p42.s14" state="locked">
+                        <lb n="14" ed="KX"/>與所測往往不符蓋有東西差能變經度而交蝕之時刻遂有</seg>
+                    <seg xml:id="KR3fb017_tls_p42.s15" state="locked">
+                        <lb n="15" ed="KX"/>早晚南北差能變緯度而交蝕之分秒遂有淺深此兩差以高</seg>
+                    <seg xml:id="KR3fb017_tls_p42.s16" state="locked">
+                        <lb n="16" ed="KX"/>卑差爲本凡自地心指其實度之高及自地面觀之必在實度</seg>
+                    <seg xml:id="KR3fb017_tls_p42.s17" state="locked">
+                        <lb n="17" ed="KX"/>之下其差降高爲卑而象句股之有弦然後東西差與黃道平</seg>
+                    <seg xml:id="KR3fb017_tls_p42.s18" state="locked">
+                        <lb n="18" ed="KX"/>行而爲之句從黃極出經線遇句弦以限南北差而爲之股極</seg>
+                    <seg xml:id="KR3fb017_tls_p42.s19" state="locked">
+                        <lb n="19" ed="KX"/>南則弦與股合而無東西差極東極西則弦與句合而無南北</seg>
+                    <seg xml:id="KR3fb017_tls_p42.s20" state="locked">
+                        <lb n="20" ed="KX"/>差也○地心地面之説古未有也新法謂地體正圓而正居大</seg>
+                    <seg xml:id="KR3fb017_tls_p42.s21" state="locked">
+                        <lb n="21" ed="KX"/>圓之中則地心卽天心也凡曆家測驗自地平圈起初度升至</seg>
+                    <seg xml:id="KR3fb017_tls_p42.s22" state="locked">
+                        <lb n="22" ed="KX"/>九十度而爲天頂者皆正與地心相應而人所居則在地面穹</seg>
+                    <seg xml:id="KR3fb017_tls_p42.s23" state="locked">
+                        <lb n="23" ed="KX"/>窿而踞地心之上徒以體圓勢順目所環觀得覩大輿之半因</seg>
+                    <pb ed="KX" n="03-07-049.43" xml:id="KR3fb017_tls_43a"/>
+                    <seg xml:id="KR3fb017_tls_p43.s1" state="locked">
+                        <lb n="1" ed="KX"/>以謂之地平若用以直天度則惟恒星天距地絕遠視地甚小</seg>
+                    <seg xml:id="KR3fb017_tls_p43.s2" state="locked">
+                        <lb n="2" ed="KX"/>可無推心面之差若日天則居七政之中月天則距地最近去</seg>
+                    <seg xml:id="KR3fb017_tls_p43.s3" state="locked">
+                        <lb n="3" ed="KX"/>日猶遠是以心面之間高下生焉高下之間南北東西異焉蓋</seg>
+                    <seg xml:id="KR3fb017_tls_p43.s4" state="locked">
+                        <lb n="4" ed="KX"/>有推得地心日食而地面不食者亦有地心未應食而地面旁</seg>
+                    <seg xml:id="KR3fb017_tls_p43.s5" state="locked">
+                        <lb n="5" ed="KX"/>眎反見食者於是東西之差則有時刻之早晚南北之差則有</seg>
+                    <seg xml:id="KR3fb017_tls_p43.s6" state="locked">
+                        <lb n="6" ed="KX"/>分數之淺深人但知里差之法爲加時分秒之由不知同一分</seg>
+                    <seg xml:id="KR3fb017_tls_p43.s7" state="locked">
+                        <lb n="7" ed="KX"/>域而地心地面原有兩差爲差之根也○地心之所見惟一而</seg>
+                    <seg xml:id="KR3fb017_tls_p43.s8" state="locked">
+                        <lb n="8" ed="KX"/>地面之所見隨處不同故日食三差生於地圓而九服見餘生</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p43.s9.1">
+                        <lb n="9" ed="KX"/>於三差也</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p43.s9.2" type="comm">假今人居地心則東西南北之差無從可立而萬形<lb type="/"/>一視矣故三差皆地面所生而遂有九服之各異</seg>
+                    <seg xml:id="KR3fb017_tls_p43.s10" state="locked">
+                        <lb n="10" ed="KX"/>北齊張子信謂日食有入氣差至唐長慶中宣明曆遂有氣刻</seg>
+                    <seg xml:id="KR3fb017_tls_p43.s11" state="locked">
+                        <lb n="11" ed="KX"/>時三差之法歷代因之郭守敬正其名曰東西差南北差今則</seg>
+                    <seg xml:id="KR3fb017_tls_p43.s13" state="locked">
+                        <lb n="13" ed="KX"/>以地圓之理著其所以然者</seg>
+                    <pb ed="KX" n="03-07-049.44" xml:id="KR3fb017_tls_44a"/>
+                    <figure>
+                        <graphic facs="KR3fb017/DC87ED80_2F89_484F_95AA_9EEF3F83A3AF.png" type="inline"/>
+                    </figure>
+                    <seg xml:id="KR3fb017_tls_p44.s13" state="locked">
+                        <lb n="13" ed="KX"/>闇虛徑大於月約將三倍又各以去日遠近爲大小正當交道</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p44.s14.1">
+                        <lb n="14" ed="KX"/>則蝕有五限</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p44.s14.2" type="comm">月東輪切闇虛西輪爲初𧇊西輪齊爲食旣中徑<lb type="/"/>齊爲食甚東輪齊爲生光月西輸切闇虛東輪爲</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p44.s15.1" type="comm">
+                        <lb n="15" ed="KX"/>復<lb type="/"/>圓</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p44.s15.2">偏而蝕於陰陽者分三限</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p44.s15.3" type="comm">初虧食<lb type="/"/>甚復圓</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p44.s15.4">起復方位與日蝕反</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p44.s15.5" type="comm">曰遲<lb type="/"/>而月</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p44.s16.1" type="comm">
+                        <lb n="16" ed="KX"/>來揜之故起於西闇虛遲<lb type="/"/>而月來就揜故起於東</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p44.s16.2">緯度多則蝕分少緯度少則蝕分多</seg>
+                    <seg xml:id="KR3fb017_tls_p44.s17" state="locked">
+                        <lb n="17" ed="KX"/>○古人指日中之暗爲闇虛鮑雲龍天原發微比於離坎中之</seg>
+                    <seg xml:id="KR3fb017_tls_p44.s18" state="locked">
+                        <lb n="18" ed="KX"/>陰陽宋濂謂月蝕爲地影之所隔魏文魁作曆測疑其説出於</seg>
+                    <seg xml:id="KR3fb017_tls_p44.s19" state="locked">
+                        <lb n="19" ed="KX"/>西域然南齊書巳言之且漢張衡亦曰當日之衝光常不合者</seg>
+                    <seg xml:id="KR3fb017_tls_p44.s20" state="locked">
+                        <lb n="20" ed="KX"/>蔽於地也是謂闇虛斯言甚明獨以爲在星星微與今説異月</seg>
+                    <seg xml:id="KR3fb017_tls_p44.s21" state="locked">
+                        <lb n="21" ed="KX"/>近地星遠地日照地成影闇虛有盡不能及星也</seg>
+                    <pb ed="KX" n="03-07-049.45" xml:id="KR3fb017_tls_45a"/>
+                    <figure>
+                        <graphic facs="KR3fb017/0C3FC4CA_7915_4511_9336_EB6D9B5A0647.png" type="inline"/>
+                    </figure>
+                    <seg xml:id="KR3fb017_tls_p45.s13" state="locked">
+                        <lb n="13" ed="KX"/>北極高下殊而地有南北之緯差時刻早晚異而地有東西之</seg>
+                    <seg xml:id="KR3fb017_tls_p45.s14" state="locked">
+                        <lb n="14" ed="KX"/>經差測經差時刻者用月蝕月蝕普天同見而見之者西方覺</seg>
+                    <seg xml:id="KR3fb017_tls_p45.s15" state="locked">
+                        <lb n="15" ed="KX"/>早東方覺遲知相距幾何里卽差幾何□則推之四表莫不皆</seg>
+                    <seg xml:id="KR3fb017_tls_p45.s16" state="locked">
+                        <lb n="16" ed="KX"/>然蓋東之午南視爲卯南之午西視爲卯而東巳視爲酉西之</seg>
+                    <seg xml:id="KR3fb017_tls_p45.s17" state="locked">
+                        <lb n="17" ed="KX"/>午南視爲酉而東必以爲子各據日輪南照爲午而在左在右</seg>
+                    <seg xml:id="KR3fb017_tls_p45.s18" state="locked">
+                        <lb n="18" ed="KX"/>初不知時刻之潛移也○堯典分宅四方周官以日南日北日</seg>
+                    <seg xml:id="KR3fb017_tls_p45.s19" state="locked">
+                        <lb n="19" ed="KX"/>東日西參互測驗誠曆象之至要後世率就一隅立法故用之</seg>
+                    <seg xml:id="KR3fb017_tls_p45.s20" state="locked">
+                        <lb n="20" ed="KX"/>他方隔閡難通也耶律楚材劍里差法郭守敬廢而不用雖分</seg>
+                    <seg xml:id="KR3fb017_tls_p45.s21" state="locked">
+                        <lb n="21" ed="KX"/>道測候而所定授時僅可行於大都元統強以用之江南止改</seg>
+                    <seg xml:id="KR3fb017_tls_p45.s22" state="locked">
+                        <lb n="22" ed="KX"/>其晝夜刻疏謬巳甚其後都北平臺官一守元統之舊又襲南</seg>
+                    <seg xml:id="KR3fb017_tls_p45.s23" state="locked">
+                        <lb n="23" ed="KX"/>方之晷漏而不知變曆象之難明也如此○壬午冬</seg>
+                    <pb ed="KX" n="03-07-049.46" xml:id="KR3fb017_tls_46a"/>
+                    <seg xml:id="KR3fb017_tls_p46.s1" state="locked">
+                        <lb n="1" ed="KX"/>鑒輿南巡命皇子領西洋籌人自京城南至德州七百餘里立</seg>
+                    <seg xml:id="KR3fb017_tls_p46.s2" state="locked">
+                        <lb n="2" ed="KX"/>表施儀密加測望淹㦄旬月乃得星度道里之眞計地距二百</seg>
+                    <seg xml:id="KR3fb017_tls_p46.s3" state="locked">
+                        <lb n="3" ed="KX"/>里而極高差一度舊説云二百五十里者大疏闊矣然所用者</seg>
+                    <seg xml:id="KR3fb017_tls_p46.s4" state="locked">
+                        <lb n="4" ed="KX"/>今工部營造尺或古尺當今八寸則未可知爾臣地實扈從與</seg>
+                    <seg xml:id="KR3fb017_tls_p46.s5" state="locked">
+                        <lb n="5" ed="KX"/>聞之</seg>
+                    <pb ed="KX" n="03-07-049.47" xml:id="KR3fb017_tls_47a"/>
+                    <figure>
+                        <graphic facs="KR3fb017/6AABFD6D_3717_4125_99EE_67FAD0D8E451.png" type="inline"/>
+                    </figure>
+                    <pb ed="KX" n="03-07-049.48" xml:id="KR3fb017_tls_48a"/>
+                    <seg xml:id="KR3fb017_tls_p48.s1" state="locked">
+                        <lb n="1" ed="KX"/>用二盤下方者爲天盤上圓半虛半實者爲地盤下盤安軸處</seg>
+                    <seg xml:id="KR3fb017_tls_p48.s2" state="locked">
+                        <lb n="2" ed="KX"/>爲地心其過以横線爲極線線之左界爲北極右爲南極其中</seg>
+                    <seg xml:id="KR3fb017_tls_p48.s3" state="locked">
+                        <lb n="3" ed="KX"/>間直線與過心極線作十字交羅者爲赤道線外圍一圈爲周</seg>
+                    <seg xml:id="KR3fb017_tls_p48.s4" state="locked">
+                        <lb n="4" ed="KX"/>天圈赤道線左右各六直線漸次疏密者爲二十四節氣線卽</seg>
+                    <seg xml:id="KR3fb017_tls_p48.s5" state="locked">
+                        <lb n="5" ed="KX"/>以赤道線爲春分秋分次左一曰清明白露二曰穀雨處暑三</seg>
+                    <seg xml:id="KR3fb017_tls_p48.s6" state="locked">
+                        <lb n="6" ed="KX"/>曰立夏立秋四曰小滿大暑五曰芒種小暑六曰夏至此日行</seg>
+                    <seg xml:id="KR3fb017_tls_p48.s7" state="locked">
+                        <lb n="7" ed="KX"/>赤道北諸節氣線也次右一白驚蟄寒露二曰雨水霜降三曰</seg>
+                    <seg xml:id="KR3fb017_tls_p48.s8" state="locked">
+                        <lb n="8" ed="KX"/>立春立冬四曰大寒小雪五曰小寒大雪六曰冬至此日行赤</seg>
+                    <seg xml:id="KR3fb017_tls_p48.s9" state="locked">
+                        <lb n="9" ed="KX"/>道南諸節氣線也從赤道線至冬夏至線爲界上下各作半圈</seg>
+                    <seg xml:id="KR3fb017_tls_p48.s10" state="locked">
+                        <lb n="10" ed="KX"/>者爲黃道圈極線之上下有十二曲線漸次疏密者爲十二時</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p48.s11.1">
+                        <lb n="11" ed="KX"/>刻線卽以極線爲卯正初刻酉正初刻</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p48.s11.2" type="comm">此以一時<lb type="/"/>四刻分之</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p48.s11.3">次上一爲卯</seg>
+                    <seg xml:id="KR3fb017_tls_p48.s13" state="locked">
+                        <lb n="13" ed="KX"/>正二爲酉初二每線二刻依時列之次上十二卽周天圈分爲</seg>
+                    <seg xml:id="KR3fb017_tls_p48.s14" state="locked">
+                        <lb n="14" ed="KX"/>午正初刻也次下一爲酉正二爲卯初二每線二刻依時列之</seg>
+                    <seg xml:id="KR3fb017_tls_p48.s15" state="locked">
+                        <lb n="15" ed="KX"/>次下十二卽周天圈分爲子正初刻也上盤中央安軸處爲盤</seg>
+                    <seg xml:id="KR3fb017_tls_p48.s16" state="locked">
+                        <lb n="16" ed="KX"/>心過心横線在半虛半實之間爲地平線其過心直線與也平</seg>
+                    <seg xml:id="KR3fb017_tls_p48.s17" state="locked">
+                        <lb n="17" ed="KX"/>作十字交羅者爲天頂線半虛處左右相望作針孔貫以絲繩</seg>
+                    <seg xml:id="KR3fb017_tls_p48.s18" state="locked">
+                        <lb n="18" ed="KX"/>與地平線平行不論多寡爲日晷線地平線下依天頂線作疏</seg>
+                    <seg xml:id="KR3fb017_tls_p48.s19" state="locked">
+                        <lb n="19" ed="KX"/>密平行直線上應周天度分者爲直應度分軸心施權線下垂</seg>
+                    <seg xml:id="KR3fb017_tls_p48.s20" state="locked">
+                        <lb n="20" ed="KX"/>令旋轉加於周天度分者爲垂線下盤之上方横作一線與圈</seg>
+                    <seg xml:id="KR3fb017_tls_p48.s21" state="locked">
+                        <lb n="21" ed="KX"/>中極線平行者爲日景線線之兩端截去上方寸許今版之左</seg>
+                    <seg xml:id="KR3fb017_tls_p48.s22" state="locked">
+                        <lb n="22" ed="KX"/>右上角各爲方柱柱端與日景線平行者爲表○此器圖渾象</seg>
+                    <seg xml:id="KR3fb017_tls_p48.s23" state="locked">
+                        <lb n="23" ed="KX"/>於平面而曲盡其理且隨地隨時爲用至捷其用法几十餘條</seg>
+                    <pb ed="KX" n="03-07-049.49" xml:id="KR3fb017_tls_49a"/>
+                    <seg xml:id="KR3fb017_tls_p49.s1" state="locked">
+                        <lb n="1" ed="KX"/>今約述之以上盤地平線加於下盤南北極線用下盤一表承</seg>
+                    <seg xml:id="KR3fb017_tls_p49.s2" state="locked">
+                        <lb n="2" ed="KX"/>日令表端景與日景線平行眎權線所值上盤度分卽得其時</seg>
+                    <seg xml:id="KR3fb017_tls_p49.s3" state="locked">
+                        <lb n="3" ed="KX"/>日高也如是絫測撿其中日㝡高處爲其地午正初刻立表作</seg>
+                    <seg xml:id="KR3fb017_tls_p49.s4" state="locked">
+                        <lb n="4" ed="KX"/>線卽得眞子午線次視本日去二分幾何日卽循兩黃道圈撿</seg>
+                    <seg xml:id="KR3fb017_tls_p49.s5" state="locked">
+                        <lb n="5" ed="KX"/>取距赤道線幾何爲兩界用直線隱取兩界循線視所當周天</seg>
+                    <seg xml:id="KR3fb017_tls_p49.s6" state="locked">
+                        <lb n="6" ed="KX"/>度分卽得本日日𨇠距赤道度次以所距之度加減午正日高</seg>
+                    <seg xml:id="KR3fb017_tls_p49.s7" state="locked">
+                        <lb n="7" ed="KX"/>卽得赤道距地平度及北極出地高下度次以地平線加其地</seg>
+                    <seg xml:id="KR3fb017_tls_p49.s8" state="locked">
+                        <lb n="8" ed="KX"/>極出入度眎其線與節氣線時刻線相交卽得各節氣日出入</seg>
+                    <seg xml:id="KR3fb017_tls_p49.s9" state="locked">
+                        <lb n="9" ed="KX"/>時刻及晝夜長短次視所值地平下直應度分卽知日冬夏出</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p49.s10.1">
+                        <lb n="10" ed="KX"/>入南北之闊度</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p49.s10.2" type="comm">獨赤道之下日冬夏距卯酉止二十三度半強<lb type="/"/>其自赤道南北漸遠漸廣故隨地有各節氣日</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p49.s11.1" type="comm">
+                        <lb n="11" ed="KX"/>出入<lb type="/"/>之異</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p49.s11.2">次從眞地南極入處起算數至各節氣線卽得各節氣午</seg>
+                    <seg xml:id="KR3fb017_tls_p49.s13" state="locked">
+                        <lb n="13" ed="KX"/>正之日高次隨時測得日高卽以日高度分與日晷線平行視</seg>
+                    <seg xml:id="KR3fb017_tls_p49.s14" state="locked">
+                        <lb n="14" ed="KX"/>本日節氣線折值刻線卽得目下時刻次視天頂線遇節氣線</seg>
+                    <seg xml:id="KR3fb017_tls_p49.s15" state="locked">
+                        <lb n="15" ed="KX"/>卽得各節氣日交天頂時刻總上下盤旋轉推移觀之又可知</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p49.s16.1">
+                        <lb n="16" ed="KX"/>地爲圓體及各殊域晷景之差晝夜寒暑之變</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p49.s16.2" type="comm">定時刻線疏密<lb type="/"/>曲直須用二點</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p49.s17.1" type="comm">
+                        <lb n="17" ed="KX"/>穿圓法如圖以赤道線作二分旣有全周三百六十度員極線<lb type="/"/>上下每隔十五度用横線與極線平行剖取赤道之兩界刻□</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p49.s18.1" type="comm">
+                        <lb n="18" ed="KX"/>分刻線之疏密□由定也再用二至線爲全徑別作全周亦分<lb type="/"/>三百六十度如□每隔十五度用横線剖取全徑之兩界則二</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p49.s19.1" type="comm">
+                        <lb n="19" ed="KX"/>至刻線之疏密□由定也取刻線之定於二分者作中間一點<lb type="/"/>刻線之定於二至者爲兩旁兩點卽用穿圓法各作半圈以貫</seg>
+                    <seg state="locked" xml:id="KR3fb017_tls_p49.s20.1" type="comm">
+                        <lb n="20" ed="KX"/>三點而曲直不等則各節<lb type="/"/>氣刻線之疏密俱定矣</seg>
+                    <pb ed="KX" n="03-07-049.49" xml:id="KR3fb017_tls_49b"/>
+                    <pb ed="KX" n="03-07-049.49" xml:id="KR3fb017_tls_49b"/>
+                    <pb ed="KX" n="03-07-049.49" xml:id="KR3fb017_tls_49b"/>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KR3fc072">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>開諸乘方捷術</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <idno type="kanripo">KR3fc072</idno>
+                </edition>
+            </editionStmt>
+            <extent>
+                <measure unit="char" quantity="4375"/>
+                <date when-iso="2023-06-03T16:15:51.59+09:00"/>
+            </extent>
+            <publicationStmt>
+                <p>Published electronically</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>[清]項名達　版本信息[清光緒下學庵算術三種本]</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <catRef scheme="#kr-categories" target="#KR3fc"/>
+            </textClass>
+            <creation/>
+        </profileDesc>
+        <encodingDesc>
+            <variantEncoding location="external" method="double-end-point"/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <p>
+                    <pb ed="KX" n="DLJ0031261.1" xml:id="KR3fc072_tls_1a"/>
+                    <head xml:id="KR3fc072_tls_p1.s1-h">
+                        <seg xml:id="KR3fc072_tls_p1.s1" state="locked">
+                            <lb n="1" ed="KX"/>諸乘方開法不同其難易視廉率之多寡而别廉愈</seg>
+                    </head>
+                    <seg xml:id="KR3fc072_tls_p1.s2" state="locked">
+                        <lb n="2" ed="KX"/>多開亦愈難於是有遞併初次商乘而減積以求續</seg>
+                    <seg xml:id="KR3fc072_tls_p1.s3" state="locked">
+                        <lb n="3" ed="KX"/>商者廉較省矣然每次必需連乘而商除進退亦復</seg>
+                    <seg xml:id="KR3fc072_tls_p1.s4" state="locked">
+                        <lb n="4" ed="KX"/>無定至代開法不可代者恒多終未有捷術使諸乘</seg>
+                    <seg xml:id="KR3fc072_tls_p1.s5" state="locked">
+                        <lb n="5" ed="KX"/>方通爲一例者乙已秋杪重校廉率論割圜術適友</seg>
+                    <seg xml:id="KR3fc072_tls_p1.s6" state="locked">
+                        <lb n="6" ed="KX"/>人鄂士戴君以新著對數簡法見示歎其於遞次開</seg>
+                    <seg xml:id="KR3fc072_tls_p1.s7" state="locked">
+                        <lb n="7" ed="KX"/>方推闡入妙竊有會於連比例及遞加數之乘除而</seg>
+                    <seg xml:id="KR3fc072_tls_p1.s8" state="locked">
+                        <lb n="8" ed="KX"/>知開諸乘方亦無異理立爲二術每乘方祗用一種</seg>
+                    <seg xml:id="KR3fc072_tls_p1.s9" state="locked">
+                        <lb n="9" ed="KX"/>廉每次祗二乘一除而遞得一數數不待商自立方</seg>
+                    <seg xml:id="KR3fc072_tls_p1.s11" state="locked">
+                        <lb n="11" ed="KX"/>以至多乘方其開法亦與平方等無所用其代開復</seg>
+                    <seg xml:id="KR3fc072_tls_p1.s12" state="locked">
+                        <lb n="12" ed="KX"/>立四率比例二術以輔其不及庶少廣一門有以變</seg>
+                    <seg xml:id="KR3fc072_tls_p1.s13" state="locked">
+                        <lb n="13" ed="KX"/>通而不窮兼可爲遞次開方之一助與</seg>
+                    <seg xml:id="KR3fc072_tls_p1.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻䶻䶻䶻䶻䶻䶻䶻" quantity="8"/>武林項名達識於印心室</seg>
+                    <pb ed="KX" n="DLJ0031261.2" xml:id="KR3fc072_tls_2a"/>
+                    <head xml:id="KR3fc072_tls_p2.s1-h">
+                        <seg xml:id="KR3fc072_tls_p2.s1" state="locked">
+                            <lb n="1" ed="KX"/>開諸乘方捷術</seg>
+                    </head>
+                    <seg xml:id="KR3fc072_tls_p2.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻" quantity="1"/>錢塘項名達梅侶甫箸<space n="䶻" quantity="1"/>年愚姪嘉定徐鄂叅校</seg>
+                    <seg state="locked" xml:id="KR3fc072_tls_p2.s3.1">
+                        <lb n="3" ed="KX"/>姪男</seg>
+                    <seg state="locked" xml:id="KR3fc072_tls_p2.s3.2" type="comm">晉蕃<lb type="/"/>同夀</seg>
+                    <seg state="locked" xml:id="KR3fc072_tls_p2.s3.3">謹校刻</seg>
+                    <seg xml:id="KR3fc072_tls_p2.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>第一術</seg>
+                    <seg xml:id="KR3fc072_tls_p2.s5" state="locked">
+                        <lb n="5" ed="KX"/>以本乘方積檢開方表其積較本積稍大者用爲借</seg>
+                    <seg state="locked" xml:id="KR3fc072_tls_p2.s6.1">
+                        <lb n="6" ed="KX"/>積</seg>
+                    <seg state="locked" xml:id="KR3fc072_tls_p2.s6.2" type="comm">本積共若干位從尾位起依廉率<lb type="/"/>數截而爲段以首段積對表檢取</seg>
+                    <seg state="locked" xml:id="KR3fc072_tls_p2.s6.3">其根爲借根</seg>
+                    <seg state="locked" xml:id="KR3fc072_tls_p2.s6.4" type="comm">截<lb type="/"/>積</seg>
+                    <seg state="locked" xml:id="KR3fc072_tls_p2.s7.1" type="comm">
+                        <lb n="7" ed="KX"/>爲幾段卽知本根有幾位因於借根下亦作<lb type="/"/>圈位補足之若欲增求零數幾位再補幾圈</seg>
+                    <seg state="locked" xml:id="KR3fc072_tls_p2.s7.2">借積內</seg>
+                    <seg xml:id="KR3fc072_tls_p2.s8" state="locked">
+                        <lb n="8" ed="KX"/>減本積餘爲減積以借積除減積得數爲遞次乘法</seg>
+                    <seg state="locked" xml:id="KR3fc072_tls_p2.s9.1" type="comm">
+                        <lb n="9" ed="KX"/>乘法由除而得皆在單位下其數不盡<lb type="/"/>視借根連圈共幾位卽截幾位爲乘法</seg>
+                    <seg state="locked" xml:id="KR3fc072_tls_p2.s9.2">又以本乘方</seg>
+                    <seg xml:id="KR3fc072_tls_p2.s11" state="locked">
+                        <lb n="11" ed="KX"/>乘數加一爲廉率迺置借根爲第一數次置第一數</seg>
+                    <seg state="locked" xml:id="KR3fc072_tls_p2.s12.1">
+                        <lb n="12" ed="KX"/>乘法乘之</seg>
+                    <seg state="locked" xml:id="KR3fc072_tls_p2.s12.2" type="comm">視乘法末位下於單一共幾位亦於乘得<lb type="/"/>數自末位起截去幾位以暗藏單一之除</seg>
+                    <seg state="locked" xml:id="KR3fc072_tls_p2.s13.1" type="comm">
+                        <lb n="13" ed="KX"/>故也今乘借根有圈位<lb type="/"/>視圈有幾則少截幾位</seg>
+                    <seg state="locked" xml:id="KR3fc072_tls_p2.s13.2">廉率除之爲第二數</seg>
+                    <seg state="locked" xml:id="KR3fc072_tls_p2.s13.3" type="comm">除出數<lb type="/"/>亦不盡</seg>
+                    <seg state="locked" xml:id="KR3fc072_tls_p2.s14.1" type="comm">
+                        <lb n="14" ed="KX"/>除至實末位止其下一位除後<lb type="/"/>滿五進爲一不滿五棄其零</seg>
+                    <seg state="locked" xml:id="KR3fc072_tls_p2.s14.2">次置第二數乘法乘</seg>
+                    <seg xml:id="KR3fc072_tls_p2.s15" state="locked">
+                        <lb n="15" ed="KX"/>之廉率減一乘之二因廉率除之爲第三數次置第</seg>
+                    <seg xml:id="KR3fc072_tls_p2.s16" state="locked">
+                        <lb n="16" ed="KX"/>三數乘法乘之二因廉率減一乘之三因廉率除之</seg>
+                    <seg xml:id="KR3fc072_tls_p2.s17" state="locked">
+                        <lb n="17" ed="KX"/>爲第四數次置第四數乘法乘之三因廉率減一乘</seg>
+                    <seg xml:id="KR3fc072_tls_p2.s18" state="locked">
+                        <lb n="18" ed="KX"/>之四因廉率除之爲第五數如是挨次乘除得數漸</seg>
+                    <seg state="locked" xml:id="KR3fc072_tls_p2.s19.1">
+                        <lb n="19" ed="KX"/>降至單位下止</seg>
+                    <seg state="locked" xml:id="KR3fc072_tls_p2.s19.2" type="comm">前增求零數加增二位至單下二位<lb type="/"/>止增三位或四位至單下三位四位</seg>
+                    <pb ed="KX" n="DLJ0031261.3" xml:id="KR3fc072_tls_3a"/>
+                    <seg state="locked" xml:id="KR3fc072_tls_p3.s1.1" type="comm">
+                        <lb n="1" ed="KX"/>止</seg>
+                    <seg state="locked" xml:id="KR3fc072_tls_p3.s1.2">倂第二數以下諸數與第一數相減得本乘方根</seg>
+                    <seg state="locked" xml:id="KR3fc072_tls_p3.s2.1" type="comm">
+                        <lb n="2" ed="KX"/>單下一位零數滿五進爲一而根微弱不滿五棄其<lb type="/"/>零而根微強若零數共二位上一位空共三位或四</seg>
+                    <seg state="locked" xml:id="KR3fc072_tls_p3.s3.1" type="comm">
+                        <lb n="3" ed="KX"/>位上二位空及上三位空者則<lb type="/"/>棄其末位之零而根得整數</seg>
+                    <seg xml:id="KR3fc072_tls_p3.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>第二術</seg>
+                    <seg xml:id="KR3fc072_tls_p3.s5" state="locked">
+                        <lb n="5" ed="KX"/>以本乘方積檢開方表其積較本積稍小者用爲借</seg>
+                    <seg xml:id="KR3fc072_tls_p3.s6" state="locked">
+                        <lb n="6" ed="KX"/>積其根爲借根本積內減借積餘爲減積以本積除</seg>
+                    <seg xml:id="KR3fc072_tls_p3.s7" state="locked">
+                        <lb n="7" ed="KX"/>減積得數爲遞次乘法又以本乘方乘數加一爲廉</seg>
+                    <seg xml:id="KR3fc072_tls_p3.s8" state="locked">
+                        <lb n="8" ed="KX"/>率迺置借根爲第一數次置第一數乘法乘之廉率</seg>
+                    <seg xml:id="KR3fc072_tls_p3.s9" state="locked">
+                        <lb n="9" ed="KX"/>除之爲第二數次置第二數乘法乘之廉率加一乘</seg>
+                    <seg xml:id="KR3fc072_tls_p3.s11" state="locked">
+                        <lb n="11" ed="KX"/>之二因廉率除之爲第三數次置第三數乘法乘之</seg>
+                    <seg xml:id="KR3fc072_tls_p3.s12" state="locked">
+                        <lb n="12" ed="KX"/>二因廉率加一乘之三因廉率除之爲第四數次置</seg>
+                    <seg xml:id="KR3fc072_tls_p3.s13" state="locked">
+                        <lb n="13" ed="KX"/>第四數乘法乘之三因廉率加一乘之四因廉率除</seg>
+                    <seg xml:id="KR3fc072_tls_p3.s14" state="locked">
+                        <lb n="14" ed="KX"/>之爲第五數如是挨次乘除得數至單位下止併第</seg>
+                    <seg state="locked" xml:id="KR3fc072_tls_p3.s15.1">
+                        <lb n="15" ed="KX"/>二數以下諸數與第一數相加得本乘方根</seg>
+                    <seg state="locked" xml:id="KR3fc072_tls_p3.s15.2" type="comm">術中檢<lb type="/"/>表定位</seg>
+                    <seg state="locked" xml:id="KR3fc072_tls_p3.s16.1" type="comm">
+                        <lb n="16" ed="KX"/>收零棄零等法均與第一術同至諸數加倂後亦視<lb type="/"/>單下一位零數滿五進爲一而根微弱不滿五棄其</seg>
+                    <seg state="locked" xml:id="KR3fc072_tls_p3.s17.1" type="comm">
+                        <lb n="17" ed="KX"/>零而根微強惟零數共二位上一位滿九共三位或<lb type="/"/>四位上二位滿九及上三位滿九者則增其末位之</seg>
+                    <seg state="locked" xml:id="KR3fc072_tls_p3.s18.1" type="comm">
+                        <lb n="18" ed="KX"/>零進爲一而<lb type="/"/>根得整數</seg>
+                    <seg xml:id="KR3fc072_tls_p3.s19" state="locked">
+                        <lb n="19" ed="KX"/>
+                        <space n="䶻" quantity="1"/>按是二術互相爲用如術推算乘除一例而不煩</seg>
+                    <pb ed="KX" n="DLJ0031261.4" xml:id="KR3fc072_tls_4a"/>
+                    <seg xml:id="KR3fc072_tls_p4.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻" quantity="1"/>惟患減積大降位稍難須求多數耳減積之大由</seg>
+                    <seg xml:id="KR3fc072_tls_p4.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻" quantity="1"/>本積稍遠於借積然本積居表中大小二積之間</seg>
+                    <seg xml:id="KR3fc072_tls_p4.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻" quantity="1"/>去小積遠去大積必近則用第一術去大積遠去</seg>
+                    <seg xml:id="KR3fc072_tls_p4.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻" quantity="1"/>小積必近則用第二術兩者相資其術始備且一</seg>
+                    <seg xml:id="KR3fc072_tls_p4.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻" quantity="1"/>盈一歉一減一加不易中自有交易者在此亦陰</seg>
+                    <seg xml:id="KR3fc072_tls_p4.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻" quantity="1"/>陽對待之理寓乎數中而不容有所偏局也</seg>
+                    <seg xml:id="KR3fc072_tls_p4.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>第三術</seg>
+                    <seg xml:id="KR3fc072_tls_p4.s8" state="locked">
+                        <lb n="8" ed="KX"/>以本乘方積檢開方表其積較本積稍大者用爲借</seg>
+                    <seg xml:id="KR3fc072_tls_p4.s9" state="locked">
+                        <lb n="9" ed="KX"/>積其根爲借根以本乘方乘數加一爲廉率迺以廉</seg>
+                    <seg xml:id="KR3fc072_tls_p4.s11" state="locked">
+                        <lb n="11" ed="KX"/>率乘借積爲一率廉率減一乘借積與本積相加爲</seg>
+                    <seg state="locked" xml:id="KR3fc072_tls_p4.s12.1">
+                        <lb n="12" ed="KX"/>二率借根爲三率求得四率爲第二借根</seg>
+                    <seg state="locked" xml:id="KR3fc072_tls_p4.s12.2" type="comm">四率由除<lb type="/"/>而得其位</seg>
+                    <seg state="locked" xml:id="KR3fc072_tls_p4.s13.1" type="comm">
+                        <lb n="13" ed="KX"/>不盡除至單位止下有零數則<lb type="/"/>單位進一爲求得之借根下同</seg>
+                    <seg state="locked" xml:id="KR3fc072_tls_p4.s13.2">置第二借根依本乘</seg>
+                    <seg xml:id="KR3fc072_tls_p4.s14" state="locked">
+                        <lb n="14" ed="KX"/>方乘數乘之得第二借積又以廉率乘第二借積爲</seg>
+                    <seg xml:id="KR3fc072_tls_p4.s15" state="locked">
+                        <lb n="15" ed="KX"/>一率廉率減一乘第二借積與本積相加爲二率第</seg>
+                    <seg xml:id="KR3fc072_tls_p4.s16" state="locked">
+                        <lb n="16" ed="KX"/>二借根爲三率求得四率爲第三借根置第三借根</seg>
+                    <seg xml:id="KR3fc072_tls_p4.s17" state="locked">
+                        <lb n="17" ed="KX"/>依本乘方乘數乘之得第三借積又以廉率乘第三</seg>
+                    <seg xml:id="KR3fc072_tls_p4.s18" state="locked">
+                        <lb n="18" ed="KX"/>借積爲一率廉率減一乘第三借積與本積相加爲</seg>
+                    <seg xml:id="KR3fc072_tls_p4.s19" state="locked">
+                        <lb n="19" ed="KX"/>二率第三借根爲三率求得四率爲第四借根如是</seg>
+                    <pb ed="KX" n="DLJ0031261.5" xml:id="KR3fc072_tls_5a"/>
+                    <seg xml:id="KR3fc072_tls_p5.s1" state="locked">
+                        <lb n="1" ed="KX"/>挨次比例求至四率收零進一而數同三率者則求</seg>
+                    <seg xml:id="KR3fc072_tls_p5.s2" state="locked">
+                        <lb n="2" ed="KX"/>得之單位以上數已與本根合卽命四率借根爲本</seg>
+                    <seg state="locked" xml:id="KR3fc072_tls_p5.s3.1">
+                        <lb n="3" ed="KX"/>乘方根</seg>
+                    <seg state="locked" xml:id="KR3fc072_tls_p5.s3.2" type="comm">視單下二三位皆空者則棄其更下之零而<lb type="/"/>本根得整數其不空者亦姑棄零爲本根而</seg>
+                    <seg state="locked" xml:id="KR3fc072_tls_p5.s4.1" type="comm">
+                        <lb n="4" ed="KX"/>本根實<lb type="/"/>微強</seg>
+                    <seg xml:id="KR3fc072_tls_p5.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>第四術</seg>
+                    <seg xml:id="KR3fc072_tls_p5.s6" state="locked">
+                        <lb n="6" ed="KX"/>以本乘方積檢開方表其積較本積稍小者用爲借</seg>
+                    <seg xml:id="KR3fc072_tls_p5.s7" state="locked">
+                        <lb n="7" ed="KX"/>積其根爲借根以本乘方乘數加一爲廉率迺以廉</seg>
+                    <seg xml:id="KR3fc072_tls_p5.s8" state="locked">
+                        <lb n="8" ed="KX"/>率乘本積爲一率廉率加一乘本積與借積相減爲</seg>
+                    <seg state="locked" xml:id="KR3fc072_tls_p5.s9.1">
+                        <lb n="9" ed="KX"/>二率借根爲三率求得四率爲第二借根</seg>
+                    <seg state="locked" xml:id="KR3fc072_tls_p5.s9.2" type="comm">四率由除<lb type="/"/>而得其位</seg>
+                    <seg state="locked" xml:id="KR3fc072_tls_p5.s11.1" type="comm">
+                        <lb n="11" ed="KX"/>不盡除至單位止下有零數則<lb type="/"/>槪棄其零爲求得之借根下同</seg>
+                    <seg state="locked" xml:id="KR3fc072_tls_p5.s11.2">置第二借根依本乘</seg>
+                    <seg xml:id="KR3fc072_tls_p5.s12" state="locked">
+                        <lb n="12" ed="KX"/>方乘數乘之得第二借積又以廉率乘本積爲一率</seg>
+                    <seg xml:id="KR3fc072_tls_p5.s13" state="locked">
+                        <lb n="13" ed="KX"/>廉率加一乘本積與第二借積相減爲二率第二借</seg>
+                    <seg xml:id="KR3fc072_tls_p5.s14" state="locked">
+                        <lb n="14" ed="KX"/>根爲三率求得四率爲第三借根置第三借根依本</seg>
+                    <seg xml:id="KR3fc072_tls_p5.s15" state="locked">
+                        <lb n="15" ed="KX"/>乘方乘數乘之得第三借積又以廉率乘本積爲一</seg>
+                    <seg xml:id="KR3fc072_tls_p5.s16" state="locked">
+                        <lb n="16" ed="KX"/>率廉率加一乘本積與第三借積相減爲二率第三</seg>
+                    <seg xml:id="KR3fc072_tls_p5.s17" state="locked">
+                        <lb n="17" ed="KX"/>借根爲三率求得四率爲第四借根如是挨次比例</seg>
+                    <seg xml:id="KR3fc072_tls_p5.s18" state="locked">
+                        <lb n="18" ed="KX"/>求至四率棄零而數同三率者則求得之單位以上</seg>
+                    <seg state="locked" xml:id="KR3fc072_tls_p5.s19.1">
+                        <lb n="19" ed="KX"/>數已與本根合卽命四率借根爲本乘方根</seg>
+                    <seg state="locked" xml:id="KR3fc072_tls_p5.s19.2" type="comm">視單下<lb type="/"/>二三位</seg>
+                    <pb ed="KX" n="DLJ0031261.6" xml:id="KR3fc072_tls_6a"/>
+                    <seg state="locked" xml:id="KR3fc072_tls_p6.s1.1" type="comm">
+                        <lb n="1" ed="KX"/>皆滿九者則收其更下之零進爲一而本根得整<lb type="/"/>數其不滿九者亦姑進一爲本根而本根實微弱</seg>
+                    <seg xml:id="KR3fc072_tls_p6.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻" quantity="1"/>按此二術用四率比例法雖約而每次連乘求借</seg>
+                    <seg xml:id="KR3fc072_tls_p6.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻" quantity="1"/>積數則甚繁所以備此術者因第一二術大小互</seg>
+                    <seg xml:id="KR3fc072_tls_p6.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻" quantity="1"/>資減積固不至過大而遇借根爲一爲二者降位</seg>
+                    <seg xml:id="KR3fc072_tls_p6.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻" quantity="1"/>仍不甚捷此二術遞得根積數頗驟降而驟升或</seg>
+                    <seg xml:id="KR3fc072_tls_p6.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻" quantity="1"/>先依是比例一二次使借積密與本積近然後以</seg>
+                    <seg xml:id="KR3fc072_tls_p6.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻" quantity="1"/>第一二術算之則降位甚捷卽不妨多增零位而</seg>
+                    <seg xml:id="KR3fc072_tls_p6.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻" quantity="1"/>得其密數又第三術借根自大而小縱極小必微</seg>
+                    <seg xml:id="KR3fc072_tls_p6.s9" state="locked">
+                        <lb n="9" ed="KX"/>
+                        <space n="䶻" quantity="1"/>大於本根故末一比例棄零命之第四術借根自</seg>
+                    <seg xml:id="KR3fc072_tls_p6.s11" state="locked">
+                        <lb n="11" ed="KX"/>
+                        <space n="䶻" quantity="1"/>小而大縱極大必微小於本根故末一比例進一</seg>
+                    <seg xml:id="KR3fc072_tls_p6.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻" quantity="1"/>命之</seg>
+                    <seg xml:id="KR3fc072_tls_p6.s13" state="locked">
+                        <lb n="13" ed="KX"/>補術</seg>
+                    <seg xml:id="KR3fc072_tls_p6.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻" quantity="1"/>初得前二術未經校驗晤鄂士戴君語及開方余</seg>
+                    <seg xml:id="KR3fc072_tls_p6.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻" quantity="1"/>謂諸乘方之根積連比例也其廉率遞加數也若</seg>
+                    <seg xml:id="KR3fc072_tls_p6.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻" quantity="1"/>以遞乘遞除開之諸乘方可通爲一例鄂士以爲</seg>
+                    <seg xml:id="KR3fc072_tls_p6.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻" quantity="1"/>然翼日治定前稿將以質鄂士而鄂士已有見於</seg>
+                    <seg xml:id="KR3fc072_tls_p6.s18" state="locked">
+                        <lb n="18" ed="KX"/>
+                        <space n="䶻" quantity="1"/>此簡示兩術一借大積與前第一術相合一借小</seg>
+                    <seg xml:id="KR3fc072_tls_p6.s19" state="locked">
+                        <lb n="19" ed="KX"/>
+                        <space n="䶻" quantity="1"/>積其得數則正負相間余旣喜第一術之得所印</seg>
+                    <pb ed="KX" n="DLJ0031261.7" xml:id="KR3fc072_tls_7a"/>
+                    <seg xml:id="KR3fc072_tls_p7.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻" quantity="1"/>證又思此正負相間者較前第二術雖降位稍遲</seg>
+                    <seg xml:id="KR3fc072_tls_p7.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻" quantity="1"/>而在數中其術實所應備何則第一術借大積則</seg>
+                    <seg xml:id="KR3fc072_tls_p7.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻" quantity="1"/>本積爲小積故以借積比減積第二術借小積則</seg>
+                    <seg xml:id="KR3fc072_tls_p7.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻" quantity="1"/>本積爲大積故以本積比減積是比例皆用大積</seg>
+                    <seg xml:id="KR3fc072_tls_p7.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻" quantity="1"/>也夫大積可比例豈小積獨不可比例今此正負</seg>
+                    <seg xml:id="KR3fc072_tls_p7.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻" quantity="1"/>相間術借小積卽以小積比減積以是推之當更</seg>
+                    <seg xml:id="KR3fc072_tls_p7.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻" quantity="1"/>有借大積仍以小積比減積而與爲對待者因續</seg>
+                    <seg xml:id="KR3fc072_tls_p7.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻" quantity="1"/>衍一術復以質鄂士而鄂士復有見於此出其稿</seg>
+                    <seg xml:id="KR3fc072_tls_p7.s9" state="locked">
+                        <lb n="9" ed="KX"/>
+                        <space n="䶻" quantity="1"/>若合符節焉蓋鄂士推闡四元於方廉正負之理</seg>
+                    <seg xml:id="KR3fc072_tls_p7.s11" state="locked">
+                        <lb n="11" ed="KX"/>
+                        <space n="䶻" quantity="1"/>深入三昧故觸而卽通如此爰取鄂士稿補列於</seg>
+                    <seg xml:id="KR3fc072_tls_p7.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻" quantity="1"/>後命曰補第一術補第二術得此而術乃大備兼</seg>
+                    <seg xml:id="KR3fc072_tls_p7.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻" quantity="1"/>以誌兩人心得之同云爾</seg>
+                    <seg xml:id="KR3fc072_tls_p7.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>補第一術</seg>
+                    <seg xml:id="KR3fc072_tls_p7.s15" state="locked">
+                        <lb n="15" ed="KX"/>以本乘方積檢開方表其積較本積稍小者用爲借</seg>
+                    <seg xml:id="KR3fc072_tls_p7.s16" state="locked">
+                        <lb n="16" ed="KX"/>積其根爲借根本積內減借積餘爲減積以借積除</seg>
+                    <seg xml:id="KR3fc072_tls_p7.s17" state="locked">
+                        <lb n="17" ed="KX"/>減積得數爲遞次乘法又以本乘方乘數加一爲廉</seg>
+                    <seg xml:id="KR3fc072_tls_p7.s18" state="locked">
+                        <lb n="18" ed="KX"/>率迺置借根爲第一數正次置第一數乘法乘之廉</seg>
+                    <seg xml:id="KR3fc072_tls_p7.s19" state="locked">
+                        <lb n="19" ed="KX"/>率除之爲第二數正次置第二數乘法乘之廉率減</seg>
+                    <pb ed="KX" n="DLJ0031261.8" xml:id="KR3fc072_tls_8a"/>
+                    <seg xml:id="KR3fc072_tls_p8.s1" state="locked">
+                        <lb n="1" ed="KX"/>一乘之二因廉率除之爲第三數負次置第三數乘</seg>
+                    <seg xml:id="KR3fc072_tls_p8.s2" state="locked">
+                        <lb n="2" ed="KX"/>法乘之二因廉率減一乘之三因廉率除之爲第四</seg>
+                    <seg xml:id="KR3fc072_tls_p8.s3" state="locked">
+                        <lb n="3" ed="KX"/>數正次置第四數乘法乘之三因廉率減一乘之四</seg>
+                    <seg xml:id="KR3fc072_tls_p8.s4" state="locked">
+                        <lb n="4" ed="KX"/>因廉率除之爲第五數負如是挨次乘除得數至單</seg>
+                    <seg xml:id="KR3fc072_tls_p8.s5" state="locked">
+                        <lb n="5" ed="KX"/>位下止併正數與併負數相減得本乘方根</seg>
+                    <seg xml:id="KR3fc072_tls_p8.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻" quantity="1"/>是術與前弟一術同法惟前術弟二數下皆負是</seg>
+                    <seg xml:id="KR3fc072_tls_p8.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻" quantity="1"/>術弟二數下奇數負偶數正</seg>
+                    <seg xml:id="KR3fc072_tls_p8.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>補第二術</seg>
+                    <seg xml:id="KR3fc072_tls_p8.s9" state="locked">
+                        <lb n="9" ed="KX"/>以本乘方積檢開方表其積較本積稍大者用爲借</seg>
+                    <seg xml:id="KR3fc072_tls_p8.s11" state="locked">
+                        <lb n="11" ed="KX"/>積其根爲借根借積內減本積餘爲減積以本積除</seg>
+                    <seg xml:id="KR3fc072_tls_p8.s12" state="locked">
+                        <lb n="12" ed="KX"/>減積得數爲遞次乘法又以本乘方乘數加一爲廉</seg>
+                    <seg xml:id="KR3fc072_tls_p8.s13" state="locked">
+                        <lb n="13" ed="KX"/>率迺置借根爲弟一數正次置弟一數乘法乘之廉</seg>
+                    <seg xml:id="KR3fc072_tls_p8.s14" state="locked">
+                        <lb n="14" ed="KX"/>率除之爲弟二數負次置弟二數乘法乘之廉率加</seg>
+                    <seg xml:id="KR3fc072_tls_p8.s15" state="locked">
+                        <lb n="15" ed="KX"/>一乘之二因廉率除之爲弟三數正次置弟三數乘</seg>
+                    <seg xml:id="KR3fc072_tls_p8.s16" state="locked">
+                        <lb n="16" ed="KX"/>法乘之二因廉率加一乘之三因廉率除之爲弟四</seg>
+                    <seg xml:id="KR3fc072_tls_p8.s17" state="locked">
+                        <lb n="17" ed="KX"/>數負次置弟四數乘法乘之三因廉率加一乘之四</seg>
+                    <seg xml:id="KR3fc072_tls_p8.s18" state="locked">
+                        <lb n="18" ed="KX"/>因廉率除之爲弟五數正如是挨次乘除得數至單</seg>
+                    <seg xml:id="KR3fc072_tls_p8.s19" state="locked">
+                        <lb n="19" ed="KX"/>位下止併正數與併負數相減得本乘方根</seg>
+                    <pb ed="KX" n="DLJ0031261.9" xml:id="KR3fc072_tls_9a"/>
+                    <seg xml:id="KR3fc072_tls_p9.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻" quantity="1"/>是術與前弟二術同法惟前術第二數下皆正是</seg>
+                    <seg xml:id="KR3fc072_tls_p9.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻" quantity="1"/>術弟二數下奇數正偶數負</seg>
+                    <seg xml:id="KR3fc072_tls_p9.s3" state="locked">
+                        <lb n="3" ed="KX"/>總論曰遞乘遞除術以開平方向嘗爲八線互求之</seg>
+                    <seg xml:id="KR3fc072_tls_p9.s4" state="locked">
+                        <lb n="4" ed="KX"/>用鄂士對數簡法亦用之而未能推及諸乘方者以</seg>
+                    <seg xml:id="KR3fc072_tls_p9.s5" state="locked">
+                        <lb n="5" ed="KX"/>乘多則比例難尋廉式又繁而不可御也由今思之</seg>
+                    <seg xml:id="KR3fc072_tls_p9.s6" state="locked">
+                        <lb n="6" ed="KX"/>遞乘遞除其數生於比例而成於遞加以比例論平</seg>
+                    <seg xml:id="KR3fc072_tls_p9.s7" state="locked">
+                        <lb n="7" ed="KX"/>方以借根爲一率減積之根爲二率求得三率因以</seg>
+                    <seg xml:id="KR3fc072_tls_p9.s8" state="locked">
+                        <lb n="8" ed="KX"/>一率三率爲逐數比例蓋遞間一率也而立方則間</seg>
+                    <seg xml:id="KR3fc072_tls_p9.s9" state="locked">
+                        <lb n="9" ed="KX"/>二率三乘方則間三率每多一乘則多間一率約計</seg>
+                    <seg xml:id="KR3fc072_tls_p9.s11" state="locked">
+                        <lb n="11" ed="KX"/>其數無論一率四率相比一率五率相比要皆與本</seg>
+                    <seg xml:id="KR3fc072_tls_p9.s12" state="locked">
+                        <lb n="12" ed="KX"/>乘之積比積等故槪用借積或本積除其減積爲遞</seg>
+                    <seg xml:id="KR3fc072_tls_p9.s13" state="locked">
+                        <lb n="13" ed="KX"/>次乘法以遞加論平方廉率二乘法起於弟三數之</seg>
+                    <seg xml:id="KR3fc072_tls_p9.s14" state="locked">
+                        <lb n="14" ed="KX"/>一與三由是以三五七九等奇數乘得各數除法起</seg>
+                    <seg xml:id="KR3fc072_tls_p9.s15" state="locked">
+                        <lb n="15" ed="KX"/>於弟二數之二由是以四六八十等偶數除得各數</seg>
+                    <seg xml:id="KR3fc072_tls_p9.s16" state="locked">
+                        <lb n="16" ed="KX"/>蓋遞加以二也而立方則遞加三三乘方則遞加四</seg>
+                    <seg xml:id="KR3fc072_tls_p9.s17" state="locked">
+                        <lb n="17" ed="KX"/>推之諸乘廉雖多種而本乘數加一實爲諸廉總率</seg>
+                    <seg xml:id="KR3fc072_tls_p9.s18" state="locked">
+                        <lb n="18" ed="KX"/>故槪取廉率二因三因爲除法復加減其一爲乘法</seg>
+                    <seg xml:id="KR3fc072_tls_p9.s19" state="locked">
+                        <lb n="19" ed="KX"/>此兩種乘除相須爲用有連比例以引其緒復有遞</seg>
+                    <pb ed="KX" n="DLJ0031261.10" xml:id="KR3fc072_tls_10a"/>
+                    <seg xml:id="KR3fc072_tls_p10.s1" state="locked">
+                        <lb n="1" ed="KX"/>加數以就其閑平方如是諸乘方卽莫不如是也苟</seg>
+                    <seg xml:id="KR3fc072_tls_p10.s2" state="locked">
+                        <lb n="2" ed="KX"/>明乎其故以御他術當亦無不可通而開方乃算學</seg>
+                    <seg xml:id="KR3fc072_tls_p10.s3" state="locked">
+                        <lb n="3" ed="KX"/>初階廉雜商難得此已無復慮好學深思者本是術</seg>
+                    <seg xml:id="KR3fc072_tls_p10.s4" state="locked">
+                        <lb n="4" ed="KX"/>而引伸觸類焉其爲用可勝窮哉<space n="　　　　　　　" quantity="7"/>
+                    </seg>
+                    <pb ed="KX" n="DLJ0031261.10" xml:id="KR3fc072_tls_10b"/>
+                    <pb ed="KX" n="DLJ0031261.10" xml:id="KR3fc072_tls_10b"/>
+                    <pb ed="KX" n="DLJ0031261.10" xml:id="KR3fc072_tls_10b"/>
+                    <pb ed="KX" n="DLJ0031261.10" xml:id="KR3fc072_tls_10b"/>
+                    <pb ed="KX" n="DLJ0031261.10" xml:id="KR3fc072_tls_10b"/>
+                    <pb ed="KX" n="DLJ0031261.10" xml:id="KR3fc072_tls_10b"/>
+                    <pb ed="KX" n="DLJ0031261.10" xml:id="KR3fc072_tls_10b"/>
+                    <pb ed="KX" n="DLJ0031261.10" xml:id="KR3fc072_tls_10b"/>
+                    <pb ed="KX" n="DLJ0031261.10" xml:id="KR3fc072_tls_10b"/>
+                    <pb ed="KX" n="DLJ0031261.10" xml:id="KR3fc072_tls_10b"/>
+                    <pb ed="KX" n="DLJ0031261.10" xml:id="KR3fc072_tls_10b"/>
+                    <pb ed="KX" n="DLJ0031261.10" xml:id="KR3fc072_tls_10b"/>
+                    <pb ed="KX" n="DLJ0031261.10" xml:id="KR3fc072_tls_10b"/>
+                    <pb ed="KX" n="DLJ0031261.10" xml:id="KR3fc072_tls_10b"/>
+                    <pb ed="KX" n="DLJ0031261.11" xml:id="KR3fc072_tls_11a"/>
+                    <figure>
+                        <graphic facs="KR3fc072/BFDCBE11_E6BD_489B_BB95_067044E04C84.png" type="inline"/>
+                    </figure>
+                    <seg xml:id="KR3fc072_tls_p11.s1" state="locked">
+                        <lb n="1" ed="KX"/>開方表</seg>
+                    <pb ed="KX" n="DLJ0031261.11" xml:id="KR3fc072_tls_11b"/>
+                    <pb ed="KX" n="DLJ0031261.12" xml:id="KR3fc072_tls_12a"/>
+                    <figure>
+                        <graphic facs="KR3fc072/07BF0187_6B6B_4C9E_A690_C203B42BA4DC.png" type="inline"/>
+                    </figure>
+                    <pb ed="KX" n="DLJ0031261.13" xml:id="KR3fc072_tls_13a"/>
+                    <seg xml:id="KR3fc072_tls_p13.s1" state="locked">
+                        <lb n="1" ed="KX"/>錢塘項梅侶先生吾先光禄公所師事也先生之學</seg>
+                    <seg xml:id="KR3fc072_tls_p13.s2" state="locked">
+                        <lb n="2" ed="KX"/>研精覃思無文不綜而於疇人一術尤能彙中西大</seg>
+                    <seg xml:id="KR3fc072_tls_p13.s3" state="locked">
+                        <lb n="3" ed="KX"/>成發前人祕奧所箸下學盦祘術三種久爲算學家</seg>
+                    <seg xml:id="KR3fc072_tls_p13.s4" state="locked">
+                        <lb n="4" ed="KX"/>推崇兵燹而後原版無存遺帙散失長沙荷花池精</seg>
+                    <seg xml:id="KR3fc072_tls_p13.s5" state="locked">
+                        <lb n="5" ed="KX"/>舍刋行各種算書僅得先生句股六術而弧三角術</seg>
+                    <seg xml:id="KR3fc072_tls_p13.s6" state="locked">
+                        <lb n="6" ed="KX"/>猶拾遺他人箸作綴於卷尾海內學者欲窺全豹不</seg>
+                    <seg xml:id="KR3fc072_tls_p13.s7" state="locked">
+                        <lb n="7" ed="KX"/>可得今春先生猶子薇垣孝廉計車北上手先生遺</seg>
+                    <seg xml:id="KR3fc072_tls_p13.s8" state="locked">
+                        <lb n="8" ed="KX"/>書將與其兄書巢鹺守校讐付梓乃知句股六術外</seg>
+                    <seg xml:id="KR3fc072_tls_p13.s9" state="locked">
+                        <lb n="9" ed="KX"/>尙有三角和較術曁開椉諸方捷術二種余於算學</seg>
+                    <seg xml:id="KR3fc072_tls_p13.s11" state="locked">
+                        <lb n="11" ed="KX"/>未涉藩籬莫能贊一辭而先生啟牖後學之苦心則</seg>
+                    <seg xml:id="KR3fc072_tls_p13.s12" state="locked">
+                        <lb n="12" ed="KX"/>有以窺其萬一且深喜薇垣之寶藏勿失賢昆仲之</seg>
+                    <seg xml:id="KR3fc072_tls_p13.s13" state="locked">
+                        <lb n="13" ed="KX"/>善繼先志也今而後海內學者當不以簡斷編殘爲</seg>
+                    <seg xml:id="KR3fc072_tls_p13.s14" state="locked">
+                        <lb n="14" ed="KX"/>憾矣淵源有自欣幸滋深謹識數語用坿篇末</seg>
+                    <seg xml:id="KR3fc072_tls_p13.s15" state="locked">
+                        <lb n="15" ed="KX"/>光緒丙戌夏五月門下晚生徐致祥謹跋</seg>
+                    <pb ed="KX" n="DLJ0031261.14" xml:id="KR3fc072_tls_14a"/>
+                    <seg xml:id="KR3fc072_tls_p14.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻䶻䶻" quantity="3"/>今人震於泰西諸國製器之巧測量之精僉謂其深</seg>
+                    <seg xml:id="KR3fc072_tls_p14.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻䶻䶻" quantity="3"/>得算學秘奧而不知西學蓋本中學幾何代數不岀</seg>
+                    <seg xml:id="KR3fc072_tls_p14.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻䶻䶻" quantity="3"/>乎周髀九章也由漢唐至今精於術數者代有傳人</seg>
+                    <seg xml:id="KR3fc072_tls_p14.s4" state="locked">
+                        <lb n="4" ed="KX"/>御製數理精藴諸書實綜其大成一時文人學士極深研幾</seg>
+                    <seg xml:id="KR3fc072_tls_p14.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻" quantity="1"/>
+                        <space n="䶻" quantity="1"/>
+                        <space n="䶻" quantity="1"/>推闡所詣誠遠駕乎漢唐而上我從舅父梅侶公學</seg>
+                    <seg xml:id="KR3fc072_tls_p14.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻" quantity="1"/>
+                        <space n="䶻" quantity="1"/>
+                        <space n="䶻" quantity="1"/>有本原著作繁富下學葊算術三種迺遺籍中之一</seg>
+                    <seg xml:id="KR3fc072_tls_p14.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻" quantity="1"/>
+                        <space n="䶻" quantity="1"/>
+                        <space n="䶻" quantity="1"/>端惜刋刻未久而吾杭遭兵燹書巢表兄搜羅善本</seg>
+                    <seg xml:id="KR3fc072_tls_p14.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻" quantity="1"/>
+                        <space n="䶻" quantity="1"/>
+                        <space n="䶻" quantity="1"/>迄未有得幸薇垣表兄於庚申秋季藏弆是書航海</seg>
+                    <seg xml:id="KR3fc072_tls_p14.s9" state="locked">
+                        <lb n="9" ed="KX"/>
+                        <space n="䶻" quantity="1"/>
+                        <space n="䶻" quantity="1"/>
+                        <space n="䶻" quantity="1"/>北渡家學薪傳賴斯不朽是殆冥漠中有默爲呵䕶</seg>
+                    <seg xml:id="KR3fc072_tls_p14.s11" state="locked">
+                        <lb n="11" ed="KX"/>者茲重付剞劂冀海內通人家置一編或共見公之</seg>
+                    <seg xml:id="KR3fc072_tls_p14.s12" state="locked">
+                        <lb n="12" ed="KX"/>師承有自雖小學而一本於河圖洛書之精理此外</seg>
+                    <seg xml:id="KR3fc072_tls_p14.s13" state="locked">
+                        <lb n="13" ed="KX"/>尙有象數一原四册徐君靑中丞嘗參校付梓其版</seg>
+                    <seg state="locked" xml:id="KR3fc072_tls_p14.s14.1">
+                        <lb n="14" ed="KX"/>亦燬於兵儻能覓得續刻則賢昆仲旣克竟其志</seg>
+                    <seg state="locked" xml:id="KR3fc072_tls_p14.s14.2" type="comm">鈐</seg>
+                    <seg state="locked" xml:id="KR3fc072_tls_p14.s15.1" type="comm">
+                        <lb n="15" ed="KX"/>身</seg>
+                    <seg state="locked" xml:id="KR3fc072_tls_p14.s15.2">亦幸觀厥成矣敬識數語於後藉伸渭陽之情時</seg>
+                    <seg xml:id="KR3fc072_tls_p14.s16" state="locked">
+                        <lb n="16" ed="KX"/>光緒十有三年嵗在丁亥冬十月大雪前一日甥許</seg>
+                    <seg xml:id="KR3fc072_tls_p14.s17" state="locked">
+                        <lb n="17" ed="KX"/>鈐身謹跋於潞河道署之鴻雪齋</seg>
+                    <pb ed="KX" n="DLJ0031261.15" xml:id="KR3fc072_tls_15a"/>
+                    <seg xml:id="KR3fc072_tls_p15.s1" state="locked">
+                        <lb n="1" ed="KX"/>外祖舅梅侶項公成進士逡謝官歸鄉里教授生徒</seg>
+                    <seg xml:id="KR3fc072_tls_p15.s2" state="locked">
+                        <lb n="2" ed="KX"/>以終淸風高節誦於人口生平述造繁富文辭襍箸</seg>
+                    <seg xml:id="KR3fc072_tls_p15.s3" state="locked">
+                        <lb n="3" ed="KX"/>無慮數十卷而尤於象數厤算諸術冥心深造布籌</seg>
+                    <seg xml:id="KR3fc072_tls_p15.s4" state="locked">
+                        <lb n="4" ed="KX"/>交綫圖説參伍往往成書類皆鴹實求是徹委通原</seg>
+                    <seg xml:id="KR3fc072_tls_p15.s5" state="locked">
+                        <lb n="5" ed="KX"/>識者謂公之所到實足抗手梅杜折角幾何甚盛業</seg>
+                    <seg xml:id="KR3fc072_tls_p15.s6" state="locked">
+                        <lb n="6" ed="KX"/>也預未婚數年公先没未嘗一聞緒論咸豐辛酉粵</seg>
+                    <seg xml:id="KR3fc072_tls_p15.s7" state="locked">
+                        <lb n="7" ed="KX"/>匪再陷杭州外舅建霞先生曾以遺書付預挍寫賊</seg>
+                    <seg xml:id="KR3fc072_tls_p15.s8" state="locked">
+                        <lb n="8" ed="KX"/>至倉卒不及攜岀老屋旣燼都付刧灰二十餘年來</seg>
+                    <seg xml:id="KR3fc072_tls_p15.s9" state="locked">
+                        <lb n="9" ed="KX"/>疾疚之私如黐著身未能或釋外舅旣以亂殉外家</seg>
+                    <seg xml:id="KR3fc072_tls_p15.s11" state="locked">
+                        <lb n="11" ed="KX"/>諸兄弟殂謝亦盡僅留孤嬰一爲公曾孫名祖恩者</seg>
+                    <seg xml:id="KR3fc072_tls_p15.s12" state="locked">
+                        <lb n="12" ed="KX"/>預夫婦抱歸育之艱難成立質鈍而不近於學彌可</seg>
+                    <seg xml:id="KR3fc072_tls_p15.s13" state="locked">
+                        <lb n="13" ed="KX"/>痛也亂定求公遺書冀得一二傳鈔於外者庶贖昔</seg>
+                    <seg xml:id="KR3fc072_tls_p15.s14" state="locked">
+                        <lb n="14" ed="KX"/>諐而公舊日生徒戚好之屬死徙什九書籍㪔亡竭</seg>
+                    <seg xml:id="KR3fc072_tls_p15.s15" state="locked">
+                        <lb n="15" ed="KX"/>力蒐訪僅就同鄉樓次淵前輩故爲公高足弟子者</seg>
+                    <seg xml:id="KR3fc072_tls_p15.s16" state="locked">
+                        <lb n="16" ed="KX"/>覔得下學葊算術舊刻殘本一册旋爲友人取去重</seg>
+                    <seg xml:id="KR3fc072_tls_p15.s17" state="locked">
+                        <lb n="17" ed="KX"/>刻蓋非完書嗣聞李部郎王叔藏有徐君靑中丞所</seg>
+                    <seg xml:id="KR3fc072_tls_p15.s18" state="locked">
+                        <lb n="18" ed="KX"/>刻象數一原原本板旣燬失欲求寫副而李君謝世</seg>
+                    <seg xml:id="KR3fc072_tls_p15.s19" state="locked">
+                        <lb n="19" ed="KX"/>遂不可得其他文辭襍箸㪔見亦尟乃歎自古作者</seg>
+                    <pb ed="KX" n="DLJ0031261.16" xml:id="KR3fc072_tls_16a"/>
+                    <seg xml:id="KR3fc072_tls_p16.s1" state="locked">
+                        <lb n="1" ed="KX"/>傳否皆有命存汶汶我公飲恨而已㝡後知從叔舅</seg>
+                    <seg xml:id="KR3fc072_tls_p16.s2" state="locked">
+                        <lb n="2" ed="KX"/>薇垣先生所藏舊刻勾股六術三角和較術開乘諸</seg>
+                    <seg xml:id="KR3fc072_tls_p16.s3" state="locked">
+                        <lb n="3" ed="KX"/>方捷術數種具存丙戌春相見於都門言與書巢從</seg>
+                    <seg xml:id="KR3fc072_tls_p16.s4" state="locked">
+                        <lb n="4" ed="KX"/>叔舅謀將重梓預聞之喜甚頃自杭州北來謁薇垣</seg>
+                    <seg xml:id="KR3fc072_tls_p16.s5" state="locked">
+                        <lb n="5" ed="KX"/>叔舅於通州則剞劂瀕就矣預竊謂中西算術至今</seg>
+                    <seg xml:id="KR3fc072_tls_p16.s6" state="locked">
+                        <lb n="6" ed="KX"/>日而愈推愈廣天固宜貰此以傳公之學於萬一爲</seg>
+                    <seg xml:id="KR3fc072_tls_p16.s7" state="locked">
+                        <lb n="7" ed="KX"/>公幸且爲海內學者幸而預昔者旣不能存公之書</seg>
+                    <seg xml:id="KR3fc072_tls_p16.s8" state="locked">
+                        <lb n="8" ed="KX"/>今又未嘗有幾布之勞來助斯刻其爲疾疚更何如</seg>
+                    <seg xml:id="KR3fc072_tls_p16.s9" state="locked">
+                        <lb n="9" ed="KX"/>乎外舅與外弟名光烈者皆精算術丁時危難身没</seg>
+                    <seg xml:id="KR3fc072_tls_p16.s11" state="locked">
+                        <lb n="11" ed="KX"/>而名不稱公之學蓋再傳而絕祖恩旣長娶婦生子</seg>
+                    <seg xml:id="KR3fc072_tls_p16.s12" state="locked">
+                        <lb n="12" ed="KX"/>今兩年矣扶牀之孩誦芬有日庶幾藉此以慰公而</seg>
+                    <seg xml:id="KR3fc072_tls_p16.s13" state="locked">
+                        <lb n="13" ed="KX"/>斯刻之成亦將有可付託爾光緒丁亥十月旣望孫</seg>
+                    <seg xml:id="KR3fc072_tls_p16.s14" state="locked">
+                        <lb n="14" ed="KX"/>壻張預謹於宣南寓廬</seg>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

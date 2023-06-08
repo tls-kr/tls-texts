@@ -1,0 +1,855 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KR3fc059">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>弧矢算術細草</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <idno type="kanripo">KR3fc059</idno>
+                </edition>
+            </editionStmt>
+            <extent>
+                <measure unit="char" quantity="2552"/>
+                <date when-iso="2023-06-03T16:15:51.59+09:00"/>
+            </extent>
+            <publicationStmt>
+                <p>Published electronically</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>[清]李銳撰　 版本信息[清道光三年阮氏刻本]</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <catRef scheme="#kr-categories" target="#KR3fc"/>
+            </textClass>
+            <creation/>
+        </profileDesc>
+        <encodingDesc>
+            <variantEncoding location="external" method="double-end-point"/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <p>
+                    <pb ed="KX" n="03-07-106.1" xml:id="KR3fc059_tls_1a"/>
+                    <head xml:id="KR3fc059_tls_p1.s1-h">
+                        <seg xml:id="KR3fc059_tls_p1.s1" state="locked">
+                            <lb n="1" ed="KX"/>説弧失者肇於九章方田自是以後北宋沈括以兩</seg>
+                    </head>
+                    <seg xml:id="KR3fc059_tls_p1.s2" state="locked">
+                        <lb n="2" ed="KX"/>矢羃求弧背元代李冶用三乘方取矢度引信觸類</seg>
+                    <seg xml:id="KR3fc059_tls_p1.s3" state="locked">
+                        <lb n="3" ed="KX"/>厥法綦詳矣明顧箬溪應祥作弧矢算術既如積之</seg>
+                    <seg xml:id="KR3fc059_tls_p1.s4" state="locked">
+                        <lb n="4" ed="KX"/>未明徒開方之是衍務末遺本不亦傎乎銳受學師</seg>
+                    <seg xml:id="KR3fc059_tls_p1.s5" state="locked">
+                        <lb n="5" ed="KX"/>門泛觀古籍研九數者十年冀千慮之一得爰集弧</seg>
+                    <seg xml:id="KR3fc059_tls_p1.s6" state="locked">
+                        <lb n="6" ed="KX"/>矢之問入以天元之法凡十三術都為一卷願與海</seg>
+                    <seg xml:id="KR3fc059_tls_p1.s7" state="locked">
+                        <lb n="7" ed="KX"/>内游藝之士共審正焉元和李銳</seg>
+                    <pb ed="KX" n="03-07-106.2" xml:id="KR3fc059_tls_2a"/>
+                    <figure>
+                        <graphic facs="KR3fc059/04F18D7F_EB49_4D98_B6BC_D4951D26D773.png" type="inline"/>
+                    </figure>
+                    <seg xml:id="KR3fc059_tls_p2.s1" state="locked">
+                        <lb n="1" ed="KX"/>弧矢筭術細草</seg>
+                    <seg xml:id="KR3fc059_tls_p2.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻䶻䶻䶻䶻䶻䶻䶻䶻䶻䶻䶻䶻" quantity="13"/>元和李銳學</seg>
+                    <seg xml:id="KR3fc059_tls_p2.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻" quantity="1"/>弧矢圖式</seg>
+                    <seg xml:id="KR3fc059_tls_p2.s12" state="locked">
+                        <lb n="12" ed="KX"/>今問正數</seg>
+                    <seg xml:id="KR3fc059_tls_p2.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻" quantity="1"/>矢二十五步</seg>
+                    <seg xml:id="KR3fc059_tls_p2.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻" quantity="1"/>弦一百五十步</seg>
+                    <seg xml:id="KR3fc059_tls_p2.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻" quantity="1"/>圓徑二百五十步</seg>
+                    <seg xml:id="KR3fc059_tls_p2.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻" quantity="1"/>弧背一百五十五步</seg>
+                    <seg xml:id="KR3fc059_tls_p2.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻" quantity="1"/>殘周五百九十五步</seg>
+                    <seg xml:id="KR3fc059_tls_p2.s18" state="locked">
+                        <lb n="18" ed="KX"/>
+                        <space n="䶻" quantity="1"/>截積二千一百八十七步半</seg>
+                    <seg xml:id="KR3fc059_tls_p2.s19" state="locked">
+                        <lb n="19" ed="KX"/>今有矢二十五步弦一百五十步問圓徑幾何</seg>
+                    <seg xml:id="KR3fc059_tls_p2.s20" state="locked">
+                        <lb n="20" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰圓徑二百五十步</seg>
+                    <seg xml:id="KR3fc059_tls_p2.s21" state="locked">
+                        <lb n="21" ed="KX"/>
+                        <space n="䶻" quantity="1"/>術曰矢自乘于上又以半弦自之加上位爲實矢</seg>
+                    <pb ed="KX" n="03-07-106.3" xml:id="KR3fc059_tls_3a"/>
+                    <figure>
+                        <graphic facs="KR3fc059/D51A0A6F_83BA_42BD_A1FB_973560BDB09A.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/FEF66466_4D7E_44AA_A840_B2A968B924B4.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/7946B048_DEE9_435E_A1A6_A9237CB7C415.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/0568E345_0786_414F_A40B_BCDE96E8D9BB.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/4D6FC314_245F_4709_A7F0_4F7C28B63395.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/DA5740FB_491A_46F4_907A_CE0C2A76ECDB.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/3B293911_2604_4082_A81F_FEE22EB27908.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/AB7A25DE_3764_4356_A356_444247286197.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/54F90037_27B4_4B76_9D82_838FF86B6B35.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/75DD1D17_B2E8_4CDB_90C3_667BFE2858BC.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/D222DCD6_1A3B_44DA_A53B_223064EDE7EF.png" type="inline"/>
+                    </figure>
+                    <seg xml:id="KR3fc059_tls_p3.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻" quantity="1"/>爲法得圓徑</seg>
+                    <seg xml:id="KR3fc059_tls_p3.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻" quantity="1"/>草曰立天元一爲圓徑以矢减之得<space n="䶻䶻" quantity="2"/>爲矢徑</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p3.s3.1">
+                        <lb n="3" ed="KX"/>差又以矢乘之得爲一段半弦冪寄</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p3.s3.2" type="comm">左</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p3.s3.3">然後</seg>
+                    <seg xml:id="KR3fc059_tls_p3.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻" quantity="1"/>以半弦自之得<space n="䶻" quantity="1"/>爲同數與左相消得<space n="䶻䶻" quantity="2"/>上法</seg>
+                    <seg xml:id="KR3fc059_tls_p3.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻" quantity="1"/>下實得二百五十步卽圓徑也合問</seg>
+                    <seg xml:id="KR3fc059_tls_p3.s6" state="locked">
+                        <lb n="6" ed="KX"/>今有矢二十五步圓徑二百五十步問弦幾何</seg>
+                    <seg xml:id="KR3fc059_tls_p3.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰弦一百五十步</seg>
+                    <seg xml:id="KR3fc059_tls_p3.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻" quantity="1"/>術曰以矢减圓徑餘以矢乘之爲實開平方得半</seg>
+                    <seg xml:id="KR3fc059_tls_p3.s9" state="locked">
+                        <lb n="9" ed="KX"/>
+                        <space n="䶻" quantity="1"/>弦</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p3.s10.1">
+                        <lb n="10" ed="KX"/>草曰立天元一爲半弦自之爲半弦冪</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p3.s10.2" type="comm">寄左</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p3.s10.3">然後</seg>
+                    <seg xml:id="KR3fc059_tls_p3.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻" quantity="1"/>以矢减圓徑餘<space n="䶻" quantity="1"/>爲矢徑差以矢乘之得<space n="䶻" quantity="1"/>爲同</seg>
+                    <seg xml:id="KR3fc059_tls_p3.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻" quantity="1"/>數與寄左相消得十○<space n="䶻" quantity="1"/>開平方得七十五步倍</seg>
+                    <seg xml:id="KR3fc059_tls_p3.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻" quantity="1"/>之得一百五十步卽弦也合問</seg>
+                    <seg xml:id="KR3fc059_tls_p3.s15" state="locked">
+                        <lb n="15" ed="KX"/>今有弦一百五十步圓徑二百五十步問矢幾何</seg>
+                    <seg xml:id="KR3fc059_tls_p3.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰矢二十五步</seg>
+                    <seg xml:id="KR3fc059_tls_p3.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻" quantity="1"/>術曰半弦自之爲實圓徑爲益從一常法開平方</seg>
+                    <seg xml:id="KR3fc059_tls_p3.s18" state="locked">
+                        <lb n="18" ed="KX"/>
+                        <space n="䶻" quantity="1"/>得矢</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p3.s19.1">
+                        <lb n="19" ed="KX"/>草曰立天元一爲矢以减圓徑得</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p3.s19.2" type="comm">元○<lb type="/"/>
+                    </seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p3.s19.3">爲矢徑差</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p3.s20.1">
+                        <lb n="20" ed="KX"/>又以天元乘之得卜爲半弦冪</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p3.s20.2" type="comm">寄左</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p3.s20.3">然後以半</seg>
+                    <seg xml:id="KR3fc059_tls_p3.s21" state="locked">
+                        <lb n="21" ed="KX"/>
+                        <space n="䶻" quantity="1"/>弦自之得<space n="䶻" quantity="1"/>爲同數與左相消得<space n="䶻䶻䶻" quantity="3"/>開平方</seg>
+                    <pb ed="KX" n="03-07-106.4" xml:id="KR3fc059_tls_4a"/>
+                    <figure>
+                        <graphic facs="KR3fc059/55981405_4061_4F30_AEFC_81FA1715C157.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/8309D680_8423_44B3_B2DE_198D6CAC289A.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/8A8C255B_084F_4036_83BA_6800EA18C54A.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/89041FFE_8EF3_4DC8_8146_0D21467A6170.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/AC81778C_122B_47AF_B250_B0DBF61D9FAC.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/54F455AD_A0DE_47CE_BD4D_8E416BF4BEA1.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/B6663949_F30A_4556_9E74_ACA982818687.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/A391C2A3_029D_496E_9FA3_F31B863E0234.png" type="inline"/>
+                    </figure>
+                    <seg xml:id="KR3fc059_tls_p4.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻" quantity="1"/>得二十五步卽矢也合問</seg>
+                    <seg xml:id="KR3fc059_tls_p4.s2" state="locked">
+                        <lb n="2" ed="KX"/>今有矢二十五步弦一百五十步問弧背幾何</seg>
+                    <seg xml:id="KR3fc059_tls_p4.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰弧背一百五十五步</seg>
+                    <seg xml:id="KR3fc059_tls_p4.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻" quantity="1"/>術曰倍矢加弦又以矢再乘之于上半弦自之又</seg>
+                    <seg xml:id="KR3fc059_tls_p4.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻" quantity="1"/>以弦乘之加上位爲實矢冪半弦冪相幷爲法得</seg>
+                    <seg xml:id="KR3fc059_tls_p4.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻" quantity="1"/>弧背</seg>
+                    <seg xml:id="KR3fc059_tls_p4.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻" quantity="1"/>草曰立天元一爲弧背以弦减之得<space n="䶻䶻" quantity="2"/>爲弦背</seg>
+                    <seg xml:id="KR3fc059_tls_p4.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻" quantity="1"/>差又以矢自之又倍之得<space n="䶻" quantity="1"/>爲兩段矢冪合以弦</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p4.s9.1">
+                        <lb n="9" ed="KX"/>背差除之今不受除便以爲圓徑</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p4.s9.2" type="comm">內寄弦背<lb type="/"/>差爲母</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p4.s9.3">又以</seg>
+                    <seg xml:id="KR3fc059_tls_p4.s10" state="locked">
+                        <lb n="10" ed="KX"/>
+                        <space n="䶻" quantity="1"/>弦背差乘矢得<space n="䶻䶻" quantity="2"/>爲帶分矢以减圓徑得<space n="䶻䶻" quantity="2"/>
+                    </seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p4.s12.1">
+                        <lb n="12" ed="KX"/>爲矢徑差</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p4.s12.2" type="comm">內寄弦背<lb type="/"/>差爲母</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p4.s12.3">以矢乘之得爲半弦冪</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p4.s13.1" type="comm">
+                        <lb n="13" ed="KX"/>內寄弦背<lb type="/"/>差爲母</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p4.s13.2">寄左然後以弦半之又自之得爲半</seg>
+                    <seg xml:id="KR3fc059_tls_p4.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻" quantity="1"/>弦冪又以分母弦背差乘之得<space n="䶻䶻" quantity="2"/>爲同數與左</seg>
+                    <seg xml:id="KR3fc059_tls_p4.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻" quantity="1"/>相消得<space n="䶻䶻" quantity="2"/>上法下實得一百五十五步卽弧背</seg>
+                    <seg xml:id="KR3fc059_tls_p4.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻" quantity="1"/>也合問</seg>
+                    <seg xml:id="KR3fc059_tls_p4.s17" state="locked">
+                        <lb n="17" ed="KX"/>今有矢二十五步弧背一百五十五步問弦幾何</seg>
+                    <seg xml:id="KR3fc059_tls_p4.s18" state="locked">
+                        <lb n="18" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰弦一百五十步</seg>
+                    <seg xml:id="KR3fc059_tls_p4.s19" state="locked">
+                        <lb n="19" ed="KX"/>
+                        <space n="䶻" quantity="1"/>術曰倍矢减弧背餘以矢冪乘之又四之爲實四</seg>
+                    <seg xml:id="KR3fc059_tls_p4.s20" state="locked">
+                        <lb n="20" ed="KX"/>
+                        <space n="䶻" quantity="1"/>之矢冪爲從弧背爲益廉一常法益積開立方得</seg>
+                    <seg xml:id="KR3fc059_tls_p4.s21" state="locked">
+                        <lb n="21" ed="KX"/>
+                        <space n="䶻" quantity="1"/>弦</seg>
+                    <pb ed="KX" n="03-07-106.5" xml:id="KR3fc059_tls_5a"/>
+                    <figure>
+                        <graphic facs="KR3fc059/D9196DA0_8AF1_4475_934B_41511162CBCB.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/D8844D0F_9F30_44BD_A827_A5F14A53B5BB.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/57A97B87_F6F7_49D9_A9D8_B74996E80707.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/E5DD9A77_3E34_4E4A_A3D8_EEF79C5BD00E.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/58FECC01_B4F0_4296_809B_E4B4703EC329.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/FE1F7955_B0FB_4708_8003_110FE9DDA6A7.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/E9CA6390_7EA3_4561_AA54_8743370B19BF.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/3F40ABF8_EF97_401E_B36B_FA42EA009B23.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/3233BA8E_3358_4C39_BC9A_5C5A135154F2.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/3AF312E5_CC91_4F01_9E18_8D4C79DC11AB.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/D22C4666_B175_4836_8FA3_2301FC0D0F6C.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/1C025118_4F8B_4C45_865D_9D08B33BAE04.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/48B1ABC6_7AEE_4D2D_BFBB_B19ABB92F308.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/6E92F8EA_1F3F_41C7_B885_5EC19C7D9C5A.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/CB3002FC_D4EF_4D89_92C6_8503AB055DB2.png" type="inline"/>
+                    </figure>
+                    <seg xml:id="KR3fc059_tls_p5.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻" quantity="1"/>草曰立天元一爲弦以减弧背得<space n="䶻䶻" quantity="2"/>爲弦背差</seg>
+                    <seg xml:id="KR3fc059_tls_p5.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻" quantity="1"/>又以矢自之又倍之得<space n="䶻" quantity="1"/>爲兩段矢冪合以弦背</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p5.s3.1">
+                        <lb n="3" ed="KX"/>差除之不除便爲圓徑</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p5.s3.2" type="comm">内寄弦背<lb type="/"/>差爲母</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p5.s3.3">又以弦背差乘</seg>
+                    <seg xml:id="KR3fc059_tls_p5.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻" quantity="1"/>矢得<space n="䶻䶻" quantity="2"/>爲帶分矢以減圓徑得<space n="䶻䶻" quantity="2"/>爲矢徑差</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p5.s5.1" type="comm">
+                        <lb n="5" ed="KX"/>内寄弦母<lb type="/"/>背差爲</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p5.s5.2">以矢乘之得又四之得爲弦</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p5.s6.1">
+                        <lb n="6" ed="KX"/>冪</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p5.s6.2" type="comm">內寄弦背<lb type="/"/>差爲母</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p5.s6.3">寄左然後以天元自之爲冪又以分</seg>
+                    <seg xml:id="KR3fc059_tls_p5.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻" quantity="1"/>母弦背差乘之得<space n="䶻䶻䶻" quantity="3"/>爲同數與寄左相消得</seg>
+                    <seg xml:id="KR3fc059_tls_p5.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻䶻䶻䶻䶻" quantity="5"/>益積開立方得一百五十步卽弦也合</seg>
+                    <seg xml:id="KR3fc059_tls_p5.s9" state="locked">
+                        <lb n="9" ed="KX"/>
+                        <space n="䶻" quantity="1"/>問</seg>
+                    <seg xml:id="KR3fc059_tls_p5.s10" state="locked">
+                        <lb n="10" ed="KX"/>今有弦一百五十步弧背一百五十五步問矢幾何</seg>
+                    <seg xml:id="KR3fc059_tls_p5.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰二十五步</seg>
+                    <seg xml:id="KR3fc059_tls_p5.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻" quantity="1"/>術曰半之弦自乘又以二數相减餘乘之爲實從</seg>
+                    <seg xml:id="KR3fc059_tls_p5.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻" quantity="1"/>空二數相减餘爲益廉二步爲隅開立方得矢</seg>
+                    <seg xml:id="KR3fc059_tls_p5.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻" quantity="1"/>草曰立天元一爲矢自之又倍之得<space n="䶻䶻" quantity="2"/>爲兩段</seg>
+                    <seg xml:id="KR3fc059_tls_p5.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻" quantity="1"/>矢冪合以弦减弧背餘五步爲弦背差除之不除</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p5.s17.1">
+                        <lb n="17" ed="KX"/>便爲圓徑</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p5.s17.2" type="comm">內寄弦背<lb type="/"/>差爲母</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p5.s17.3">又以弦背差乘矢得爲帶</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p5.s18.1">
+                        <lb n="18" ed="KX"/>分矢以减圓徑餘爲矢徑差</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p5.s18.2" type="comm">內寄弦背<lb type="/"/>差爲母</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p5.s18.3">以天</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p5.s19.1">
+                        <lb n="19" ed="KX"/>元乘之得爲半弦冪</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p5.s19.2" type="comm">內寄弦背寄左<lb type="/"/>差爲母</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p5.s19.3">然後</seg>
+                    <seg xml:id="KR3fc059_tls_p5.s20" state="locked">
+                        <lb n="20" ed="KX"/>
+                        <space n="䶻" quantity="1"/>以半弦自之得五千六百二十五步又以分母弦</seg>
+                    <seg xml:id="KR3fc059_tls_p5.s21" state="locked">
+                        <lb n="21" ed="KX"/>
+                        <space n="䶻" quantity="1"/>背差乘之得<space n="䶻䶻" quantity="2"/>爲同數與左相消得<space n="䶻䶻" quantity="2"/>○<space n="䶻" quantity="1"/>
+                    </seg>
+                    <pb ed="KX" n="03-07-106.6" xml:id="KR3fc059_tls_6a"/>
+                    <figure>
+                        <graphic facs="KR3fc059/D893B334_4D7C_4DAC_8292_99FD67F5A2D1.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/BAD29CFF_1DFD_49C1_B409_6DFD4CB99FED.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/CBC0A35C_7A58_4C9D_B6C7_02AB3AC9AABA.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/9175E66B_9ECC_4AA4_B439_2EF11D1330AC.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/EC150B6B_9292_47A4_9D99_49FA51930B75.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/93476263_F632_4768_93B5_E3AD37AD3DBE.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/A0FA657B_2828_45B3_A5E3_E875E2BD656E.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/86A66F2F_94BC_4058_B0A6_BF6D917A080C.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/F8DC1B95_060C_4F84_AF44_ABF77F37109A.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/C42D78D6_59CA_429E_8EEF_D3C97FD371C4.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/4D38FBE0_4C87_4E06_898B_AB524FF7CEEC.png" type="inline"/>
+                    </figure>
+                    <seg xml:id="KR3fc059_tls_p6.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻" quantity="1"/>開立方得二十五步卽矢也合問</seg>
+                    <seg xml:id="KR3fc059_tls_p6.s2" state="locked">
+                        <lb n="2" ed="KX"/>今有圓徑二百五十步弧背一百五十五步問矢幾</seg>
+                    <seg xml:id="KR3fc059_tls_p6.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻" quantity="1"/>何</seg>
+                    <seg xml:id="KR3fc059_tls_p6.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰矢二十五步</seg>
+                    <seg xml:id="KR3fc059_tls_p6.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻" quantity="1"/>術曰二數相乘得數又自之爲實圓徑再自之又</seg>
+                    <seg xml:id="KR3fc059_tls_p6.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻" quantity="1"/>四之爲益從圓徑自之又四之于上又以二數相</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p6.s7.1">
+                        <lb n="7" ed="KX"/>乘四之以减上位爲第一廉</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p6.s7.2" type="comm">若不足減反减之<lb type="/"/>餘爲第一益廉</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p6.s7.3">第</seg>
+                    <seg xml:id="KR3fc059_tls_p6.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻" quantity="1"/>二廉空四步爲隅開三乘方得矢</seg>
+                    <seg xml:id="KR3fc059_tls_p6.s9" state="locked">
+                        <lb n="9" ed="KX"/>
+                        <space n="䶻" quantity="1"/>草曰立天元一爲矢自之又倍之得<space n="䶻䶻" quantity="2"/>爲兩段</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p6.s10.1">
+                        <lb n="10" ed="KX"/>矢冪合以圓徑除之不除便爲弦背差</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p6.s10.2" type="comm">內寄圓<lb type="/"/>徑爲母</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p6.s10.3">又</seg>
+                    <seg xml:id="KR3fc059_tls_p6.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻" quantity="1"/>以圓徑乘弧背得<space n="䶻" quantity="1"/>爲帶分弧背以弦背差减之</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p6.s13.1">
+                        <lb n="13" ed="KX"/>得爲弦</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p6.s13.2" type="comm">內寄圓<lb type="/"/>徑爲母</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p6.s13.3">自之得○爲弦</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p6.s14.1">
+                        <lb n="14" ed="KX"/>冪</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p6.s14.2" type="comm">內寄圓徑寄左<lb type="/"/>冪爲母</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p6.s14.3">然後以天元减圓徑得下式</seg>
+                    <seg xml:id="KR3fc059_tls_p6.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>爲矢徑差又以天元乘之得<space n="䶻䶻" quantity="2"/>又四之得下</seg>
+                    <seg xml:id="KR3fc059_tls_p6.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻" quantity="1"/>式<space n="䶻䶻" quantity="2"/>爲弦冪以分母圓徑冪六萬二千五百步</seg>
+                    <seg xml:id="KR3fc059_tls_p6.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻" quantity="1"/>乘之得<space n="䶻䶻" quantity="2"/>爲同數與左相消得<space n="䶻䶻䶻䶻䶻" quantity="5"/>開</seg>
+                    <seg xml:id="KR3fc059_tls_p6.s18" state="locked">
+                        <lb n="18" ed="KX"/>
+                        <space n="䶻" quantity="1"/>三乘方得二十五步卽矢也合問</seg>
+                    <seg xml:id="KR3fc059_tls_p6.s19" state="locked">
+                        <lb n="19" ed="KX"/>今有矢二十五步殘周五百九十五步問弦幾何</seg>
+                    <seg xml:id="KR3fc059_tls_p6.s20" state="locked">
+                        <lb n="20" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰弦一百五十步</seg>
+                    <seg xml:id="KR3fc059_tls_p6.s21" state="locked">
+                        <lb n="21" ed="KX"/>
+                        <space n="䶻" quantity="1"/>術曰二之矢冪以矢步乘之又以矢冪乘殘周加</seg>
+                    <pb ed="KX" n="03-07-106.7" xml:id="KR3fc059_tls_7a"/>
+                    <figure>
+                        <graphic facs="KR3fc059/6416995A_5AA8_4378_A5CE_47106C069D6A.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/EB4CC24B_759B_41F4_A3B1_96D95454B73B.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/1E0EBB72_BF29_4802_9806_38AC16036381.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/1190989B_65D7_4C1F_8EEA_533844581571.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/A91FBC9E_1C89_4465_895C_59D9DF09ABD3.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/BF30AE8F_D3B7_481A_8244_845A8B430091.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/1BC0F4A0_DC07_40A8_93ED_C1C1EC927B9C.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/4CE6964D_67F1_474C_BAB7_4B940A5D0940.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/6636C7B0_5B66_4801_A881_9F47C4EB9527.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/07A215B5_33A0_4E5D_B602_A2E0C9FAFE57.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/BB871891_E151_43C4_9C32_222BE1DDC90F.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/7F9BF2ED_3C8E_43B5_AE35_D01A6F9AE2D7.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/3149ED03_CAAA_43AB_9D2C_6E882E615CCF.png" type="inline"/>
+                    </figure>
+                    <seg xml:id="KR3fc059_tls_p7.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻" quantity="1"/>之于上又以矢步乘之矢冪自之又三之减上位</seg>
+                    <seg xml:id="KR3fc059_tls_p7.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻" quantity="1"/>爲實二之矢冪以矢步乘之爲從矢步乘殘周內</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p7.s3.1">
+                        <lb n="3" ed="KX"/>减六之矢冪爲第一廉</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p7.s3.2" type="comm">若不足减反减之<lb type="/"/>餘爲第一益廉</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p7.s3.3">二之矢</seg>
+                    <seg xml:id="KR3fc059_tls_p7.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻" quantity="1"/>步爲第二廉三步虛隅益積開三乘方得半弦</seg>
+                    <seg xml:id="KR3fc059_tls_p7.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻" quantity="1"/>草曰立天元一爲半弦自之爲半弦冪合以矢除</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p7.s6.1">
+                        <lb n="6" ed="KX"/>之不除便爲矢徑差</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p7.s6.2" type="comm">內寄矢<lb type="/"/>步爲母</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p7.s6.3">以矢自之得爲帶</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p7.s7.1">
+                        <lb n="7" ed="KX"/>分矢以加矢徑差得爲圓徑</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p7.s7.2" type="comm">內寄矢<lb type="/"/>步爲母</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p7.s7.3">自之</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p7.s8.1">
+                        <lb n="8" ed="KX"/>得爲徑冪</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p7.s8.2" type="comm">內寄矢<lb type="/"/>步爲母</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p7.s8.3">三之得</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p7.s9.1">
+                        <lb n="9" ed="KX"/>爲三段圓徑冪</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p7.s9.2" type="comm">寄左</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p7.s9.3">然後以矢自之又倍之得</seg>
+                    <seg xml:id="KR3fc059_tls_p7.s10" state="locked">
+                        <lb n="10" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>合以圓徑除之緣圓徑內先有矢步分母今不</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p7.s12.1">
+                        <lb n="12" ed="KX"/>受除更以矢乘之得爲弦背差</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p7.s12.2" type="comm">內寄圓徑爲母<lb type="/"/>圓徑內又寄矢</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p7.s13.1" type="comm">
+                        <lb n="13" ed="KX"/>步爲<lb type="/"/>母</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p7.s13.2">又倍天元以圓徑乘之得爲帶分弦</seg>
+                    <seg xml:id="KR3fc059_tls_p7.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻" quantity="1"/>以弦背差加之得<space n="䶻䶻䶻䶻" quantity="4"/>爲帶分弧背又以圓</seg>
+                    <seg xml:id="KR3fc059_tls_p7.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻" quantity="1"/>徑乘殘周五百九十五步得<space n="䶻䶻䶻" quantity="3"/>爲帶分殘周</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p7.s16.1">
+                        <lb n="16" ed="KX"/>以加弧背得爲圓周</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p7.s16.2" type="comm">內寄圓徑爲母圓<lb type="/"/>徑內又寄矢步爲</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p7.s17.1" type="comm">
+                        <lb n="17" ed="KX"/>母</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p7.s17.2">合以圓徑乘之緣此數內已帶有圓徑分母更</seg>
+                    <seg xml:id="KR3fc059_tls_p7.s18" state="locked">
+                        <lb n="18" ed="KX"/>
+                        <space n="䶻" quantity="1"/>不須乘便爲三段徑冪又合以分母矢冪乘之緣</seg>
+                    <seg xml:id="KR3fc059_tls_p7.s19" state="locked">
+                        <lb n="19" ed="KX"/>
+                        <space n="䶻" quantity="1"/>此數内已帶有矢步分母今只以矢步乘之得□</seg>
+                    <seg xml:id="KR3fc059_tls_p7.s20" state="locked">
+                        <lb n="20" ed="KX"/>
+                        <space n="䶻䶻䶻䶻" quantity="4"/>爲同數與左相消得<space n="䶻䶻䶻䶻䶻" quantity="5"/>開三乘</seg>
+                    <seg xml:id="KR3fc059_tls_p7.s21" state="locked">
+                        <lb n="21" ed="KX"/>
+                        <space n="䶻" quantity="1"/>方得七十五步倍之得一百五十步卽弦也合問</seg>
+                    <pb ed="KX" n="03-07-106.8" xml:id="KR3fc059_tls_8a"/>
+                    <figure>
+                        <graphic facs="KR3fc059/24873E72_F16D_4FEA_AFC2_EDA734945909.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/DB7BF34E_B7D5_42E7_A7B9_D4AD2DAE4C86.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/5A6A3D14_F1EC_46A6_AD8F_560E37EBCC7D.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/23DC3EFF_26EF_4C4F_98C6_A08BD4BA3727.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/C0DB9E56_E01C_40A0_95CE_8DC7D8452645.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/AD589ACA_55D1_49EF_B698_8B4AF6D25AFB.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/07FB2732_5EAC_405D_B377_5ADB4FAE98D0.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/EF0B743E_F305_4AD2_9D8B_FC5FABACA446.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/552286CB_231D_4352_9F92_54BB18751414.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/69098831_1978_4716_830B_12484F69DD76.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/864582B7_FCFB_4D05_8E5D_EDED8EE5F08A.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/50B17D60_CAC3_41F3_9673_0F1A1767E63C.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/586BF8C6_09B1_46D8_85AE_383589CCE75B.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/D4033D3B_1996_4A78_9D5A_97A806AE1BE3.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/6341F6F9_283D_4E8B_9DBB_73350A7086B9.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/12A07CAA_DC8B_48D0_ABE7_60DAADC08E99.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/71E1C23C_5C0D_4BFF_A69F_AB1C1D0585AB.png" type="inline"/>
+                    </figure>
+                    <seg xml:id="KR3fc059_tls_p8.s1" state="locked">
+                        <lb n="1" ed="KX"/>今有弦一百五十步殘周五百九十五步問矢幾何</seg>
+                    <seg xml:id="KR3fc059_tls_p8.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰矢二十五步</seg>
+                    <seg xml:id="KR3fc059_tls_p8.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻" quantity="1"/>術曰半弦冪自乘又三之爲實二數相併又以半</seg>
+                    <seg xml:id="KR3fc059_tls_p8.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻" quantity="1"/>弦冪乘之爲益從四之半弦冪爲第一廉二數併</seg>
+                    <seg xml:id="KR3fc059_tls_p8.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻" quantity="1"/>爲第二益廉一常法開三乘方得矢</seg>
+                    <seg xml:id="KR3fc059_tls_p8.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻" quantity="1"/>草曰立天元一爲矢以弦半之又自之得<space n="䶻" quantity="1"/>爲半</seg>
+                    <seg xml:id="KR3fc059_tls_p8.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻" quantity="1"/>弦冪以天元除之得<space n="䶻䶻" quantity="2"/>爲矢徑差以加天元得</seg>
+                    <seg xml:id="KR3fc059_tls_p8.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>○<space n="䶻" quantity="1"/>爲圓徑自之得下式<space n="䶻䶻䶻" quantity="3"/>○<space n="䶻" quantity="1"/>爲徑冪</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p8.s9.1">
+                        <lb n="9" ed="KX"/>又三之得爲三段徑冪</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p8.s9.2" type="comm">寄左</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p8.s9.3">然後以</seg>
+                    <seg xml:id="KR3fc059_tls_p8.s10" state="locked">
+                        <lb n="10" ed="KX"/>
+                        <space n="䶻" quantity="1"/>天元自之又倍之得<space n="䶻䶻" quantity="2"/>爲兩矢冪合以圓徑除</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p8.s12.1">
+                        <lb n="12" ed="KX"/>不除便爲弦背差</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p8.s12.2" type="comm">内寄圓<lb type="/"/>徑爲母</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p8.s12.3">又以圓徑乘弦得○</seg>
+                    <seg xml:id="KR3fc059_tls_p8.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>爲帶分弦以加弦背差得<space n="䶻䶻" quantity="2"/>○<space n="䶻" quantity="1"/>爲帶分弧</seg>
+                    <seg xml:id="KR3fc059_tls_p8.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻" quantity="1"/>背又以圓徑乘殘周五百九十五步得下式<space n="䶻" quantity="1"/>○</seg>
+                    <seg xml:id="KR3fc059_tls_p8.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>爲帶分殘周以弧背加之得<space n="䶻䶻" quantity="2"/>○<space n="䶻" quantity="1"/>爲圓周</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p8.s16.1" type="comm">
+                        <lb n="16" ed="KX"/>內寄圓<lb type="/"/>徑爲母</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p8.s16.2">合以圓徑乘之爲三段徑冪緣此數內已</seg>
+                    <seg xml:id="KR3fc059_tls_p8.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻" quantity="1"/>帶有圓徑分母更不須乘便爲同數與左相消得</seg>
+                    <seg xml:id="KR3fc059_tls_p8.s18" state="locked">
+                        <lb n="18" ed="KX"/>
+                        <space n="䶻䶻䶻䶻䶻䶻" quantity="6"/>開三乘方得二十五步卽矢也合問</seg>
+                    <seg xml:id="KR3fc059_tls_p8.s19" state="locked">
+                        <lb n="19" ed="KX"/>今有矢二十五步弦一百五十步問截積幾何</seg>
+                    <seg xml:id="KR3fc059_tls_p8.s20" state="locked">
+                        <lb n="20" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰截積二千一百八十七步半</seg>
+                    <seg xml:id="KR3fc059_tls_p8.s21" state="locked">
+                        <lb n="21" ed="KX"/>
+                        <space n="䶻" quantity="1"/>術曰以矢加弦又以矢乘之爲實二爲法得截積</seg>
+                    <pb ed="KX" n="03-07-106.9" xml:id="KR3fc059_tls_9a"/>
+                    <figure>
+                        <graphic facs="KR3fc059/5AF35CBD_6A75_4EC3_AE40_35CC68BDE2E6.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/3CBC84D4_5163_4954_90A5_396449E3F82E.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/95248868_092B_43D8_9E29_E04FC5D472F8.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/E51AC326_C223_4CA8_A049_3D463E5EC667.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/5408A1F8_166A_445B_8B77_10EED92F96D8.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/8F8F949C_A8C6_4EC8_B866_352EAC906489.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/C7932D70_A4C4_4A5B_B97C_179D0C8F1417.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/CFF2D160_05BD_406F_B413_B576FD374943.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/24C558D4_E9D9_4571_A67C_9B66D0BA48C5.png" type="inline"/>
+                    </figure>
+                    <seg xml:id="KR3fc059_tls_p9.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻" quantity="1"/>此術無草</seg>
+                    <seg xml:id="KR3fc059_tls_p9.s2" state="locked">
+                        <lb n="2" ed="KX"/>今有矢二十五步截積二千一百八十七步半問弦</seg>
+                    <seg xml:id="KR3fc059_tls_p9.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻" quantity="1"/>幾何</seg>
+                    <seg xml:id="KR3fc059_tls_p9.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰弦一百五十步</seg>
+                    <seg xml:id="KR3fc059_tls_p9.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻" quantity="1"/>術曰二之截積內减矢冪爲實矢爲法得弦</seg>
+                    <seg xml:id="KR3fc059_tls_p9.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻" quantity="1"/>草曰立天元一爲弦以矢加之得<space n="䶻䶻" quantity="2"/>爲矢弦幷</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p9.s7.1">
+                        <lb n="7" ed="KX"/>又以矢乘之得</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p9.s7.2" type="comm">寄左</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p9.s7.3">然後以截積倍之得</seg>
+                    <seg xml:id="KR3fc059_tls_p9.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻" quantity="1"/>爲同數與寄左相消得<space n="䶻䶻" quantity="2"/>上法下實得一百五</seg>
+                    <seg xml:id="KR3fc059_tls_p9.s9" state="locked">
+                        <lb n="9" ed="KX"/>
+                        <space n="䶻" quantity="1"/>十步卽弦也合問</seg>
+                    <seg xml:id="KR3fc059_tls_p9.s10" state="locked">
+                        <lb n="10" ed="KX"/>今有弦一百五十步截積二千一百八十七步半問</seg>
+                    <seg xml:id="KR3fc059_tls_p9.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻" quantity="1"/>矢幾何</seg>
+                    <seg xml:id="KR3fc059_tls_p9.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰矢二十五步</seg>
+                    <seg xml:id="KR3fc059_tls_p9.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻" quantity="1"/>術曰倍截積爲實弦爲從一步常法開平方得矢</seg>
+                    <seg xml:id="KR3fc059_tls_p9.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻" quantity="1"/>草曰立天元一爲矢以弦加之得<space n="䶻䶻" quantity="2"/>爲矢弦幷</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p9.s16.1">
+                        <lb n="16" ed="KX"/>又以矢乘之得</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p9.s16.2" type="comm">元寄左<lb type="/"/>
+                    </seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p9.s16.3">然後以截積倍之得下</seg>
+                    <seg xml:id="KR3fc059_tls_p9.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>爲同數與左相消得<space n="䶻䶻䶻" quantity="3"/>開平方得二十五</seg>
+                    <seg xml:id="KR3fc059_tls_p9.s18" state="locked">
+                        <lb n="18" ed="KX"/>
+                        <space n="䶻" quantity="1"/>步卽矢也合問</seg>
+                    <seg xml:id="KR3fc059_tls_p9.s19" state="locked">
+                        <lb n="19" ed="KX"/>今有圓徑二百五十步截積二千一百八十七步半</seg>
+                    <seg xml:id="KR3fc059_tls_p9.s20" state="locked">
+                        <lb n="20" ed="KX"/>
+                        <space n="䶻" quantity="1"/>問矢幾何</seg>
+                    <seg xml:id="KR3fc059_tls_p9.s21" state="locked">
+                        <lb n="21" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰矢二十五步</seg>
+                    <pb ed="KX" n="03-07-106.10" xml:id="KR3fc059_tls_10a"/>
+                    <figure>
+                        <graphic facs="KR3fc059/1613E4AD_3252_494B_8005_847D908B38CE.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/295AB204_FE06_407E_926D_B8C5325C7E1A.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/3BD0F54D_CCD4_4D93_B4AC_66FE7491F722.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/F0416AA1_7073_4ADB_998F_56286A08F0DD.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/72F01A5D_33CE_4644_B3B0_E5CE720AA903.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/2844016D_3EC7_40BC_81CF_FA2A6FA22294.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/3962D0A6_88F1_4627_B246_7A84B0C0CE02.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/AC0C3244_E6FF_47FF_9E3E_0EABE798C515.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/7DF6AB7D_571C_49B3_A921_FA3587115BFD.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc059/5B7EC715_8453_4E27_8B77_85EFEF173B67.png" type="inline"/>
+                    </figure>
+                    <seg xml:id="KR3fc059_tls_p10.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻" quantity="1"/>術曰倍截積自之爲實從空四之截積爲第一廉</seg>
+                    <seg xml:id="KR3fc059_tls_p10.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻" quantity="1"/>四之圓徑爲第二廉五虛隅開三乘方得矢</seg>
+                    <seg xml:id="KR3fc059_tls_p10.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻" quantity="1"/>草曰立天元一爲矢倍截積得<space n="䶻" quantity="1"/>以天元除之得</seg>
+                    <seg xml:id="KR3fc059_tls_p10.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻䶻䶻" quantity="3"/>爲矢弦幷以天元减之得下<space n="䶻䶻䶻" quantity="3"/>爲弦自</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p10.s5.1">
+                        <lb n="5" ed="KX"/>之得○爲弦冪</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p10.s5.2" type="comm">寄左</seg>
+                    <seg state="locked" xml:id="KR3fc059_tls_p10.s5.3">然後以天元减圓</seg>
+                    <seg xml:id="KR3fc059_tls_p10.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻" quantity="1"/>徑二百五十步得<space n="䶻䶻" quantity="2"/>爲矢徑差又以天元乘之</seg>
+                    <seg xml:id="KR3fc059_tls_p10.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻" quantity="1"/>得<space n="䶻䶻" quantity="2"/>又四之得下式<space n="䶻䶻" quantity="2"/>爲同數與寄左相消</seg>
+                    <seg xml:id="KR3fc059_tls_p10.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻" quantity="1"/>得下式<space n="䶻䶻䶻" quantity="3"/>○<space n="䶻" quantity="1"/>開三乘方得二十五步卽矢</seg>
+                    <seg xml:id="KR3fc059_tls_p10.s9" state="locked">
+                        <lb n="9" ed="KX"/>
+                        <space n="䶻" quantity="1"/>也合問</seg>
+                    <seg xml:id="KR3fc059_tls_p10.s21" state="locked">
+                        <lb n="21" ed="KX"/>弧矢筭術細草</seg>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

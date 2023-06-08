@@ -1,0 +1,1934 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KR3fc071">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>三角和較術</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <idno type="kanripo">KR3fc071</idno>
+                </edition>
+            </editionStmt>
+            <extent>
+                <measure unit="char" quantity="12424"/>
+                <date when-iso="2023-06-03T16:15:51.59+09:00"/>
+            </extent>
+            <publicationStmt>
+                <p>Published electronically</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>[清]項名達　版本信息[清同治羊城書院刻下學庵算術三種本]</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <catRef scheme="#kr-categories" target="#KR3fc"/>
+            </textClass>
+            <creation/>
+        </profileDesc>
+        <encodingDesc>
+            <variantEncoding location="external" method="double-end-point"/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <p>
+                    <pb ed="KX" n="03-07-118.1" xml:id="KR3fc071_tls_1a"/>
+                    <head xml:id="KR3fc071_tls_p1.s1-h">
+                        <seg xml:id="KR3fc071_tls_p1.s1" state="locked">
+                            <lb n="1" ed="KX"/>三角法無所用其和較也往歲朱筠麓給諫以黄赤</seg>
+                    </head>
+                    <seg xml:id="KR3fc071_tls_p1.s2" state="locked">
+                        <lb n="2" ed="KX"/>大距升度差爲題囑余求黄赤道思累日始於無可</seg>
+                    <seg xml:id="KR3fc071_tls_p1.s3" state="locked">
+                        <lb n="3" ed="KX"/>死例中尋得比例線立正弧三角和較凡大術著圖</seg>
+                    <seg xml:id="KR3fc071_tls_p1.s4" state="locked">
+                        <lb n="4" ed="KX"/>説以呈給諫給諫謬賞焉復曰由正弧而斜弧其和</seg>
+                    <seg xml:id="KR3fc071_tls_p1.s5" state="locked">
+                        <lb n="5" ed="KX"/>較當亦可求至平三角之和較愈無不可求曷足成</seg>
+                    <seg xml:id="KR3fc071_tls_p1.s6" state="locked">
+                        <lb n="6" ed="KX"/>之累年來役役塵綱鮮從事於籌筴雖其術漸次粗</seg>
+                    <seg xml:id="KR3fc071_tls_p1.s7" state="locked">
+                        <lb n="7" ed="KX"/>定而未有成書癸卯夏王子琴逸究三角理數愛是</seg>
+                    <seg xml:id="KR3fc071_tls_p1.s8" state="locked">
+                        <lb n="8" ed="KX"/>術堅欲付梓余維勾股和較且有以無用置之者何</seg>
+                    <seg xml:id="KR3fc071_tls_p1.s9" state="locked">
+                        <lb n="9" ed="KX"/>況三角顧三角以八線爲用八線割圜法也至精妙</seg>
+                    <seg xml:id="KR3fc071_tls_p1.s10" state="locked">
+                        <lb n="10" ed="KX"/>而不可窮者莫如圜理用八線於三角而圜理呈用</seg>
+                    <seg xml:id="KR3fc071_tls_p1.s12" state="locked">
+                        <lb n="12" ed="KX"/>八線於三角之和較而圜理愈呈是術雖無所可用</seg>
+                    <seg xml:id="KR3fc071_tls_p1.s13" state="locked">
+                        <lb n="13" ed="KX"/>或亦極數究理者所不廢歟因勿之阻而弁其緣起</seg>
+                    <seg xml:id="KR3fc071_tls_p1.s14" state="locked">
+                        <lb n="14" ed="KX"/>於简端</seg>
+                    <seg xml:id="KR3fc071_tls_p1.s15" state="locked">
+                        <lb n="15" ed="KX"/>道光癸卯長至後八日錢塘項名達識</seg>
+                    <pb ed="KX" n="03-07-118.2" xml:id="KR3fc071_tls_2a"/>
+                    <head xml:id="KR3fc071_tls_p2.s1-h">
+                        <seg xml:id="KR3fc071_tls_p2.s1" state="locked">
+                            <lb n="1" ed="KX"/>平三角和較術<space n="䶻䶻䶻䶻䶻䶻䶻䶻" quantity="8"/>下學葊算書二</seg>
+                    </head>
+                    <seg xml:id="KR3fc071_tls_p2.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻" quantity="1"/>勾股形</seg>
+                    <seg xml:id="KR3fc071_tls_p2.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有弦有勾股較求兩角</seg>
+                    <seg xml:id="KR3fc071_tls_p2.s4" state="locked">
+                        <lb n="4" ed="KX"/>法以弦爲一率勾股較爲二率半直角四十五度正</seg>
+                    <seg xml:id="KR3fc071_tls_p2.s5" state="locked">
+                        <lb n="5" ed="KX"/>弦爲三率求得四率爲半較角正弦以半較角與半</seg>
+                    <seg xml:id="KR3fc071_tls_p2.s6" state="locked">
+                        <lb n="6" ed="KX"/>直角相加爲勾旁角相減爲股旁角</seg>
+                    <seg xml:id="KR3fc071_tls_p2.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有弦有勾股和求兩角</seg>
+                    <seg xml:id="KR3fc071_tls_p2.s8" state="locked">
+                        <lb n="8" ed="KX"/>法以弦爲一率勾股和爲二率半直角四十五度正</seg>
+                    <seg xml:id="KR3fc071_tls_p2.s9" state="locked">
+                        <lb n="9" ed="KX"/>弦爲三率求得四率爲半較角餘弦如前加減得兩</seg>
+                    <seg xml:id="KR3fc071_tls_p2.s10" state="locked">
+                        <lb n="10" ed="KX"/>角</seg>
+                    <seg xml:id="KR3fc071_tls_p2.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有兩角有勾股較求勾股弦</seg>
+                    <seg xml:id="KR3fc071_tls_p2.s13" state="locked">
+                        <lb n="13" ed="KX"/>法以半較角正弦爲一率半直角正弦爲二率勾股</seg>
+                    <seg xml:id="KR3fc071_tls_p2.s14" state="locked">
+                        <lb n="14" ed="KX"/>較爲三率求得四率卽弦又以半徑爲一率半徑角</seg>
+                    <seg xml:id="KR3fc071_tls_p2.s15" state="locked">
+                        <lb n="15" ed="KX"/>餘切爲二率勾股較爲三率求得四率卽勾股和迺</seg>
+                    <seg xml:id="KR3fc071_tls_p2.s16" state="locked">
+                        <lb n="16" ed="KX"/>與勾股較相加折半爲股相減折半爲勾</seg>
+                    <seg xml:id="KR3fc071_tls_p2.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有兩角有勾股和求勾股弦</seg>
+                    <seg xml:id="KR3fc071_tls_p2.s18" state="locked">
+                        <lb n="18" ed="KX"/>法以半較角餘弦爲一率半直角正弦爲二率勾股</seg>
+                    <seg xml:id="KR3fc071_tls_p2.s19" state="locked">
+                        <lb n="19" ed="KX"/>和爲三率求得四率卽弦又以半徑爲一率半較角</seg>
+                    <seg xml:id="KR3fc071_tls_p2.s20" state="locked">
+                        <lb n="20" ed="KX"/>正切爲二率勾股和爲三率求得四率卽勾股較如</seg>
+                    <seg xml:id="KR3fc071_tls_p2.s21" state="locked">
+                        <lb n="21" ed="KX"/>前加減得句股</seg>
+                    <pb ed="KX" n="03-07-118.3" xml:id="KR3fc071_tls_3a"/>
+                    <seg state="locked" xml:id="KR3fc071_tls_p3.s1.1" type="comm">
+                        <lb n="1" ed="KX"/>觀此四題知勾股和較之比例與半較角餘<lb type="/"/>弦正弦等而比其弦者卽爲半直角正弦也</seg>
+                    <seg xml:id="KR3fc071_tls_p3.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有勾有股弦較求兩角</seg>
+                    <seg xml:id="KR3fc071_tls_p3.s3" state="locked">
+                        <lb n="3" ed="KX"/>法以勾爲一率股弦較爲二率半徑爲三率求得四</seg>
+                    <seg xml:id="KR3fc071_tls_p3.s4" state="locked">
+                        <lb n="4" ed="KX"/>率卽股旁半角正切倍之爲股旁角以減九十度爲</seg>
+                    <seg xml:id="KR3fc071_tls_p3.s5" state="locked">
+                        <lb n="5" ed="KX"/>勾旁角</seg>
+                    <seg xml:id="KR3fc071_tls_p3.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有勾有股弦和求兩角</seg>
+                    <seg xml:id="KR3fc071_tls_p3.s7" state="locked">
+                        <lb n="7" ed="KX"/>法以勾爲一率股弦和爲二率半徑爲三率求得四</seg>
+                    <seg xml:id="KR3fc071_tls_p3.s8" state="locked">
+                        <lb n="8" ed="KX"/>率卽股旁半角餘切如前加減得兩角</seg>
+                    <seg xml:id="KR3fc071_tls_p3.s9" state="locked">
+                        <lb n="9" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有兩角有股弦較求勾股弦</seg>
+                    <seg xml:id="KR3fc071_tls_p3.s10" state="locked">
+                        <lb n="10" ed="KX"/>法以半徑爲一率股旁半角餘切爲二率股弦較爲</seg>
+                    <seg xml:id="KR3fc071_tls_p3.s12" state="locked">
+                        <lb n="12" ed="KX"/>三率求得四率卽勾又以股旁半角正切爲一率餘</seg>
+                    <seg xml:id="KR3fc071_tls_p3.s13" state="locked">
+                        <lb n="13" ed="KX"/>切爲二率股弦較爲三率求得四率卽股弦和迺與</seg>
+                    <seg xml:id="KR3fc071_tls_p3.s14" state="locked">
+                        <lb n="14" ed="KX"/>股弦較相加折半爲弦相減折半爲股</seg>
+                    <seg xml:id="KR3fc071_tls_p3.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有兩角有股弦和求勾股弦</seg>
+                    <seg xml:id="KR3fc071_tls_p3.s16" state="locked">
+                        <lb n="16" ed="KX"/>法以半徑爲一率股旁半角正切爲二率股弦和爲</seg>
+                    <seg xml:id="KR3fc071_tls_p3.s17" state="locked">
+                        <lb n="17" ed="KX"/>三率求得四率卽勾又以股旁半角餘切爲一率正</seg>
+                    <seg xml:id="KR3fc071_tls_p3.s18" state="locked">
+                        <lb n="18" ed="KX"/>切爲二率股弦和爲三率求得四率卽股弦較如前</seg>
+                    <seg xml:id="KR3fc071_tls_p3.s19" state="locked">
+                        <lb n="19" ed="KX"/>加減得股弦</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p3.s20.1" type="comm">
+                        <lb n="20" ed="KX"/>觀此四題知股弦和較之比例與股旁半<lb type="/"/>角餘切正切等而比其勾者卽半徑也</seg>
+                    <seg xml:id="KR3fc071_tls_p3.s21" state="locked">
+                        <lb n="21" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有股有勾弦較求兩角</seg>
+                    <pb ed="KX" n="03-07-118.4" xml:id="KR3fc071_tls_4a"/>
+                    <seg xml:id="KR3fc071_tls_p4.s1" state="locked">
+                        <lb n="1" ed="KX"/>法以股爲一率勾弦較爲二率半徑爲三率求得四</seg>
+                    <seg xml:id="KR3fc071_tls_p4.s2" state="locked">
+                        <lb n="2" ed="KX"/>率卽勾旁半角正切倍之爲勾旁角以減九十度爲</seg>
+                    <seg xml:id="KR3fc071_tls_p4.s3" state="locked">
+                        <lb n="3" ed="KX"/>股旁角</seg>
+                    <seg xml:id="KR3fc071_tls_p4.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有股有勾弦和求兩角</seg>
+                    <seg xml:id="KR3fc071_tls_p4.s5" state="locked">
+                        <lb n="5" ed="KX"/>法以股爲一率勾弦和爲二率半徑爲三率求得四</seg>
+                    <seg xml:id="KR3fc071_tls_p4.s6" state="locked">
+                        <lb n="6" ed="KX"/>率卽勾旁半角餘切如前加減得兩角</seg>
+                    <seg xml:id="KR3fc071_tls_p4.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有兩角有勾弦較求勾股弦</seg>
+                    <seg xml:id="KR3fc071_tls_p4.s8" state="locked">
+                        <lb n="8" ed="KX"/>法以半徑爲一率勾旁半角餘切爲二率勾弦較爲</seg>
+                    <seg xml:id="KR3fc071_tls_p4.s9" state="locked">
+                        <lb n="9" ed="KX"/>三率求得四率卽股又以勾旁半角正切爲一率餘</seg>
+                    <seg xml:id="KR3fc071_tls_p4.s10" state="locked">
+                        <lb n="10" ed="KX"/>切爲二率勾弦較爲三率求得四率卽勾弦和迺與</seg>
+                    <seg xml:id="KR3fc071_tls_p4.s12" state="locked">
+                        <lb n="12" ed="KX"/>勾弦較相加折半爲弦相減折半爲勾</seg>
+                    <seg xml:id="KR3fc071_tls_p4.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有兩角有勾弦和求勾股弦</seg>
+                    <seg xml:id="KR3fc071_tls_p4.s14" state="locked">
+                        <lb n="14" ed="KX"/>法以半徑爲一率勾旁半角正切爲二率勾弦和爲</seg>
+                    <seg xml:id="KR3fc071_tls_p4.s15" state="locked">
+                        <lb n="15" ed="KX"/>三率求得四率卽股又以勾旁半角餘切爲一率正</seg>
+                    <seg xml:id="KR3fc071_tls_p4.s16" state="locked">
+                        <lb n="16" ed="KX"/>切爲二率勾弦和爲三率求得四率卽勾弦較如前</seg>
+                    <seg xml:id="KR3fc071_tls_p4.s17" state="locked">
+                        <lb n="17" ed="KX"/>加減得勾弦</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p4.s18.1" type="comm">
+                        <lb n="18" ed="KX"/>觀此四題知勾弦和較之比例與勾旁半<lb type="/"/>角餘切正切等而比其股者卽半徑也</seg>
+                    <seg xml:id="KR3fc071_tls_p4.s19" state="locked">
+                        <lb n="19" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有勾弦較有股弦較求兩角</seg>
+                    <seg xml:id="KR3fc071_tls_p4.s20" state="locked">
+                        <lb n="20" ed="KX"/>法以勾弦較爲一率股弦較倍之爲二率半徑自乘</seg>
+                    <seg xml:id="KR3fc071_tls_p4.s21" state="locked">
+                        <lb n="21" ed="KX"/>爲三率求得四率開方得數加半徑爲勾旁半角餘</seg>
+                    <pb ed="KX" n="03-07-118.5" xml:id="KR3fc071_tls_5a"/>
+                    <seg xml:id="KR3fc071_tls_p5.s1" state="locked">
+                        <lb n="1" ed="KX"/>切或以股弦較爲一率勾弦較倍之爲二率半徑自</seg>
+                    <seg xml:id="KR3fc071_tls_p5.s2" state="locked">
+                        <lb n="2" ed="KX"/>乘爲三率求得四率開方得數加半徑爲股旁半角</seg>
+                    <seg xml:id="KR3fc071_tls_p5.s3" state="locked">
+                        <lb n="3" ed="KX"/>餘切各倍之爲兩角</seg>
+                    <seg xml:id="KR3fc071_tls_p5.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有勾弦和有股弦和求兩角</seg>
+                    <seg xml:id="KR3fc071_tls_p5.s5" state="locked">
+                        <lb n="5" ed="KX"/>法以勾弦和爲一率股弦和倍之爲二率半徑自乘</seg>
+                    <seg xml:id="KR3fc071_tls_p5.s6" state="locked">
+                        <lb n="6" ed="KX"/>爲三率求得四率開方得數減半徑爲勾旁半角正</seg>
+                    <seg xml:id="KR3fc071_tls_p5.s7" state="locked">
+                        <lb n="7" ed="KX"/>切或以股弦和爲一率勾弦和倍之爲二率半徑自</seg>
+                    <seg xml:id="KR3fc071_tls_p5.s8" state="locked">
+                        <lb n="8" ed="KX"/>乘爲三率求得四率開方得數減半徑爲股旁半角</seg>
+                    <seg xml:id="KR3fc071_tls_p5.s9" state="locked">
+                        <lb n="9" ed="KX"/>正切各倍之爲兩角</seg>
+                    <seg xml:id="KR3fc071_tls_p5.s10" state="locked">
+                        <lb n="10" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有勾弦和有股弦較求兩角</seg>
+                    <seg xml:id="KR3fc071_tls_p5.s12" state="locked">
+                        <lb n="12" ed="KX"/>法以勾弦和爲一率股弦較倍之爲二率半徑自乘</seg>
+                    <seg xml:id="KR3fc071_tls_p5.s13" state="locked">
+                        <lb n="13" ed="KX"/>爲三率求得四率開方得數減半徑爲勾旁半角正</seg>
+                    <seg xml:id="KR3fc071_tls_p5.s14" state="locked">
+                        <lb n="14" ed="KX"/>切或以股弦較爲一率勾弦和倍之爲二率半徑自</seg>
+                    <seg xml:id="KR3fc071_tls_p5.s15" state="locked">
+                        <lb n="15" ed="KX"/>乘爲三率求得四率開方得數減半徑爲股旁半角</seg>
+                    <seg xml:id="KR3fc071_tls_p5.s16" state="locked">
+                        <lb n="16" ed="KX"/>餘切各倍之爲兩角</seg>
+                    <seg xml:id="KR3fc071_tls_p5.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有勾弦較有股弦和求兩角</seg>
+                    <seg xml:id="KR3fc071_tls_p5.s18" state="locked">
+                        <lb n="18" ed="KX"/>法以勾弦較爲一率股弦和倍之爲二率半徑自乘</seg>
+                    <seg xml:id="KR3fc071_tls_p5.s19" state="locked">
+                        <lb n="19" ed="KX"/>爲三率求得四率開方得數減半徑爲勾旁半角餘</seg>
+                    <seg xml:id="KR3fc071_tls_p5.s20" state="locked">
+                        <lb n="20" ed="KX"/>切或以股弦和爲一率勾弦較倍之爲二率半徑自</seg>
+                    <seg xml:id="KR3fc071_tls_p5.s21" state="locked">
+                        <lb n="21" ed="KX"/>乘爲三率求得四率開方得數減半徑爲股旁半角</seg>
+                    <pb ed="KX" n="03-07-118.6" xml:id="KR3fc071_tls_6a"/>
+                    <seg xml:id="KR3fc071_tls_p6.s1" state="locked">
+                        <lb n="1" ed="KX"/>正切各倍之爲兩角</seg>
+                    <seg xml:id="KR3fc071_tls_p6.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有勾股較有弦和較求兩角</seg>
+                    <seg xml:id="KR3fc071_tls_p6.s3" state="locked">
+                        <lb n="3" ed="KX"/>法以勾股較爲一率弦和較倍之爲二率半直角正</seg>
+                    <seg xml:id="KR3fc071_tls_p6.s4" state="locked">
+                        <lb n="4" ed="KX"/>弦爲三率求得四率爲較又以勾股較爲一率弦和</seg>
+                    <seg xml:id="KR3fc071_tls_p6.s5" state="locked">
+                        <lb n="5" ed="KX"/>較倍之爲二率半徑爲三率求得四率自乘轉加半</seg>
+                    <seg xml:id="KR3fc071_tls_p6.s6" state="locked">
+                        <lb n="6" ed="KX"/>徑自乘之倍開方得數與較相加爲半較角餘割旣</seg>
+                    <seg xml:id="KR3fc071_tls_p6.s7" state="locked">
+                        <lb n="7" ed="KX"/>得半較角迺與半直角相加減得兩角</seg>
+                    <seg xml:id="KR3fc071_tls_p6.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有勾股較有弦和和求兩角</seg>
+                    <seg xml:id="KR3fc071_tls_p6.s9" state="locked">
+                        <lb n="9" ed="KX"/>法以勾股較爲一率弦和和倍之爲二率半直角正</seg>
+                    <seg xml:id="KR3fc071_tls_p6.s10" state="locked">
+                        <lb n="10" ed="KX"/>弦爲三率求得四率爲較又以勾股較爲一率弦和</seg>
+                    <seg xml:id="KR3fc071_tls_p6.s12" state="locked">
+                        <lb n="12" ed="KX"/>和倍之爲二率半徑爲三率求得四率自乘轉加半</seg>
+                    <seg xml:id="KR3fc071_tls_p6.s13" state="locked">
+                        <lb n="13" ed="KX"/>徑自乘之倍開方得數與較相減爲半較角餘割旣</seg>
+                    <seg xml:id="KR3fc071_tls_p6.s14" state="locked">
+                        <lb n="14" ed="KX"/>得半較角迺與半直角相加減得兩角</seg>
+                    <seg xml:id="KR3fc071_tls_p6.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有勾股和有弦較較求兩角</seg>
+                    <seg xml:id="KR3fc071_tls_p6.s16" state="locked">
+                        <lb n="16" ed="KX"/>法以勾股和爲一率弦較較倍之爲二率半直角正</seg>
+                    <seg xml:id="KR3fc071_tls_p6.s17" state="locked">
+                        <lb n="17" ed="KX"/>弦爲三率求得四率爲較又以勾股和爲一率弦較</seg>
+                    <seg xml:id="KR3fc071_tls_p6.s18" state="locked">
+                        <lb n="18" ed="KX"/>較倍之爲二率半徑爲三率求得四率自乘轉加半</seg>
+                    <seg xml:id="KR3fc071_tls_p6.s19" state="locked">
+                        <lb n="19" ed="KX"/>徑自乘之倍開方得數與較相減爲半較角正割旣</seg>
+                    <seg xml:id="KR3fc071_tls_p6.s20" state="locked">
+                        <lb n="20" ed="KX"/>得半較角迺與半直角相加減得兩角</seg>
+                    <seg xml:id="KR3fc071_tls_p6.s21" state="locked">
+                        <lb n="21" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有勾股和有弦較和求兩角</seg>
+                    <pb ed="KX" n="03-07-118.7" xml:id="KR3fc071_tls_7a"/>
+                    <seg xml:id="KR3fc071_tls_p7.s1" state="locked">
+                        <lb n="1" ed="KX"/>法以勾股和爲一率弦較和倍之爲二率半直角正</seg>
+                    <seg xml:id="KR3fc071_tls_p7.s2" state="locked">
+                        <lb n="2" ed="KX"/>弦爲三率求得四率爲較又以勾股和爲一率弦較</seg>
+                    <seg xml:id="KR3fc071_tls_p7.s3" state="locked">
+                        <lb n="3" ed="KX"/>和倍之爲二率半徑爲三率求得四率自乘轉加半</seg>
+                    <seg xml:id="KR3fc071_tls_p7.s4" state="locked">
+                        <lb n="4" ed="KX"/>徑自乘之倍開方得數與較相減爲半較角正割旣</seg>
+                    <seg xml:id="KR3fc071_tls_p7.s5" state="locked">
+                        <lb n="5" ed="KX"/>得半較角迺與半直角和加減得兩角</seg>
+                    <seg xml:id="KR3fc071_tls_p7.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有兩角有弦和較求勾股弦</seg>
+                    <seg xml:id="KR3fc071_tls_p7.s7" state="locked">
+                        <lb n="7" ed="KX"/>法以半徑爲一率勾旁半角餘切爲二率弦和較爲</seg>
+                    <seg xml:id="KR3fc071_tls_p7.s8" state="locked">
+                        <lb n="8" ed="KX"/>三率求得四率爲弦較較迺與弦和較相加折半爲</seg>
+                    <seg xml:id="KR3fc071_tls_p7.s9" state="locked">
+                        <lb n="9" ed="KX"/>勾相減折半爲股弦較又以半徑爲一率股旁半角</seg>
+                    <seg xml:id="KR3fc071_tls_p7.s10" state="locked">
+                        <lb n="10" ed="KX"/>餘切爲二率弦和較爲三率求得四率爲弦較和迺</seg>
+                    <seg xml:id="KR3fc071_tls_p7.s12" state="locked">
+                        <lb n="12" ed="KX"/>與弦和較相加折半爲股相減折半爲勾弦較併勾</seg>
+                    <seg xml:id="KR3fc071_tls_p7.s13" state="locked">
+                        <lb n="13" ed="KX"/>弦較股弦較以加弦和較爲弦</seg>
+                    <seg xml:id="KR3fc071_tls_p7.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有兩角有弦和和求勾股弦</seg>
+                    <seg xml:id="KR3fc071_tls_p7.s15" state="locked">
+                        <lb n="15" ed="KX"/>法以半徑爲一率勾旁半角正切爲二率弦和和爲</seg>
+                    <seg xml:id="KR3fc071_tls_p7.s16" state="locked">
+                        <lb n="16" ed="KX"/>三率求得四率爲弦較和迺與弦和和相減折半爲</seg>
+                    <seg xml:id="KR3fc071_tls_p7.s17" state="locked">
+                        <lb n="17" ed="KX"/>勾相加折半爲股弦和又以半徑爲一率股旁半角</seg>
+                    <seg xml:id="KR3fc071_tls_p7.s18" state="locked">
+                        <lb n="18" ed="KX"/>正切爲二率弦和和爲三率求得四率爲弦較較迺</seg>
+                    <seg xml:id="KR3fc071_tls_p7.s19" state="locked">
+                        <lb n="19" ed="KX"/>與弦和和相減折半爲股相加折半爲勾弦和併勾</seg>
+                    <seg xml:id="KR3fc071_tls_p7.s20" state="locked">
+                        <lb n="20" ed="KX"/>弦和股弦和以減弦和和爲弦</seg>
+                    <seg xml:id="KR3fc071_tls_p7.s21" state="locked">
+                        <lb n="21" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有兩角有弦較較求勾股弦</seg>
+                    <pb ed="KX" n="03-07-118.8" xml:id="KR3fc071_tls_8a"/>
+                    <seg xml:id="KR3fc071_tls_p8.s1" state="locked">
+                        <lb n="1" ed="KX"/>法以半徑爲一率勾旁半角正切爲二率弦較較爲</seg>
+                    <seg xml:id="KR3fc071_tls_p8.s2" state="locked">
+                        <lb n="2" ed="KX"/>三率求得四率爲弦和較迺與弦較較相加折半爲</seg>
+                    <seg xml:id="KR3fc071_tls_p8.s3" state="locked">
+                        <lb n="3" ed="KX"/>勾相減折半爲股弦較又以半徑爲一率股旁半角</seg>
+                    <seg xml:id="KR3fc071_tls_p8.s4" state="locked">
+                        <lb n="4" ed="KX"/>餘切爲二率弦較較爲三率求得四率爲弦和和迺</seg>
+                    <seg xml:id="KR3fc071_tls_p8.s5" state="locked">
+                        <lb n="5" ed="KX"/>與弦較較相減折半爲股相加折半爲勾弦和併勾</seg>
+                    <seg xml:id="KR3fc071_tls_p8.s6" state="locked">
+                        <lb n="6" ed="KX"/>弦和股弦較以減弦較較爲弦</seg>
+                    <seg xml:id="KR3fc071_tls_p8.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有兩角有弦較和求勾股弦</seg>
+                    <seg xml:id="KR3fc071_tls_p8.s8" state="locked">
+                        <lb n="8" ed="KX"/>法以半徑爲一率勾旁半角餘切爲二率弦較和爲</seg>
+                    <seg xml:id="KR3fc071_tls_p8.s9" state="locked">
+                        <lb n="9" ed="KX"/>三率求得四率爲弦和和迺與弦較和相減折半爲</seg>
+                    <seg xml:id="KR3fc071_tls_p8.s10" state="locked">
+                        <lb n="10" ed="KX"/>勾相加折半爲股弦和又以半徑爲一率股旁半角</seg>
+                    <seg xml:id="KR3fc071_tls_p8.s12" state="locked">
+                        <lb n="12" ed="KX"/>正切爲二率弦較和爲三率求得四率爲弦和較迺</seg>
+                    <seg xml:id="KR3fc071_tls_p8.s13" state="locked">
+                        <lb n="13" ed="KX"/>與弦較和相加折半爲股相減折半爲勾弦較併勾</seg>
+                    <seg xml:id="KR3fc071_tls_p8.s14" state="locked">
+                        <lb n="14" ed="KX"/>弦較股弦和以減弦較和爲弦</seg>
+                    <seg xml:id="KR3fc071_tls_p8.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有勾弦較有弦較較求兩角</seg>
+                    <seg xml:id="KR3fc071_tls_p8.s16" state="locked">
+                        <lb n="16" ed="KX"/>法以四因勾弦較爲一率四因弦較較加勾弦較爲</seg>
+                    <seg xml:id="KR3fc071_tls_p8.s17" state="locked">
+                        <lb n="17" ed="KX"/>二率半徑自乘爲三率求得四率開方得數加半徑</seg>
+                    <seg xml:id="KR3fc071_tls_p8.s18" state="locked">
+                        <lb n="18" ed="KX"/>之半爲勾旁半角餘切</seg>
+                    <seg xml:id="KR3fc071_tls_p8.s19" state="locked">
+                        <lb n="19" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有勾弦較有弦和和求兩角</seg>
+                    <seg xml:id="KR3fc071_tls_p8.s20" state="locked">
+                        <lb n="20" ed="KX"/>法以四因勾弦較爲一率四因弦和和加勾弦較爲</seg>
+                    <seg xml:id="KR3fc071_tls_p8.s21" state="locked">
+                        <lb n="21" ed="KX"/>二率半徑自乘爲三率求得四率開方得數減半徑</seg>
+                    <pb ed="KX" n="03-07-118.9" xml:id="KR3fc071_tls_9a"/>
+                    <seg xml:id="KR3fc071_tls_p9.s1" state="locked">
+                        <lb n="1" ed="KX"/>之半爲勾旁半角餘切</seg>
+                    <seg xml:id="KR3fc071_tls_p9.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有勾弦和有弦較和求兩角</seg>
+                    <seg xml:id="KR3fc071_tls_p9.s3" state="locked">
+                        <lb n="3" ed="KX"/>法以四因勾弦和爲一率四因弦較和加勾弦和爲</seg>
+                    <seg xml:id="KR3fc071_tls_p9.s4" state="locked">
+                        <lb n="4" ed="KX"/>二率半徑自乘爲三率求得四率開方得數減半徑</seg>
+                    <seg xml:id="KR3fc071_tls_p9.s5" state="locked">
+                        <lb n="5" ed="KX"/>之半爲勾旁半角正切</seg>
+                    <seg xml:id="KR3fc071_tls_p9.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有勾弦和有弦和較求兩角</seg>
+                    <seg xml:id="KR3fc071_tls_p9.s7" state="locked">
+                        <lb n="7" ed="KX"/>法以四因勾弦和爲一率四因弦和較減勾弦和爲</seg>
+                    <seg xml:id="KR3fc071_tls_p9.s8" state="locked">
+                        <lb n="8" ed="KX"/>二率半徑自乘爲三率求得四率開方得數加半徑</seg>
+                    <seg xml:id="KR3fc071_tls_p9.s9" state="locked">
+                        <lb n="9" ed="KX"/>之半爲勾旁半角正切</seg>
+                    <seg xml:id="KR3fc071_tls_p9.s10" state="locked">
+                        <lb n="10" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有股弦較有弦較和求兩角</seg>
+                    <seg xml:id="KR3fc071_tls_p9.s12" state="locked">
+                        <lb n="12" ed="KX"/>法以四因股弦較爲一率四因弦較和加股弦較爲</seg>
+                    <seg xml:id="KR3fc071_tls_p9.s13" state="locked">
+                        <lb n="13" ed="KX"/>二率半徑自乘爲三率求得四率開方得數加半徑</seg>
+                    <seg xml:id="KR3fc071_tls_p9.s14" state="locked">
+                        <lb n="14" ed="KX"/>之半爲股旁半角切餘</seg>
+                    <seg xml:id="KR3fc071_tls_p9.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有股弦較有弦和和求兩角</seg>
+                    <seg xml:id="KR3fc071_tls_p9.s16" state="locked">
+                        <lb n="16" ed="KX"/>法以四因股弦較爲一率四因弦和和加股弦較爲</seg>
+                    <seg xml:id="KR3fc071_tls_p9.s17" state="locked">
+                        <lb n="17" ed="KX"/>二率半徑自乘爲三率求得四率開方得數減半徑</seg>
+                    <seg xml:id="KR3fc071_tls_p9.s18" state="locked">
+                        <lb n="18" ed="KX"/>之半爲股旁半角餘切</seg>
+                    <seg xml:id="KR3fc071_tls_p9.s19" state="locked">
+                        <lb n="19" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有股弦和有弦較較求兩角</seg>
+                    <seg xml:id="KR3fc071_tls_p9.s20" state="locked">
+                        <lb n="20" ed="KX"/>法以四因股弦和爲一率四因弦較較加股弦和爲</seg>
+                    <seg xml:id="KR3fc071_tls_p9.s21" state="locked">
+                        <lb n="21" ed="KX"/>二率半徑自乘爲三率求得四率開方得數減半徑</seg>
+                    <pb ed="KX" n="03-07-118.10" xml:id="KR3fc071_tls_10a"/>
+                    <seg xml:id="KR3fc071_tls_p10.s1" state="locked">
+                        <lb n="1" ed="KX"/>之半爲股旁半角正切</seg>
+                    <seg xml:id="KR3fc071_tls_p10.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有股弦和有弦和較求兩角</seg>
+                    <seg xml:id="KR3fc071_tls_p10.s3" state="locked">
+                        <lb n="3" ed="KX"/>法以四因股弦和爲一率四因弦和較減股弦和爲</seg>
+                    <seg xml:id="KR3fc071_tls_p10.s4" state="locked">
+                        <lb n="4" ed="KX"/>二率半徑自乘爲三率求得四率開方得數減半徑</seg>
+                    <seg xml:id="KR3fc071_tls_p10.s5" state="locked">
+                        <lb n="5" ed="KX"/>之半爲股旁半角正切</seg>
+                    <pb ed="KX" n="03-07-118.11" xml:id="KR3fc071_tls_11a"/>
+                    <seg xml:id="KR3fc071_tls_p11.s1" state="locked">
+                        <lb n="1" ed="KX"/>平三角和較術</seg>
+                    <seg xml:id="KR3fc071_tls_p11.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻" quantity="1"/>三角形</seg>
+                    <seg xml:id="KR3fc071_tls_p11.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有一角有對角邊有夾角兩邊較求餘兩角</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p11.s4.1">
+                        <lb n="4" ed="KX"/>法以對角邊爲一率兩邊較爲二率半角餘弦</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p11.s4.2" type="comm">卽半<lb type="/"/>和角</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p11.s5.1" type="comm">
+                        <lb n="5" ed="KX"/>之正<lb type="/"/>弦</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p11.s5.2">爲三率求得四率卽半較角正弦迺以半較角</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p11.s6.1">
+                        <lb n="6" ed="KX"/>與半角餘度</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p11.s6.2" type="comm">卽半<lb type="/"/>和角</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p11.s6.3">相加減得餘兩角</seg>
+                    <seg xml:id="KR3fc071_tls_p11.s7" state="locked">
+                        <lb n="7" ed="KX"/>若先求邊則以半徑爲一率半角餘切爲二率兩邊</seg>
+                    <seg xml:id="KR3fc071_tls_p11.s8" state="locked">
+                        <lb n="8" ed="KX"/>較爲三率求得四率爲勾半徑爲一率半角餘割爲</seg>
+                    <seg xml:id="KR3fc071_tls_p11.s9" state="locked">
+                        <lb n="9" ed="KX"/>二率對邊爲三率求得四率爲弦用勾弦求股法求</seg>
+                    <seg xml:id="KR3fc071_tls_p11.s10" state="locked">
+                        <lb n="10" ed="KX"/>得股卽兩邊和迺與兩邊較相加減各折半得兩邊</seg>
+                    <seg xml:id="KR3fc071_tls_p11.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有一角有對角邊有夾角兩邊和求餘兩角</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p11.s13.1">
+                        <lb n="13" ed="KX"/>法以對角邊爲一率兩邊和爲二率半角正弦</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p11.s13.2" type="comm">卽半<lb type="/"/>和角</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p11.s14.1" type="comm">
+                        <lb n="14" ed="KX"/>之餘<lb type="/"/>弦</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p11.s14.2">爲三率求得四率卽半較角餘弦迺以半較角</seg>
+                    <seg xml:id="KR3fc071_tls_p11.s15" state="locked">
+                        <lb n="15" ed="KX"/>與半角餘度相加減得餘兩角</seg>
+                    <seg xml:id="KR3fc071_tls_p11.s16" state="locked">
+                        <lb n="16" ed="KX"/>若先求邊則以半徑爲一率半角正切爲二率兩邊</seg>
+                    <seg xml:id="KR3fc071_tls_p11.s17" state="locked">
+                        <lb n="17" ed="KX"/>和爲三率求得四率爲股半徑爲一率半角正割爲</seg>
+                    <seg xml:id="KR3fc071_tls_p11.s18" state="locked">
+                        <lb n="18" ed="KX"/>二率對邊爲三率求得四率爲弦用股弦求勾法求</seg>
+                    <seg xml:id="KR3fc071_tls_p11.s19" state="locked">
+                        <lb n="19" ed="KX"/>得勾卽兩邊較迺與兩邊和相加減各折半得兩邊</seg>
+                    <seg xml:id="KR3fc071_tls_p11.s20" state="locked">
+                        <lb n="20" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有一角有角旁邊有對邊與餘邊較求旁一角</seg>
+                    <seg xml:id="KR3fc071_tls_p11.s21" state="locked">
+                        <lb n="21" ed="KX"/>法以兩邊較與角旁邊相加爲一率相減爲二率半</seg>
+                    <pb ed="KX" n="03-07-118.12" xml:id="KR3fc071_tls_12a"/>
+                    <seg state="locked" xml:id="KR3fc071_tls_p12.s1.1">
+                        <lb n="1" ed="KX"/>角正切爲三率求得四率卽對餘邊之半角正切</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p12.s1.2" type="comm">此<lb type="/"/>題</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p12.s2.1" type="comm">
+                        <lb n="2" ed="KX"/>須審兩邊較爲對邊大於餘邊之較三四率用<lb type="/"/>正切爲對邊小於餘邊之較三四率應用餘切</seg>
+                    <seg xml:id="KR3fc071_tls_p12.s3" state="locked">
+                        <lb n="3" ed="KX"/>若先求邊則以角餘弦乘兩邊較半徑除之與角旁</seg>
+                    <seg xml:id="KR3fc071_tls_p12.s4" state="locked">
+                        <lb n="4" ed="KX"/>邊相加爲一率角餘弦乘角旁邊半徑除之與兩邊</seg>
+                    <seg xml:id="KR3fc071_tls_p12.s5" state="locked">
+                        <lb n="5" ed="KX"/>較相加爲二率角旁邊爲三率求得四率卽兩邊和</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p12.s6.1">
+                        <lb n="6" ed="KX"/>迺與兩邊較相加減各折半得兩邊</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p12.s6.2" type="comm">兩邊較對邊大<lb type="/"/>者一二率各用</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p12.s7.1" type="comm">
+                        <lb n="7" ed="KX"/>加法對邊小者一<lb type="/"/>二率應各用減法</seg>
+                    <seg xml:id="KR3fc071_tls_p12.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有一角有角旁邊有對邊與餘邊和求旁一角</seg>
+                    <seg xml:id="KR3fc071_tls_p12.s9" state="locked">
+                        <lb n="9" ed="KX"/>法以兩邊和與角旁邊相加爲一率相減爲二率半</seg>
+                    <seg xml:id="KR3fc071_tls_p12.s10" state="locked">
+                        <lb n="10" ed="KX"/>角餘切爲三率求得四率卽對餘邊之半角正切</seg>
+                    <seg xml:id="KR3fc071_tls_p12.s12" state="locked">
+                        <lb n="12" ed="KX"/>若先求邊則以角餘弦乘兩邊和半徑除之與角旁</seg>
+                    <seg xml:id="KR3fc071_tls_p12.s13" state="locked">
+                        <lb n="13" ed="KX"/>邊相減爲一率角餘弦乘角旁邊半徑除之與兩邊</seg>
+                    <seg xml:id="KR3fc071_tls_p12.s14" state="locked">
+                        <lb n="14" ed="KX"/>和相減爲二率角旁邊爲三率求得四率卽兩邊較</seg>
+                    <seg xml:id="KR3fc071_tls_p12.s15" state="locked">
+                        <lb n="15" ed="KX"/>迺與兩邊和相加減各折半得兩邊</seg>
+                    <seg xml:id="KR3fc071_tls_p12.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有一角有對邊與餘兩邊之兩較求兩角</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p12.s17.1">
+                        <lb n="17" ed="KX"/>法以兩較邊相加爲一率相減爲二率</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p12.s17.2" type="comm">此知角爲大<lb type="/"/>角或小角也</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p12.s18.1" type="comm">
+                        <lb n="18" ed="KX"/>若中角則相減爲<lb type="/"/>一率相加爲二率</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p12.s18.2">半角餘切爲三率求得四率爲借</seg>
+                    <seg xml:id="KR3fc071_tls_p12.s19" state="locked">
+                        <lb n="19" ed="KX"/>角正切又以半徑爲一率半角正弦倍之爲二率借</seg>
+                    <seg xml:id="KR3fc071_tls_p12.s20" state="locked">
+                        <lb n="20" ed="KX"/>角正弦爲三率求得四率爲加減度正弦減借角得</seg>
+                    <seg xml:id="KR3fc071_tls_p12.s21" state="locked">
+                        <lb n="21" ed="KX"/>半較角迺以半較角與半角餘度相加減得兩角</seg>
+                    <pb ed="KX" n="03-07-118.13" xml:id="KR3fc071_tls_13a"/>
+                    <seg xml:id="KR3fc071_tls_p13.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有一角有對邊與餘兩邊之兩和求兩角</seg>
+                    <seg xml:id="KR3fc071_tls_p13.s2" state="locked">
+                        <lb n="2" ed="KX"/>法以兩和邊相加爲一率相減爲二率半角餘切爲</seg>
+                    <seg xml:id="KR3fc071_tls_p13.s3" state="locked">
+                        <lb n="3" ed="KX"/>三率求得四率爲借角正切又以半徑爲一率半角</seg>
+                    <seg xml:id="KR3fc071_tls_p13.s4" state="locked">
+                        <lb n="4" ed="KX"/>正弦倍之爲二率借角正弦爲三率求得四率爲加</seg>
+                    <seg xml:id="KR3fc071_tls_p13.s5" state="locked">
+                        <lb n="5" ed="KX"/>減度正弦加借角得半較角迺以半較角與半角餘</seg>
+                    <seg xml:id="KR3fc071_tls_p13.s6" state="locked">
+                        <lb n="6" ed="KX"/>度相加減得兩角</seg>
+                    <seg xml:id="KR3fc071_tls_p13.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有一角有對邊與餘兩邊之一和一較求兩角</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p13.s8.1" type="comm">
+                        <lb n="8" ed="KX"/>此題對邊所和之<lb type="/"/>邊大所較之邊小</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p13.s9.1">
+                        <lb n="9" ed="KX"/>法以一和邊一較邊相加爲一率相減爲二率</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p13.s9.2" type="comm">此知<lb type="/"/>角爲</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p13.s10.1" type="comm">
+                        <lb n="10" ed="KX"/>大角或中角也若小角則<lb type="/"/>相減爲一率相加爲二率</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p13.s10.2">半角正切爲三率求得四</seg>
+                    <seg xml:id="KR3fc071_tls_p13.s12" state="locked">
+                        <lb n="12" ed="KX"/>率爲借角正切又以半徑爲一率半角餘弦倍之爲</seg>
+                    <seg xml:id="KR3fc071_tls_p13.s13" state="locked">
+                        <lb n="13" ed="KX"/>二率借角正弦爲三率求得四率爲加減度餘弦減</seg>
+                    <seg xml:id="KR3fc071_tls_p13.s14" state="locked">
+                        <lb n="14" ed="KX"/>借角得半較角迺以半較角與半角餘度相加減得</seg>
+                    <seg xml:id="KR3fc071_tls_p13.s15" state="locked">
+                        <lb n="15" ed="KX"/>兩角</seg>
+                    <seg xml:id="KR3fc071_tls_p13.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有一角有對邊與餘兩邊之一較一和求兩角</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p13.s17.1" type="comm">
+                        <lb n="17" ed="KX"/>此題對邊所較之<lb type="/"/>邊大所和之邊小</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p13.s18.1">
+                        <lb n="18" ed="KX"/>法以一較邊一和邊相減爲一率相加爲二率</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p13.s18.2" type="comm">此知<lb type="/"/>角爲</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p13.s19.1" type="comm">
+                        <lb n="19" ed="KX"/>中角或小角也若大角則<lb type="/"/>相加爲一率相減爲二率</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p13.s19.2">半角正切爲三率求得四</seg>
+                    <seg xml:id="KR3fc071_tls_p13.s20" state="locked">
+                        <lb n="20" ed="KX"/>率爲借角正切又以半徑爲一率半角餘弦倍之爲</seg>
+                    <seg xml:id="KR3fc071_tls_p13.s21" state="locked">
+                        <lb n="21" ed="KX"/>二率借角正弦爲三率求得四率爲加減度餘弦加</seg>
+                    <pb ed="KX" n="03-07-118.14" xml:id="KR3fc071_tls_14a"/>
+                    <seg xml:id="KR3fc071_tls_p14.s1" state="locked">
+                        <lb n="1" ed="KX"/>借角得半較角迺以半較角與半角餘度相加減得</seg>
+                    <seg xml:id="KR3fc071_tls_p14.s2" state="locked">
+                        <lb n="2" ed="KX"/>兩角</seg>
+                    <seg xml:id="KR3fc071_tls_p14.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有一角有夾角兩邊較有對邊與夾角兩邊和</seg>
+                    <seg xml:id="KR3fc071_tls_p14.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>之較求兩角</seg>
+                    <seg xml:id="KR3fc071_tls_p14.s5" state="locked">
+                        <lb n="5" ed="KX"/>法以對邊與兩邊和之較爲一率兩邊較爲二率半</seg>
+                    <seg xml:id="KR3fc071_tls_p14.s6" state="locked">
+                        <lb n="6" ed="KX"/>角餘切爲三率求得四率爲借角正切又以半徑爲</seg>
+                    <seg xml:id="KR3fc071_tls_p14.s7" state="locked">
+                        <lb n="7" ed="KX"/>一率半角正弦爲二率借角正弦爲三率求得四率</seg>
+                    <seg xml:id="KR3fc071_tls_p14.s8" state="locked">
+                        <lb n="8" ed="KX"/>爲加減度正弦減倍角得半較角迺以半較角與半</seg>
+                    <seg xml:id="KR3fc071_tls_p14.s9" state="locked">
+                        <lb n="9" ed="KX"/>角餘度相加減得兩角</seg>
+                    <seg xml:id="KR3fc071_tls_p14.s10" state="locked">
+                        <lb n="10" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有一角有夾角兩邊較有對邊與夾角兩邊和</seg>
+                    <seg xml:id="KR3fc071_tls_p14.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>之和求兩角</seg>
+                    <seg xml:id="KR3fc071_tls_p14.s13" state="locked">
+                        <lb n="13" ed="KX"/>法以對邊與兩邊和之和爲一率兩邊較爲二率半</seg>
+                    <seg xml:id="KR3fc071_tls_p14.s14" state="locked">
+                        <lb n="14" ed="KX"/>角餘切爲三率求得四率爲借角正切又以半徑爲</seg>
+                    <seg xml:id="KR3fc071_tls_p14.s15" state="locked">
+                        <lb n="15" ed="KX"/>一率半角正弦爲二率借角正弦爲三率求得四率</seg>
+                    <seg xml:id="KR3fc071_tls_p14.s16" state="locked">
+                        <lb n="16" ed="KX"/>爲加減度正弦加借角得半較角迺以半較角與半</seg>
+                    <seg xml:id="KR3fc071_tls_p14.s17" state="locked">
+                        <lb n="17" ed="KX"/>角餘度相加減得兩角</seg>
+                    <seg xml:id="KR3fc071_tls_p14.s18" state="locked">
+                        <lb n="18" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有一角有夾角兩邊和有對邊與夾角兩邊較</seg>
+                    <seg xml:id="KR3fc071_tls_p14.s19" state="locked">
+                        <lb n="19" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>之和求兩角</seg>
+                    <seg xml:id="KR3fc071_tls_p14.s20" state="locked">
+                        <lb n="20" ed="KX"/>法以對邊與兩邊較之和爲一率兩邊和爲二率半</seg>
+                    <seg xml:id="KR3fc071_tls_p14.s21" state="locked">
+                        <lb n="21" ed="KX"/>角正切爲三率求得四率爲借角正切又以半徑爲</seg>
+                    <pb ed="KX" n="03-07-118.15" xml:id="KR3fc071_tls_15a"/>
+                    <seg xml:id="KR3fc071_tls_p15.s1" state="locked">
+                        <lb n="1" ed="KX"/>一率半角餘弦爲二率借角正弦爲三率求得四率</seg>
+                    <seg xml:id="KR3fc071_tls_p15.s2" state="locked">
+                        <lb n="2" ed="KX"/>爲加減度餘弦減借角得半較角迺以半較角與半</seg>
+                    <seg xml:id="KR3fc071_tls_p15.s3" state="locked">
+                        <lb n="3" ed="KX"/>角餘度相加減得兩角</seg>
+                    <seg xml:id="KR3fc071_tls_p15.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有一角有夾角兩邊和有對邊與夾角兩邊較</seg>
+                    <seg xml:id="KR3fc071_tls_p15.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>之較求兩角</seg>
+                    <seg xml:id="KR3fc071_tls_p15.s6" state="locked">
+                        <lb n="6" ed="KX"/>法以對邊與兩邊較之較爲一率兩邊和爲二率半</seg>
+                    <seg xml:id="KR3fc071_tls_p15.s7" state="locked">
+                        <lb n="7" ed="KX"/>角正切爲三率求得四率爲借角正切又以半徑爲</seg>
+                    <seg xml:id="KR3fc071_tls_p15.s8" state="locked">
+                        <lb n="8" ed="KX"/>一率半角餘弦爲二率借角正弦爲三率求得四率</seg>
+                    <seg xml:id="KR3fc071_tls_p15.s9" state="locked">
+                        <lb n="9" ed="KX"/>爲加減度餘弦加借角得半較角迺以半較角與半</seg>
+                    <seg xml:id="KR3fc071_tls_p15.s10" state="locked">
+                        <lb n="10" ed="KX"/>角餘度相加減得兩角</seg>
+                    <seg xml:id="KR3fc071_tls_p15.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有一角有夾角兩邊和與對邊較有夾角兩邊</seg>
+                    <seg xml:id="KR3fc071_tls_p15.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>較與對邊較求旁一角</seg>
+                    <seg xml:id="KR3fc071_tls_p15.s14" state="locked">
+                        <lb n="14" ed="KX"/>法以較之較爲一率和之較爲二率半角正切爲三</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p15.s15.1">
+                        <lb n="15" ed="KX"/>率求得四率卽旁半角正切</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p15.s15.2" type="comm">知大角得角爲中角知<lb type="/"/>中角得角爲大角知小</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p15.s16.1" type="comm">
+                        <lb n="16" ed="KX"/>角得角<lb type="/"/>爲中角</seg>
+                    <seg xml:id="KR3fc071_tls_p15.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有一角有夾角兩邊和與對邊較有夾角兩邊</seg>
+                    <seg xml:id="KR3fc071_tls_p15.s18" state="locked">
+                        <lb n="18" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>較與對邊和求旁一角</seg>
+                    <seg xml:id="KR3fc071_tls_p15.s19" state="locked">
+                        <lb n="19" ed="KX"/>法以較之和爲一率和之較爲二率半角正切爲三</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p15.s20.1">
+                        <lb n="20" ed="KX"/>率求得四率卽旁半角正切</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p15.s20.2" type="comm">知大角得角爲小角知<lb type="/"/>中角得角爲小角知小</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p15.s21.1" type="comm">
+                        <lb n="21" ed="KX"/>角得角<lb type="/"/>爲中角</seg>
+                    <pb ed="KX" n="03-07-118.16" xml:id="KR3fc071_tls_16a"/>
+                    <seg xml:id="KR3fc071_tls_p16.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有一角有夾角兩邊較與對邊較有夾角兩邊</seg>
+                    <seg xml:id="KR3fc071_tls_p16.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>和與對邊和求旁一角</seg>
+                    <seg xml:id="KR3fc071_tls_p16.s3" state="locked">
+                        <lb n="3" ed="KX"/>法以較之較爲一率和之和爲二率半角正切爲三</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p16.s4.1">
+                        <lb n="4" ed="KX"/>率求得四率卽旁半角正切</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p16.s4.2" type="comm">知大角得角爲小角知<lb type="/"/>中角得角爲小角知小</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p16.s5.1" type="comm">
+                        <lb n="5" ed="KX"/>角得角<lb type="/"/>爲中角</seg>
+                    <seg xml:id="KR3fc071_tls_p16.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有一角有夾角兩邊較與對邊和有夾角兩邊</seg>
+                    <seg xml:id="KR3fc071_tls_p16.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>和與對邊和求旁一角</seg>
+                    <seg xml:id="KR3fc071_tls_p16.s8" state="locked">
+                        <lb n="8" ed="KX"/>法以較之和爲一率和之和爲二率半角正切爲三</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p16.s9.1">
+                        <lb n="9" ed="KX"/>率求得四率卽旁半角餘切</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p16.s9.2" type="comm">知大角得角爲中角知<lb type="/"/>中角得角爲大角知小</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p16.s10.1" type="comm">
+                        <lb n="10" ed="KX"/>角得角<lb type="/"/>爲大角</seg>
+                    <seg xml:id="KR3fc071_tls_p16.s12" state="locked">
+                        <lb n="12" ed="KX"/>附和較邊加減法</seg>
+                    <seg xml:id="KR3fc071_tls_p16.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻" quantity="1"/>第五題至第八題四術中前次比例之一二率加</seg>
+                    <seg xml:id="KR3fc071_tls_p16.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻" quantity="1"/>減先後因角而殊不無糅雜惟辨明加減所得爲</seg>
+                    <seg xml:id="KR3fc071_tls_p16.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻" quantity="1"/>何數始知糅雜中自有定率不至誤於所施</seg>
+                    <seg xml:id="KR3fc071_tls_p16.s16" state="locked">
+                        <lb n="16" ed="KX"/>大角之兩較爲大中邊較大小邊較此兩數相減卽</seg>
+                    <seg xml:id="KR3fc071_tls_p16.s17" state="locked">
+                        <lb n="17" ed="KX"/>中小邊較相加卽中小邊和減二大邊</seg>
+                    <seg xml:id="KR3fc071_tls_p16.s18" state="locked">
+                        <lb n="18" ed="KX"/>中角之兩較爲大中邊較中小邊較此兩數相加卽</seg>
+                    <seg xml:id="KR3fc071_tls_p16.s19" state="locked">
+                        <lb n="19" ed="KX"/>大小邊較相減卽大小邊和減二中邊</seg>
+                    <seg xml:id="KR3fc071_tls_p16.s20" state="locked">
+                        <lb n="20" ed="KX"/>小角之兩較爲大小邊較中小邊較此兩數相減卽</seg>
+                    <seg xml:id="KR3fc071_tls_p16.s21" state="locked">
+                        <lb n="21" ed="KX"/>大中邊較相加卽大中邊和減二小邊</seg>
+                    <pb ed="KX" n="03-07-118.17" xml:id="KR3fc071_tls_17a"/>
+                    <seg xml:id="KR3fc071_tls_p17.s1" state="locked">
+                        <lb n="1" ed="KX"/>大角之兩和爲大中邊和大小邊和此兩數相減卽</seg>
+                    <seg xml:id="KR3fc071_tls_p17.s2" state="locked">
+                        <lb n="2" ed="KX"/>中小邊較相加卽中小邊和加二大邊</seg>
+                    <seg xml:id="KR3fc071_tls_p17.s3" state="locked">
+                        <lb n="3" ed="KX"/>中角之兩和爲大中邊和中小邊和此兩數相減卽</seg>
+                    <seg xml:id="KR3fc071_tls_p17.s4" state="locked">
+                        <lb n="4" ed="KX"/>大小邊較相加卽大小邊和加二中邊</seg>
+                    <seg xml:id="KR3fc071_tls_p17.s5" state="locked">
+                        <lb n="5" ed="KX"/>小角之兩和爲大小邊和中小邊和此兩數相減卽</seg>
+                    <seg xml:id="KR3fc071_tls_p17.s6" state="locked">
+                        <lb n="6" ed="KX"/>大中邊較相加卽大中邊和加二小邊</seg>
+                    <seg xml:id="KR3fc071_tls_p17.s7" state="locked">
+                        <lb n="7" ed="KX"/>大角之一和一較爲大中邊和大小邊較此兩數相</seg>
+                    <seg xml:id="KR3fc071_tls_p17.s8" state="locked">
+                        <lb n="8" ed="KX"/>減卽中小邊和相加卽中小邊較加二大邊</seg>
+                    <seg xml:id="KR3fc071_tls_p17.s9" state="locked">
+                        <lb n="9" ed="KX"/>中角之一和一較爲大中邊和中小邊較此兩數相</seg>
+                    <seg xml:id="KR3fc071_tls_p17.s10" state="locked">
+                        <lb n="10" ed="KX"/>減卽大小邊和相加卽大小邊較加二中邊</seg>
+                    <seg xml:id="KR3fc071_tls_p17.s12" state="locked">
+                        <lb n="12" ed="KX"/>小角之一和一較爲大小邊和中小邊較此兩數相</seg>
+                    <seg xml:id="KR3fc071_tls_p17.s13" state="locked">
+                        <lb n="13" ed="KX"/>加卽大中邊和相減卽大中邊較加二小邊</seg>
+                    <seg xml:id="KR3fc071_tls_p17.s14" state="locked">
+                        <lb n="14" ed="KX"/>大角之一較一和爲大中邊較大小邊和此兩數相</seg>
+                    <seg xml:id="KR3fc071_tls_p17.s15" state="locked">
+                        <lb n="15" ed="KX"/>減卽中小邊和相加卽中小邊較減二大邊</seg>
+                    <seg xml:id="KR3fc071_tls_p17.s16" state="locked">
+                        <lb n="16" ed="KX"/>中角之一較一和爲大中邊較中小邊和此兩數相</seg>
+                    <seg xml:id="KR3fc071_tls_p17.s17" state="locked">
+                        <lb n="17" ed="KX"/>加卽大小邊和相減卽大小邊較減二中邊</seg>
+                    <seg xml:id="KR3fc071_tls_p17.s18" state="locked">
+                        <lb n="18" ed="KX"/>小角之一較一和爲大小邊較中小邊和此兩數相</seg>
+                    <seg xml:id="KR3fc071_tls_p17.s19" state="locked">
+                        <lb n="19" ed="KX"/>加卽大中邊和相減卽大中邊較減二小邊</seg>
+                    <seg xml:id="KR3fc071_tls_p17.s20" state="locked">
+                        <lb n="20" ed="KX"/>
+                        <space n="䶻" quantity="1"/>第九題以下以和較邊復與餘邊相和較是爲和</seg>
+                    <seg xml:id="KR3fc071_tls_p17.s21" state="locked">
+                        <lb n="21" ed="KX"/>
+                        <space n="䶻" quantity="1"/>較相疊數約三邊計之應有十二件以邊之大中</seg>
+                    <pb ed="KX" n="03-07-118.18" xml:id="KR3fc071_tls_18a"/>
+                    <seg xml:id="KR3fc071_tls_p18.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻" quantity="1"/>小而分也而覈其數卻只四件每一數可三其名</seg>
+                    <seg xml:id="KR3fc071_tls_p18.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻" quantity="1"/>有異名實無異數今就數之大小斟定之</seg>
+                    <seg xml:id="KR3fc071_tls_p18.s3" state="locked">
+                        <lb n="3" ed="KX"/>中邊小邊相和而與大邊較</seg>
+                    <seg xml:id="KR3fc071_tls_p18.s4" state="locked">
+                        <lb n="4" ed="KX"/>大邊小邊相較而與中邊較</seg>
+                    <seg xml:id="KR3fc071_tls_p18.s5" state="locked">
+                        <lb n="5" ed="KX"/>大邊中邊相較而與小邊較</seg>
+                    <seg xml:id="KR3fc071_tls_p18.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻" quantity="1"/>此三件之數相等是爲疊和較最小數</seg>
+                    <seg xml:id="KR3fc071_tls_p18.s7" state="locked">
+                        <lb n="7" ed="KX"/>中邊小邊相較而與大邊較</seg>
+                    <seg xml:id="KR3fc071_tls_p18.s8" state="locked">
+                        <lb n="8" ed="KX"/>大邊小邊相和而與中邊較</seg>
+                    <seg xml:id="KR3fc071_tls_p18.s9" state="locked">
+                        <lb n="9" ed="KX"/>大邊中邊相較而與小邊和</seg>
+                    <seg xml:id="KR3fc071_tls_p18.s10" state="locked">
+                        <lb n="10" ed="KX"/>
+                        <space n="䶻" quantity="1"/>此三件之數相等是爲疊和較次小數</seg>
+                    <seg xml:id="KR3fc071_tls_p18.s12" state="locked">
+                        <lb n="12" ed="KX"/>中邊小邊相較而與大邊和</seg>
+                    <seg xml:id="KR3fc071_tls_p18.s13" state="locked">
+                        <lb n="13" ed="KX"/>大邊小邊相較而與中邊和</seg>
+                    <seg xml:id="KR3fc071_tls_p18.s14" state="locked">
+                        <lb n="14" ed="KX"/>大邊中邊相和而與小邊較</seg>
+                    <seg xml:id="KR3fc071_tls_p18.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻" quantity="1"/>此三件之數相等是爲疊和較次大數</seg>
+                    <seg xml:id="KR3fc071_tls_p18.s16" state="locked">
+                        <lb n="16" ed="KX"/>中邊小邊相和而與大邊和</seg>
+                    <seg xml:id="KR3fc071_tls_p18.s17" state="locked">
+                        <lb n="17" ed="KX"/>大邊小邊相和而與中邊和</seg>
+                    <seg xml:id="KR3fc071_tls_p18.s18" state="locked">
+                        <lb n="18" ed="KX"/>大邊中邊相和而與小邊和</seg>
+                    <seg xml:id="KR3fc071_tls_p18.s19" state="locked">
+                        <lb n="19" ed="KX"/>
+                        <space n="䶻" quantity="1"/>此三件之數相等有和無較是爲總和最大數</seg>
+                    <seg xml:id="KR3fc071_tls_p18.s20" state="locked">
+                        <lb n="20" ed="KX"/>附和較角加減法</seg>
+                    <seg xml:id="KR3fc071_tls_p18.s21" state="locked">
+                        <lb n="21" ed="KX"/>
+                        <space n="䶻" quantity="1"/>角之和較合三角計之較角三和角三疊和較角</seg>
+                    <pb ed="KX" n="03-07-118.19" xml:id="KR3fc071_tls_19a"/>
+                    <seg xml:id="KR3fc071_tls_p19.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻" quantity="1"/>四共十件此十件除總和角餘九件中知兩件卽</seg>
+                    <seg xml:id="KR3fc071_tls_p19.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻" quantity="1"/>可加減得三角再除三較角餘六件中知一件亦</seg>
+                    <seg xml:id="KR3fc071_tls_p19.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻" quantity="1"/>可加減得一角故題中角不用和較且只用一角</seg>
+                    <seg xml:id="KR3fc071_tls_p19.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻" quantity="1"/>餘二件皆邊也若止知一較角不能加減得全角</seg>
+                    <seg xml:id="KR3fc071_tls_p19.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻" quantity="1"/>配以和較邊亦可命題而必藉開方未得簡易法</seg>
+                    <seg xml:id="KR3fc071_tls_p19.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻" quantity="1"/>茲故不具但明和較角加減如左</seg>
+                    <seg xml:id="KR3fc071_tls_p19.s7" state="locked">
+                        <lb n="7" ed="KX"/>有兩角和<space n="䶻" quantity="1"/>法以兩角和與半周相減得餘一角</seg>
+                    <seg xml:id="KR3fc071_tls_p19.s8" state="locked">
+                        <lb n="8" ed="KX"/>有最小疊和較角<space n="䶻" quantity="1"/>法以最小疊和較角與半周相</seg>
+                    <seg xml:id="KR3fc071_tls_p19.s9" state="locked">
+                        <lb n="9" ed="KX"/>減折半得大角相加折半得中小角和</seg>
+                    <seg xml:id="KR3fc071_tls_p19.s10" state="locked">
+                        <lb n="10" ed="KX"/>有次小疊和較角<space n="䶻" quantity="1"/>法以次小疊和較角與半周相</seg>
+                    <seg xml:id="KR3fc071_tls_p19.s12" state="locked">
+                        <lb n="12" ed="KX"/>減折半得中角相加折半得大小角和</seg>
+                    <seg xml:id="KR3fc071_tls_p19.s13" state="locked">
+                        <lb n="13" ed="KX"/>有次大疊和較角<space n="䶻" quantity="1"/>法以次大疊和較角與半周相</seg>
+                    <seg xml:id="KR3fc071_tls_p19.s14" state="locked">
+                        <lb n="14" ed="KX"/>減折半得小角相加折半得大中角和</seg>
+                    <seg xml:id="KR3fc071_tls_p19.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻" quantity="1"/>以上知一件加減可得一全角也</seg>
+                    <seg xml:id="KR3fc071_tls_p19.s16" state="locked">
+                        <lb n="16" ed="KX"/>有大中角較有大小角較<space n="䶻" quantity="1"/>法以兩較相加轉加半</seg>
+                    <seg xml:id="KR3fc071_tls_p19.s17" state="locked">
+                        <lb n="17" ed="KX"/>周三除之得大角以大角與大中角較相減得中角</seg>
+                    <seg xml:id="KR3fc071_tls_p19.s18" state="locked">
+                        <lb n="18" ed="KX"/>與大小角較相減得小角</seg>
+                    <seg xml:id="KR3fc071_tls_p19.s19" state="locked">
+                        <lb n="19" ed="KX"/>有大中角較有中小角較<space n="䶻" quantity="1"/>法以兩較相減轉加半</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p19.s20.1">
+                        <lb n="20" ed="KX"/>周</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p19.s20.2" type="comm">此大中角較小於中小角較也若大於<lb type="/"/>中小角較應以兩較相減轉減半周</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p19.s20.3">三除之得</seg>
+                    <seg xml:id="KR3fc071_tls_p19.s21" state="locked">
+                        <lb n="21" ed="KX"/>中角以中角與大中角較相加得大角與中小角較</seg>
+                    <pb ed="KX" n="03-07-118.20" xml:id="KR3fc071_tls_20a"/>
+                    <seg xml:id="KR3fc071_tls_p20.s1" state="locked">
+                        <lb n="1" ed="KX"/>相減得小角</seg>
+                    <seg xml:id="KR3fc071_tls_p20.s2" state="locked">
+                        <lb n="2" ed="KX"/>有大小角較有中小角較<space n="䶻" quantity="1"/>法以兩較相加轉減半</seg>
+                    <seg xml:id="KR3fc071_tls_p20.s3" state="locked">
+                        <lb n="3" ed="KX"/>周三除之得小角以小角與大小角較相加得大角</seg>
+                    <seg xml:id="KR3fc071_tls_p20.s4" state="locked">
+                        <lb n="4" ed="KX"/>與中小角較相加得中角</seg>
+                    <seg xml:id="KR3fc071_tls_p20.s5" state="locked">
+                        <lb n="5" ed="KX"/>有大中角和有大小角和<space n="䶻" quantity="1"/>法以兩和相加轉減半</seg>
+                    <seg xml:id="KR3fc071_tls_p20.s6" state="locked">
+                        <lb n="6" ed="KX"/>周得大角以大角與大中角和相減得中角與大小</seg>
+                    <seg xml:id="KR3fc071_tls_p20.s7" state="locked">
+                        <lb n="7" ed="KX"/>角和相減得小角</seg>
+                    <seg xml:id="KR3fc071_tls_p20.s8" state="locked">
+                        <lb n="8" ed="KX"/>有大中角和有中小角和<space n="䶻" quantity="1"/>法以兩和相加轉減半</seg>
+                    <seg xml:id="KR3fc071_tls_p20.s9" state="locked">
+                        <lb n="9" ed="KX"/>周得中角以中角與大中角和相減得大角與中小</seg>
+                    <seg xml:id="KR3fc071_tls_p20.s10" state="locked">
+                        <lb n="10" ed="KX"/>角和相減得小角</seg>
+                    <seg xml:id="KR3fc071_tls_p20.s12" state="locked">
+                        <lb n="12" ed="KX"/>有大小角和有中小角和<space n="䶻" quantity="1"/>法以兩和相加轉減半</seg>
+                    <seg xml:id="KR3fc071_tls_p20.s13" state="locked">
+                        <lb n="13" ed="KX"/>周得小角以小角與大小角和相減得大角與中小</seg>
+                    <seg xml:id="KR3fc071_tls_p20.s14" state="locked">
+                        <lb n="14" ed="KX"/>角和相減得中角</seg>
+                    <seg xml:id="KR3fc071_tls_p20.s15" state="locked">
+                        <lb n="15" ed="KX"/>有大中角和有大小角較<space n="䶻" quantity="1"/>法以一和一較相減轉</seg>
+                    <seg xml:id="KR3fc071_tls_p20.s16" state="locked">
+                        <lb n="16" ed="KX"/>減半周得大角以大角與大中角和相減得中角與</seg>
+                    <seg xml:id="KR3fc071_tls_p20.s17" state="locked">
+                        <lb n="17" ed="KX"/>大小角較相減得小角</seg>
+                    <seg xml:id="KR3fc071_tls_p20.s18" state="locked">
+                        <lb n="18" ed="KX"/>有大中角和有中小角較<space n="䶻" quantity="1"/>法以一和一較相減轉</seg>
+                    <seg xml:id="KR3fc071_tls_p20.s19" state="locked">
+                        <lb n="19" ed="KX"/>減半周得中角以中角與大中角和相減得大角與</seg>
+                    <seg xml:id="KR3fc071_tls_p20.s20" state="locked">
+                        <lb n="20" ed="KX"/>中小角較相減得小角</seg>
+                    <seg xml:id="KR3fc071_tls_p20.s21" state="locked">
+                        <lb n="21" ed="KX"/>有大小角和有中小角較<space n="䶻" quantity="1"/>法以一和一較相加轉</seg>
+                    <pb ed="KX" n="03-07-118.21" xml:id="KR3fc071_tls_21a"/>
+                    <seg xml:id="KR3fc071_tls_p21.s1" state="locked">
+                        <lb n="1" ed="KX"/>減半周得小角以小角與大小角和相減得大角與</seg>
+                    <seg xml:id="KR3fc071_tls_p21.s2" state="locked">
+                        <lb n="2" ed="KX"/>中小角較相加得中角</seg>
+                    <seg xml:id="KR3fc071_tls_p21.s3" state="locked">
+                        <lb n="3" ed="KX"/>有大中角較有大小角和<space n="䶻" quantity="1"/>法以一較一和相減轉</seg>
+                    <seg xml:id="KR3fc071_tls_p21.s4" state="locked">
+                        <lb n="4" ed="KX"/>減半周得大角以大角與大中角較相減得中角與</seg>
+                    <seg xml:id="KR3fc071_tls_p21.s5" state="locked">
+                        <lb n="5" ed="KX"/>大小角和相減得小角</seg>
+                    <seg xml:id="KR3fc071_tls_p21.s6" state="locked">
+                        <lb n="6" ed="KX"/>有大中角較有中小角和<space n="䶻" quantity="1"/>法以一較一和相加轉</seg>
+                    <seg xml:id="KR3fc071_tls_p21.s7" state="locked">
+                        <lb n="7" ed="KX"/>減半周得中角以中角與大中角較相加得大角與</seg>
+                    <seg xml:id="KR3fc071_tls_p21.s8" state="locked">
+                        <lb n="8" ed="KX"/>中小角和相減得小角</seg>
+                    <seg xml:id="KR3fc071_tls_p21.s9" state="locked">
+                        <lb n="9" ed="KX"/>有大小角較有中小角和<space n="䶻" quantity="1"/>法以一較一和相加轉</seg>
+                    <seg xml:id="KR3fc071_tls_p21.s10" state="locked">
+                        <lb n="10" ed="KX"/>減半周得小角以小角與大小角較相加得大角與</seg>
+                    <seg xml:id="KR3fc071_tls_p21.s12" state="locked">
+                        <lb n="12" ed="KX"/>中小角和相減得中角</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p21.s13.1">
+                        <lb n="13" ed="KX"/>有大中角較</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p21.s13.2" type="comm">或大小角<lb type="/"/>較亦同法</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p21.s13.3">有最小疊和較角法以大</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p21.s14.1">
+                        <lb n="14" ed="KX"/>中角較加最小疊和較角得小角</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p21.s14.2" type="comm">若加大小角<lb type="/"/>較則得中角</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p21.s14.3">轉減</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p21.s15.1">
+                        <lb n="15" ed="KX"/>半周得大中角和</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p21.s15.2" type="comm">在大小角較<lb type="/"/>得大小角和</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p21.s15.3">和較相加減各折半</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p21.s16.1">
+                        <lb n="16" ed="KX"/>得大角中角</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p21.s16.2" type="comm">在大小角較得大角小角此題不用中<lb type="/"/>小角較者以前知一件術中最小疊和</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p21.s17.1" type="comm">
+                        <lb n="17" ed="KX"/>較角加減半周折半已得大角及中小角和今又知<lb type="/"/>中小角較和較加減折半卽得中角小角不煩另列</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p21.s18.1">
+                        <lb n="18" ed="KX"/>有大中角和</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p21.s18.2" type="comm">或大小角<lb type="/"/>和亦同法</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p21.s18.3">有最小疊和較角法以大</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p21.s19.1">
+                        <lb n="19" ed="KX"/>中角和減半周得小角</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p21.s19.2" type="comm">在大小角<lb type="/"/>和得中角</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p21.s19.3">轉減最小疊和較</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p21.s20.1">
+                        <lb n="20" ed="KX"/>角得大中角較</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p21.s20.2" type="comm">在大小角和<lb type="/"/>得大小角較</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p21.s20.3">和較相加減各折半得</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p21.s21.1">
+                        <lb n="21" ed="KX"/>大角中角</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p21.s21.2" type="comm">在大小角和得大角小角此題不用中小<lb type="/"/>角和者以前知一件術中最小疊和較角</seg>
+                    <pb ed="KX" n="03-07-118.22" xml:id="KR3fc071_tls_22a"/>
+                    <seg state="locked" xml:id="KR3fc071_tls_p22.s1.1" type="comm">
+                        <lb n="1" ed="KX"/>加半周折半本可得中小角和是此<lb type="/"/>件固不待知知兩件無異知一件也</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p22.s2.1">
+                        <lb n="2" ed="KX"/>有中小角較</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p22.s2.2" type="comm">或大中角<lb type="/"/>較亦同法</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p22.s2.3">有次小疊和較角法以中</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p22.s3.1">
+                        <lb n="3" ed="KX"/>小角較加次小疊和較角</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p22.s3.2" type="comm">在大中角<lb type="/"/>較則應減</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p22.s3.3">得大角</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p22.s3.4" type="comm">在大中<lb type="/"/>角較得</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p22.s4.1" type="comm">
+                        <lb n="4" ed="KX"/>小<lb type="/"/>角</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p22.s4.2">轉減半周得中小角和</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p22.s4.3" type="comm">在大中角較<lb type="/"/>得大中角和</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p22.s4.4">和較相加減</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p22.s5.1">
+                        <lb n="5" ed="KX"/>各折半得中角小角</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p22.s5.2" type="comm">在大中角較得大角中角此題<lb type="/"/>不用大小角較者以前知一件</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p22.s6.1" type="comm">
+                        <lb n="6" ed="KX"/>術中次小疊和較角加減半周折半已得中角及大<lb type="/"/>小角和今又知大小角較和較加減折半卽得大角</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p22.s7.1" type="comm">
+                        <lb n="7" ed="KX"/>小角不<lb type="/"/>煩另列</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p22.s8.1">
+                        <lb n="8" ed="KX"/>有中小角和</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p22.s8.2" type="comm">或大中角<lb type="/"/>和亦同法</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p22.s8.3">有次小疊和較角法以中</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p22.s9.1">
+                        <lb n="9" ed="KX"/>小角和減半周得大角</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p22.s9.2" type="comm">在大中角<lb type="/"/>和得小角</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p22.s9.3">轉減次小疊和較</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p22.s10.1">
+                        <lb n="10" ed="KX"/>角得中小角較</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p22.s10.2" type="comm">在大中角和<lb type="/"/>得大中角較</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p22.s10.3">和較相加減各折半得</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p22.s12.1">
+                        <lb n="12" ed="KX"/>中角小角</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p22.s12.2" type="comm">在大中角和得大角中角此題不用大小<lb type="/"/>角和者以前知一件術中次小疊和較角</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p22.s13.1" type="comm">
+                        <lb n="13" ed="KX"/>加半周折半本可得大小角和是此<lb type="/"/>件固不待知知兩件無異知一件也</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p22.s14.1">
+                        <lb n="14" ed="KX"/>有大小角較</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p22.s14.2" type="comm">或中小角<lb type="/"/>較亦同法</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p22.s14.3">有次大疊和較角法以大</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p22.s15.1">
+                        <lb n="15" ed="KX"/>小角較減次大疊和較角得中角</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p22.s15.2" type="comm">在中小角<lb type="/"/>較得大角</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p22.s15.3">轉減半</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p22.s16.1">
+                        <lb n="16" ed="KX"/>周得大小角和</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p22.s16.2" type="comm">在中小角較<lb type="/"/>得中小角和</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p22.s16.3">和較相加減各折半得</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p22.s17.1">
+                        <lb n="17" ed="KX"/>大角小角</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p22.s17.2" type="comm">在中小角較得中角小角此題不用大中<lb type="/"/>角較者以前知一件術中次大疊和較角</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p22.s18.1" type="comm">
+                        <lb n="18" ed="KX"/>加減半周已得小角及大中角和今又知大中<lb type="/"/>角較和較加減折半卽得大角中角不煩另列</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p22.s19.1">
+                        <lb n="19" ed="KX"/>有大小角和</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p22.s19.2" type="comm">或中小角<lb type="/"/>和亦同法</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p22.s19.3">有次大疊和較角法以大</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p22.s20.1">
+                        <lb n="20" ed="KX"/>小角和減半周得中角</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p22.s20.2" type="comm">在中小角<lb type="/"/>和得大角</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p22.s20.3">轉減次大疊和較</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p22.s21.1">
+                        <lb n="21" ed="KX"/>角得大小角較</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p22.s21.2" type="comm">在中小角和<lb type="/"/>得中小角較</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p22.s21.3">和較相加減各折半得</seg>
+                    <pb ed="KX" n="03-07-118.23" xml:id="KR3fc071_tls_23a"/>
+                    <seg state="locked" xml:id="KR3fc071_tls_p23.s1.1">
+                        <lb n="1" ed="KX"/>大角小角</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p23.s1.2" type="comm">在中小角和得中角小角此題不用大中<lb type="/"/>角和者以前知一件術中次大疊和較角</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p23.s2.1" type="comm">
+                        <lb n="2" ed="KX"/>加半周折半本可得大中角和是此<lb type="/"/>件固不得知知兩件無異知一件也</seg>
+                    <seg xml:id="KR3fc071_tls_p23.s3" state="locked">
+                        <lb n="3" ed="KX"/>有最小疊和較角有次小疊和較角<space n="䶻" quantity="1"/>法以最小疊</seg>
+                    <seg xml:id="KR3fc071_tls_p23.s4" state="locked">
+                        <lb n="4" ed="KX"/>和較角減半周折半得大角以次小疊和較角減半</seg>
+                    <seg xml:id="KR3fc071_tls_p23.s5" state="locked">
+                        <lb n="5" ed="KX"/>周折半得中角以最小疊和較角與次小疊和較角</seg>
+                    <seg xml:id="KR3fc071_tls_p23.s6" state="locked">
+                        <lb n="6" ed="KX"/>相加折半得小角</seg>
+                    <seg xml:id="KR3fc071_tls_p23.s7" state="locked">
+                        <lb n="7" ed="KX"/>有最小疊和較角有次大疊和較角<space n="䶻" quantity="1"/>法以最小疊</seg>
+                    <seg xml:id="KR3fc071_tls_p23.s8" state="locked">
+                        <lb n="8" ed="KX"/>和較角減半周折半得大角以次大疊和較角減半</seg>
+                    <seg xml:id="KR3fc071_tls_p23.s9" state="locked">
+                        <lb n="9" ed="KX"/>周折半得小角以最小疊和較角與次大疊和較角</seg>
+                    <seg xml:id="KR3fc071_tls_p23.s10" state="locked">
+                        <lb n="10" ed="KX"/>相加折半得中角</seg>
+                    <seg xml:id="KR3fc071_tls_p23.s12" state="locked">
+                        <lb n="12" ed="KX"/>有次小疊和較角有次大疊和較角<space n="䶻" quantity="1"/>法以次小疊</seg>
+                    <seg xml:id="KR3fc071_tls_p23.s13" state="locked">
+                        <lb n="13" ed="KX"/>和較角減半周折半得中角以次大疊和較角減半</seg>
+                    <seg xml:id="KR3fc071_tls_p23.s14" state="locked">
+                        <lb n="14" ed="KX"/>周折半得小角以次小疊和較角與次大疊和較角</seg>
+                    <seg xml:id="KR3fc071_tls_p23.s15" state="locked">
+                        <lb n="15" ed="KX"/>相加折半得大角</seg>
+                    <seg xml:id="KR3fc071_tls_p23.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻" quantity="1"/>以上知兩件加減可得三角也</seg>
+                    <pb ed="KX" n="03-07-118.24" xml:id="KR3fc071_tls_24a"/>
+                    <head xml:id="KR3fc071_tls_p24.s1-h">
+                        <seg xml:id="KR3fc071_tls_p24.s1" state="locked">
+                            <lb n="1" ed="KX"/>弧三角和較術<space n="䶻䶻䶻䶻䶻䶻䶻䶻" quantity="8"/>下學葊算書二</seg>
+                    </head>
+                    <seg xml:id="KR3fc071_tls_p24.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻" quantity="1"/>正弧三角</seg>
+                    <seg xml:id="KR3fc071_tls_p24.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有一銳角有夾角兩邊較弧求夾角兩弧</seg>
+                    <seg xml:id="KR3fc071_tls_p24.s4" state="locked">
+                        <lb n="4" ed="KX"/>法以半角正切爲一率半角餘切爲二率較弧正弦</seg>
+                    <seg xml:id="KR3fc071_tls_p24.s5" state="locked">
+                        <lb n="5" ed="KX"/>爲三率求得四率卽和弧正弦</seg>
+                    <seg xml:id="KR3fc071_tls_p24.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻" quantity="1"/>一以求得弧爲和弧</seg>
+                    <seg xml:id="KR3fc071_tls_p24.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻" quantity="1"/>一以求得弧減半周爲和弧</seg>
+                    <seg xml:id="KR3fc071_tls_p24.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻" quantity="1"/>一以求得弧加半周爲和弧</seg>
+                    <seg xml:id="KR3fc071_tls_p24.s9" state="locked">
+                        <lb n="9" ed="KX"/>
+                        <space n="䶻" quantity="1"/>一以求得弧減全周爲和弧</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p24.s10.1">
+                        <lb n="10" ed="KX"/>俱以和弧與較弧相</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p24.s10.2" type="comm">加<lb type="/"/>減</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p24.s10.3">折半爲夾角</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p24.s10.4" type="comm">大<lb type="/"/>小</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p24.s10.5">弧</seg>
+                    <seg xml:id="KR3fc071_tls_p24.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻" quantity="1"/>以半和弧與半較弧相減爲對角弧相加爲對正</seg>
+                    <seg xml:id="KR3fc071_tls_p24.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻" quantity="1"/>角弧</seg>
+                    <seg xml:id="KR3fc071_tls_p24.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有一銳角有對角邊與對正角邊之和弧求兩</seg>
+                    <seg xml:id="KR3fc071_tls_p24.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>弧</seg>
+                    <seg xml:id="KR3fc071_tls_p24.s16" state="locked">
+                        <lb n="16" ed="KX"/>法以半餘角餘切爲一率半餘角正切爲二率半和</seg>
+                    <seg xml:id="KR3fc071_tls_p24.s17" state="locked">
+                        <lb n="17" ed="KX"/>弧正切爲三率求得四率卽半較弧正切</seg>
+                    <seg xml:id="KR3fc071_tls_p24.s18" state="locked">
+                        <lb n="18" ed="KX"/>
+                        <space n="䶻" quantity="1"/>以半較弧與半和弧相減爲對角弧相加爲對正</seg>
+                    <seg xml:id="KR3fc071_tls_p24.s19" state="locked">
+                        <lb n="19" ed="KX"/>
+                        <space n="䶻" quantity="1"/>角弧</seg>
+                    <seg xml:id="KR3fc071_tls_p24.s20" state="locked">
+                        <lb n="20" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有一鈍角有對角邊與對正角邊之較弧求兩</seg>
+                    <seg xml:id="KR3fc071_tls_p24.s21" state="locked">
+                        <lb n="21" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>弧</seg>
+                    <pb ed="KX" n="03-07-118.25" xml:id="KR3fc071_tls_25a"/>
+                    <seg xml:id="KR3fc071_tls_p25.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有一鈍角有夾角兩邊和弧求夾角兩弧</seg>
+                    <seg xml:id="KR3fc071_tls_p25.s2" state="locked">
+                        <lb n="2" ed="KX"/>法以半角餘切爲一率半角正切爲二率和弧正弦</seg>
+                    <seg xml:id="KR3fc071_tls_p25.s3" state="locked">
+                        <lb n="3" ed="KX"/>爲三率求得四率卽較弧正弦</seg>
+                    <seg xml:id="KR3fc071_tls_p25.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻" quantity="1"/>一以求得弧爲較弧</seg>
+                    <seg xml:id="KR3fc071_tls_p25.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻" quantity="1"/>一以求得弧減半周爲較弧</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p25.s6.1">
+                        <lb n="6" ed="KX"/>俱以較弧與和弧相</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p25.s6.2" type="comm">加<lb type="/"/>減</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p25.s6.3">爲夾角</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p25.s6.4" type="comm">大<lb type="/"/>小</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p25.s6.5">弧</seg>
+                    <seg xml:id="KR3fc071_tls_p25.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有一銳角有對角邊與對正角邊之較弧求兩</seg>
+                    <seg xml:id="KR3fc071_tls_p25.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>弧</seg>
+                    <seg xml:id="KR3fc071_tls_p25.s9" state="locked">
+                        <lb n="9" ed="KX"/>法以半餘角正切爲一率半餘角餘切爲二率半較</seg>
+                    <seg xml:id="KR3fc071_tls_p25.s10" state="locked">
+                        <lb n="10" ed="KX"/>弧正切爲三率求得四率卽半和弧正切</seg>
+                    <seg xml:id="KR3fc071_tls_p25.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻" quantity="1"/>以半和弧與半較弧相減爲對角弧相加爲對正</seg>
+                    <seg xml:id="KR3fc071_tls_p25.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻" quantity="1"/>角弧</seg>
+                    <seg xml:id="KR3fc071_tls_p25.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有一銳角有對角邊與對正角邊之和弧求兩</seg>
+                    <seg xml:id="KR3fc071_tls_p25.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>弧</seg>
+                    <seg xml:id="KR3fc071_tls_p25.s16" state="locked">
+                        <lb n="16" ed="KX"/>法以半餘角餘切爲一率半餘角正切爲二率半和</seg>
+                    <seg xml:id="KR3fc071_tls_p25.s17" state="locked">
+                        <lb n="17" ed="KX"/>弧正切爲三率求得四率卽半較弧正切</seg>
+                    <seg xml:id="KR3fc071_tls_p25.s18" state="locked">
+                        <lb n="18" ed="KX"/>
+                        <space n="䶻" quantity="1"/>以半較弧與半和弧相減爲對角弧相加爲對正</seg>
+                    <seg xml:id="KR3fc071_tls_p25.s19" state="locked">
+                        <lb n="19" ed="KX"/>
+                        <space n="䶻" quantity="1"/>角弧</seg>
+                    <seg xml:id="KR3fc071_tls_p25.s20" state="locked">
+                        <lb n="20" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有一鈍角有對角邊與對正角邊之較弧求兩</seg>
+                    <seg xml:id="KR3fc071_tls_p25.s21" state="locked">
+                        <lb n="21" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>弧</seg>
+                    <pb ed="KX" n="03-07-118.26" xml:id="KR3fc071_tls_26a"/>
+                    <seg xml:id="KR3fc071_tls_p26.s1" state="locked">
+                        <lb n="1" ed="KX"/>法以半餘角正切爲一率半餘角餘切爲二率半較</seg>
+                    <seg xml:id="KR3fc071_tls_p26.s2" state="locked">
+                        <lb n="2" ed="KX"/>弧正切爲三率求得四率卽半和弧正切</seg>
+                    <seg xml:id="KR3fc071_tls_p26.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻" quantity="1"/>以求得弧減半周爲半和弧與半較弧相加爲對</seg>
+                    <seg xml:id="KR3fc071_tls_p26.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻" quantity="1"/>角弧相減爲對正角弧</seg>
+                    <seg xml:id="KR3fc071_tls_p26.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有一鈍角有對角邊與對正角邊之和弧求兩</seg>
+                    <seg xml:id="KR3fc071_tls_p26.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>弧</seg>
+                    <seg xml:id="KR3fc071_tls_p26.s7" state="locked">
+                        <lb n="7" ed="KX"/>法以半餘角餘切爲一率半餘角正切爲二率半和</seg>
+                    <seg xml:id="KR3fc071_tls_p26.s8" state="locked">
+                        <lb n="8" ed="KX"/>弧正切爲三率求得四率卽半較弧正切</seg>
+                    <seg xml:id="KR3fc071_tls_p26.s9" state="locked">
+                        <lb n="9" ed="KX"/>
+                        <space n="䶻" quantity="1"/>以半較弧與半和弧相加爲對角弧相減爲對正</seg>
+                    <seg xml:id="KR3fc071_tls_p26.s10" state="locked">
+                        <lb n="10" ed="KX"/>
+                        <space n="䶻" quantity="1"/>角弧</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p26.s12.1">
+                        <lb n="12" ed="KX"/>有一不對正角弧</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p26.s12.2" type="comm">在象<lb type="/"/>限內</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p26.s12.3">有餘兩弧較求兩弧</seg>
+                    <seg xml:id="KR3fc071_tls_p26.s13" state="locked">
+                        <lb n="13" ed="KX"/>法以半弧正切爲一率半弧餘切爲二率半較弧正</seg>
+                    <seg xml:id="KR3fc071_tls_p26.s14" state="locked">
+                        <lb n="14" ed="KX"/>切爲三率求得四率卽半和弧餘切</seg>
+                    <seg xml:id="KR3fc071_tls_p26.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻" quantity="1"/>一以求得弧爲半和弧與半較弧相加爲對正角</seg>
+                    <seg xml:id="KR3fc071_tls_p26.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻" quantity="1"/>弧相減爲不對正角弧</seg>
+                    <seg xml:id="KR3fc071_tls_p26.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻" quantity="1"/>一以求得弧減半周爲半和弧與半較弧相減爲</seg>
+                    <seg xml:id="KR3fc071_tls_p26.s18" state="locked">
+                        <lb n="18" ed="KX"/>
+                        <space n="䶻" quantity="1"/>對正角弧相加爲不對正角弧</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p26.s19.1">
+                        <lb n="19" ed="KX"/>有一不對正角弧</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p26.s19.2" type="comm">在象<lb type="/"/>限內</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p26.s19.3">有餘兩弧和求兩弧</seg>
+                    <seg xml:id="KR3fc071_tls_p26.s20" state="locked">
+                        <lb n="20" ed="KX"/>法以半弧餘切爲一率半弧正切爲二率半和弧餘</seg>
+                    <seg xml:id="KR3fc071_tls_p26.s21" state="locked">
+                        <lb n="21" ed="KX"/>切爲三率求得四率卽半較弧正切</seg>
+                    <pb ed="KX" n="03-07-118.27" xml:id="KR3fc071_tls_27a"/>
+                    <seg xml:id="KR3fc071_tls_p27.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻" quantity="1"/>半和弧在象限內用本度餘切得半較弧與之相</seg>
+                    <seg xml:id="KR3fc071_tls_p27.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻" quantity="1"/>加爲對正角弧相減爲不對正角弧</seg>
+                    <seg xml:id="KR3fc071_tls_p27.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻" quantity="1"/>半和弧在象限外用外度餘切得半較弧與之相</seg>
+                    <seg xml:id="KR3fc071_tls_p27.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻" quantity="1"/>減爲對正角弧相加爲不對正角弧</seg>
+                    <seg xml:id="KR3fc071_tls_p27.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻" quantity="1"/>又不對正角弧在象限外者其和較比例及得度</seg>
+                    <seg xml:id="KR3fc071_tls_p27.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻" quantity="1"/>後加減術均與在象限內者等故不另列</seg>
+                    <seg xml:id="KR3fc071_tls_p27.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有對正角弧有餘兩角較求兩角</seg>
+                    <seg xml:id="KR3fc071_tls_p27.s8" state="locked">
+                        <lb n="8" ed="KX"/>法以半弧餘切爲一率半弧正切爲二率較角餘弦</seg>
+                    <seg xml:id="KR3fc071_tls_p27.s9" state="locked">
+                        <lb n="9" ed="KX"/>爲三率求得四率卽和角餘弦</seg>
+                    <seg xml:id="KR3fc071_tls_p27.s10" state="locked">
+                        <lb n="10" ed="KX"/>
+                        <space n="䶻" quantity="1"/>一以求得度減半周爲和角</seg>
+                    <seg xml:id="KR3fc071_tls_p27.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻" quantity="1"/>一以求得度加半周爲和角</seg>
+                    <seg xml:id="KR3fc071_tls_p27.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻" quantity="1"/>和角與較角相加折半爲大角相減折半爲小角</seg>
+                    <seg xml:id="KR3fc071_tls_p27.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有對正角弧有餘兩角和求兩角</seg>
+                    <seg xml:id="KR3fc071_tls_p27.s15" state="locked">
+                        <lb n="15" ed="KX"/>法以半弧正切爲一率半弧餘切爲二率和角餘弦</seg>
+                    <seg xml:id="KR3fc071_tls_p27.s16" state="locked">
+                        <lb n="16" ed="KX"/>爲三率求得四率卽較角餘弦</seg>
+                    <seg xml:id="KR3fc071_tls_p27.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻" quantity="1"/>較角與和角相加折半爲大角相減折半爲小角</seg>
+                    <seg xml:id="KR3fc071_tls_p27.s18" state="locked">
+                        <lb n="18" ed="KX"/>
+                        <space n="䶻" quantity="1"/>又對正角弧過象限與不過象限均同一術不煩</seg>
+                    <seg xml:id="KR3fc071_tls_p27.s19" state="locked">
+                        <lb n="19" ed="KX"/>
+                        <space n="䶻" quantity="1"/>分列</seg>
+                    <seg xml:id="KR3fc071_tls_p27.s20" state="locked">
+                        <lb n="20" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有正角旁弧有餘兩角較求兩角</seg>
+                    <seg xml:id="KR3fc071_tls_p27.s21" state="locked">
+                        <lb n="21" ed="KX"/>法視對角大旁角小則以半弧正切爲一率半弧餘</seg>
+                    <pb ed="KX" n="03-07-118.28" xml:id="KR3fc071_tls_28a"/>
+                    <seg state="locked" xml:id="KR3fc071_tls_p28.s1.1">
+                        <lb n="1" ed="KX"/>切爲二率較角半餘度餘切爲三率</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p28.s1.2" type="comm">以半較角減半<lb type="/"/>象限爲半餘度</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p28.s2.1" type="comm">
+                        <lb n="2" ed="KX"/>下<lb type="/"/>同</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p28.s2.2">求得四率卽和角半餘度餘切</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p28.s2.3" type="comm">以半餘度加半象<lb type="/"/>限爲半和角下同</seg>
+                    <seg xml:id="KR3fc071_tls_p28.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻" quantity="1"/>半和角與半較角相加爲對角相減爲旁角</seg>
+                    <seg xml:id="KR3fc071_tls_p28.s4" state="locked">
+                        <lb n="4" ed="KX"/>又視對角小旁角大則以半弧正切爲一率半弧餘</seg>
+                    <seg xml:id="KR3fc071_tls_p28.s5" state="locked">
+                        <lb n="5" ed="KX"/>切爲二率較角半餘度正切爲三率求得四率卽和</seg>
+                    <seg xml:id="KR3fc071_tls_p28.s6" state="locked">
+                        <lb n="6" ed="KX"/>角半餘度餘切</seg>
+                    <seg xml:id="KR3fc071_tls_p28.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻" quantity="1"/>半和角與半較角相減爲對角相加爲旁角</seg>
+                    <seg xml:id="KR3fc071_tls_p28.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有正角旁弧有餘兩角和求兩角</seg>
+                    <seg xml:id="KR3fc071_tls_p28.s9" state="locked">
+                        <lb n="9" ed="KX"/>法視對角大旁角小以半弧餘切爲一率半弧正切</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p28.s10.1">
+                        <lb n="10" ed="KX"/>爲二率和角半餘度餘切爲三率</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p28.s10.2" type="comm">半和角內減关象<lb type="/"/>限爲半餘度下同</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p28.s12.1">
+                        <lb n="12" ed="KX"/>求得四率卽較角半餘度餘切</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p28.s12.2" type="comm">以半餘減半象<lb type="/"/>限爲半較角下同</seg>
+                    <seg xml:id="KR3fc071_tls_p28.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻" quantity="1"/>半較角與半和角相加爲對角相減爲旁角</seg>
+                    <seg xml:id="KR3fc071_tls_p28.s14" state="locked">
+                        <lb n="14" ed="KX"/>又視對角小旁角大以半弧餘切爲一率半弧正切</seg>
+                    <seg xml:id="KR3fc071_tls_p28.s15" state="locked">
+                        <lb n="15" ed="KX"/>爲二率和角半餘度餘切爲三率求得四率卽較角</seg>
+                    <seg xml:id="KR3fc071_tls_p28.s16" state="locked">
+                        <lb n="16" ed="KX"/>半餘度正切</seg>
+                    <seg xml:id="KR3fc071_tls_p28.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻" quantity="1"/>半較角與半和角相減爲對角相加爲旁角</seg>
+                    <seg xml:id="KR3fc071_tls_p28.s18" state="locked">
+                        <lb n="18" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有兩角較有對角兩弧較求兩弧</seg>
+                    <seg xml:id="KR3fc071_tls_p28.s19" state="locked">
+                        <lb n="19" ed="KX"/>法以半徑爲一率半較角餘切爲二率半較弧正弦</seg>
+                    <seg xml:id="KR3fc071_tls_p28.s20" state="locked">
+                        <lb n="20" ed="KX"/>爲三率求得四率卽半和弧正弦</seg>
+                    <seg xml:id="KR3fc071_tls_p28.s21" state="locked">
+                        <lb n="21" ed="KX"/>
+                        <space n="䶻" quantity="1"/>一以所得度爲半和弧</seg>
+                    <pb ed="KX" n="03-07-118.29" xml:id="KR3fc071_tls_29a"/>
+                    <seg xml:id="KR3fc071_tls_p29.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻" quantity="1"/>一以所得度減半周爲半和弧</seg>
+                    <seg xml:id="KR3fc071_tls_p29.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻" quantity="1"/>半和弧與半較弧相加爲大弧相減爲小弧</seg>
+                    <seg xml:id="KR3fc071_tls_p29.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有兩角較有對角兩弧和求兩弧</seg>
+                    <seg xml:id="KR3fc071_tls_p29.s4" state="locked">
+                        <lb n="4" ed="KX"/>法以半徑爲一率半較角正切爲二率半和弧正弦</seg>
+                    <seg xml:id="KR3fc071_tls_p29.s5" state="locked">
+                        <lb n="5" ed="KX"/>爲三率求得四率卽半較弧正弦</seg>
+                    <seg xml:id="KR3fc071_tls_p29.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻" quantity="1"/>一以所得度爲半較弧</seg>
+                    <seg xml:id="KR3fc071_tls_p29.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻" quantity="1"/>半較弧與半和弧相加爲大弧相減爲小弧</seg>
+                    <seg xml:id="KR3fc071_tls_p29.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有兩角和有對角兩弧較求兩弧</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p29.s9.1">
+                        <lb n="9" ed="KX"/>法以半徑爲一率半和角餘切爲二率</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p29.s9.2" type="comm">和角若過半<lb type="/"/>周減全周半</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p29.s10.1" type="comm">
+                        <lb n="10" ed="KX"/>之爲半<lb type="/"/>和角</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p29.s10.2">半較弧餘弦爲三率求得四率卽半和弧餘</seg>
+                    <seg xml:id="KR3fc071_tls_p29.s12" state="locked">
+                        <lb n="12" ed="KX"/>弦</seg>
+                    <seg xml:id="KR3fc071_tls_p29.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻" quantity="1"/>視和角在半周內以所得度爲半和弧和角在半</seg>
+                    <seg xml:id="KR3fc071_tls_p29.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻" quantity="1"/>周外以所得度減半周爲半和弧</seg>
+                    <seg xml:id="KR3fc071_tls_p29.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻" quantity="1"/>半和弧與半較弧相加爲大弧相減爲小弧</seg>
+                    <seg xml:id="KR3fc071_tls_p29.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有兩角和有對角兩弧和求兩弧</seg>
+                    <seg xml:id="KR3fc071_tls_p29.s17" state="locked">
+                        <lb n="17" ed="KX"/>法以半徑爲一率半和角正切爲二率半和弧餘弦</seg>
+                    <seg xml:id="KR3fc071_tls_p29.s18" state="locked">
+                        <lb n="18" ed="KX"/>爲三率求得四率卽半較弧餘弦</seg>
+                    <seg xml:id="KR3fc071_tls_p29.s19" state="locked">
+                        <lb n="19" ed="KX"/>
+                        <space n="䶻" quantity="1"/>一以所得度爲半較弧</seg>
+                    <seg xml:id="KR3fc071_tls_p29.s20" state="locked">
+                        <lb n="20" ed="KX"/>
+                        <space n="䶻" quantity="1"/>半較弧與半和弧相加爲大弧相減爲小弧</seg>
+                    <seg xml:id="KR3fc071_tls_p29.s21" state="locked">
+                        <lb n="21" ed="KX"/>附約法</seg>
+                    <pb ed="KX" n="03-07-118.30" xml:id="KR3fc071_tls_30a"/>
+                    <seg xml:id="KR3fc071_tls_p30.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻" quantity="1"/>以上諸術用四率相當比例其一二率所用二線</seg>
+                    <seg xml:id="KR3fc071_tls_p30.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻" quantity="1"/>恒同在一度若約之可易爲三率連比例旣省檢</seg>
+                    <seg xml:id="KR3fc071_tls_p30.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻" quantity="1"/>一線且推廣切割之用因以見諸率之比例固變</seg>
+                    <seg xml:id="KR3fc071_tls_p30.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻" quantity="1"/>動不居也備列術於後至得度加減圴與前同茲</seg>
+                    <seg xml:id="KR3fc071_tls_p30.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻" quantity="1"/>不復贅</seg>
+                    <seg xml:id="KR3fc071_tls_p30.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有一角有夾角兩弧較求和弧</seg>
+                    <seg xml:id="KR3fc071_tls_p30.s7" state="locked">
+                        <lb n="7" ed="KX"/>法以較弧正弦爲首率半角正切爲中率求得末率</seg>
+                    <seg xml:id="KR3fc071_tls_p30.s8" state="locked">
+                        <lb n="8" ed="KX"/>卽和弧餘割</seg>
+                    <seg xml:id="KR3fc071_tls_p30.s9" state="locked">
+                        <lb n="9" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有一角有夾角兩弧和求較弧</seg>
+                    <seg xml:id="KR3fc071_tls_p30.s10" state="locked">
+                        <lb n="10" ed="KX"/>法以和弧正弦爲首率半角餘切爲中率求得末率</seg>
+                    <seg xml:id="KR3fc071_tls_p30.s12" state="locked">
+                        <lb n="12" ed="KX"/>卽較弧餘割</seg>
+                    <seg xml:id="KR3fc071_tls_p30.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有一角有對角弧及對正角弧較求和弧</seg>
+                    <seg xml:id="KR3fc071_tls_p30.s14" state="locked">
+                        <lb n="14" ed="KX"/>法以半較弧正切爲首率半餘角正切爲中率求得</seg>
+                    <seg xml:id="KR3fc071_tls_p30.s15" state="locked">
+                        <lb n="15" ed="KX"/>末率卽半和弧餘切</seg>
+                    <seg xml:id="KR3fc071_tls_p30.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有一角有對角弧及對正角弧和求較弧</seg>
+                    <seg xml:id="KR3fc071_tls_p30.s17" state="locked">
+                        <lb n="17" ed="KX"/>法以半和弧正切爲首率半餘角餘切爲中率求得</seg>
+                    <seg xml:id="KR3fc071_tls_p30.s18" state="locked">
+                        <lb n="18" ed="KX"/>末率卽半較弧餘切</seg>
+                    <seg xml:id="KR3fc071_tls_p30.s19" state="locked">
+                        <lb n="19" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有不對正角弧有餘兩弧較求和弧</seg>
+                    <seg xml:id="KR3fc071_tls_p30.s20" state="locked">
+                        <lb n="20" ed="KX"/>法以半較弧正切爲首率半弧正切爲中率求得末</seg>
+                    <seg xml:id="KR3fc071_tls_p30.s21" state="locked">
+                        <lb n="21" ed="KX"/>率卽半和弧正切</seg>
+                    <pb ed="KX" n="03-07-118.31" xml:id="KR3fc071_tls_31a"/>
+                    <seg xml:id="KR3fc071_tls_p31.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有不對正角弧有餘兩弧和求較弧</seg>
+                    <seg xml:id="KR3fc071_tls_p31.s2" state="locked">
+                        <lb n="2" ed="KX"/>法以半和弧餘切爲首率半弧餘切爲中率求得末</seg>
+                    <seg xml:id="KR3fc071_tls_p31.s3" state="locked">
+                        <lb n="3" ed="KX"/>率卽半較弧餘切</seg>
+                    <seg xml:id="KR3fc071_tls_p31.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有對正角弧有兩角較求和角</seg>
+                    <seg xml:id="KR3fc071_tls_p31.s5" state="locked">
+                        <lb n="5" ed="KX"/>法以較角正割爲首率半弧正切爲中率求得末率</seg>
+                    <seg xml:id="KR3fc071_tls_p31.s6" state="locked">
+                        <lb n="6" ed="KX"/>卽和角餘弦</seg>
+                    <seg xml:id="KR3fc071_tls_p31.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有對正角弧有兩角和求較角</seg>
+                    <seg xml:id="KR3fc071_tls_p31.s8" state="locked">
+                        <lb n="8" ed="KX"/>法以和角正割爲首率半弧餘切爲中率求得末率</seg>
+                    <seg xml:id="KR3fc071_tls_p31.s9" state="locked">
+                        <lb n="9" ed="KX"/>卽較角餘弦</seg>
+                    <seg xml:id="KR3fc071_tls_p31.s10" state="locked">
+                        <lb n="10" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有不對正角弧有兩角較求和角</seg>
+                    <seg xml:id="KR3fc071_tls_p31.s12" state="locked">
+                        <lb n="12" ed="KX"/>法以較角半餘度正切爲首率半弧正切爲中率求</seg>
+                    <seg xml:id="KR3fc071_tls_p31.s13" state="locked">
+                        <lb n="13" ed="KX"/>得末率卽和角半餘度正切</seg>
+                    <seg xml:id="KR3fc071_tls_p31.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻" quantity="1"/>此比例對弧角小弧旁角大</seg>
+                    <seg xml:id="KR3fc071_tls_p31.s15" state="locked">
+                        <lb n="15" ed="KX"/>法以較角半餘度餘切爲首率半弧正切爲中率求</seg>
+                    <seg xml:id="KR3fc071_tls_p31.s16" state="locked">
+                        <lb n="16" ed="KX"/>得末率卽和角半餘度正切</seg>
+                    <seg xml:id="KR3fc071_tls_p31.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻" quantity="1"/>此比例對弧角大弧旁角小</seg>
+                    <seg xml:id="KR3fc071_tls_p31.s18" state="locked">
+                        <lb n="18" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有不對正角弧有兩角和求較角</seg>
+                    <seg xml:id="KR3fc071_tls_p31.s19" state="locked">
+                        <lb n="19" ed="KX"/>法以和角半餘度餘切爲首率半弧餘切爲中率求</seg>
+                    <seg xml:id="KR3fc071_tls_p31.s20" state="locked">
+                        <lb n="20" ed="KX"/>得末率卽較角半餘度餘切</seg>
+                    <seg xml:id="KR3fc071_tls_p31.s21" state="locked">
+                        <lb n="21" ed="KX"/>
+                        <space n="䶻" quantity="1"/>此比例對弧角小弧旁角大</seg>
+                    <pb ed="KX" n="03-07-118.32" xml:id="KR3fc071_tls_32a"/>
+                    <seg xml:id="KR3fc071_tls_p32.s1" state="locked">
+                        <lb n="1" ed="KX"/>法以和角半餘度餘切爲首率半弧餘切爲中率求</seg>
+                    <seg xml:id="KR3fc071_tls_p32.s2" state="locked">
+                        <lb n="2" ed="KX"/>得末率卽較角半餘度正切</seg>
+                    <seg xml:id="KR3fc071_tls_p32.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻" quantity="1"/>此比例對弧角大弧旁角小</seg>
+                    <pb ed="KX" n="03-07-118.33" xml:id="KR3fc071_tls_33a"/>
+                    <seg xml:id="KR3fc071_tls_p33.s1" state="locked">
+                        <lb n="1" ed="KX"/>平三角和較術</seg>
+                    <seg xml:id="KR3fc071_tls_p33.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻" quantity="1"/>斜弧三角</seg>
+                    <seg xml:id="KR3fc071_tls_p33.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有兩角有對角兩邊較弧求兩弧</seg>
+                    <seg xml:id="KR3fc071_tls_p33.s4" state="locked">
+                        <lb n="4" ed="KX"/>法以兩角相減折半爲半較角相加折半爲半和角</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p33.s5.1">
+                        <lb n="5" ed="KX"/>迺以半較角正切爲一率半和角正切爲二率</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p33.s5.2" type="comm">過象<lb type="/"/>限用</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p33.s6.1" type="comm">
+                        <lb n="6" ed="KX"/>外度<lb type="/"/>正切</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p33.s6.2">半較弧正切爲三率求得四率卽半和弧正切</seg>
+                    <seg xml:id="KR3fc071_tls_p33.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻" quantity="1"/>視半和角過象限求得度減半周爲半和弧半和</seg>
+                    <seg xml:id="KR3fc071_tls_p33.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻" quantity="1"/>角不過象限求得度卽半和弧迺以半和弧與半</seg>
+                    <seg xml:id="KR3fc071_tls_p33.s9" state="locked">
+                        <lb n="9" ed="KX"/>
+                        <space n="䶻" quantity="1"/>較弧相加爲大弧相減爲小弧</seg>
+                    <seg xml:id="KR3fc071_tls_p33.s10" state="locked">
+                        <lb n="10" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有兩角有對角兩邊和弧求兩弧</seg>
+                    <seg xml:id="KR3fc071_tls_p33.s12" state="locked">
+                        <lb n="12" ed="KX"/>法以兩角相加折半爲半和角相減折半爲半較角</seg>
+                    <seg xml:id="KR3fc071_tls_p33.s13" state="locked">
+                        <lb n="13" ed="KX"/>迺以半和角正切爲一率半較角正切爲二率半和</seg>
+                    <seg xml:id="KR3fc071_tls_p33.s14" state="locked">
+                        <lb n="14" ed="KX"/>弧正切爲三率求得四率卽半較弧正切</seg>
+                    <seg xml:id="KR3fc071_tls_p33.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻" quantity="1"/>以半較弧與半和弧相加爲大弧相減爲小弧</seg>
+                    <seg xml:id="KR3fc071_tls_p33.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有兩弧有對弧兩角較角求兩角</seg>
+                    <seg xml:id="KR3fc071_tls_p33.s17" state="locked">
+                        <lb n="17" ed="KX"/>法以兩弧相減折半爲半較弧相加折半爲半和弧</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p33.s18.1">
+                        <lb n="18" ed="KX"/>迺以半較弧正切爲一率半和弧正切爲二率</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p33.s18.2" type="comm">過象<lb type="/"/>外度</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p33.s19.1" type="comm">
+                        <lb n="19" ed="KX"/>限用<lb type="/"/>正切</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p33.s19.2">半較角正切爲三率求得四率卽半和角正切</seg>
+                    <seg xml:id="KR3fc071_tls_p33.s20" state="locked">
+                        <lb n="20" ed="KX"/>
+                        <space n="䶻" quantity="1"/>視半和弧過象限求得度減半周爲半和角半和</seg>
+                    <seg xml:id="KR3fc071_tls_p33.s21" state="locked">
+                        <lb n="21" ed="KX"/>
+                        <space n="䶻" quantity="1"/>弧不過象限求得度卽半和角迺以半和角與半</seg>
+                    <pb ed="KX" n="03-07-118.34" xml:id="KR3fc071_tls_34a"/>
+                    <seg xml:id="KR3fc071_tls_p34.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻" quantity="1"/>較角相加爲大角相減爲小角</seg>
+                    <seg xml:id="KR3fc071_tls_p34.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有兩弧有對弧兩角和角求兩角</seg>
+                    <seg xml:id="KR3fc071_tls_p34.s3" state="locked">
+                        <lb n="3" ed="KX"/>法以兩弧相加折半爲半和弧相減折半爲半較弧</seg>
+                    <seg xml:id="KR3fc071_tls_p34.s4" state="locked">
+                        <lb n="4" ed="KX"/>乃以半和弧正切爲一率半較弧正切爲二率半和</seg>
+                    <seg xml:id="KR3fc071_tls_p34.s5" state="locked">
+                        <lb n="5" ed="KX"/>角正切爲三率求得四率卽半較角正切</seg>
+                    <seg xml:id="KR3fc071_tls_p34.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻" quantity="1"/>以半較角與半和角相加爲大角相減爲小角</seg>
+                    <seg xml:id="KR3fc071_tls_p34.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有一角有對角弧有夾角兩邊較弧求兩弧</seg>
+                    <seg xml:id="KR3fc071_tls_p34.s8" state="locked">
+                        <lb n="8" ed="KX"/>法以半角正切爲一率半角餘切爲二率視較弧對</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p34.s9.1">
+                        <lb n="9" ed="KX"/>弧同居一象限</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p34.s9.2" type="comm">較弧與對弧俱過象限或<lb type="/"/>俱不過爲同居一象限</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p34.s9.3">兩餘弦相</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p34.s10.1">
+                        <lb n="10" ed="KX"/>減分居兩象限</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p34.s10.2" type="comm">較弧與對弧一過象限一<lb type="/"/>不過象限爲分居兩象限</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p34.s10.3">兩餘弦相</seg>
+                    <seg xml:id="KR3fc071_tls_p34.s12" state="locked">
+                        <lb n="12" ed="KX"/>加爲三率求得四率視對弧過象限以餘弦相加不</seg>
+                    <seg xml:id="KR3fc071_tls_p34.s13" state="locked">
+                        <lb n="13" ed="KX"/>過象限以餘弦相減爲和弧餘弦</seg>
+                    <seg xml:id="KR3fc071_tls_p34.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻" quantity="1"/>對弧過象限或不過象限而餘弦小於四率者以</seg>
+                    <seg xml:id="KR3fc071_tls_p34.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻" quantity="1"/>求得餘弦度一減半周爲和弧一加半周爲和弧</seg>
+                    <seg xml:id="KR3fc071_tls_p34.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻" quantity="1"/>若對弧不過象限而餘弦大於四率者以求得餘</seg>
+                    <seg xml:id="KR3fc071_tls_p34.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻" quantity="1"/>弦度一卽爲和弧一減全周爲和弧</seg>
+                    <seg xml:id="KR3fc071_tls_p34.s18" state="locked">
+                        <lb n="18" ed="KX"/>
+                        <space n="䶻" quantity="1"/>以和弧與較弧相加折半爲大弧相減折半爲小</seg>
+                    <seg xml:id="KR3fc071_tls_p34.s19" state="locked">
+                        <lb n="19" ed="KX"/>
+                        <space n="䶻" quantity="1"/>弧</seg>
+                    <seg xml:id="KR3fc071_tls_p34.s20" state="locked">
+                        <lb n="20" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有一角有對角弧有夾角兩邊和弧求兩弧</seg>
+                    <seg xml:id="KR3fc071_tls_p34.s21" state="locked">
+                        <lb n="21" ed="KX"/>法以半角餘切爲一率半角正切爲二率視和弧對</seg>
+                    <pb ed="KX" n="03-07-118.35" xml:id="KR3fc071_tls_35a"/>
+                    <seg state="locked" xml:id="KR3fc071_tls_p35.s1.1">
+                        <lb n="1" ed="KX"/>弧同居一象限</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p35.s1.2" type="comm">對弧不過象限和弧亦不過或過三<lb type="/"/>象限者對弧過象限和孤亦過或過</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p35.s2.1" type="comm">
+                        <lb n="2" ed="KX"/>兩象限者皆爲<lb type="/"/>同居一象限</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p35.s2.2">兩餘弦相減分居兩象限</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p35.s2.3" type="comm">對弧不過<lb type="/"/>象限和弧</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p35.s3.1" type="comm">
+                        <lb n="3" ed="KX"/>過象限或過兩象<lb type="/"/>限爲分居兩象限</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p35.s3.2">兩餘弦相加爲三率求得四率視</seg>
+                    <seg xml:id="KR3fc071_tls_p35.s4" state="locked">
+                        <lb n="4" ed="KX"/>對弧不過象限以餘弦相加對弧過象限以餘弦相</seg>
+                    <seg xml:id="KR3fc071_tls_p35.s5" state="locked">
+                        <lb n="5" ed="KX"/>減爲較弧餘弦</seg>
+                    <seg xml:id="KR3fc071_tls_p35.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻" quantity="1"/>對弧不過象限或過象限而餘弦小於四率者求</seg>
+                    <seg xml:id="KR3fc071_tls_p35.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻" quantity="1"/>得餘弦度卽爲較弧若對弧過象限而餘弦大於</seg>
+                    <seg xml:id="KR3fc071_tls_p35.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻" quantity="1"/>四率者求得餘弦度減半周爲較弧</seg>
+                    <seg xml:id="KR3fc071_tls_p35.s9" state="locked">
+                        <lb n="9" ed="KX"/>
+                        <space n="䶻" quantity="1"/>以較弧與和弧相加折半爲大弧相減折半爲小</seg>
+                    <seg xml:id="KR3fc071_tls_p35.s10" state="locked">
+                        <lb n="10" ed="KX"/>
+                        <space n="䶻" quantity="1"/>弧</seg>
+                    <seg xml:id="KR3fc071_tls_p35.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有一弧有對弧角有夾弧兩角較角求兩角</seg>
+                    <seg xml:id="KR3fc071_tls_p35.s13" state="locked">
+                        <lb n="13" ed="KX"/>法以半弧餘切爲一率半弧正切爲二率視較角對</seg>
+                    <seg xml:id="KR3fc071_tls_p35.s14" state="locked">
+                        <lb n="14" ed="KX"/>角鈍銳同名兩餘弦相加鈍銳異名兩<space n="䶻" quantity="1"/>弦相減爲</seg>
+                    <seg xml:id="KR3fc071_tls_p35.s15" state="locked">
+                        <lb n="15" ed="KX"/>三率求得四率視對角銳以其餘弦相加對角鈍以</seg>
+                    <seg xml:id="KR3fc071_tls_p35.s16" state="locked">
+                        <lb n="16" ed="KX"/>其餘弦相減爲和角餘弦</seg>
+                    <seg xml:id="KR3fc071_tls_p35.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻" quantity="1"/>對角爲銳角或鈍角而其餘弦小於四率者以求</seg>
+                    <seg xml:id="KR3fc071_tls_p35.s18" state="locked">
+                        <lb n="18" ed="KX"/>
+                        <space n="䶻" quantity="1"/>得餘弦度一減半周爲和角一加半周爲和角若</seg>
+                    <seg xml:id="KR3fc071_tls_p35.s19" state="locked">
+                        <lb n="19" ed="KX"/>
+                        <space n="䶻" quantity="1"/>鈍角而其餘弦大於四率者以求得餘弦度一卽</seg>
+                    <seg xml:id="KR3fc071_tls_p35.s20" state="locked">
+                        <lb n="20" ed="KX"/>
+                        <space n="䶻" quantity="1"/>爲和角一減全周爲和角</seg>
+                    <seg xml:id="KR3fc071_tls_p35.s21" state="locked">
+                        <lb n="21" ed="KX"/>
+                        <space n="䶻" quantity="1"/>以和角與較角相加折半爲大角相減折半爲小</seg>
+                    <pb ed="KX" n="03-07-118.36" xml:id="KR3fc071_tls_36a"/>
+                    <seg xml:id="KR3fc071_tls_p36.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻" quantity="1"/>角</seg>
+                    <seg xml:id="KR3fc071_tls_p36.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有一弧有對弧角有夾弧兩角和角求兩角</seg>
+                    <seg xml:id="KR3fc071_tls_p36.s3" state="locked">
+                        <lb n="3" ed="KX"/>法以半弧正切爲一率半弧餘切爲二率視和角對</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p36.s4.1">
+                        <lb n="4" ed="KX"/>角鈍銳同名</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p36.s4.2" type="comm">和角若過三象限<lb type="/"/>亦與銳角爲同名</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p36.s4.3">兩餘弦相加鈍銳異</seg>
+                    <seg xml:id="KR3fc071_tls_p36.s5" state="locked">
+                        <lb n="5" ed="KX"/>名兩餘弦相減爲三率求得四率視對角鈍以其餘</seg>
+                    <seg xml:id="KR3fc071_tls_p36.s6" state="locked">
+                        <lb n="6" ed="KX"/>弦相加對角銳以其餘弦相減爲較角餘弦</seg>
+                    <seg xml:id="KR3fc071_tls_p36.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻" quantity="1"/>對角爲鈍角或銳角而其餘弦小於四率者求得</seg>
+                    <seg xml:id="KR3fc071_tls_p36.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻" quantity="1"/>餘弦度卽爲較角若爲銳角而其餘弦大於四率</seg>
+                    <seg xml:id="KR3fc071_tls_p36.s9" state="locked">
+                        <lb n="9" ed="KX"/>
+                        <space n="䶻" quantity="1"/>者求得餘弦度減半周爲較角</seg>
+                    <seg xml:id="KR3fc071_tls_p36.s10" state="locked">
+                        <lb n="10" ed="KX"/>
+                        <space n="䶻" quantity="1"/>以較角與和角相加折半爲大角相減折半爲小</seg>
+                    <seg xml:id="KR3fc071_tls_p36.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻" quantity="1"/>角</seg>
+                    <seg xml:id="KR3fc071_tls_p36.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有一弧有餘兩弧較有弧旁小角求弧旁大角</seg>
+                    <seg xml:id="KR3fc071_tls_p36.s14" state="locked">
+                        <lb n="14" ed="KX"/>法以所知弧與較弧相減折半爲半較相加折半爲</seg>
+                    <seg xml:id="KR3fc071_tls_p36.s15" state="locked">
+                        <lb n="15" ed="KX"/>半和迺以半較正弦爲一率半和正弦爲二率半小</seg>
+                    <seg xml:id="KR3fc071_tls_p36.s16" state="locked">
+                        <lb n="16" ed="KX"/>角正切爲三率求得四率卽半大角正切</seg>
+                    <seg xml:id="KR3fc071_tls_p36.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻" quantity="1"/>若先知弧旁大角而求小角者更率算之</seg>
+                    <seg xml:id="KR3fc071_tls_p36.s18" state="locked">
+                        <lb n="18" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有一弧有餘兩弧和有弧旁小角求弧旁大角</seg>
+                    <seg xml:id="KR3fc071_tls_p36.s19" state="locked">
+                        <lb n="19" ed="KX"/>法以所知弧與和弧相減折半爲半較相加折半爲</seg>
+                    <seg xml:id="KR3fc071_tls_p36.s20" state="locked">
+                        <lb n="20" ed="KX"/>半和迺以半較正弦爲一率半和正弦爲二率半小</seg>
+                    <seg xml:id="KR3fc071_tls_p36.s21" state="locked">
+                        <lb n="21" ed="KX"/>角正切爲三率求得四率卽半大角餘切</seg>
+                    <pb ed="KX" n="03-07-118.37" xml:id="KR3fc071_tls_37a"/>
+                    <seg xml:id="KR3fc071_tls_p37.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻" quantity="1"/>若先知弧旁大角而求小角者更率算之</seg>
+                    <seg xml:id="KR3fc071_tls_p37.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有一角有餘兩角較有角旁小弧求角旁大弧</seg>
+                    <seg xml:id="KR3fc071_tls_p37.s3" state="locked">
+                        <lb n="3" ed="KX"/>法以所知角與較角相加折半爲半和相減折半爲</seg>
+                    <seg xml:id="KR3fc071_tls_p37.s4" state="locked">
+                        <lb n="4" ed="KX"/>半較迺以半和餘弦爲一率半較餘弦爲二率半小</seg>
+                    <seg xml:id="KR3fc071_tls_p37.s5" state="locked">
+                        <lb n="5" ed="KX"/>弧正切爲三率求得四率卽半大弧正切</seg>
+                    <seg xml:id="KR3fc071_tls_p37.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻" quantity="1"/>若先知角旁大弧而求小弧者更率算之</seg>
+                    <seg xml:id="KR3fc071_tls_p37.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有一角有餘兩角和有角旁小弧求角旁大弧</seg>
+                    <seg xml:id="KR3fc071_tls_p37.s8" state="locked">
+                        <lb n="8" ed="KX"/>法以所知角與和角相加折半爲半和相減折半爲</seg>
+                    <seg xml:id="KR3fc071_tls_p37.s9" state="locked">
+                        <lb n="9" ed="KX"/>半較迺以半和餘弦爲一率半較餘弦爲二率半小</seg>
+                    <seg xml:id="KR3fc071_tls_p37.s10" state="locked">
+                        <lb n="10" ed="KX"/>弧正切爲三率求得四率卽半大弧餘切</seg>
+                    <seg xml:id="KR3fc071_tls_p37.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻" quantity="1"/>若先知角旁大弧而求小弧者更率算之</seg>
+                    <seg xml:id="KR3fc071_tls_p37.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有一弧有餘兩弧較有對較弧之兩角較求兩</seg>
+                    <seg xml:id="KR3fc071_tls_p37.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>角</seg>
+                    <seg xml:id="KR3fc071_tls_p37.s15" state="locked">
+                        <lb n="15" ed="KX"/>法以半弧餘切爲一率半較弧餘切爲二率半較角</seg>
+                    <seg xml:id="KR3fc071_tls_p37.s16" state="locked">
+                        <lb n="16" ed="KX"/>正弦爲三率求得四率卽半和角正弦</seg>
+                    <seg xml:id="KR3fc071_tls_p37.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻" quantity="1"/>一以求得度爲半和角一以求得度減半周爲半</seg>
+                    <seg xml:id="KR3fc071_tls_p37.s18" state="locked">
+                        <lb n="18" ed="KX"/>
+                        <space n="䶻" quantity="1"/>和角</seg>
+                    <seg xml:id="KR3fc071_tls_p37.s19" state="locked">
+                        <lb n="19" ed="KX"/>
+                        <space n="䶻" quantity="1"/>以半和角與半較角相加爲大角相減爲小角</seg>
+                    <seg xml:id="KR3fc071_tls_p37.s20" state="locked">
+                        <lb n="20" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有一弧有餘兩弧和有對和弧之兩角較求兩</seg>
+                    <seg xml:id="KR3fc071_tls_p37.s21" state="locked">
+                        <lb n="21" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>角</seg>
+                    <pb ed="KX" n="03-07-118.38" xml:id="KR3fc071_tls_38a"/>
+                    <seg xml:id="KR3fc071_tls_p38.s1" state="locked">
+                        <lb n="1" ed="KX"/>法以半弧餘切爲一率半和弧餘切爲二率半較角</seg>
+                    <seg xml:id="KR3fc071_tls_p38.s2" state="locked">
+                        <lb n="2" ed="KX"/>餘弦爲三率求得四率卽半和角餘弦</seg>
+                    <seg xml:id="KR3fc071_tls_p38.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻" quantity="1"/>視半和弧不過象限卽以求得度爲半和角半和</seg>
+                    <seg xml:id="KR3fc071_tls_p38.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻" quantity="1"/>弧過象限以求得度減半周爲半和角</seg>
+                    <seg xml:id="KR3fc071_tls_p38.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻" quantity="1"/>以半和角與半較角相加爲大角相減爲小角</seg>
+                    <seg xml:id="KR3fc071_tls_p38.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有一弧有餘兩弧較有對較弧之兩角和求兩</seg>
+                    <seg xml:id="KR3fc071_tls_p38.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>角</seg>
+                    <seg xml:id="KR3fc071_tls_p38.s8" state="locked">
+                        <lb n="8" ed="KX"/>法以半弧正切爲一率半較弧正切爲二率半和角</seg>
+                    <seg xml:id="KR3fc071_tls_p38.s9" state="locked">
+                        <lb n="9" ed="KX"/>正弦爲三率求得四率卽半較角正弦</seg>
+                    <seg xml:id="KR3fc071_tls_p38.s10" state="locked">
+                        <lb n="10" ed="KX"/>
+                        <space n="䶻" quantity="1"/>以半較角與半和角相加爲大角相減爲小角</seg>
+                    <seg xml:id="KR3fc071_tls_p38.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有一弧有餘兩弧和有對和弧之兩角和求兩</seg>
+                    <seg xml:id="KR3fc071_tls_p38.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>角</seg>
+                    <seg xml:id="KR3fc071_tls_p38.s14" state="locked">
+                        <lb n="14" ed="KX"/>法以半弧正切爲一率半和弧正切爲二率半和角</seg>
+                    <seg xml:id="KR3fc071_tls_p38.s15" state="locked">
+                        <lb n="15" ed="KX"/>餘弦爲三率求得四率卽半較角餘弦</seg>
+                    <seg xml:id="KR3fc071_tls_p38.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻" quantity="1"/>以半較角與半和角相加爲大角相減爲小角</seg>
+                    <seg xml:id="KR3fc071_tls_p38.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有一角有餘兩角較有對較角之兩弧較求兩</seg>
+                    <seg xml:id="KR3fc071_tls_p38.s18" state="locked">
+                        <lb n="18" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>弧</seg>
+                    <seg xml:id="KR3fc071_tls_p38.s19" state="locked">
+                        <lb n="19" ed="KX"/>法以半角正切爲一率半較角餘切爲二率半較弧</seg>
+                    <seg xml:id="KR3fc071_tls_p38.s20" state="locked">
+                        <lb n="20" ed="KX"/>正弦爲三率求得四率卽半和弧正弦</seg>
+                    <seg xml:id="KR3fc071_tls_p38.s21" state="locked">
+                        <lb n="21" ed="KX"/>
+                        <space n="䶻" quantity="1"/>一以求得度爲半和弧一以求得度減半周爲半</seg>
+                    <pb ed="KX" n="03-07-118.39" xml:id="KR3fc071_tls_39a"/>
+                    <seg xml:id="KR3fc071_tls_p39.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻" quantity="1"/>和弧</seg>
+                    <seg xml:id="KR3fc071_tls_p39.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻" quantity="1"/>以半和弧與半較弧相加爲大弧相減爲小弧</seg>
+                    <seg xml:id="KR3fc071_tls_p39.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有一角有餘兩角和有對和角之兩弧較求兩</seg>
+                    <seg xml:id="KR3fc071_tls_p39.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>弧</seg>
+                    <seg xml:id="KR3fc071_tls_p39.s5" state="locked">
+                        <lb n="5" ed="KX"/>法以半角正切爲一率半和角餘切爲二率半較弧</seg>
+                    <seg xml:id="KR3fc071_tls_p39.s6" state="locked">
+                        <lb n="6" ed="KX"/>餘弦爲三率求得四率卽半和弧餘弦</seg>
+                    <seg xml:id="KR3fc071_tls_p39.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻" quantity="1"/>視半和角爲銳角卽以求得度爲半和弧半和角</seg>
+                    <seg xml:id="KR3fc071_tls_p39.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻" quantity="1"/>爲鈍角以求得度減半周爲半和弧</seg>
+                    <seg xml:id="KR3fc071_tls_p39.s9" state="locked">
+                        <lb n="9" ed="KX"/>
+                        <space n="䶻" quantity="1"/>以孚和弧與半較弧相加爲大弧相減爲小弧</seg>
+                    <seg xml:id="KR3fc071_tls_p39.s10" state="locked">
+                        <lb n="10" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有一角有餘兩角較有對較角之兩弧和求兩</seg>
+                    <seg xml:id="KR3fc071_tls_p39.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>弧</seg>
+                    <seg xml:id="KR3fc071_tls_p39.s13" state="locked">
+                        <lb n="13" ed="KX"/>法以半角餘切爲一率半較角正切爲二率半和弧</seg>
+                    <seg xml:id="KR3fc071_tls_p39.s14" state="locked">
+                        <lb n="14" ed="KX"/>正弦爲三率求得四率卽半較弧正弦</seg>
+                    <seg xml:id="KR3fc071_tls_p39.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻" quantity="1"/>以半較弧與半和弧相加爲大弧相減爲小弧</seg>
+                    <seg xml:id="KR3fc071_tls_p39.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有一角有餘兩角和有對和角之兩弧和求兩</seg>
+                    <seg xml:id="KR3fc071_tls_p39.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>弧</seg>
+                    <seg xml:id="KR3fc071_tls_p39.s18" state="locked">
+                        <lb n="18" ed="KX"/>法以半角餘切爲一率半和角正切爲二率半和弧</seg>
+                    <seg xml:id="KR3fc071_tls_p39.s19" state="locked">
+                        <lb n="19" ed="KX"/>餘弦爲三率求得四率卽半較弧餘弦</seg>
+                    <seg xml:id="KR3fc071_tls_p39.s20" state="locked">
+                        <lb n="20" ed="KX"/>
+                        <space n="䶻" quantity="1"/>以半較弧與半和弧相加爲大弧相減爲小弧</seg>
+                    <pb ed="KX" n="03-07-118.40" xml:id="KR3fc071_tls_40a"/>
+                    <head xml:id="KR3fc071_tls_p40.s1-h">
+                        <seg xml:id="KR3fc071_tls_p40.s1" state="locked">
+                            <lb n="1" ed="KX"/>象数之學古疎而今密(有)髫年即好涉獵焉顧未能</seg>
+                    </head>
+                    <seg xml:id="KR3fc071_tls_p40.s2" state="locked">
+                        <lb n="2" ed="KX"/>究其淵微庚子冬從</seg>
+                    <seg xml:id="KR3fc071_tls_p40.s3" state="locked">
+                        <lb n="3" ed="KX"/>梅侣項先生游 先生熟精中西術善能推廣發明</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p40.s4.1">
+                        <lb n="4" ed="KX"/>之而於同學中獨以</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p40.s4.2" type="comm">有</seg>
+                    <seg state="locked" xml:id="KR3fc071_tls_p40.s4.3">爲可教每質疑問難諄諄然</seg>
+                    <seg xml:id="KR3fc071_tls_p40.s5" state="locked">
+                        <lb n="5" ed="KX"/>指陳義蕴心扄爲之一開檢 先生舊稿見有平三</seg>
+                    <seg xml:id="KR3fc071_tls_p40.s6" state="locked">
+                        <lb n="6" ed="KX"/>角弧三角和較術圖解雖未成而術己畧備於是請</seg>
+                    <seg xml:id="KR3fc071_tls_p40.s7" state="locked">
+                        <lb n="7" ed="KX"/>於先生曰是術古所未有而 先生秘不示人豈以</seg>
+                    <seg xml:id="KR3fc071_tls_p40.s8" state="locked">
+                        <lb n="8" ed="KX"/>未成書故耶夫三角法自平而弧理至奧矣更益以</seg>
+                    <seg xml:id="KR3fc071_tls_p40.s9" state="locked">
+                        <lb n="9" ed="KX"/>和較幾莫测其數之所存而乃比例詳明婉轉妙合</seg>
+                    <seg xml:id="KR3fc071_tls_p40.s10" state="locked">
+                        <lb n="10" ed="KX"/>若是是不可以不公世也敢請撮集算例先鐫之爲</seg>
+                    <seg xml:id="KR3fc071_tls_p40.s12" state="locked">
+                        <lb n="12" ed="KX"/>別行本圖解俟後續成焉當無不可鐫既竣筆記其</seg>
+                    <seg xml:id="KR3fc071_tls_p40.s13" state="locked">
+                        <lb n="13" ed="KX"/>大概於後</seg>
+                    <seg xml:id="KR3fc071_tls_p40.s14" state="locked">
+                        <lb n="14" ed="KX"/>道光癸卯冬受業錢塘吉甫王大有算校謹識</seg>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

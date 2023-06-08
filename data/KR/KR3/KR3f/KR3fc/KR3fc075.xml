@@ -1,0 +1,1610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KR3fc075">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>測圓密率</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <idno type="kanripo">KR3fc075</idno>
+                </edition>
+            </editionStmt>
+            <extent>
+                <measure unit="char" quantity="10257"/>
+                <date when-iso="2023-06-03T16:15:51.59+09:00"/>
+            </extent>
+            <publicationStmt>
+                <p>Published electronically</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>[清]徐有壬　版本信息[清刻務民義齋算學本]</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <catRef scheme="#kr-categories" target="#KR3fc"/>
+            </textClass>
+            <creation/>
+        </profileDesc>
+        <encodingDesc>
+            <variantEncoding location="external" method="double-end-point"/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <p>
+                    <pb ed="KX" n="03-07-121.1" xml:id="KR3fc075_tls_1a"/>
+                    <head xml:id="KR3fc075_tls_p1.s1-h">
+                        <seg xml:id="KR3fc075_tls_p1.s1" state="locked">
+                            <lb n="1" ed="KX"/>測圓密率卷第一</seg>
+                    </head>
+                    <seg xml:id="KR3fc075_tls_p1.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻䶻䶻䶻䶻䶻䶻䶻䶻䶻䶻" quantity="11"/>烏程徐有壬君青著</seg>
+                    <seg xml:id="KR3fc075_tls_p1.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻" quantity="1"/>第一術</seg>
+                    <seg xml:id="KR3fc075_tls_p1.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>圜徑求周</seg>
+                    <seg xml:id="KR3fc075_tls_p1.s5" state="locked">
+                        <lb n="5" ed="KX"/>三因圜徑爲第一數<space n="䶻" quantity="1"/>四分第一數之一二除之三除之</seg>
+                    <seg xml:id="KR3fc075_tls_p1.s6" state="locked">
+                        <lb n="6" ed="KX"/>爲第二數<space n="䶻" quantity="1"/>四分第二數之一九乘之四除之五除之爲</seg>
+                    <seg xml:id="KR3fc075_tls_p1.s7" state="locked">
+                        <lb n="7" ed="KX"/>第三數<space n="䶻" quantity="1"/>四分第三數之一二十五乘之六除之七除之</seg>
+                    <seg xml:id="KR3fc075_tls_p1.s8" state="locked">
+                        <lb n="8" ed="KX"/>爲第四數<space n="䶻" quantity="1"/>四分第四數之一四十九乘之八除之九除</seg>
+                    <seg xml:id="KR3fc075_tls_p1.s9" state="locked">
+                        <lb n="9" ed="KX"/>之爲第五數<space n="䶻" quantity="1"/>四分第五數之一八十一乘之十除之十</seg>
+                    <seg xml:id="KR3fc075_tls_p1.s10" state="locked">
+                        <lb n="10" ed="KX"/>一除之爲第六數<space n="䶻" quantity="1"/>順是以下皆如是遞求至單位下乃</seg>
+                    <seg xml:id="KR3fc075_tls_p1.s12" state="locked">
+                        <lb n="12" ed="KX"/>相併爲圜周</seg>
+                    <seg xml:id="KR3fc075_tls_p1.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>此杜德美原法秀水朱先生依法步算徑一者周三</seg>
+                    <seg xml:id="KR3fc075_tls_p1.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>一四一五九二六五三五八九七九三二三八四六</seg>
+                    <seg xml:id="KR3fc075_tls_p1.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>二六四三一八六三六七四七二二七九五一四周</seg>
+                    <seg xml:id="KR3fc075_tls_p1.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>十者徑三一八三○九八八六一八三七九○六七</seg>
+                    <seg xml:id="KR3fc075_tls_p1.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>一五三七七六七五四六六九六三八九○五六六</seg>
+                    <seg xml:id="KR3fc075_tls_p1.s18" state="locked">
+                        <lb n="18" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>六一</seg>
+                    <seg xml:id="KR3fc075_tls_p1.s19" state="locked">
+                        <lb n="19" ed="KX"/>
+                        <space n="䶻" quantity="1"/>第二術</seg>
+                    <seg xml:id="KR3fc075_tls_p1.s20" state="locked">
+                        <lb n="20" ed="KX"/>
+                        <space n="䶻" quantity="1"/>圜徑求面積</seg>
+                    <seg xml:id="KR3fc075_tls_p1.s21" state="locked">
+                        <lb n="21" ed="KX"/>徑自乘三之四而一爲第一數<space n="䶻" quantity="1"/>四分第一數之一二除</seg>
+                    <pb ed="KX" n="03-07-121.2" xml:id="KR3fc075_tls_2a"/>
+                    <seg xml:id="KR3fc075_tls_p2.s1" state="locked">
+                        <lb n="1" ed="KX"/>之三除之爲第二數<space n="䶻" quantity="1"/>四分第二數之一九乘之四除之</seg>
+                    <seg xml:id="KR3fc075_tls_p2.s2" state="locked">
+                        <lb n="2" ed="KX"/>五除之爲第三數<space n="䶻" quantity="1"/>四分第三數之一二十五乘之六除</seg>
+                    <seg xml:id="KR3fc075_tls_p2.s3" state="locked">
+                        <lb n="3" ed="KX"/>之七除之爲第四數<space n="䶻" quantity="1"/>順是以下皆如是遞求至單位下</seg>
+                    <seg xml:id="KR3fc075_tls_p2.s4" state="locked">
+                        <lb n="4" ed="KX"/>乃相併爲圜積</seg>
+                    <seg xml:id="KR3fc075_tls_p2.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻" quantity="1"/>第三術</seg>
+                    <seg xml:id="KR3fc075_tls_p2.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>球徑求體積</seg>
+                    <seg xml:id="KR3fc075_tls_p2.s7" state="locked">
+                        <lb n="7" ed="KX"/>球徑自乘再乘半之爲第一數<space n="䶻" quantity="1"/>四分第一數之一二除</seg>
+                    <seg xml:id="KR3fc075_tls_p2.s8" state="locked">
+                        <lb n="8" ed="KX"/>之三除之爲第二數<space n="䶻" quantity="1"/>四分第二數之一九乘之四除之</seg>
+                    <seg xml:id="KR3fc075_tls_p2.s9" state="locked">
+                        <lb n="9" ed="KX"/>五除之爲第三數<space n="䶻" quantity="1"/>四分第三數之一二十五乘之六除</seg>
+                    <seg xml:id="KR3fc075_tls_p2.s10" state="locked">
+                        <lb n="10" ed="KX"/>之七除之爲第四數<space n="䶻" quantity="1"/>順是以下皆如是遞求至單位下</seg>
+                    <seg xml:id="KR3fc075_tls_p2.s12" state="locked">
+                        <lb n="12" ed="KX"/>乃相併爲球體積</seg>
+                    <seg xml:id="KR3fc075_tls_p2.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻" quantity="1"/>第四術</seg>
+                    <seg xml:id="KR3fc075_tls_p2.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>圜面積求周</seg>
+                    <seg xml:id="KR3fc075_tls_p2.s15" state="locked">
+                        <lb n="15" ed="KX"/>十二因面積爲第一數<space n="䶻" quantity="1"/>四分第一數之一二除之三除</seg>
+                    <seg xml:id="KR3fc075_tls_p2.s16" state="locked">
+                        <lb n="16" ed="KX"/>之爲第二數<space n="䶻" quantity="1"/>四分第二數之一九乘之四除之五除之</seg>
+                    <seg xml:id="KR3fc075_tls_p2.s17" state="locked">
+                        <lb n="17" ed="KX"/>爲第三數<space n="䶻" quantity="1"/>四分第三數之一二十五乘之六除之七除</seg>
+                    <seg xml:id="KR3fc075_tls_p2.s18" state="locked">
+                        <lb n="18" ed="KX"/>之爲第四數<space n="䶻" quantity="1"/>順是以下皆如是遞求至單位下相併爲</seg>
+                    <seg xml:id="KR3fc075_tls_p2.s19" state="locked">
+                        <lb n="19" ed="KX"/>周之自乘羃開平方得圜周</seg>
+                    <seg xml:id="KR3fc075_tls_p2.s20" state="locked">
+                        <lb n="20" ed="KX"/>
+                        <space n="䶻" quantity="1"/>第五術</seg>
+                    <seg xml:id="KR3fc075_tls_p2.s21" state="locked">
+                        <lb n="21" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>圜徑羃求圜周羃</seg>
+                    <pb ed="KX" n="03-07-121.3" xml:id="KR3fc075_tls_3a"/>
+                    <seg xml:id="KR3fc075_tls_p3.s1" state="locked">
+                        <lb n="1" ed="KX"/>圜徑自乘九之爲第一數<space n="䶻" quantity="1"/>副置第一數三除之四除之</seg>
+                    <seg xml:id="KR3fc075_tls_p3.s2" state="locked">
+                        <lb n="2" ed="KX"/>爲第二數<space n="䶻" quantity="1"/>四因第二數五除之六除之爲第三數<space n="䶻" quantity="1"/>九</seg>
+                    <seg xml:id="KR3fc075_tls_p3.s3" state="locked">
+                        <lb n="3" ed="KX"/>因第三數七除之八除之爲第四數<space n="䶻" quantity="1"/>十六因第四數九</seg>
+                    <seg xml:id="KR3fc075_tls_p3.s4" state="locked">
+                        <lb n="4" ed="KX"/>除之十除之爲第五數<space n="䶻" quantity="1"/>二十五因第五數十一除之十</seg>
+                    <seg xml:id="KR3fc075_tls_p3.s5" state="locked">
+                        <lb n="5" ed="KX"/>二除之爲第六數<space n="䶻" quantity="1"/>順是以下古如是遞求至單位下乃</seg>
+                    <seg xml:id="KR3fc075_tls_p3.s6" state="locked">
+                        <lb n="6" ed="KX"/>相併爲圜周之自乘羃</seg>
+                    <seg xml:id="KR3fc075_tls_p3.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻" quantity="1"/>第六術</seg>
+                    <seg xml:id="KR3fc075_tls_p3.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>圜球體積求周</seg>
+                    <seg xml:id="KR3fc075_tls_p3.s9" state="locked">
+                        <lb n="9" ed="KX"/>五十四因球積爲第一數<space n="䶻" quantity="1"/>副置第一數三除之四除之</seg>
+                    <seg xml:id="KR3fc075_tls_p3.s10" state="locked">
+                        <lb n="10" ed="KX"/>爲第二數<space n="䶻" quantity="1"/>四因第二數五除之六除之爲第三數<space n="䶻" quantity="1"/>九</seg>
+                    <seg xml:id="KR3fc075_tls_p3.s12" state="locked">
+                        <lb n="12" ed="KX"/>因第三數七除之八除之爲第四數<space n="䶻" quantity="1"/>十六因第四數九</seg>
+                    <seg xml:id="KR3fc075_tls_p3.s13" state="locked">
+                        <lb n="13" ed="KX"/>除之十除之爲第五數<space n="䶻" quantity="1"/>二十五因第五數十一除之十</seg>
+                    <seg xml:id="KR3fc075_tls_p3.s14" state="locked">
+                        <lb n="14" ed="KX"/>二除之爲第六數<space n="䶻" quantity="1"/>順是以下皆如是遞求至單位下乃</seg>
+                    <seg xml:id="KR3fc075_tls_p3.s15" state="locked">
+                        <lb n="15" ed="KX"/>相併爲圜周之立方積開立方得圜周</seg>
+                    <seg xml:id="KR3fc075_tls_p3.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻" quantity="1"/>第七術</seg>
+                    <seg xml:id="KR3fc075_tls_p3.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>圜囷求積</seg>
+                    <seg xml:id="KR3fc075_tls_p3.s18" state="locked">
+                        <lb n="18" ed="KX"/>底徑自乘乘高三之四而一爲第一數<space n="䶻" quantity="1"/>四分第一數之</seg>
+                    <seg xml:id="KR3fc075_tls_p3.s19" state="locked">
+                        <lb n="19" ed="KX"/>一二除之三除之爲第二數<space n="䶻" quantity="1"/>四分第二數之一九乘之</seg>
+                    <seg xml:id="KR3fc075_tls_p3.s20" state="locked">
+                        <lb n="20" ed="KX"/>四除之五除之爲第三數<space n="䶻" quantity="1"/>四分第三數之一二十五乘</seg>
+                    <seg xml:id="KR3fc075_tls_p3.s21" state="locked">
+                        <lb n="21" ed="KX"/>之六除之七除之爲第四數<space n="䶻" quantity="1"/>順是以下皆如是遞求至</seg>
+                    <pb ed="KX" n="03-07-121.4" xml:id="KR3fc075_tls_4a"/>
+                    <seg xml:id="KR3fc075_tls_p4.s1" state="locked">
+                        <lb n="1" ed="KX"/>單位下乃相併爲圜囷積</seg>
+                    <seg xml:id="KR3fc075_tls_p4.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻" quantity="1"/>第八術</seg>
+                    <seg xml:id="KR3fc075_tls_p4.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>圜錐求積</seg>
+                    <seg xml:id="KR3fc075_tls_p4.s4" state="locked">
+                        <lb n="4" ed="KX"/>底徑自乘乘高四而一爲第一數<space n="䶻" quantity="1"/>四分第一數之一二</seg>
+                    <seg xml:id="KR3fc075_tls_p4.s5" state="locked">
+                        <lb n="5" ed="KX"/>除之三除之爲第二數<space n="䶻" quantity="1"/>四分第二數之一九乘之四除</seg>
+                    <seg xml:id="KR3fc075_tls_p4.s6" state="locked">
+                        <lb n="6" ed="KX"/>之五除之爲第三數<space n="䶻" quantity="1"/>四分第三數之一二十五乘之六</seg>
+                    <seg xml:id="KR3fc075_tls_p4.s7" state="locked">
+                        <lb n="7" ed="KX"/>除之七除之爲第四數<space n="䶻" quantity="1"/>順是以下皆如是遞求至單位</seg>
+                    <seg xml:id="KR3fc075_tls_p4.s8" state="locked">
+                        <lb n="8" ed="KX"/>下乃相併爲圜錐積</seg>
+                    <seg xml:id="KR3fc075_tls_p4.s9" state="locked">
+                        <lb n="9" ed="KX"/>
+                        <space n="䶻" quantity="1"/>第九術</seg>
+                    <seg xml:id="KR3fc075_tls_p4.s10" state="locked">
+                        <lb n="10" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>圜臺求積</seg>
+                    <seg xml:id="KR3fc075_tls_p4.s12" state="locked">
+                        <lb n="12" ed="KX"/>上下徑相乘又各自乘併以乘高四而一爲第一數<space n="䶻" quantity="1"/>四</seg>
+                    <seg xml:id="KR3fc075_tls_p4.s13" state="locked">
+                        <lb n="13" ed="KX"/>分第一數之一二除之三除之爲第二數<space n="䶻" quantity="1"/>四分第二數</seg>
+                    <seg xml:id="KR3fc075_tls_p4.s14" state="locked">
+                        <lb n="14" ed="KX"/>之一九乘之四除之五除之爲第三數<space n="䶻" quantity="1"/>四分第三數之</seg>
+                    <seg xml:id="KR3fc075_tls_p4.s15" state="locked">
+                        <lb n="15" ed="KX"/>一二十五乘之六除之七除之爲第四數<space n="䶻" quantity="1"/>順是以下皆</seg>
+                    <seg xml:id="KR3fc075_tls_p4.s16" state="locked">
+                        <lb n="16" ed="KX"/>如是遞求至單位下乃相併爲圜臺積</seg>
+                    <seg xml:id="KR3fc075_tls_p4.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻" quantity="1"/>第十術</seg>
+                    <seg xml:id="KR3fc075_tls_p4.s18" state="locked">
+                        <lb n="18" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>環田求積</seg>
+                    <seg xml:id="KR3fc075_tls_p4.s19" state="locked">
+                        <lb n="19" ed="KX"/>內外徑相加爲和相減爲較和較相乘三之四而一爲第</seg>
+                    <seg xml:id="KR3fc075_tls_p4.s20" state="locked">
+                        <lb n="20" ed="KX"/>一數<space n="䶻" quantity="1"/>四分第一數之一二除之三除之爲第二數<space n="䶻" quantity="1"/>四</seg>
+                    <seg xml:id="KR3fc075_tls_p4.s21" state="locked">
+                        <lb n="21" ed="KX"/>分第二數之一九乘之四除之五除之爲第三數<space n="䶻" quantity="1"/>四分</seg>
+                    <pb ed="KX" n="03-07-121.5" xml:id="KR3fc075_tls_5a"/>
+                    <seg xml:id="KR3fc075_tls_p5.s1" state="locked">
+                        <lb n="1" ed="KX"/>第三數之一二十五乘之六除之七除之爲第四數<space n="䶻" quantity="1"/>順</seg>
+                    <seg xml:id="KR3fc075_tls_p5.s2" state="locked">
+                        <lb n="2" ed="KX"/>是以下皆如是遞求至單位下乃相併爲環田積</seg>
+                    <seg xml:id="KR3fc075_tls_p5.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻" quantity="1"/>第十一術</seg>
+                    <seg xml:id="KR3fc075_tls_p5.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>圜內容方積求圜積</seg>
+                    <seg xml:id="KR3fc075_tls_p5.s5" state="locked">
+                        <lb n="5" ed="KX"/>方積折半三之爲第一數<space n="䶻" quantity="1"/>四分第一數之一二除之三</seg>
+                    <seg xml:id="KR3fc075_tls_p5.s6" state="locked">
+                        <lb n="6" ed="KX"/>除之爲第二數<space n="䶻" quantity="1"/>四分第二數之一九乘之四除之五除</seg>
+                    <seg xml:id="KR3fc075_tls_p5.s7" state="locked">
+                        <lb n="7" ed="KX"/>之爲第三數<space n="䶻" quantity="1"/>四分第三數之一二十五乘之六除之七</seg>
+                    <seg xml:id="KR3fc075_tls_p5.s8" state="locked">
+                        <lb n="8" ed="KX"/>除之爲第四數<space n="䶻" quantity="1"/>順是以下皆如是遞求至單位下乃相</seg>
+                    <seg xml:id="KR3fc075_tls_p5.s9" state="locked">
+                        <lb n="9" ed="KX"/>併爲圜面積</seg>
+                    <seg xml:id="KR3fc075_tls_p5.s10" state="locked">
+                        <lb n="10" ed="KX"/>
+                        <space n="䶻" quantity="1"/>第十二術</seg>
+                    <seg xml:id="KR3fc075_tls_p5.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>球內立方積求球積</seg>
+                    <seg xml:id="KR3fc075_tls_p5.s13" state="locked">
+                        <lb n="13" ed="KX"/>立方折半自乘二十七因之爲第一數<space n="䶻" quantity="1"/>副置第一數三</seg>
+                    <seg xml:id="KR3fc075_tls_p5.s14" state="locked">
+                        <lb n="14" ed="KX"/>除之四除之爲第二數<space n="䶻" quantity="1"/>四因第二數五除之六除之爲</seg>
+                    <seg xml:id="KR3fc075_tls_p5.s15" state="locked">
+                        <lb n="15" ed="KX"/>第三數<space n="䶻" quantity="1"/>九因第三數七除之八除之爲第四數<space n="䶻" quantity="1"/>十六</seg>
+                    <seg xml:id="KR3fc075_tls_p5.s16" state="locked">
+                        <lb n="16" ed="KX"/>因第四數九除之十除之爲第五數<space n="䶻" quantity="1"/>二十五因第五數</seg>
+                    <seg xml:id="KR3fc075_tls_p5.s17" state="locked">
+                        <lb n="17" ed="KX"/>十一除之十二除之爲第六數<space n="䶻" quantity="1"/>順是以下皆如是遞求</seg>
+                    <seg xml:id="KR3fc075_tls_p5.s18" state="locked">
+                        <lb n="18" ed="KX"/>至單位下乃相併爲球積之自乘羃開平方得球積</seg>
+                    <seg xml:id="KR3fc075_tls_p5.s19" state="locked">
+                        <lb n="19" ed="KX"/>
+                        <space n="䶻" quantity="1"/>第十三術</seg>
+                    <seg xml:id="KR3fc075_tls_p5.s20" state="locked">
+                        <lb n="20" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>橢圜求面積</seg>
+                    <seg xml:id="KR3fc075_tls_p5.s21" state="locked">
+                        <lb n="21" ed="KX"/>橢圜廣袤相乘三之四而一爲第一數<space n="䶻" quantity="1"/>四分第一數之</seg>
+                    <pb ed="KX" n="03-07-121.6" xml:id="KR3fc075_tls_6a"/>
+                    <seg xml:id="KR3fc075_tls_p6.s1" state="locked">
+                        <lb n="1" ed="KX"/>一二除之三除之爲第二數<space n="䶻" quantity="1"/>四分第二數之一九乘之</seg>
+                    <seg xml:id="KR3fc075_tls_p6.s2" state="locked">
+                        <lb n="2" ed="KX"/>四除之五除之爲第三數<space n="䶻" quantity="1"/>四分第三數之一二十五乘</seg>
+                    <seg xml:id="KR3fc075_tls_p6.s3" state="locked">
+                        <lb n="3" ed="KX"/>之六除之七除之爲第四數<space n="䶻" quantity="1"/>順是以下皆如是遞求至</seg>
+                    <seg xml:id="KR3fc075_tls_p6.s4" state="locked">
+                        <lb n="4" ed="KX"/>單位下乃相併爲橢圜面積</seg>
+                    <seg xml:id="KR3fc075_tls_p6.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻" quantity="1"/>第十四術</seg>
+                    <seg xml:id="KR3fc075_tls_p6.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>橢圜蜑體求積</seg>
+                    <seg xml:id="KR3fc075_tls_p6.s7" state="locked">
+                        <lb n="7" ed="KX"/>廣自乘以乘袤半之爲第一數<space n="䶻" quantity="1"/>四分第一數之一二除</seg>
+                    <seg xml:id="KR3fc075_tls_p6.s8" state="locked">
+                        <lb n="8" ed="KX"/>之三除之爲第二數<space n="䶻" quantity="1"/>四分第二數之一九乘之四除之</seg>
+                    <seg xml:id="KR3fc075_tls_p6.s9" state="locked">
+                        <lb n="9" ed="KX"/>五除之爲第三數<space n="䶻" quantity="1"/>四分第三數之一二十五乘之六除</seg>
+                    <seg xml:id="KR3fc075_tls_p6.s10" state="locked">
+                        <lb n="10" ed="KX"/>之七除之爲第四數<space n="䶻" quantity="1"/>順是以下皆如是遞求至單位下</seg>
+                    <seg xml:id="KR3fc075_tls_p6.s12" state="locked">
+                        <lb n="12" ed="KX"/>乃相併爲橢圜蜑體積</seg>
+                    <seg xml:id="KR3fc075_tls_p6.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻" quantity="1"/>第十五術</seg>
+                    <seg xml:id="KR3fc075_tls_p6.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>橢圜桶體求積</seg>
+                    <seg xml:id="KR3fc075_tls_p6.s15" state="locked">
+                        <lb n="15" ed="KX"/>廣袤相乘以乘高三之四而一爲第一數<space n="䶻" quantity="1"/>四分第一數</seg>
+                    <seg xml:id="KR3fc075_tls_p6.s16" state="locked">
+                        <lb n="16" ed="KX"/>之一二除之三除之爲第二數<space n="䶻" quantity="1"/>四分第二數之一九乘</seg>
+                    <seg xml:id="KR3fc075_tls_p6.s17" state="locked">
+                        <lb n="17" ed="KX"/>之四除之五除之爲第三數<space n="䶻" quantity="1"/>四分第三數之一二十五</seg>
+                    <seg xml:id="KR3fc075_tls_p6.s18" state="locked">
+                        <lb n="18" ed="KX"/>乘之六除之七除之爲第四數<space n="䶻" quantity="1"/>順是以下皆如是遞求</seg>
+                    <seg xml:id="KR3fc075_tls_p6.s19" state="locked">
+                        <lb n="19" ed="KX"/>至單位下乃相併爲橢圜桶積</seg>
+                    <seg xml:id="KR3fc075_tls_p6.s20" state="locked">
+                        <lb n="20" ed="KX"/>
+                        <space n="䶻" quantity="1"/>第十六術</seg>
+                    <seg xml:id="KR3fc075_tls_p6.s21" state="locked">
+                        <lb n="21" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>橢圜尖錐求積</seg>
+                    <pb ed="KX" n="03-07-121.7" xml:id="KR3fc075_tls_7a"/>
+                    <seg xml:id="KR3fc075_tls_p7.s1" state="locked">
+                        <lb n="1" ed="KX"/>廣袤相乘以乘高四而一爲第一數<space n="䶻" quantity="1"/>四分第一數之一</seg>
+                    <seg xml:id="KR3fc075_tls_p7.s2" state="locked">
+                        <lb n="2" ed="KX"/>二除之三除之爲第二數<space n="䶻" quantity="1"/>四分第二數之一九乘之四</seg>
+                    <seg xml:id="KR3fc075_tls_p7.s3" state="locked">
+                        <lb n="3" ed="KX"/>除之五除之爲第三數<space n="䶻" quantity="1"/>四分第三數之一二十五乘之</seg>
+                    <seg xml:id="KR3fc075_tls_p7.s4" state="locked">
+                        <lb n="4" ed="KX"/>六除之七除之爲第四數<space n="䶻" quantity="1"/>順是以下皆如是遞求至單</seg>
+                    <seg xml:id="KR3fc075_tls_p7.s5" state="locked">
+                        <lb n="5" ed="KX"/>位下乃相併爲橢圜尖錐積</seg>
+                    <seg xml:id="KR3fc075_tls_p7.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>第十七術</seg>
+                    <seg xml:id="KR3fc075_tls_p7.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>橢圜臺體求積</seg>
+                    <seg xml:id="KR3fc075_tls_p7.s8" state="locked">
+                        <lb n="8" ed="KX"/>倍上袤下袤從之亦倍下袤上袤從之各以其廣乘之併</seg>
+                    <seg xml:id="KR3fc075_tls_p7.s9" state="locked">
+                        <lb n="9" ed="KX"/>以乘高八而一爲第一數<space n="䶻" quantity="1"/>四分第一數之一二除之三</seg>
+                    <seg xml:id="KR3fc075_tls_p7.s10" state="locked">
+                        <lb n="10" ed="KX"/>除之爲第二數<space n="䶻" quantity="1"/>四分第二數之一九乘之四除之五除</seg>
+                    <seg xml:id="KR3fc075_tls_p7.s12" state="locked">
+                        <lb n="12" ed="KX"/>之爲第三數<space n="䶻" quantity="1"/>四分第三數之一二十五乘之六除之七</seg>
+                    <seg xml:id="KR3fc075_tls_p7.s13" state="locked">
+                        <lb n="13" ed="KX"/>除之爲第四數<space n="䶻" quantity="1"/>順是以下皆如是遞求至單位下乃相</seg>
+                    <seg xml:id="KR3fc075_tls_p7.s14" state="locked">
+                        <lb n="14" ed="KX"/>併爲橢圜臺積</seg>
+                    <pb ed="KX" n="03-07-121.8" xml:id="KR3fc075_tls_8a"/>
+                    <head xml:id="KR3fc075_tls_p8.s1-h">
+                        <seg xml:id="KR3fc075_tls_p8.s1" state="locked">
+                            <lb n="1" ed="KX"/>測圓密率卷第二</seg>
+                    </head>
+                    <seg xml:id="KR3fc075_tls_p8.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻䶻䶻䶻䶻䶻䶻䶻䶻䶻䶻䶻" quantity="12"/>烏程徐有壬君青著</seg>
+                    <seg xml:id="KR3fc075_tls_p8.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻" quantity="1"/>第一術</seg>
+                    <seg xml:id="KR3fc075_tls_p8.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>弧背求正弦</seg>
+                    <seg xml:id="KR3fc075_tls_p8.s5" state="locked">
+                        <lb n="5" ed="KX"/>弧背爲第一數正<space n="䶻" quantity="1"/>弧背自乘乘第一數半徑羃除之二</seg>
+                    <seg xml:id="KR3fc075_tls_p8.s6" state="locked">
+                        <lb n="6" ed="KX"/>除之三除之爲第二數負<space n="䶻" quantity="1"/>弧背自乘乘第二數半徑羃</seg>
+                    <seg xml:id="KR3fc075_tls_p8.s7" state="locked">
+                        <lb n="7" ed="KX"/>除之四除之五除之爲第三數正<space n="䶻" quantity="1"/>弧背自乘乘第三數</seg>
+                    <seg xml:id="KR3fc075_tls_p8.s8" state="locked">
+                        <lb n="8" ed="KX"/>半徑羃除之六除之七除之爲第四數負<space n="䶻" quantity="1"/>順是以下皆</seg>
+                    <seg xml:id="KR3fc075_tls_p8.s9" state="locked">
+                        <lb n="9" ed="KX"/>如是遞求至單位下乃併諸正數減諸負數得所求正弦</seg>
+                    <seg xml:id="KR3fc075_tls_p8.s10" state="locked">
+                        <lb n="10" ed="KX"/>
+                        <space n="䶻" quantity="1"/>第二術</seg>
+                    <seg xml:id="KR3fc075_tls_p8.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>弧背求正矢</seg>
+                    <seg xml:id="KR3fc075_tls_p8.s13" state="locked">
+                        <lb n="13" ed="KX"/>弧背自乘半徑除之二除之爲第一數正<space n="䶻" quantity="1"/>弧背自乘乘</seg>
+                    <seg xml:id="KR3fc075_tls_p8.s14" state="locked">
+                        <lb n="14" ed="KX"/>第一數半徑羃除之三除之四除之爲第二數負<space n="䶻" quantity="1"/>弧背</seg>
+                    <seg xml:id="KR3fc075_tls_p8.s15" state="locked">
+                        <lb n="15" ed="KX"/>自乘乘第二數半徑羃除之五除之六除之爲第三數正</seg>
+                    <seg xml:id="KR3fc075_tls_p8.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻" quantity="1"/>弧背自乘乘第三數半徑羃除之七除之八除之爲第</seg>
+                    <seg xml:id="KR3fc075_tls_p8.s17" state="locked">
+                        <lb n="17" ed="KX"/>四數負<space n="䶻" quantity="1"/>順是以下皆如是遞求至單位下乃併諸正數</seg>
+                    <seg xml:id="KR3fc075_tls_p8.s18" state="locked">
+                        <lb n="18" ed="KX"/>減諸負數得所求正矢</seg>
+                    <seg xml:id="KR3fc075_tls_p8.s19" state="locked">
+                        <lb n="19" ed="KX"/>
+                        <space n="䶻" quantity="1"/>第三術</seg>
+                    <seg xml:id="KR3fc075_tls_p8.s20" state="locked">
+                        <lb n="20" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>正弦求弧背</seg>
+                    <seg xml:id="KR3fc075_tls_p8.s21" state="locked">
+                        <lb n="21" ed="KX"/>正弦爲第一數<space n="䶻" quantity="1"/>正弦自乘乘第一數半徑羃除之二除</seg>
+                    <pb ed="KX" n="03-07-121.9" xml:id="KR3fc075_tls_9a"/>
+                    <seg xml:id="KR3fc075_tls_p9.s1" state="locked">
+                        <lb n="1" ed="KX"/>之三除之爲第二數<space n="䶻" quantity="1"/>正弦自乘乘第二數半徑羃除之</seg>
+                    <seg xml:id="KR3fc075_tls_p9.s2" state="locked">
+                        <lb n="2" ed="KX"/>九乘之四除之五除之爲第三數<space n="䶻" quantity="1"/>正弦自乘乘第三數</seg>
+                    <seg xml:id="KR3fc075_tls_p9.s3" state="locked">
+                        <lb n="3" ed="KX"/>半徑羃除之二十五乘之六除之七除之爲第四數<space n="䶻" quantity="1"/>順</seg>
+                    <seg xml:id="KR3fc075_tls_p9.s4" state="locked">
+                        <lb n="4" ed="KX"/>是以下皆如是遞求至單位下乃相併得所求弧背</seg>
+                    <seg xml:id="KR3fc075_tls_p9.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻" quantity="1"/>第四術</seg>
+                    <seg xml:id="KR3fc075_tls_p9.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>正矢求弧背</seg>
+                    <seg xml:id="KR3fc075_tls_p9.s7" state="locked">
+                        <lb n="7" ed="KX"/>矢乘圜徑爲第一數<space n="䶻" quantity="1"/>倍矢乘第一數半徑除之三除之</seg>
+                    <seg xml:id="KR3fc075_tls_p9.s8" state="locked">
+                        <lb n="8" ed="KX"/>四除之爲第二數<space n="䶻" quantity="1"/>倍矢乘第二數半徑除之四乘之五</seg>
+                    <seg xml:id="KR3fc075_tls_p9.s9" state="locked">
+                        <lb n="9" ed="KX"/>除之六除之爲第三數<space n="䶻" quantity="1"/>倍矢乘第三數半徑除之九乘</seg>
+                    <seg xml:id="KR3fc075_tls_p9.s10" state="locked">
+                        <lb n="10" ed="KX"/>之七除之八除之爲第四數<space n="䶻" quantity="1"/>倍矢乘第四數半徑除之</seg>
+                    <seg xml:id="KR3fc075_tls_p9.s12" state="locked">
+                        <lb n="12" ed="KX"/>十六乘之九除之十除之爲第五數<space n="䶻" quantity="1"/>倍矢乘第五數半</seg>
+                    <seg xml:id="KR3fc075_tls_p9.s13" state="locked">
+                        <lb n="13" ed="KX"/>徑除之二十五乘之十一除之十二除之爲第六數<space n="䶻" quantity="1"/>順</seg>
+                    <seg xml:id="KR3fc075_tls_p9.s14" state="locked">
+                        <lb n="14" ed="KX"/>是以下皆如是遞求至單位下乃相併爲弧背之自乘羃</seg>
+                    <seg xml:id="KR3fc075_tls_p9.s15" state="locked">
+                        <lb n="15" ed="KX"/>開平方得所求弧背</seg>
+                    <seg xml:id="KR3fc075_tls_p9.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>以上四術俱本杜德美氏以後續增</seg>
+                    <seg xml:id="KR3fc075_tls_p9.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻" quantity="1"/>第五術</seg>
+                    <seg xml:id="KR3fc075_tls_p9.s18" state="locked">
+                        <lb n="18" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>弦矢求弧背</seg>
+                    <seg xml:id="KR3fc075_tls_p9.s19" state="locked">
+                        <lb n="19" ed="KX"/>矢自乘正弦除之倍之三除之爲第一數正<space n="䶻" quantity="1"/>矢自乘乘</seg>
+                    <seg xml:id="KR3fc075_tls_p9.s20" state="locked">
+                        <lb n="20" ed="KX"/>第一數正弦羃除之一乘之五除之爲第二數負<space n="䶻" quantity="1"/>矢自</seg>
+                    <seg xml:id="KR3fc075_tls_p9.s21" state="locked">
+                        <lb n="21" ed="KX"/>乘乘第二數正弦羃除之三乘之七除之爲第三數正</seg>
+                    <pb ed="KX" n="03-07-121.10" xml:id="KR3fc075_tls_10a"/>
+                    <seg xml:id="KR3fc075_tls_p10.s1" state="locked">
+                        <lb n="1" ed="KX"/>矢自乘乘第三數正弦羃除之五乘之九除之爲第四數</seg>
+                    <seg xml:id="KR3fc075_tls_p10.s2" state="locked">
+                        <lb n="2" ed="KX"/>負<space n="䶻" quantity="1"/>矢自乘乘第四數正弦羃除之七乘之十一除之爲</seg>
+                    <seg xml:id="KR3fc075_tls_p10.s3" state="locked">
+                        <lb n="3" ed="KX"/>第五數正<space n="䶻" quantity="1"/>矢自乘乘第五數正弦羃除之九乘之十三</seg>
+                    <seg xml:id="KR3fc075_tls_p10.s4" state="locked">
+                        <lb n="4" ed="KX"/>除之爲第六數負<space n="䶻" quantity="1"/>順是以下皆如是遞求至單位下乃</seg>
+                    <seg xml:id="KR3fc075_tls_p10.s5" state="locked">
+                        <lb n="5" ed="KX"/>併諸正數減諸負數爲弦背差加正弦得所求弧背</seg>
+                    <seg xml:id="KR3fc075_tls_p10.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻" quantity="1"/>第六術</seg>
+                    <seg xml:id="KR3fc075_tls_p10.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>正切求弧背</seg>
+                    <seg xml:id="KR3fc075_tls_p10.s8" state="locked">
+                        <lb n="8" ed="KX"/>正切爲第一數正<space n="䶻" quantity="1"/>正切自乘乘第一數半徑羃除之一</seg>
+                    <seg xml:id="KR3fc075_tls_p10.s9" state="locked">
+                        <lb n="9" ed="KX"/>乘之三除之爲第二數負<space n="䶻" quantity="1"/>正切自乘乘第二數半徑羃</seg>
+                    <seg xml:id="KR3fc075_tls_p10.s10" state="locked">
+                        <lb n="10" ed="KX"/>除之三乘之五除之爲第三數正<space n="䶻" quantity="1"/>正切自乘乘第三數</seg>
+                    <seg xml:id="KR3fc075_tls_p10.s12" state="locked">
+                        <lb n="12" ed="KX"/>半徑羃除之五乘之七除之爲第四數負<space n="䶻" quantity="1"/>順是以下皆</seg>
+                    <seg xml:id="KR3fc075_tls_p10.s13" state="locked">
+                        <lb n="13" ed="KX"/>如是遞求至單位下乃併諸正數減諸負數得所求弧背</seg>
+                    <seg xml:id="KR3fc075_tls_p10.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻" quantity="1"/>第七術</seg>
+                    <seg xml:id="KR3fc075_tls_p10.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>弧背求正切</seg>
+                    <seg xml:id="KR3fc075_tls_p10.s16" state="locked">
+                        <lb n="16" ed="KX"/>弧背爲第一數<space n="䶻" quantity="1"/>弧背自乘乘第一數半徑羃除之三除</seg>
+                    <seg xml:id="KR3fc075_tls_p10.s17" state="locked">
+                        <lb n="17" ed="KX"/>之爲第二數<space n="䶻" quantity="1"/>弧背自乘倍之乘第二數半徑羃除之五</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p10.s18.1">
+                        <lb n="18" ed="KX"/>除之爲第三數弧背自乘倍之乘第三數加一差</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p10.s18.2" type="comm">見下</seg>
+                    <seg xml:id="KR3fc075_tls_p10.s19" state="locked">
+                        <lb n="19" ed="KX"/>半徑羃除之七除之爲第四數<space n="䶻" quantity="1"/>弧背自乘倍之乘第四</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p10.s20.1">
+                        <lb n="20" ed="KX"/>數加二差</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p10.s20.2" type="comm">見下</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p10.s20.3">半徑羃除之九除之爲第五數弧背自</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p10.s21.1">
+                        <lb n="21" ed="KX"/>乘倍之乘第五數加三差</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p10.s21.2" type="comm">見下</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p10.s21.3">半徑羃除之十一除之爲</seg>
+                    <pb ed="KX" n="03-07-121.11" xml:id="KR3fc075_tls_11a"/>
+                    <seg xml:id="KR3fc075_tls_p11.s1" state="locked">
+                        <lb n="1" ed="KX"/>第六數<space n="䶻" quantity="1"/>順是以下皆如是遞求至單位下乃相併得所</seg>
+                    <seg xml:id="KR3fc075_tls_p11.s2" state="locked">
+                        <lb n="2" ed="KX"/>求正切</seg>
+                    <seg xml:id="KR3fc075_tls_p11.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻" quantity="1"/>各加差求法</seg>
+                    <seg xml:id="KR3fc075_tls_p11.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>第二數以下通行自乘又乘第一數得各加差分析</seg>
+                    <seg xml:id="KR3fc075_tls_p11.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>如下第二數自乘乘第一數爲一差第<space n="䶻" quantity="1"/>二數乘第</seg>
+                    <seg xml:id="KR3fc075_tls_p11.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>三數倍之又乘第一數爲二差<space n="䶻" quantity="1"/>第二數乘第四數</seg>
+                    <seg xml:id="KR3fc075_tls_p11.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>倍之第三數自乘相併又乘第一數爲三差<space n="䶻" quantity="1"/>第二</seg>
+                    <seg xml:id="KR3fc075_tls_p11.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>數乘第五數倍之第三數乘第四數倍之相併又乘</seg>
+                    <seg xml:id="KR3fc075_tls_p11.s9" state="locked">
+                        <lb n="9" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>第一數爲四差<space n="䶻" quantity="1"/>至單位下而止</seg>
+                    <seg xml:id="KR3fc075_tls_p11.s10" state="locked">
+                        <lb n="10" ed="KX"/>
+                        <space n="䶻" quantity="1"/>第八術</seg>
+                    <seg xml:id="KR3fc075_tls_p11.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>弦矢求弧田積</seg>
+                    <seg xml:id="KR3fc075_tls_p11.s13" state="locked">
+                        <lb n="13" ed="KX"/>倍矢乘通弦三除之爲第一數正<space n="䶻" quantity="1"/>矢自乘乘第一數正</seg>
+                    <seg xml:id="KR3fc075_tls_p11.s14" state="locked">
+                        <lb n="14" ed="KX"/>弦羃除之五除之爲第二數正<space n="䶻" quantity="1"/>矢自乘乘第二數正弦</seg>
+                    <seg xml:id="KR3fc075_tls_p11.s15" state="locked">
+                        <lb n="15" ed="KX"/>羃除之一乘之七除之爲第三數負<space n="䶻" quantity="1"/>矢自乘乘第三數</seg>
+                    <seg xml:id="KR3fc075_tls_p11.s16" state="locked">
+                        <lb n="16" ed="KX"/>正弦羃除之三乘之九除之爲第四數正<space n="䶻" quantity="1"/>矢自乘乘第</seg>
+                    <seg xml:id="KR3fc075_tls_p11.s17" state="locked">
+                        <lb n="17" ed="KX"/>四數正弦羃除之五乘之十一除之爲第五數負<space n="䶻" quantity="1"/>矢自</seg>
+                    <seg xml:id="KR3fc075_tls_p11.s18" state="locked">
+                        <lb n="18" ed="KX"/>乘乘第五數正弦羃除之七乘之十三除之爲第六數正</seg>
+                    <seg xml:id="KR3fc075_tls_p11.s19" state="locked">
+                        <lb n="19" ed="KX"/>
+                        <space n="䶻" quantity="1"/>順是以下皆如是遞求至單位下乃併諸正數減諸負</seg>
+                    <seg xml:id="KR3fc075_tls_p11.s20" state="locked">
+                        <lb n="20" ed="KX"/>數得所求弧田積</seg>
+                    <seg xml:id="KR3fc075_tls_p11.s21" state="locked">
+                        <lb n="21" ed="KX"/>
+                        <space n="䶻" quantity="1"/>第九術</seg>
+                    <pb ed="KX" n="03-07-121.12" xml:id="KR3fc075_tls_12a"/>
+                    <seg xml:id="KR3fc075_tls_p12.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>通弦求弧田積</seg>
+                    <seg xml:id="KR3fc075_tls_p12.s2" state="locked">
+                        <lb n="2" ed="KX"/>正弦自乘乘通弦半徑除之三除之爲第一數<space n="䶻" quantity="1"/>正弦自</seg>
+                    <seg xml:id="KR3fc075_tls_p12.s3" state="locked">
+                        <lb n="3" ed="KX"/>乘乘第一數半徑羃除之一乘之二除之三乘之五除之</seg>
+                    <seg xml:id="KR3fc075_tls_p12.s4" state="locked">
+                        <lb n="4" ed="KX"/>爲第二數<space n="䶻" quantity="1"/>正弦自乘乘第二數半徑羃除之三乘之四</seg>
+                    <seg xml:id="KR3fc075_tls_p12.s5" state="locked">
+                        <lb n="5" ed="KX"/>除之五乘之七除之爲第三數<space n="䶻" quantity="1"/>正弦自乘乘第三數半</seg>
+                    <seg xml:id="KR3fc075_tls_p12.s6" state="locked">
+                        <lb n="6" ed="KX"/>徑羃除之五乘之六除之七乘之九除之爲第四數<space n="䶻" quantity="1"/>正</seg>
+                    <seg xml:id="KR3fc075_tls_p12.s7" state="locked">
+                        <lb n="7" ed="KX"/>弦自乘乘第四數半徑羃除之七乘之八除之九乘之十</seg>
+                    <seg xml:id="KR3fc075_tls_p12.s8" state="locked">
+                        <lb n="8" ed="KX"/>一除之爲第五數<space n="䶻" quantity="1"/>正弦自乘乘第五數半徑羃除之九</seg>
+                    <seg xml:id="KR3fc075_tls_p12.s9" state="locked">
+                        <lb n="9" ed="KX"/>乘之十除之十一乘之十三除之爲第六數<space n="䶻" quantity="1"/>順是以下</seg>
+                    <seg xml:id="KR3fc075_tls_p12.s10" state="locked">
+                        <lb n="10" ed="KX"/>皆如是遞求至單位下乃相併爲弧田積</seg>
+                    <seg xml:id="KR3fc075_tls_p12.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻" quantity="1"/>第十術</seg>
+                    <seg xml:id="KR3fc075_tls_p12.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>通弧求弧田積</seg>
+                    <seg xml:id="KR3fc075_tls_p12.s14" state="locked">
+                        <lb n="14" ed="KX"/>通弧自乘乘半弧半徑除之二除之三除之爲第一數正</seg>
+                    <seg xml:id="KR3fc075_tls_p12.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻" quantity="1"/>通弧自乘乘第一數半徑羃除之四除之五除之爲第</seg>
+                    <seg xml:id="KR3fc075_tls_p12.s16" state="locked">
+                        <lb n="16" ed="KX"/>二數負<space n="䶻" quantity="1"/>通弧自乘乘第二數半徑羃除之六除之七除</seg>
+                    <seg xml:id="KR3fc075_tls_p12.s17" state="locked">
+                        <lb n="17" ed="KX"/>之爲第三數正<space n="䶻" quantity="1"/>通弧自乘乘第三數半徑羃除之八除</seg>
+                    <seg xml:id="KR3fc075_tls_p12.s18" state="locked">
+                        <lb n="18" ed="KX"/>之九除之爲第四數負<space n="䶻" quantity="1"/>順是以下皆如是遞求至單位</seg>
+                    <seg xml:id="KR3fc075_tls_p12.s19" state="locked">
+                        <lb n="19" ed="KX"/>下乃併諸正數減諸負數得弧田積</seg>
+                    <seg xml:id="KR3fc075_tls_p12.s20" state="locked">
+                        <lb n="20" ed="KX"/>
+                        <space n="䶻" quantity="1"/>第十一術</seg>
+                    <seg xml:id="KR3fc075_tls_p12.s21" state="locked">
+                        <lb n="21" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>截球弦矢求截球積</seg>
+                    <pb ed="KX" n="03-07-121.13" xml:id="KR3fc075_tls_13a"/>
+                    <seg state="locked" xml:id="KR3fc075_tls_p13.s1.1">
+                        <lb n="1" ed="KX"/>弦折半</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p13.s1.2" type="comm">卽正<lb type="/"/>弦</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p13.s1.3">自乘三之加矢羃又以矢乘之二而一爲第</seg>
+                    <seg xml:id="KR3fc075_tls_p13.s2" state="locked">
+                        <lb n="2" ed="KX"/>一數<space n="䶻" quantity="1"/>四分第一數之一二除之三除之爲第二數<space n="䶻" quantity="1"/>四</seg>
+                    <seg xml:id="KR3fc075_tls_p13.s3" state="locked">
+                        <lb n="3" ed="KX"/>分第二數之一九乘之四除之五除之爲第三數<space n="䶻" quantity="1"/>四分</seg>
+                    <seg xml:id="KR3fc075_tls_p13.s4" state="locked">
+                        <lb n="4" ed="KX"/>第三數之一二十五乘之六除之七除之爲第四數<space n="䶻" quantity="1"/>四</seg>
+                    <seg xml:id="KR3fc075_tls_p13.s5" state="locked">
+                        <lb n="5" ed="KX"/>分第四數之一四十九乘之八除之九除之爲第五數</seg>
+                    <seg xml:id="KR3fc075_tls_p13.s6" state="locked">
+                        <lb n="6" ed="KX"/>順是以下皆如是遞求至單位下乃相併得截球積</seg>
+                    <seg xml:id="KR3fc075_tls_p13.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻" quantity="1"/>第十二術</seg>
+                    <seg xml:id="KR3fc075_tls_p13.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>截球矢求截球積</seg>
+                    <seg xml:id="KR3fc075_tls_p13.s9" state="locked">
+                        <lb n="9" ed="KX"/>矢減圜半徑又加圜徑以矢自乘乘之爲第一數<space n="䶻" quantity="1"/>四分</seg>
+                    <seg xml:id="KR3fc075_tls_p13.s10" state="locked">
+                        <lb n="10" ed="KX"/>第一數之一二除之三除之爲第二數<space n="䶻" quantity="1"/>四分第二數之</seg>
+                    <seg xml:id="KR3fc075_tls_p13.s12" state="locked">
+                        <lb n="12" ed="KX"/>一九乘之四除之五除之爲第三數<space n="䶻" quantity="1"/>四分第三數之一</seg>
+                    <seg xml:id="KR3fc075_tls_p13.s13" state="locked">
+                        <lb n="13" ed="KX"/>二十五乘之六除之七除之爲第四數<space n="䶻" quantity="1"/>順是以下皆如</seg>
+                    <seg xml:id="KR3fc075_tls_p13.s14" state="locked">
+                        <lb n="14" ed="KX"/>是遞求至單位下乃相併爲截球積</seg>
+                    <seg xml:id="KR3fc075_tls_p13.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻" quantity="1"/>第十三術</seg>
+                    <seg xml:id="KR3fc075_tls_p13.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>截球弦求截球積</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p13.s17.1">
+                        <lb n="17" ed="KX"/>弦折半</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p13.s17.2" type="comm">卽正<lb type="/"/>弦</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p13.s17.3">自乘復自乘半徑除之三之四而一爲第一</seg>
+                    <seg xml:id="KR3fc075_tls_p13.s18" state="locked">
+                        <lb n="18" ed="KX"/>數<space n="䶻" quantity="1"/>正弦自乘乘第一數半徑羃除之一乘之二除之四</seg>
+                    <seg xml:id="KR3fc075_tls_p13.s19" state="locked">
+                        <lb n="19" ed="KX"/>乘之六除之爲第二數<space n="䶻" quantity="1"/>正弦自乘乘第二數半徑羃除</seg>
+                    <seg xml:id="KR3fc075_tls_p13.s20" state="locked">
+                        <lb n="20" ed="KX"/>之三乘之四除之六乘之八除之爲第三數<space n="䶻" quantity="1"/>正弦自乘</seg>
+                    <seg xml:id="KR3fc075_tls_p13.s21" state="locked">
+                        <lb n="21" ed="KX"/>乘第三數半徑羃除之五乘之六除之八乘之十除之爲</seg>
+                    <pb ed="KX" n="03-07-121.14" xml:id="KR3fc075_tls_14a"/>
+                    <seg xml:id="KR3fc075_tls_p14.s1" state="locked">
+                        <lb n="1" ed="KX"/>第四數<space n="䶻" quantity="1"/>正弦自乘乘第四數半徑羃除之七乘之八除</seg>
+                    <seg xml:id="KR3fc075_tls_p14.s2" state="locked">
+                        <lb n="2" ed="KX"/>之十乘之十二除之爲第五數<space n="䶻" quantity="1"/>順是以下皆如是遞求</seg>
+                    <seg xml:id="KR3fc075_tls_p14.s3" state="locked">
+                        <lb n="3" ed="KX"/>至單位下乃相併爲又第一數<space n="䶻" quantity="1"/>四分又第一數之一二</seg>
+                    <seg xml:id="KR3fc075_tls_p14.s4" state="locked">
+                        <lb n="4" ed="KX"/>除之三除之爲又第二數<space n="䶻" quantity="1"/>四分又第二數之一九乘之</seg>
+                    <seg xml:id="KR3fc075_tls_p14.s5" state="locked">
+                        <lb n="5" ed="KX"/>四除之五除之爲又第三數<space n="䶻" quantity="1"/>四分又第三數之一二十</seg>
+                    <seg xml:id="KR3fc075_tls_p14.s6" state="locked">
+                        <lb n="6" ed="KX"/>五乘之六除之七除之爲又第四數<space n="䶻" quantity="1"/>順是以下皆如是</seg>
+                    <seg xml:id="KR3fc075_tls_p14.s7" state="locked">
+                        <lb n="7" ed="KX"/>遞求至單位下乃相併得截球積</seg>
+                    <seg xml:id="KR3fc075_tls_p14.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻" quantity="1"/>第十四術</seg>
+                    <seg xml:id="KR3fc075_tls_p14.s9" state="locked">
+                        <lb n="9" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>截球腰鼓求積</seg>
+                    <seg xml:id="KR3fc075_tls_p14.s10" state="locked">
+                        <lb n="10" ed="KX"/>腰徑自乘三之截高自乘減之又以截高乘之四而一爲</seg>
+                    <seg xml:id="KR3fc075_tls_p14.s12" state="locked">
+                        <lb n="12" ed="KX"/>第一數<space n="䶻" quantity="1"/>四分第一數之一二除之三除之爲第二數</seg>
+                    <seg xml:id="KR3fc075_tls_p14.s13" state="locked">
+                        <lb n="13" ed="KX"/>四分第二數之一九乘之四除之五除之爲第三數<space n="䶻" quantity="1"/>四</seg>
+                    <seg xml:id="KR3fc075_tls_p14.s14" state="locked">
+                        <lb n="14" ed="KX"/>分第三數之一二十五乘之六除之七除之爲第四數</seg>
+                    <seg xml:id="KR3fc075_tls_p14.s15" state="locked">
+                        <lb n="15" ed="KX"/>順是以下皆如是遞求至單位下乃相併得鼓形積</seg>
+                    <seg xml:id="KR3fc075_tls_p14.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻" quantity="1"/>第十五術</seg>
+                    <seg xml:id="KR3fc075_tls_p14.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>截球鼓形面徑截高求積</seg>
+                    <seg xml:id="KR3fc075_tls_p14.s18" state="locked">
+                        <lb n="18" ed="KX"/>面徑自乘三之截高自乘倍之相併乘截高四而一爲第</seg>
+                    <seg xml:id="KR3fc075_tls_p14.s19" state="locked">
+                        <lb n="19" ed="KX"/>一數<space n="䶻" quantity="1"/>四分第一數之一二除之三除之爲第二數<space n="䶻" quantity="1"/>四</seg>
+                    <seg xml:id="KR3fc075_tls_p14.s20" state="locked">
+                        <lb n="20" ed="KX"/>分第二數之一九乘之四除之五除之爲第三數<space n="䶻" quantity="1"/>四分</seg>
+                    <seg xml:id="KR3fc075_tls_p14.s21" state="locked">
+                        <lb n="21" ed="KX"/>第三數之一二十五乘之六除之七除之爲第四數<space n="䶻" quantity="1"/>順</seg>
+                    <pb ed="KX" n="03-07-121.15" xml:id="KR3fc075_tls_15a"/>
+                    <seg xml:id="KR3fc075_tls_p15.s1" state="locked">
+                        <lb n="1" ed="KX"/>是以下皆如是遞求至單位下乃相併得鼓形積</seg>
+                    <seg xml:id="KR3fc075_tls_p15.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻" quantity="1"/>第十六術</seg>
+                    <seg xml:id="KR3fc075_tls_p15.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>圜內各形之一邊求圜外各形之一邊</seg>
+                    <seg xml:id="KR3fc075_tls_p15.s4" state="locked">
+                        <lb n="4" ed="KX"/>圜內邊爲第一數<space n="䶻" quantity="1"/>邊自乘乘第一數圜徑羃除之一乘</seg>
+                    <seg xml:id="KR3fc075_tls_p15.s5" state="locked">
+                        <lb n="5" ed="KX"/>之二除之爲第二數<space n="䶻" quantity="1"/>邊自乘乘第二數圜徑羃除之三</seg>
+                    <seg xml:id="KR3fc075_tls_p15.s6" state="locked">
+                        <lb n="6" ed="KX"/>乘之四除之爲第三數<space n="䶻" quantity="1"/>邊自乘乘第三數圜徑羃除之</seg>
+                    <seg xml:id="KR3fc075_tls_p15.s7" state="locked">
+                        <lb n="7" ed="KX"/>五乘之六除之爲第四數<space n="䶻" quantity="1"/>順是以下皆如是遞求至單</seg>
+                    <seg xml:id="KR3fc075_tls_p15.s8" state="locked">
+                        <lb n="8" ed="KX"/>位下乃相併爲圜外邊</seg>
+                    <seg xml:id="KR3fc075_tls_p15.s9" state="locked">
+                        <lb n="9" ed="KX"/>
+                        <space n="䶻" quantity="1"/>第十七術</seg>
+                    <seg xml:id="KR3fc075_tls_p15.s10" state="locked">
+                        <lb n="10" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>圜外各形之一邊求圜內各形之一邊</seg>
+                    <seg xml:id="KR3fc075_tls_p15.s12" state="locked">
+                        <lb n="12" ed="KX"/>圜外邊爲第一數正<space n="䶻" quantity="1"/>邊自乘乘第一數圜徑羃除之一</seg>
+                    <seg xml:id="KR3fc075_tls_p15.s13" state="locked">
+                        <lb n="13" ed="KX"/>乘之二除之爲第二數負<space n="䶻" quantity="1"/>邊自乘乘第二數圜徑羃除</seg>
+                    <seg xml:id="KR3fc075_tls_p15.s14" state="locked">
+                        <lb n="14" ed="KX"/>之三乘之四除之爲第三數正<space n="䶻" quantity="1"/>邊自乘乘第三數圜徑</seg>
+                    <seg xml:id="KR3fc075_tls_p15.s15" state="locked">
+                        <lb n="15" ed="KX"/>羃除之五乘之六除之爲第四數負<space n="䶻" quantity="1"/>順是以下皆如是</seg>
+                    <seg xml:id="KR3fc075_tls_p15.s16" state="locked">
+                        <lb n="16" ed="KX"/>遞求至單位下乃併諸正數減諸負數得所求圜內邊</seg>
+                    <seg xml:id="KR3fc075_tls_p15.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻" quantity="1"/>第十八術</seg>
+                    <seg xml:id="KR3fc075_tls_p15.s18" state="locked">
+                        <lb n="18" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>圜內幾等邊形積求圜外同式形積</seg>
+                    <seg xml:id="KR3fc075_tls_p15.s19" state="locked">
+                        <lb n="19" ed="KX"/>圜內積爲第一數<space n="䶻" quantity="1"/>倍積自乘乘第一數半徑羃除之邊</seg>
+                    <seg xml:id="KR3fc075_tls_p15.s20" state="locked">
+                        <lb n="20" ed="KX"/>數羃除之半徑羃又除之一乘之四除之爲第二數<space n="䶻" quantity="1"/>倍</seg>
+                    <seg xml:id="KR3fc075_tls_p15.s21" state="locked">
+                        <lb n="21" ed="KX"/>積自乘乘第二數半徑羃除之邊數羃除之半徑羃又除</seg>
+                    <pb ed="KX" n="03-07-121.16" xml:id="KR3fc075_tls_16a"/>
+                    <seg xml:id="KR3fc075_tls_p16.s1" state="locked">
+                        <lb n="1" ed="KX"/>之三乘之六除之爲第三數<space n="䶻" quantity="1"/>倍積自乘乘第三數半徑</seg>
+                    <seg xml:id="KR3fc075_tls_p16.s2" state="locked">
+                        <lb n="2" ed="KX"/>羃除之邊數羃除之半徑羃又除之五乘之八除之爲第</seg>
+                    <seg xml:id="KR3fc075_tls_p16.s3" state="locked">
+                        <lb n="3" ed="KX"/>四數<space n="䶻" quantity="1"/>倍積自乘乘第四數半徑羃除之邊數羃除之半</seg>
+                    <seg xml:id="KR3fc075_tls_p16.s4" state="locked">
+                        <lb n="4" ed="KX"/>徑羃又除之七乘之十除之爲第五數<space n="䶻" quantity="1"/>順是以下皆如</seg>
+                    <seg xml:id="KR3fc075_tls_p16.s5" state="locked">
+                        <lb n="5" ed="KX"/>是遞求至單位下乃相併得圜外同式形積</seg>
+                    <seg xml:id="KR3fc075_tls_p16.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻" quantity="1"/>第十九術</seg>
+                    <seg xml:id="KR3fc075_tls_p16.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>圜外幾等邊形積求圜內同式形積</seg>
+                    <seg xml:id="KR3fc075_tls_p16.s8" state="locked">
+                        <lb n="8" ed="KX"/>圜外積爲第一數正<space n="䶻" quantity="1"/>積自乘乘第一數半徑羃除之邊</seg>
+                    <seg xml:id="KR3fc075_tls_p16.s9" state="locked">
+                        <lb n="9" ed="KX"/>數羃除之半徑羃又除之爲第二數負<space n="䶻" quantity="1"/>積自乘乘第二</seg>
+                    <seg xml:id="KR3fc075_tls_p16.s10" state="locked">
+                        <lb n="10" ed="KX"/>數半徑羃除之邊數羃除之半徑羃又除之爲第三數正</seg>
+                    <seg xml:id="KR3fc075_tls_p16.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻" quantity="1"/>積自乘乘第三數半徑羃除之邊數羃除之半徑羃又</seg>
+                    <seg xml:id="KR3fc075_tls_p16.s13" state="locked">
+                        <lb n="13" ed="KX"/>除之爲第四數負<space n="䶻" quantity="1"/>積自乘乘第四數半徑羃除之邊數</seg>
+                    <seg xml:id="KR3fc075_tls_p16.s14" state="locked">
+                        <lb n="14" ed="KX"/>羃除之半徑羃又除之爲第五數正<space n="䶻" quantity="1"/>順是以下皆如是</seg>
+                    <seg xml:id="KR3fc075_tls_p16.s15" state="locked">
+                        <lb n="15" ed="KX"/>遞求至單位下乃併諸正數減諸負數得所求圜內同式</seg>
+                    <seg xml:id="KR3fc075_tls_p16.s16" state="locked">
+                        <lb n="16" ed="KX"/>形積</seg>
+                    <seg xml:id="KR3fc075_tls_p16.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻" quantity="1"/>第二十術</seg>
+                    <seg xml:id="KR3fc075_tls_p16.s18" state="locked">
+                        <lb n="18" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>圜內幾等邊形面積求圜面積</seg>
+                    <seg xml:id="KR3fc075_tls_p16.s19" state="locked">
+                        <lb n="19" ed="KX"/>圜內積爲第一數<space n="䶻" quantity="1"/>倍積自乘乘第一數半徑羃除之邊</seg>
+                    <seg xml:id="KR3fc075_tls_p16.s20" state="locked">
+                        <lb n="20" ed="KX"/>數羃除之半徑羃又除之二除之三除之爲第二數<space n="䶻" quantity="1"/>倍</seg>
+                    <seg xml:id="KR3fc075_tls_p16.s21" state="locked">
+                        <lb n="21" ed="KX"/>積自乘乘第二數半徑羃除之邊數羃除之半徑羃又除</seg>
+                    <pb ed="KX" n="03-07-121.17" xml:id="KR3fc075_tls_17a"/>
+                    <seg xml:id="KR3fc075_tls_p17.s1" state="locked">
+                        <lb n="1" ed="KX"/>之九乘之四除之五除之爲第三數<space n="䶻" quantity="1"/>倍積自乘乘第三</seg>
+                    <seg xml:id="KR3fc075_tls_p17.s2" state="locked">
+                        <lb n="2" ed="KX"/>數半徑羃除之邊數羃除之半徑羃又除之二十五乘之</seg>
+                    <seg xml:id="KR3fc075_tls_p17.s3" state="locked">
+                        <lb n="3" ed="KX"/>六除之七除之爲第四數<space n="䶻" quantity="1"/>順是以下皆如是遞求至單</seg>
+                    <seg xml:id="KR3fc075_tls_p17.s4" state="locked">
+                        <lb n="4" ed="KX"/>位下乃相併得所求圜面積</seg>
+                    <seg xml:id="KR3fc075_tls_p17.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻" quantity="1"/>第二十一術</seg>
+                    <seg xml:id="KR3fc075_tls_p17.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>圜外幾等邊形面積求圜面積</seg>
+                    <seg xml:id="KR3fc075_tls_p17.s7" state="locked">
+                        <lb n="7" ed="KX"/>圜外積爲第一數正<space n="䶻" quantity="1"/>積自乘乘第一數半徑羃除之邊</seg>
+                    <seg xml:id="KR3fc075_tls_p17.s8" state="locked">
+                        <lb n="8" ed="KX"/>數羃除之半徑羃又除之一乘之三除之爲第二數負</seg>
+                    <seg xml:id="KR3fc075_tls_p17.s9" state="locked">
+                        <lb n="9" ed="KX"/>積自乘乘第二數半徑羃除之邊數羃除之半徑羃又除</seg>
+                    <seg xml:id="KR3fc075_tls_p17.s10" state="locked">
+                        <lb n="10" ed="KX"/>之三乘之五除之爲第三數正<space n="䶻" quantity="1"/>積自乘乘第三數半徑</seg>
+                    <seg xml:id="KR3fc075_tls_p17.s12" state="locked">
+                        <lb n="12" ed="KX"/>羃除之邊數羃除之半徑羃又除之五乘之七除之爲第</seg>
+                    <seg xml:id="KR3fc075_tls_p17.s13" state="locked">
+                        <lb n="13" ed="KX"/>四數負<space n="䶻" quantity="1"/>順是以下皆如是遞求至單位下乃併諸正數</seg>
+                    <seg xml:id="KR3fc075_tls_p17.s14" state="locked">
+                        <lb n="14" ed="KX"/>減諸負數得所求圜面積</seg>
+                    <pb ed="KX" n="03-07-121.18" xml:id="KR3fc075_tls_18a"/>
+                    <head xml:id="KR3fc075_tls_p18.s1-h">
+                        <seg xml:id="KR3fc075_tls_p18.s1" state="locked">
+                            <lb n="1" ed="KX"/>測圓密率卷第三</seg>
+                    </head>
+                    <seg xml:id="KR3fc075_tls_p18.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻䶻䶻䶻䶻䶻䶻䶻䶻䶻䶻䶻" quantity="12"/>烏程徐有壬君青著</seg>
+                    <seg xml:id="KR3fc075_tls_p18.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻" quantity="1"/>第一術</seg>
+                    <seg xml:id="KR3fc075_tls_p18.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有大弧矢求幾分弧之一小弧矢</seg>
+                    <seg xml:id="KR3fc075_tls_p18.s5" state="locked">
+                        <lb n="5" ed="KX"/>分母自乘以除矢爲第一數<space n="䶻" quantity="1"/>分母自乘減一乘第一數</seg>
+                    <seg xml:id="KR3fc075_tls_p18.s6" state="locked">
+                        <lb n="6" ed="KX"/>又倍第一數乘之半徑除之三除之四除之爲第二數</seg>
+                    <seg xml:id="KR3fc075_tls_p18.s7" state="locked">
+                        <lb n="7" ed="KX"/>分母自乘四之減一乘第二數又倍第一數乘之半徑除</seg>
+                    <seg xml:id="KR3fc075_tls_p18.s8" state="locked">
+                        <lb n="8" ed="KX"/>之五除之六除之爲第三數<space n="䶻" quantity="1"/>分母自乘九之減一乘第</seg>
+                    <seg xml:id="KR3fc075_tls_p18.s9" state="locked">
+                        <lb n="9" ed="KX"/>三數又倍第一數乘之半徑除之七除之八除之爲第四</seg>
+                    <seg xml:id="KR3fc075_tls_p18.s10" state="locked">
+                        <lb n="10" ed="KX"/>數<space n="䶻" quantity="1"/>順是以下皆如是遞求至單位下乃相併得所求小</seg>
+                    <seg xml:id="KR3fc075_tls_p18.s12" state="locked">
+                        <lb n="12" ed="KX"/>弧矢</seg>
+                    <seg xml:id="KR3fc075_tls_p18.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻" quantity="1"/>第二術</seg>
+                    <seg xml:id="KR3fc075_tls_p18.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有幾分弧之一小弧矢求大弧矢</seg>
+                    <seg xml:id="KR3fc075_tls_p18.s15" state="locked">
+                        <lb n="15" ed="KX"/>分母自乘乘矢爲第一數正分母自乘減一乘第一數</seg>
+                    <seg xml:id="KR3fc075_tls_p18.s16" state="locked">
+                        <lb n="16" ed="KX"/>倍矢乘之半徑除之三除之四除之爲第二數負<space n="䶻" quantity="1"/>分母</seg>
+                    <seg xml:id="KR3fc075_tls_p18.s17" state="locked">
+                        <lb n="17" ed="KX"/>自乘減四乘第二數倍矢乘之半徑除之五除之六除之</seg>
+                    <seg xml:id="KR3fc075_tls_p18.s18" state="locked">
+                        <lb n="18" ed="KX"/>爲第三數正<space n="䶻" quantity="1"/>分母自乘減九乘第三數倍矢乘之半徑</seg>
+                    <seg xml:id="KR3fc075_tls_p18.s19" state="locked">
+                        <lb n="19" ed="KX"/>除之七除之八除之爲第四數負<space n="䶻" quantity="1"/>順是以下皆如是遞</seg>
+                    <seg xml:id="KR3fc075_tls_p18.s20" state="locked">
+                        <lb n="20" ed="KX"/>求至單位下乃併諸正數減諸負數得所求大弧矢</seg>
+                    <seg xml:id="KR3fc075_tls_p18.s21" state="locked">
+                        <lb n="21" ed="KX"/>
+                        <space n="䶻" quantity="1"/>此術以一二三四各數自乘與分母自乘相減減盡卽</seg>
+                    <pb ed="KX" n="03-07-121.19" xml:id="KR3fc075_tls_19a"/>
+                    <seg xml:id="KR3fc075_tls_p19.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻" quantity="1"/>止無次數</seg>
+                    <seg xml:id="KR3fc075_tls_p19.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻" quantity="1"/>第三術</seg>
+                    <seg xml:id="KR3fc075_tls_p19.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有大弧正弦求幾分弧之一小弧正弦</seg>
+                    <seg xml:id="KR3fc075_tls_p19.s4" state="locked">
+                        <lb n="4" ed="KX"/>分母除正弦爲第一數<space n="䶻" quantity="1"/>分母自乘減一乘第一數又以</seg>
+                    <seg xml:id="KR3fc075_tls_p19.s5" state="locked">
+                        <lb n="5" ed="KX"/>第一數自乘乘之半徑羃除之二除之三除之爲第二數</seg>
+                    <seg xml:id="KR3fc075_tls_p19.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻" quantity="1"/>分母自乘九之減一乘第二數又以第一數自乘乘之</seg>
+                    <seg xml:id="KR3fc075_tls_p19.s7" state="locked">
+                        <lb n="7" ed="KX"/>半徑羃除之四除之五除之爲第三數<space n="䶻" quantity="1"/>分母自乘二十</seg>
+                    <seg xml:id="KR3fc075_tls_p19.s8" state="locked">
+                        <lb n="8" ed="KX"/>五之減一乘第三數又以第一數自乘乘之半徑冪除之</seg>
+                    <seg xml:id="KR3fc075_tls_p19.s9" state="locked">
+                        <lb n="9" ed="KX"/>六除之七除之爲第四數<space n="䶻" quantity="1"/>順是以下皆如是遞求至單</seg>
+                    <seg xml:id="KR3fc075_tls_p19.s10" state="locked">
+                        <lb n="10" ed="KX"/>位下乃相併得所求小弧正弦</seg>
+                    <seg xml:id="KR3fc075_tls_p19.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻" quantity="1"/>第四術</seg>
+                    <seg xml:id="KR3fc075_tls_p19.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有幾分弧之一小弧正弦求大弧正弦</seg>
+                    <seg xml:id="KR3fc075_tls_p19.s14" state="locked">
+                        <lb n="14" ed="KX"/>分母乘正弦爲第一數正<space n="䶻" quantity="1"/>分母自乘減一乘第一數正</seg>
+                    <seg xml:id="KR3fc075_tls_p19.s15" state="locked">
+                        <lb n="15" ed="KX"/>弦自乘乘之半徑羃除之二除之三除之爲第二數負</seg>
+                    <seg xml:id="KR3fc075_tls_p19.s16" state="locked">
+                        <lb n="16" ed="KX"/>分母自乘減九乘第二數正弦自乘乘之半徑羃除之四</seg>
+                    <seg xml:id="KR3fc075_tls_p19.s17" state="locked">
+                        <lb n="17" ed="KX"/>除之五除之爲第三數正<space n="䶻" quantity="1"/>分母自乘減二十五乘第三</seg>
+                    <seg xml:id="KR3fc075_tls_p19.s18" state="locked">
+                        <lb n="18" ed="KX"/>數正弦自乘乘之半徑羃除之六除之七除之爲第四數</seg>
+                    <seg xml:id="KR3fc075_tls_p19.s19" state="locked">
+                        <lb n="19" ed="KX"/>負<space n="䶻" quantity="1"/>順是以下皆如是遞求至單位下乃併諸正數減諸</seg>
+                    <seg xml:id="KR3fc075_tls_p19.s20" state="locked">
+                        <lb n="20" ed="KX"/>負數得所求大弧正弦</seg>
+                    <seg xml:id="KR3fc075_tls_p19.s21" state="locked">
+                        <lb n="21" ed="KX"/>
+                        <space n="䶻" quantity="1"/>此術以一三五七九各奇數自乘與分母自乘相減分</seg>
+                    <pb ed="KX" n="03-07-121.20" xml:id="KR3fc075_tls_20a"/>
+                    <seg xml:id="KR3fc075_tls_p20.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻" quantity="1"/>母奇者減盡卽止無次數分母偶者不足減卽反減正</seg>
+                    <seg xml:id="KR3fc075_tls_p20.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻" quantity="1"/>負不復相閒</seg>
+                    <seg xml:id="KR3fc075_tls_p20.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>以上四術本董方立氏</seg>
+                    <seg xml:id="KR3fc075_tls_p20.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻" quantity="1"/>第五術</seg>
+                    <seg xml:id="KR3fc075_tls_p20.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有大弧正弦求幾分弧之一小弧矢</seg>
+                    <seg xml:id="KR3fc075_tls_p20.s6" state="locked">
+                        <lb n="6" ed="KX"/>分母除正弦得數又自乘半徑除之二除之爲第一數</seg>
+                    <seg xml:id="KR3fc075_tls_p20.s7" state="locked">
+                        <lb n="7" ed="KX"/>分母自乘四之減一乘第一數又倍第一數乘之半徑除</seg>
+                    <seg xml:id="KR3fc075_tls_p20.s8" state="locked">
+                        <lb n="8" ed="KX"/>之三除之四除之爲第二數<space n="䶻" quantity="1"/>分母自乘十六之減一乘</seg>
+                    <seg xml:id="KR3fc075_tls_p20.s9" state="locked">
+                        <lb n="9" ed="KX"/>第二數又倍第一數乘之半徑除之五除之六除之爲第</seg>
+                    <seg xml:id="KR3fc075_tls_p20.s10" state="locked">
+                        <lb n="10" ed="KX"/>三數<space n="䶻" quantity="1"/>分母自乘三十六之減一乘第三數又倍第一數</seg>
+                    <seg xml:id="KR3fc075_tls_p20.s12" state="locked">
+                        <lb n="12" ed="KX"/>乘之半徑除之七除之八除之爲第四數<space n="䶻" quantity="1"/>順是以下皆</seg>
+                    <seg xml:id="KR3fc075_tls_p20.s13" state="locked">
+                        <lb n="13" ed="KX"/>如是遞求至單位下乃相併得所求小弧矢</seg>
+                    <seg xml:id="KR3fc075_tls_p20.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻" quantity="1"/>第六術</seg>
+                    <seg xml:id="KR3fc075_tls_p20.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有幾分弧之一小弧正弦求大弧矢</seg>
+                    <seg xml:id="KR3fc075_tls_p20.s16" state="locked">
+                        <lb n="16" ed="KX"/>正弦自乘半徑除之分母自乘乘之二除之爲第一數正</seg>
+                    <seg xml:id="KR3fc075_tls_p20.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻" quantity="1"/>分母自乘減四乘第一數正弦自乘乘之半徑羃除之</seg>
+                    <seg xml:id="KR3fc075_tls_p20.s18" state="locked">
+                        <lb n="18" ed="KX"/>三除之四除之爲第二數負<space n="䶻" quantity="1"/>分母自乘減十六乘第二</seg>
+                    <seg xml:id="KR3fc075_tls_p20.s19" state="locked">
+                        <lb n="19" ed="KX"/>數正弦自乘乘之半徑羃除之五除之六除之爲第三數</seg>
+                    <seg xml:id="KR3fc075_tls_p20.s20" state="locked">
+                        <lb n="20" ed="KX"/>正<space n="䶻" quantity="1"/>分母自乘減三十六乘第三數正弦自乘乘之半徑</seg>
+                    <seg xml:id="KR3fc075_tls_p20.s21" state="locked">
+                        <lb n="21" ed="KX"/>冪除之七除之八除之爲第四數負<space n="䶻" quantity="1"/>順是以下皆如是</seg>
+                    <pb ed="KX" n="03-07-121.21" xml:id="KR3fc075_tls_21a"/>
+                    <seg xml:id="KR3fc075_tls_p21.s1" state="locked">
+                        <lb n="1" ed="KX"/>遞求至單位下乃併諸正數減諸負數得所求大弧矢</seg>
+                    <seg xml:id="KR3fc075_tls_p21.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻" quantity="1"/>此術以二四六八十各偶數自乘與分母自乘相減分</seg>
+                    <seg xml:id="KR3fc075_tls_p21.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻" quantity="1"/>母偶者減盡卽止無次數分母奇者不足減卽反減爾</seg>
+                    <seg xml:id="KR3fc075_tls_p21.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻" quantity="1"/>後正負皆相從不相閒</seg>
+                    <seg xml:id="KR3fc075_tls_p21.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻" quantity="1"/>第七術</seg>
+                    <seg xml:id="KR3fc075_tls_p21.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有大弧矢求幾分弧之一小弧正弦</seg>
+                    <seg xml:id="KR3fc075_tls_p21.s7" state="locked">
+                        <lb n="7" ed="KX"/>分母自乘以除倍矢爲第一數<space n="䶻" quantity="1"/>分母自乘減四乘第一</seg>
+                    <seg xml:id="KR3fc075_tls_p21.s8" state="locked">
+                        <lb n="8" ed="KX"/>數又以第一數乘之半徑除之三除之四除之爲第二數</seg>
+                    <seg xml:id="KR3fc075_tls_p21.s9" state="locked">
+                        <lb n="9" ed="KX"/>
+                        <space n="䶻" quantity="1"/>分母自乘四之減四乘第二數又以第一數乘之半徑</seg>
+                    <seg xml:id="KR3fc075_tls_p21.s10" state="locked">
+                        <lb n="10" ed="KX"/>除之五除之六除之爲第三數<space n="䶻" quantity="1"/>分母自乘九之減四乘</seg>
+                    <seg xml:id="KR3fc075_tls_p21.s12" state="locked">
+                        <lb n="12" ed="KX"/>第三數又以第一數乘之半徑除之七除之八除之爲第</seg>
+                    <seg xml:id="KR3fc075_tls_p21.s13" state="locked">
+                        <lb n="13" ed="KX"/>四數<space n="䶻" quantity="1"/>順是以下皆如是遞求至單位下乃相併乘半徑</seg>
+                    <seg xml:id="KR3fc075_tls_p21.s14" state="locked">
+                        <lb n="14" ed="KX"/>開平方得所求小弧正弦</seg>
+                    <seg xml:id="KR3fc075_tls_p21.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻" quantity="1"/>第八術</seg>
+                    <seg xml:id="KR3fc075_tls_p21.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有幾分弧之一小弧矢求大弧正弦</seg>
+                    <seg xml:id="KR3fc075_tls_p21.s17" state="locked">
+                        <lb n="17" ed="KX"/>分母自乘乘倍矢爲第一數正<space n="䶻" quantity="1"/>分母自乘四之減一乘</seg>
+                    <seg xml:id="KR3fc075_tls_p21.s18" state="locked">
+                        <lb n="18" ed="KX"/>第一數倍矢乘之半徑除之三除之四除之爲第二數負</seg>
+                    <seg xml:id="KR3fc075_tls_p21.s19" state="locked">
+                        <lb n="19" ed="KX"/>
+                        <space n="䶻" quantity="1"/>分母自乘四之減四乘第二數倍矢乘之半徑除之五</seg>
+                    <seg xml:id="KR3fc075_tls_p21.s20" state="locked">
+                        <lb n="20" ed="KX"/>除之六除之爲第三數正<space n="䶻" quantity="1"/>分母自乘四之減九乘第三</seg>
+                    <seg xml:id="KR3fc075_tls_p21.s21" state="locked">
+                        <lb n="21" ed="KX"/>數倍矢乘之半徑除之七除之八除之爲第四數負<space n="䶻" quantity="1"/>順</seg>
+                    <pb ed="KX" n="03-07-121.22" xml:id="KR3fc075_tls_22a"/>
+                    <seg xml:id="KR3fc075_tls_p22.s1" state="locked">
+                        <lb n="1" ed="KX"/>是以下皆如是遞求至單位下乃併諸正數減諸負數以</seg>
+                    <seg xml:id="KR3fc075_tls_p22.s2" state="locked">
+                        <lb n="2" ed="KX"/>半徑乘之開平方得所求大弧正弦</seg>
+                    <seg xml:id="KR3fc075_tls_p22.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻" quantity="1"/>此術以一二三四五各數自乘與分母自乘四之相減</seg>
+                    <seg xml:id="KR3fc075_tls_p22.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻" quantity="1"/>減盡卽止無次數</seg>
+                    <seg xml:id="KR3fc075_tls_p22.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻" quantity="1"/>第九術</seg>
+                    <seg xml:id="KR3fc075_tls_p22.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有大弧正切求幾分弧之一小弧正弦</seg>
+                    <seg xml:id="KR3fc075_tls_p22.s7" state="locked">
+                        <lb n="7" ed="KX"/>分母除正切爲第一數正<space n="䶻" quantity="1"/>分母自乘倍之加一乘第一</seg>
+                    <seg xml:id="KR3fc075_tls_p22.s8" state="locked">
+                        <lb n="8" ed="KX"/>數又以第一數自乘乘之半徑羃除之二除之三除之爲</seg>
+                    <seg xml:id="KR3fc075_tls_p22.s9" state="locked">
+                        <lb n="9" ed="KX"/>第二數負<space n="䶻" quantity="1"/>分母自乘十八之加一乘第二數又以第一</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p22.s10.1">
+                        <lb n="10" ed="KX"/>數自乘乘之半徑羃除之減一差</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p22.s10.2" type="comm">見下</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p22.s10.3">四除之五除之爲</seg>
+                    <seg xml:id="KR3fc075_tls_p22.s12" state="locked">
+                        <lb n="12" ed="KX"/>第三數正<space n="䶻" quantity="1"/>分母自乘五十之加一乘第三數又以第一</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p22.s13.1">
+                        <lb n="13" ed="KX"/>數自乘乘之半徑羃除之減二差</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p22.s13.2" type="comm">見下</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p22.s13.3">六除之七除之爲</seg>
+                    <seg xml:id="KR3fc075_tls_p22.s14" state="locked">
+                        <lb n="14" ed="KX"/>第四數負<space n="䶻" quantity="1"/>分母自乘九十八之加一乘第四數又以第</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p22.s15.1">
+                        <lb n="15" ed="KX"/>一數自乘乘之半徑羃除之減三差</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p22.s15.2" type="comm">見下</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p22.s15.3">八除之九除之</seg>
+                    <seg xml:id="KR3fc075_tls_p22.s16" state="locked">
+                        <lb n="16" ed="KX"/>爲第五數正<space n="䶻" quantity="1"/>分母自乘一百六十二之加一乘第五數</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p22.s17.1">
+                        <lb n="17" ed="KX"/>又以第一數自乘乘之半徑羃除之減四差</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p22.s17.2" type="comm">見下</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p22.s17.3">十除之</seg>
+                    <seg xml:id="KR3fc075_tls_p22.s18" state="locked">
+                        <lb n="18" ed="KX"/>十一除之爲第六數負<space n="䶻" quantity="1"/>順是以下皆如是遞求至單位</seg>
+                    <seg xml:id="KR3fc075_tls_p22.s19" state="locked">
+                        <lb n="19" ed="KX"/>下乃併諸正數減諸負數得所求小弧正弦</seg>
+                    <seg xml:id="KR3fc075_tls_p22.s20" state="locked">
+                        <lb n="20" ed="KX"/>
+                        <space n="䶻" quantity="1"/>各減差求法</seg>
+                    <seg xml:id="KR3fc075_tls_p22.s21" state="locked">
+                        <lb n="21" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>正切自乘得數復自乘半徑羃除之爲乘法<space n="䶻" quantity="1"/>乘法</seg>
+                    <pb ed="KX" n="03-07-121.23" xml:id="KR3fc075_tls_23a"/>
+                    <seg xml:id="KR3fc075_tls_p23.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>乘第一數半徑羃除之一乘之二乘之爲一差<space n="䶻" quantity="1"/>乘</seg>
+                    <seg xml:id="KR3fc075_tls_p23.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>法乘第二數半徑羃除之三乘之四乘之爲二差</seg>
+                    <seg xml:id="KR3fc075_tls_p23.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>乘法乘第三數半徑羃除之五乘之六乘之爲三差</seg>
+                    <seg xml:id="KR3fc075_tls_p23.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻䶻䶻" quantity="3"/>乘法乘第四數半徑羃除之七乘之八乘之爲四</seg>
+                    <seg xml:id="KR3fc075_tls_p23.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>差<space n="䶻" quantity="1"/>如是遞求至單位下而止</seg>
+                    <seg xml:id="KR3fc075_tls_p23.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻" quantity="1"/>第十術</seg>
+                    <seg xml:id="KR3fc075_tls_p23.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有幾分弧之一小弧正切求大弧正弦</seg>
+                    <seg xml:id="KR3fc075_tls_p23.s8" state="locked">
+                        <lb n="8" ed="KX"/>分母乘正切爲第一數正<space n="䶻" quantity="1"/>分母自乘加二乘第一數正</seg>
+                    <seg xml:id="KR3fc075_tls_p23.s9" state="locked">
+                        <lb n="9" ed="KX"/>切自乘乘之半徑羃除之二除之三除之爲第二數負</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p23.s10.1">
+                        <lb n="10" ed="KX"/>分母自乘加十八乘第二數減一差</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p23.s10.2" type="comm">見下</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p23.s10.3">正切自乘乘之</seg>
+                    <seg xml:id="KR3fc075_tls_p23.s12" state="locked">
+                        <lb n="12" ed="KX"/>半徑羃除之四除之五除之爲第三數正<space n="䶻" quantity="1"/>分母自乘加</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p23.s13.1">
+                        <lb n="13" ed="KX"/>五十乘第三數減二差</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p23.s13.2" type="comm">見下</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p23.s13.3">正切自乘乘之半徑羃除之</seg>
+                    <seg xml:id="KR3fc075_tls_p23.s14" state="locked">
+                        <lb n="14" ed="KX"/>六除之七除之爲第四數負<space n="䶻" quantity="1"/>分母自乘加九十八乘第</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p23.s15.1">
+                        <lb n="15" ed="KX"/>四數減三差</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p23.s15.2" type="comm">見下</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p23.s15.3">正切自乘乘之半徑羃除之八除之九</seg>
+                    <seg xml:id="KR3fc075_tls_p23.s16" state="locked">
+                        <lb n="16" ed="KX"/>除之爲第五數正<space n="䶻" quantity="1"/>分母自乘加一百六十二乘第五數</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p23.s17.1">
+                        <lb n="17" ed="KX"/>減四差</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p23.s17.2" type="comm">見下</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p23.s17.3">正切自乘乘之半徑羃除之十除之十一除</seg>
+                    <seg xml:id="KR3fc075_tls_p23.s18" state="locked">
+                        <lb n="18" ed="KX"/>之爲第六數負<space n="䶻" quantity="1"/>順是以下皆如是遞求至單位下乃併</seg>
+                    <seg xml:id="KR3fc075_tls_p23.s19" state="locked">
+                        <lb n="19" ed="KX"/>諸正數減諸負數得所求大弧正弦</seg>
+                    <seg xml:id="KR3fc075_tls_p23.s20" state="locked">
+                        <lb n="20" ed="KX"/>
+                        <space n="䶻" quantity="1"/>各減差求法</seg>
+                    <seg xml:id="KR3fc075_tls_p23.s21" state="locked">
+                        <lb n="21" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>正切自乘乘第一數半徑羃除之一乘之二乘之爲</seg>
+                    <pb ed="KX" n="03-07-121.24" xml:id="KR3fc075_tls_24a"/>
+                    <seg xml:id="KR3fc075_tls_p24.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>一差<space n="䶻" quantity="1"/>正切自乘乘第二數半徑羃除之三乘之四</seg>
+                    <seg xml:id="KR3fc075_tls_p24.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>乘之爲二差<space n="䶻" quantity="1"/>正切自乘乘第三數半徑羃除之五</seg>
+                    <seg xml:id="KR3fc075_tls_p24.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>乘之六乘之爲三差<space n="䶻" quantity="1"/>正切自乘乘第四數半徑羃</seg>
+                    <seg xml:id="KR3fc075_tls_p24.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>除之七乘之八乘之爲四差<space n="䶻" quantity="1"/>如是遞求至單位下</seg>
+                    <seg xml:id="KR3fc075_tls_p24.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>而止</seg>
+                    <seg xml:id="KR3fc075_tls_p24.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻" quantity="1"/>第十一術</seg>
+                    <seg xml:id="KR3fc075_tls_p24.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有大弧正切求幾分弧之一小弧矢</seg>
+                    <seg xml:id="KR3fc075_tls_p24.s8" state="locked">
+                        <lb n="8" ed="KX"/>正切自乘半徑除之分母羃除之二除之爲第一數正</seg>
+                    <seg xml:id="KR3fc075_tls_p24.s9" state="locked">
+                        <lb n="9" ed="KX"/>分母自乘八之加一乘第一數又倍第一數乘之半徑除</seg>
+                    <seg xml:id="KR3fc075_tls_p24.s10" state="locked">
+                        <lb n="10" ed="KX"/>之三除之四除之爲第二數負<space n="䶻" quantity="1"/>分母自乘三十二之加</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p24.s12.1">
+                        <lb n="12" ed="KX"/>一乘第二數又倍第一數乘之半徑除之減一差</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p24.s12.2" type="comm">見下</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p24.s12.3">五</seg>
+                    <seg xml:id="KR3fc075_tls_p24.s13" state="locked">
+                        <lb n="13" ed="KX"/>除之六除之爲第三數正<space n="䶻" quantity="1"/>分母自乘七十二之加一乘</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p24.s14.1">
+                        <lb n="14" ed="KX"/>第三數又倍第一數乘之半徑除之減二差</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p24.s14.2" type="comm">見下</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p24.s14.3">七除之</seg>
+                    <seg xml:id="KR3fc075_tls_p24.s15" state="locked">
+                        <lb n="15" ed="KX"/>八除之爲第四數負<space n="䶻" quantity="1"/>分母自乘百二十八之加一乘第</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p24.s16.1">
+                        <lb n="16" ed="KX"/>四數又倍第一數乘之半徑除之減三差</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p24.s16.2" type="comm">見下</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p24.s16.3">九除之十</seg>
+                    <seg xml:id="KR3fc075_tls_p24.s17" state="locked">
+                        <lb n="17" ed="KX"/>除之爲第五數正<space n="䶻" quantity="1"/>分母自乘二百之加一乘第五數又</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p24.s18.1">
+                        <lb n="18" ed="KX"/>倍第一數乘之半徑除之減四差</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p24.s18.2" type="comm">見下</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p24.s18.3">十一除之十二除</seg>
+                    <seg xml:id="KR3fc075_tls_p24.s19" state="locked">
+                        <lb n="19" ed="KX"/>之爲第六數負<space n="䶻" quantity="1"/>順是以下皆如是遞求至單位下乃併</seg>
+                    <seg xml:id="KR3fc075_tls_p24.s20" state="locked">
+                        <lb n="20" ed="KX"/>諸正數減諸負數得所求小弧矢</seg>
+                    <seg xml:id="KR3fc075_tls_p24.s21" state="locked">
+                        <lb n="21" ed="KX"/>
+                        <space n="䶻" quantity="1"/>各減差求法</seg>
+                    <pb ed="KX" n="03-07-121.25" xml:id="KR3fc075_tls_25a"/>
+                    <seg xml:id="KR3fc075_tls_p25.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>正切自乘得數又自乘半徑羃除之爲乘法<space n="䶻" quantity="1"/>乘法</seg>
+                    <seg xml:id="KR3fc075_tls_p25.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>乘第一數半徑羃除之二乘之三乘之爲一差<space n="䶻" quantity="1"/>乘</seg>
+                    <seg xml:id="KR3fc075_tls_p25.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>法乘第二數半徑羃除之四乘之五乘之爲二差</seg>
+                    <seg xml:id="KR3fc075_tls_p25.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>乘法乘第三數半徑羃除之六乘之七乘之爲三差</seg>
+                    <seg xml:id="KR3fc075_tls_p25.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻䶻䶻" quantity="3"/>乘法乘第四數半徑羃除之八乘之九乘之爲四</seg>
+                    <seg xml:id="KR3fc075_tls_p25.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>差<space n="䶻" quantity="1"/>如是遞求至單位下而止</seg>
+                    <seg xml:id="KR3fc075_tls_p25.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻" quantity="1"/>第十二術</seg>
+                    <seg xml:id="KR3fc075_tls_p25.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有幾分弧之一小弧正切求大弧矢</seg>
+                    <seg xml:id="KR3fc075_tls_p25.s9" state="locked">
+                        <lb n="9" ed="KX"/>分母乘正切得數又自乘半徑除之二除之爲第一數正</seg>
+                    <seg xml:id="KR3fc075_tls_p25.s10" state="locked">
+                        <lb n="10" ed="KX"/>
+                        <space n="䶻" quantity="1"/>分母自乘加八乘第一數正切自乘乘之半徑羃除之</seg>
+                    <seg xml:id="KR3fc075_tls_p25.s12" state="locked">
+                        <lb n="12" ed="KX"/>三除之四除之爲第二數負<space n="䶻" quantity="1"/>分母自乘加三十二乘第</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p25.s13.1">
+                        <lb n="13" ed="KX"/>二數減一差</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p25.s13.2" type="comm">見下</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p25.s13.3">正切自乘乘之半徑羃除之五除之六</seg>
+                    <seg xml:id="KR3fc075_tls_p25.s14" state="locked">
+                        <lb n="14" ed="KX"/>除之爲第三數正<space n="䶻" quantity="1"/>分母自乘加七十二乘第三數減二</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p25.s15.1">
+                        <lb n="15" ed="KX"/>差</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p25.s15.2" type="comm">見下</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p25.s15.3">正切自乘乘之半徑羃除之七除之八除之爲第</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p25.s16.1">
+                        <lb n="16" ed="KX"/>四數負分母自乘加百二十八乘第四數減三差</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p25.s16.2" type="comm">見下</seg>
+                    <seg xml:id="KR3fc075_tls_p25.s17" state="locked">
+                        <lb n="17" ed="KX"/>正切自乘乘之半徑羃除之九除之十除之爲第五數正</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p25.s18.1">
+                        <lb n="18" ed="KX"/>分母自乘加二百乘第五數減四差</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p25.s18.2" type="comm">見下</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p25.s18.3">正切自乘乘</seg>
+                    <seg xml:id="KR3fc075_tls_p25.s19" state="locked">
+                        <lb n="19" ed="KX"/>之半徑羃除之十一除之十二除之爲第六數負<space n="䶻" quantity="1"/>順是</seg>
+                    <seg xml:id="KR3fc075_tls_p25.s20" state="locked">
+                        <lb n="20" ed="KX"/>以下皆如是遞求至單位下乃併諸正數減諸負數得所</seg>
+                    <seg xml:id="KR3fc075_tls_p25.s21" state="locked">
+                        <lb n="21" ed="KX"/>求大弧矢</seg>
+                    <pb ed="KX" n="03-07-121.26" xml:id="KR3fc075_tls_26a"/>
+                    <seg xml:id="KR3fc075_tls_p26.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻" quantity="1"/>各減差求法</seg>
+                    <seg xml:id="KR3fc075_tls_p26.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>正切自乘乘第一數半徑羃除之二乘之三乘之爲</seg>
+                    <seg xml:id="KR3fc075_tls_p26.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>一差<space n="䶻" quantity="1"/>正切自乘乘第二數半徑羃除之四乘之五</seg>
+                    <seg xml:id="KR3fc075_tls_p26.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>乘之爲二差<space n="䶻" quantity="1"/>正切自乘乘第三數半徑羃除之六</seg>
+                    <seg xml:id="KR3fc075_tls_p26.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>乘之七乘之爲三差<space n="䶻" quantity="1"/>正切自乘乘第四數半徑羃</seg>
+                    <seg xml:id="KR3fc075_tls_p26.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>除之八乘之九乘之爲四差<space n="䶻" quantity="1"/>如是遞求至單位下</seg>
+                    <seg xml:id="KR3fc075_tls_p26.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>而止</seg>
+                    <seg xml:id="KR3fc075_tls_p26.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻" quantity="1"/>第十三術</seg>
+                    <seg xml:id="KR3fc075_tls_p26.s9" state="locked">
+                        <lb n="9" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有大弧正弦求幾分弧之一小弧正切</seg>
+                    <seg xml:id="KR3fc075_tls_p26.s10" state="locked">
+                        <lb n="10" ed="KX"/>分母除正弦爲第一數<space n="䶻" quantity="1"/>分母自乘加二乘第一數又以</seg>
+                    <seg xml:id="KR3fc075_tls_p26.s12" state="locked">
+                        <lb n="12" ed="KX"/>第一數自乘乘之半徑羃除之二除之三除之爲第二數</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p26.s13.1">
+                        <lb n="13" ed="KX"/>分母自乘九之加二乘第二數加一差</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p26.s13.2" type="comm">見下</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p26.s13.3">又以第一</seg>
+                    <seg xml:id="KR3fc075_tls_p26.s14" state="locked">
+                        <lb n="14" ed="KX"/>數自乘乘之半徑羃除之四除之五除之爲第三數<space n="䶻" quantity="1"/>分</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p26.s15.1">
+                        <lb n="15" ed="KX"/>母自乘二十五之加二乘第三數加二差</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p26.s15.2" type="comm">見下</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p26.s15.3">又以第一</seg>
+                    <seg xml:id="KR3fc075_tls_p26.s16" state="locked">
+                        <lb n="16" ed="KX"/>數自乘乘之半徑羃除之六除之七除之爲第四數<space n="䶻" quantity="1"/>分</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p26.s17.1">
+                        <lb n="17" ed="KX"/>母自乘四十九之加二乘第四數加三差</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p26.s17.2" type="comm">見下</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p26.s17.3">又以第一</seg>
+                    <seg xml:id="KR3fc075_tls_p26.s18" state="locked">
+                        <lb n="18" ed="KX"/>數自乘乘之半徑羃除之八除之九除之爲第五數<space n="䶻" quantity="1"/>分</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p26.s19.1">
+                        <lb n="19" ed="KX"/>母自乘八十一之加二乘第五數加四差</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p26.s19.2" type="comm">見下</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p26.s19.3">又以第一</seg>
+                    <seg xml:id="KR3fc075_tls_p26.s20" state="locked">
+                        <lb n="20" ed="KX"/>數自乘乘之半徑羃除之十除之十一除之爲第六數</seg>
+                    <seg xml:id="KR3fc075_tls_p26.s21" state="locked">
+                        <lb n="21" ed="KX"/>順是以下皆如是遞求至單位下乃相併得所求小弧正</seg>
+                    <pb ed="KX" n="03-07-121.27" xml:id="KR3fc075_tls_27a"/>
+                    <seg xml:id="KR3fc075_tls_p27.s1" state="locked">
+                        <lb n="1" ed="KX"/>切</seg>
+                    <seg xml:id="KR3fc075_tls_p27.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻" quantity="1"/>各加差求法</seg>
+                    <seg xml:id="KR3fc075_tls_p27.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>第一數自乘再乘半徑羃除之倍之爲一差<space n="䶻" quantity="1"/>第一</seg>
+                    <seg xml:id="KR3fc075_tls_p27.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>數自乘乘第二數三之半徑羃除之倍之爲二差</seg>
+                    <seg xml:id="KR3fc075_tls_p27.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>第一數自乘乘第三數第二數自乘乘第一數相併</seg>
+                    <seg xml:id="KR3fc075_tls_p27.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>三之半徑羃除之倍之爲三差<space n="䶻" quantity="1"/>第一數自乘乘第</seg>
+                    <seg xml:id="KR3fc075_tls_p27.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>四數三之第一數乘第二數又乘第三數六之第二</seg>
+                    <seg xml:id="KR3fc075_tls_p27.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>數自乘再乘相併半徑羃除之倍之爲四差<space n="䶻" quantity="1"/>如是</seg>
+                    <seg xml:id="KR3fc075_tls_p27.s9" state="locked">
+                        <lb n="9" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>遞求至單位下而止</seg>
+                    <seg xml:id="KR3fc075_tls_p27.s10" state="locked">
+                        <lb n="10" ed="KX"/>
+                        <space n="䶻" quantity="1"/>第十四術</seg>
+                    <seg xml:id="KR3fc075_tls_p27.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有幾分弧之一小弧正弦求大弧正切</seg>
+                    <seg xml:id="KR3fc075_tls_p27.s13" state="locked">
+                        <lb n="13" ed="KX"/>分母乘正弦爲第一數<space n="䶻" quantity="1"/>分母自乘倍之加一乘第一數</seg>
+                    <seg xml:id="KR3fc075_tls_p27.s14" state="locked">
+                        <lb n="14" ed="KX"/>正弦自乘乘之半徑羃除之二除之三除之爲第二數</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p27.s15.1">
+                        <lb n="15" ed="KX"/>分母自乘倍之加九乘第二數加一差</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p27.s15.2" type="comm">見下</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p27.s15.3">正弦自乘乘</seg>
+                    <seg xml:id="KR3fc075_tls_p27.s16" state="locked">
+                        <lb n="16" ed="KX"/>之半徑羃除之四除之五除之爲第三數<space n="䶻" quantity="1"/>分母自乘倍</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p27.s17.1">
+                        <lb n="17" ed="KX"/>之加二十五乘第三數加二差</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p27.s17.2" type="comm">見下</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p27.s17.3">正弦自乘乘之半徑</seg>
+                    <seg xml:id="KR3fc075_tls_p27.s18" state="locked">
+                        <lb n="18" ed="KX"/>羃除之六除之七除之爲第四數<space n="䶻" quantity="1"/>分母自乘倍之加四</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p27.s19.1">
+                        <lb n="19" ed="KX"/>十九乘第四數加三差</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p27.s19.2" type="comm">見下</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p27.s19.3">正弦自乘乘之半徑羃除之</seg>
+                    <seg xml:id="KR3fc075_tls_p27.s20" state="locked">
+                        <lb n="20" ed="KX"/>八除之九除之爲第五數<space n="䶻" quantity="1"/>分母自乘倍之加八十一乘</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p27.s21.1">
+                        <lb n="21" ed="KX"/>第五數加四差</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p27.s21.2" type="comm">見下</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p27.s21.3">正弦自乘乘之半徑羃除之十除之</seg>
+                    <pb ed="KX" n="03-07-121.28" xml:id="KR3fc075_tls_28a"/>
+                    <seg xml:id="KR3fc075_tls_p28.s1" state="locked">
+                        <lb n="1" ed="KX"/>十一除之爲第六數<space n="䶻" quantity="1"/>順是以下皆如是遞求至單位下</seg>
+                    <seg xml:id="KR3fc075_tls_p28.s2" state="locked">
+                        <lb n="2" ed="KX"/>乃相併得所求大弧正切</seg>
+                    <seg xml:id="KR3fc075_tls_p28.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻" quantity="1"/>各加差求法</seg>
+                    <seg xml:id="KR3fc075_tls_p28.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>第一數自乘再乘半徑羃除之倍之分母自乘乘之</seg>
+                    <seg xml:id="KR3fc075_tls_p28.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>爲一差<space n="䶻" quantity="1"/>第一數自乘乘第二數三之半徑羃除之</seg>
+                    <seg xml:id="KR3fc075_tls_p28.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>倍之分母自乘乘之爲二差<space n="䶻" quantity="1"/>第一數自乘乘第三</seg>
+                    <seg xml:id="KR3fc075_tls_p28.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>數第二數自乘乘第一數相併三之半徑羃除之倍</seg>
+                    <seg xml:id="KR3fc075_tls_p28.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>之分母自乘乘之爲三差<space n="䶻" quantity="1"/>第一數自乘乘第四數</seg>
+                    <seg xml:id="KR3fc075_tls_p28.s9" state="locked">
+                        <lb n="9" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>三之第一數乘第二數又乘第三數六之第二數自</seg>
+                    <seg xml:id="KR3fc075_tls_p28.s10" state="locked">
+                        <lb n="10" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>乘再乘相併半徑羃除之倍之分母自乘乘之爲四</seg>
+                    <seg xml:id="KR3fc075_tls_p28.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>差<space n="䶻" quantity="1"/>如是遞求至單位下而止</seg>
+                    <seg xml:id="KR3fc075_tls_p28.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻" quantity="1"/>第十五術</seg>
+                    <seg xml:id="KR3fc075_tls_p28.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有大弧矢求幾分弧之一小弧正切</seg>
+                    <seg xml:id="KR3fc075_tls_p28.s15" state="locked">
+                        <lb n="15" ed="KX"/>分母目乘以除倍矢爲第一數<space n="䶻" quantity="1"/>分母自乘加八乘第一</seg>
+                    <seg xml:id="KR3fc075_tls_p28.s16" state="locked">
+                        <lb n="16" ed="KX"/>數又以第一數乘之半徑除之三除之四除之爲第二數</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p28.s17.1">
+                        <lb n="17" ed="KX"/>分母自乘四之加八乘第二數加一差</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p28.s17.2" type="comm">見下</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p28.s17.3">第一數乘</seg>
+                    <seg xml:id="KR3fc075_tls_p28.s18" state="locked">
+                        <lb n="18" ed="KX"/>之半徑除之五除之六除之爲第三數<space n="䶻" quantity="1"/>分母自乘九之</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p28.s19.1">
+                        <lb n="19" ed="KX"/>加八乘第三數加二差</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p28.s19.2" type="comm">見下</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p28.s19.3">第一數乘之半徑除之七除</seg>
+                    <seg xml:id="KR3fc075_tls_p28.s20" state="locked">
+                        <lb n="20" ed="KX"/>之八除之爲第四數<space n="䶻" quantity="1"/>分母自乘十六之加八乘第四數</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p28.s21.1">
+                        <lb n="21" ed="KX"/>加三差</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p28.s21.2" type="comm">見下</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p28.s21.3">第一數乘之半徑除之九除之十除之爲第</seg>
+                    <pb ed="KX" n="03-07-121.29" xml:id="KR3fc075_tls_29a"/>
+                    <seg state="locked" xml:id="KR3fc075_tls_p29.s1.1">
+                        <lb n="1" ed="KX"/>五數分母自乘二十五之加八乘第五數加四差</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p29.s1.2" type="comm">見下</seg>
+                    <seg xml:id="KR3fc075_tls_p29.s2" state="locked">
+                        <lb n="2" ed="KX"/>第一數乘之半徑除之十一除之十二除之爲第六數</seg>
+                    <seg xml:id="KR3fc075_tls_p29.s3" state="locked">
+                        <lb n="3" ed="KX"/>順是以下皆如是遞求至單位下乃相併乘半徑爲小弧</seg>
+                    <seg xml:id="KR3fc075_tls_p29.s4" state="locked">
+                        <lb n="4" ed="KX"/>正切之自乘羃平方開之得所求小弧正切</seg>
+                    <seg xml:id="KR3fc075_tls_p29.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻" quantity="1"/>各加差求法</seg>
+                    <seg xml:id="KR3fc075_tls_p29.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>第一數自乘半徑除之六之爲一差<space n="䶻" quantity="1"/>第一數乘第</seg>
+                    <seg xml:id="KR3fc075_tls_p29.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>二數倍之半徑除之六之爲二差<space n="䶻" quantity="1"/>第一數乘第三</seg>
+                    <seg xml:id="KR3fc075_tls_p29.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>數倍之第二數自乘相併半徑除之六之爲三差</seg>
+                    <seg xml:id="KR3fc075_tls_p29.s9" state="locked">
+                        <lb n="9" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>第一數乘第四數第二數乘第三數相併倍之半徑</seg>
+                    <seg xml:id="KR3fc075_tls_p29.s10" state="locked">
+                        <lb n="10" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>除之六之爲四差<space n="䶻" quantity="1"/>如是遞求至單位下而止</seg>
+                    <seg xml:id="KR3fc075_tls_p29.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻" quantity="1"/>第十六術</seg>
+                    <seg xml:id="KR3fc075_tls_p29.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有幾分弧之一小弧矢求大弧正切</seg>
+                    <seg xml:id="KR3fc075_tls_p29.s14" state="locked">
+                        <lb n="14" ed="KX"/>分母自乘乘倍矢爲第一數<space n="䶻" quantity="1"/>分母自乘八之加一乘第</seg>
+                    <seg xml:id="KR3fc075_tls_p29.s15" state="locked">
+                        <lb n="15" ed="KX"/>一數倍矢乘之半徑除之三除之四除之爲第二數<space n="䶻" quantity="1"/>分</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p29.s16.1">
+                        <lb n="16" ed="KX"/>母自乘八之加四乘第二數加一差</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p29.s16.2" type="comm">見下</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p29.s16.3">倍矢乘之半徑</seg>
+                    <seg xml:id="KR3fc075_tls_p29.s17" state="locked">
+                        <lb n="17" ed="KX"/>除之五除之六除之爲第三數<space n="䶻" quantity="1"/>分母自乘八之加九乘</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p29.s18.1">
+                        <lb n="18" ed="KX"/>第三數加二差</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p29.s18.2" type="comm">見下</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p29.s18.3">倍矢乘之半徑除之七除之八除之</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p29.s19.1">
+                        <lb n="19" ed="KX"/>爲第四數分母自乘八之加十六乘第四數加三差</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p29.s19.2" type="comm">見<lb type="/"/>下</seg>
+                    <seg xml:id="KR3fc075_tls_p29.s20" state="locked">
+                        <lb n="20" ed="KX"/>倍矢乘之半徑除之九除之十除之爲第五數<space n="䶻" quantity="1"/>分母自</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p29.s21.1">
+                        <lb n="21" ed="KX"/>乘八之加二十五乘第五數加四差</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p29.s21.2" type="comm">見下</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p29.s21.3">倍矢乘之半徑</seg>
+                    <pb ed="KX" n="03-07-121.30" xml:id="KR3fc075_tls_30a"/>
+                    <seg xml:id="KR3fc075_tls_p30.s1" state="locked">
+                        <lb n="1" ed="KX"/>除之十一除之十二除之爲第六數<space n="䶻" quantity="1"/>順是以下皆如是</seg>
+                    <seg xml:id="KR3fc075_tls_p30.s2" state="locked">
+                        <lb n="2" ed="KX"/>遞求至單位下乃相併乘半徑爲大弧正切之自乘羃平</seg>
+                    <seg xml:id="KR3fc075_tls_p30.s3" state="locked">
+                        <lb n="3" ed="KX"/>方開之得所求大弧正切</seg>
+                    <seg xml:id="KR3fc075_tls_p30.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻" quantity="1"/>各加差求法</seg>
+                    <seg xml:id="KR3fc075_tls_p30.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>第一數自乘半徑除之分母自乘乘之六之爲一差</seg>
+                    <seg xml:id="KR3fc075_tls_p30.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻䶻䶻" quantity="3"/>第一數乘第二數倍之半徑除之分母自乘乘之</seg>
+                    <seg xml:id="KR3fc075_tls_p30.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>六之爲二差<space n="䶻" quantity="1"/>第一數乘第三數倍之第二數自乘</seg>
+                    <seg xml:id="KR3fc075_tls_p30.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>相併半徑除之分母自乘乘之六之爲三差<space n="䶻" quantity="1"/>第一</seg>
+                    <seg xml:id="KR3fc075_tls_p30.s9" state="locked">
+                        <lb n="9" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>數乘第四數第二數乘第三數相併倍之半徑除之</seg>
+                    <seg xml:id="KR3fc075_tls_p30.s10" state="locked">
+                        <lb n="10" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>分母自乘乘之六之爲四差<space n="䶻" quantity="1"/>如是遞求至單位下</seg>
+                    <seg xml:id="KR3fc075_tls_p30.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>而止</seg>
+                    <seg xml:id="KR3fc075_tls_p30.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻" quantity="1"/>第十七術</seg>
+                    <seg xml:id="KR3fc075_tls_p30.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有大弧正切求幾分弧之一小弧正切</seg>
+                    <seg xml:id="KR3fc075_tls_p30.s15" state="locked">
+                        <lb n="15" ed="KX"/>分母除正切爲第一數正<space n="䶻" quantity="1"/>分母自乘減一乘第一數又</seg>
+                    <seg xml:id="KR3fc075_tls_p30.s16" state="locked">
+                        <lb n="16" ed="KX"/>以第一數自乘乘之半徑羃除之三除之爲第二數負</seg>
+                    <seg xml:id="KR3fc075_tls_p30.s17" state="locked">
+                        <lb n="17" ed="KX"/>分母自乘三之減二乘第二數又以第一數自乘乘之半</seg>
+                    <seg xml:id="KR3fc075_tls_p30.s18" state="locked">
+                        <lb n="18" ed="KX"/>徑羃除之五除之爲第三數正<space n="䶻" quantity="1"/>分母自乘五之減二乘</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p30.s19.1">
+                        <lb n="19" ed="KX"/>第三數又以第一數自乘乘之減一差</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p30.s19.2" type="comm">見下</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p30.s19.3">半徑羃除之</seg>
+                    <seg xml:id="KR3fc075_tls_p30.s20" state="locked">
+                        <lb n="20" ed="KX"/>七除之爲第四數負<space n="䶻" quantity="1"/>分母自乘七之減二乘第四數又</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p30.s21.1">
+                        <lb n="21" ed="KX"/>以第一數自乘乘之減二差</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p30.s21.2" type="comm">見下</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p30.s21.3">半徑羃除之九除之爲</seg>
+                    <pb ed="KX" n="03-07-121.31" xml:id="KR3fc075_tls_31a"/>
+                    <seg xml:id="KR3fc075_tls_p31.s1" state="locked">
+                        <lb n="1" ed="KX"/>第五數正<space n="䶻" quantity="1"/>分母自乘九之減二乘第五數又以第一數</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p31.s2.1">
+                        <lb n="2" ed="KX"/>自乘乘之減三差</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p31.s2.2" type="comm">見下</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p31.s2.3">半徑羃除之十一除之爲第六數</seg>
+                    <seg xml:id="KR3fc075_tls_p31.s3" state="locked">
+                        <lb n="3" ed="KX"/>負<space n="䶻" quantity="1"/>順是以下皆如是遞求至單位下乃併諸正數減諸</seg>
+                    <seg xml:id="KR3fc075_tls_p31.s4" state="locked">
+                        <lb n="4" ed="KX"/>負數得所求小弧正切</seg>
+                    <seg xml:id="KR3fc075_tls_p31.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻" quantity="1"/>各減差求法</seg>
+                    <seg xml:id="KR3fc075_tls_p31.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>第二數自乘乘第一數爲一差<space n="䶻" quantity="1"/>第二數乘第三數</seg>
+                    <seg xml:id="KR3fc075_tls_p31.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>倍之又乘第一數爲二差<space n="䶻" quantity="1"/>第二數乘第四數倍之</seg>
+                    <seg xml:id="KR3fc075_tls_p31.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>第三數自乘相併又乘第一數爲三差<space n="䶻" quantity="1"/>第二數乘</seg>
+                    <seg xml:id="KR3fc075_tls_p31.s9" state="locked">
+                        <lb n="9" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>第五數第三數乘第四數相併倍之又乘第一數爲</seg>
+                    <seg xml:id="KR3fc075_tls_p31.s10" state="locked">
+                        <lb n="10" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>四差<space n="䶻" quantity="1"/>如是遞求至單位下而止</seg>
+                    <seg xml:id="KR3fc075_tls_p31.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻" quantity="1"/>第十八術</seg>
+                    <seg xml:id="KR3fc075_tls_p31.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>有幾分弧之一小弧正切求大弧正切</seg>
+                    <seg xml:id="KR3fc075_tls_p31.s14" state="locked">
+                        <lb n="14" ed="KX"/>分母乘正切爲第一數<space n="䶻" quantity="1"/>分母自乘減一乘第一數正切</seg>
+                    <seg xml:id="KR3fc075_tls_p31.s15" state="locked">
+                        <lb n="15" ed="KX"/>自乘乘之半徑羃除之三除之爲第二數<space n="䶻" quantity="1"/>分母自乘倍</seg>
+                    <seg xml:id="KR3fc075_tls_p31.s16" state="locked">
+                        <lb n="16" ed="KX"/>之減三乘第二數正切自乘乘之半徑羃除之五除之爲</seg>
+                    <seg xml:id="KR3fc075_tls_p31.s17" state="locked">
+                        <lb n="17" ed="KX"/>第三數<space n="䶻" quantity="1"/>分母自乘倍之減五乘第三數正切自乘乘之</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p31.s18.1">
+                        <lb n="18" ed="KX"/>加一差</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p31.s18.2" type="comm">見下</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p31.s18.3">半徑羃除之七除之爲第四數分母自乘</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p31.s19.1">
+                        <lb n="19" ed="KX"/>倍之減七乘第四數正切自乘乘之加二差</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p31.s19.2" type="comm">見下</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p31.s19.3">半徑羃</seg>
+                    <seg xml:id="KR3fc075_tls_p31.s20" state="locked">
+                        <lb n="20" ed="KX"/>除之九除之爲第五數<space n="䶻" quantity="1"/>分母自乘倍之減九乘第五數</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p31.s21.1">
+                        <lb n="21" ed="KX"/>正切自乘乘之加三差</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p31.s21.2" type="comm">見下</seg>
+                    <seg state="locked" xml:id="KR3fc075_tls_p31.s21.3">半徑羃除之十一除之爲第</seg>
+                    <pb ed="KX" n="03-07-121.32" xml:id="KR3fc075_tls_32a"/>
+                    <seg xml:id="KR3fc075_tls_p32.s1" state="locked">
+                        <lb n="1" ed="KX"/>六數<space n="䶻" quantity="1"/>順是以下皆如是遞求至單位下乃相併得所求</seg>
+                    <seg xml:id="KR3fc075_tls_p32.s2" state="locked">
+                        <lb n="2" ed="KX"/>大弧正切</seg>
+                    <seg xml:id="KR3fc075_tls_p32.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻" quantity="1"/>各加差求法</seg>
+                    <seg xml:id="KR3fc075_tls_p32.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>第二數自乘乘第一數爲一差<space n="䶻" quantity="1"/>第二數乘第三數</seg>
+                    <seg xml:id="KR3fc075_tls_p32.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>倍之又乘第一數爲二差<space n="䶻" quantity="1"/>第二數乘第四數倍之</seg>
+                    <seg xml:id="KR3fc075_tls_p32.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>第三數自乘相併又乘第一數爲三差<space n="䶻" quantity="1"/>第二數乘</seg>
+                    <seg xml:id="KR3fc075_tls_p32.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>第五數第三數乘第四數相併倍之又乘第一數爲</seg>
+                    <seg xml:id="KR3fc075_tls_p32.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>四差<space n="䶻" quantity="1"/>如是遞求至單位下而止</seg>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

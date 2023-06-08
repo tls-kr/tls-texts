@@ -1,0 +1,1355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KR3fc013">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>丁巨算法</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <idno type="kanripo">KR3fc013</idno>
+                </edition>
+            </editionStmt>
+            <extent>
+                <measure unit="char" quantity="6907"/>
+                <date when-iso="2023-06-03T16:15:51.59+09:00"/>
+            </extent>
+            <publicationStmt>
+                <p>Published electronically</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>[元]丁巨　版本信息[清乾隆道光間知不足齋叢書本]</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <catRef scheme="#kr-categories" target="#KR3fc"/>
+            </textClass>
+            <creation/>
+        </profileDesc>
+        <encodingDesc>
+            <variantEncoding location="external" method="double-end-point"/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <p>
+                    <pb ed="KX" n="03-07-067.1" xml:id="KR3fc013_tls_1a"/>
+                    <head xml:id="KR3fc013_tls_p1.s1-h">
+                        <seg xml:id="KR3fc013_tls_p1.s1" state="locked">
+                            <lb n="1" ed="KX"/>稽古河圖五十有五一二三四互爲七八九六</seg>
+                    </head>
+                    <seg xml:id="KR3fc013_tls_p1.s2" state="locked">
+                        <lb n="2" ed="KX"/>大衍之數五十隸首作算數羲和以閏月定四</seg>
+                    <seg xml:id="KR3fc013_tls_p1.s3" state="locked">
+                        <lb n="3" ed="KX"/>時成歲舜在璿璣玉衡以齊七政禹別九州五</seg>
+                    <seg xml:id="KR3fc013_tls_p1.s4" state="locked">
+                        <lb n="4" ed="KX"/>十而貢殷人七十而助具有法術周禮大司徒</seg>
+                    <seg xml:id="KR3fc013_tls_p1.s5" state="locked">
+                        <lb n="5" ed="KX"/>始列九數一曰方田以御田疇界域二曰粟布</seg>
+                    <seg xml:id="KR3fc013_tls_p1.s6" state="locked">
+                        <lb n="6" ed="KX"/>以御交質變易三曰裒分以御貴賤稟稅四曰</seg>
+                    <seg xml:id="KR3fc013_tls_p1.s7" state="locked">
+                        <lb n="7" ed="KX"/>少廣以御積冪方圓五曰商功以御功程積實</seg>
+                    <seg xml:id="KR3fc013_tls_p1.s8" state="locked">
+                        <lb n="8" ed="KX"/>六曰均輸以御道里遠近七曰盈朒以御隱雜</seg>
+                    <seg xml:id="KR3fc013_tls_p1.s9" state="locked">
+                        <lb n="9" ed="KX"/>互見八曰方程以御錯糅正負九曰勾股以御</seg>
+                    <seg xml:id="KR3fc013_tls_p1.s11" state="locked">
+                        <lb n="11" ed="KX"/>高深廣遠備矣漢建九章之學夏侯陽孫子方</seg>
+                    <seg xml:id="KR3fc013_tls_p1.s12" state="locked">
+                        <lb n="12" ed="KX"/>倉蕩杯謂未盡微分新術徽術密率復古曰盈</seg>
+                    <seg xml:id="KR3fc013_tls_p1.s13" state="locked">
+                        <lb n="13" ed="KX"/>不足損有餘差分裒分方程之屬注疏又爲令</seg>
+                    <seg xml:id="KR3fc013_tls_p1.s14" state="locked">
+                        <lb n="14" ed="KX"/>法由唐及宋皆有專門自後時尙浮辭動言大</seg>
+                    <seg xml:id="KR3fc013_tls_p1.s15" state="locked">
+                        <lb n="15" ed="KX"/>綱不計名物其有通者不過胥史士類以科擧</seg>
+                    <seg xml:id="KR3fc013_tls_p1.s16" state="locked">
+                        <lb n="16" ed="KX"/>故未暇篤實獨余幼賤不伍時流經籍之餘事</seg>
+                    <seg xml:id="KR3fc013_tls_p1.s17" state="locked">
+                        <lb n="17" ed="KX"/>法物度軌則間嘗用心因於算術上自九章下</seg>
+                    <seg xml:id="KR3fc013_tls_p1.s18" state="locked">
+                        <lb n="18" ed="KX"/>至小法數十百家摘取要略述算法八卷以今</seg>
+                    <seg xml:id="KR3fc013_tls_p1.s19" state="locked">
+                        <lb n="19" ed="KX"/>俗稱寓之古法其曰田畝雖不啻百里當百二</seg>
+                    <pb ed="KX" n="03-07-067.2" xml:id="KR3fc013_tls_2a"/>
+                    <seg xml:id="KR3fc013_tls_p2.s1" state="locked">
+                        <lb n="1" ed="KX"/>十一里百畝當百四十六畝之步亦方田之屬</seg>
+                    <seg xml:id="KR3fc013_tls_p2.s2" state="locked">
+                        <lb n="2" ed="KX"/>粟布交質變易差分法裒分倉窖堆垛法少廣</seg>
+                    <seg xml:id="KR3fc013_tls_p2.s3" state="locked">
+                        <lb n="3" ed="KX"/>修築營運以見商功雙頭交易抽分荅價以見</seg>
+                    <seg xml:id="KR3fc013_tls_p2.s4" state="locked">
+                        <lb n="4" ed="KX"/>均輸折變相和異乘同除以知隱雜諸分之通</seg>
+                    <seg xml:id="KR3fc013_tls_p2.s5" state="locked">
+                        <lb n="5" ed="KX"/>爲方程可以通期閏海島望算爲勾股可以通</seg>
+                    <seg xml:id="KR3fc013_tls_p2.s6" state="locked">
+                        <lb n="6" ed="KX"/>廣輪凡綱乘以聚之除以散之通乘除已斯可</seg>
+                    <seg xml:id="KR3fc013_tls_p2.s7" state="locked">
+                        <lb n="7" ed="KX"/>爲法乘之積爲加除之散爲減加減爲乘除之</seg>
+                    <seg xml:id="KR3fc013_tls_p2.s8" state="locked">
+                        <lb n="8" ed="KX"/>變故以乘除加減四法爲之首爲數始於一終於</seg>
+                    <seg xml:id="KR3fc013_tls_p2.s9" state="locked">
+                        <lb n="9" ed="KX"/>十積於一二成於九九大爲十百十千十萬百</seg>
+                    <seg xml:id="KR3fc013_tls_p2.s11" state="locked">
+                        <lb n="11" ed="KX"/>萬千萬萬萬億兆京垓神穰溝澗正載極小則</seg>
+                    <seg xml:id="KR3fc013_tls_p2.s12" state="locked">
+                        <lb n="12" ed="KX"/>分釐毫絲忽微纖沙塵埃渺漠幽虛空淸淨無</seg>
+                    <seg xml:id="KR3fc013_tls_p2.s13" state="locked">
+                        <lb n="13" ed="KX"/>爲盡一十百千萬互爲消長由是而天高地厚</seg>
+                    <seg xml:id="KR3fc013_tls_p2.s14" state="locked">
+                        <lb n="14" ed="KX"/>日月往來律呂聲音陰陽幽顯因此測彼精入</seg>
+                    <seg xml:id="KR3fc013_tls_p2.s15" state="locked">
+                        <lb n="15" ed="KX"/>鬼神伊游於藝玩物喪志至正十有五年青龍</seg>
+                    <seg xml:id="KR3fc013_tls_p2.s16" state="locked">
+                        <lb n="16" ed="KX"/>在乙未八月甲寅朔丁巨記</seg>
+                    <seg xml:id="KR3fc013_tls_p2.s17" state="locked">
+                        <lb n="17" ed="KX"/>今有人共買鷄不知人數鷄價但云人出四錢</seg>
+                    <seg xml:id="KR3fc013_tls_p2.s18" state="locked">
+                        <lb n="18" ed="KX"/>少一錢人出五錢多五錢問人數物價各幾何</seg>
+                    <seg xml:id="KR3fc013_tls_p2.s19" state="locked">
+                        <lb n="19" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰六人<space n="䶻" quantity="1"/>二兩五錢</seg>
+                    <pb ed="KX" n="03-07-067.3" xml:id="KR3fc013_tls_3a"/>
+                    <seg xml:id="KR3fc013_tls_p3.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻" quantity="1"/>置四錢於右上少一錢於右下五錢於左上</seg>
+                    <seg xml:id="KR3fc013_tls_p3.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻" quantity="1"/>多五錢於左下以多五錢少一錢併之得六</seg>
+                    <seg xml:id="KR3fc013_tls_p3.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻" quantity="1"/>錢爲實以所出率以少減多餘一爲法實如</seg>
+                    <seg xml:id="KR3fc013_tls_p3.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻" quantity="1"/>法得六人以所出率四乘之得二兩四錢增</seg>
+                    <seg xml:id="KR3fc013_tls_p3.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻" quantity="1"/>其所少得二兩五錢若以所出率五乘之減</seg>
+                    <seg xml:id="KR3fc013_tls_p3.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻" quantity="1"/>其多亦得二兩五錢</seg>
+                    <seg xml:id="KR3fc013_tls_p3.s7" state="locked">
+                        <lb n="7" ed="KX"/>今有羅七尺綾九尺其價適等只云綾尺價不</seg>
+                    <seg xml:id="KR3fc013_tls_p3.s8" state="locked">
+                        <lb n="8" ed="KX"/>及羅尺價三分六釐問羅綾價各幾何</seg>
+                    <seg xml:id="KR3fc013_tls_p3.s9" state="locked">
+                        <lb n="9" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰羅尺價一錢六分二釐<space n="䶻" quantity="1"/>綾尺價一</seg>
+                    <seg xml:id="KR3fc013_tls_p3.s11" state="locked">
+                        <lb n="11" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>錢二分六釐</seg>
+                    <seg xml:id="KR3fc013_tls_p3.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻" quantity="1"/>置綾九尺以三分六釐乘之得三錢二分四</seg>
+                    <seg xml:id="KR3fc013_tls_p3.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻" quantity="1"/>釐爲實列九尺七尺相減餘二尺爲法除之</seg>
+                    <seg xml:id="KR3fc013_tls_p3.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻" quantity="1"/>得羅尺價一錢六分二釐內減三分六釐卽</seg>
+                    <seg xml:id="KR3fc013_tls_p3.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻" quantity="1"/>綾尺價也</seg>
+                    <seg xml:id="KR3fc013_tls_p3.s16" state="locked">
+                        <lb n="16" ed="KX"/>今有壯軍一名弱軍二名老軍三名各拖船一</seg>
+                    <seg xml:id="KR3fc013_tls_p3.s17" state="locked">
+                        <lb n="17" ed="KX"/>隻皆載八十石至灘下俱不得上若壯軍借弱</seg>
+                    <seg xml:id="KR3fc013_tls_p3.s18" state="locked">
+                        <lb n="18" ed="KX"/>軍一名弱軍借老軍一名老軍借壯軍一名皆</seg>
+                    <seg xml:id="KR3fc013_tls_p3.s19" state="locked">
+                        <lb n="19" ed="KX"/>得上灘問壯弱老軍各力拖幾何</seg>
+                    <pb ed="KX" n="03-07-067.4" xml:id="KR3fc013_tls_4a"/>
+                    <figure>
+                        <graphic facs="KR3fc013/5A44659D_7B21_4560_AF36_B29C2021632A.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc013/5783DD78_FF4E_4CC7_9C1A_99C840174649.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc013/0D84FA0B_A906_443F_B2D1_9F502CA9988B.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc013/C6AFD776_1A27_493F_BC67_035FF80E18AD.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc013/9F6476F8_A365_43E2_9D2E_291521505531.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc013/4A211CBA_A4D4_4928_91AB_E277876FD3A9.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc013/5BDFCD9A_C21F_4143_8D56_1D03AA8ECADC.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc013/61D4C403_C15B_45CD_BF9A_4B47E91C16D8.png" type="inline"/>
+                    </figure>
+                    <figure>
+                        <graphic facs="KR3fc013/981443A6_0B45_46B3_88A7_41B0822A72A4.png" type="inline"/>
+                    </figure>
+                    <seg xml:id="KR3fc013_tls_p4.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰壯力引四十五石七分石之五<space n="䶻" quantity="1"/>弱</seg>
+                    <seg xml:id="KR3fc013_tls_p4.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>力引三十四石七分石之二<space n="䶻" quantity="1"/>老力引一</seg>
+                    <seg xml:id="KR3fc013_tls_p4.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>十一石七分石之三</seg>
+                    <seg xml:id="KR3fc013_tls_p4.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻䶻䶻" quantity="3"/>置位</seg>
+                    <seg xml:id="KR3fc013_tls_p4.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻" quantity="1"/>復除也如方程以正負術入之先以中行加</seg>
+                    <seg xml:id="KR3fc013_tls_p4.s9" state="locked">
+                        <lb n="9" ed="KX"/>
+                        <space n="䶻" quantity="1"/>左行上<space n="䶻" quantity="1"/>中<space n="䶻" quantity="1"/>下<space n="䶻" quantity="1"/>以右行直除之上空中</seg>
+                    <seg xml:id="KR3fc013_tls_p4.s11" state="locked">
+                        <lb n="11" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>下<space n="䶻" quantity="1"/>又二因左行中<space n="䶻" quantity="1"/>下<space n="䶻" quantity="1"/>又以中行直</seg>
+                    <seg xml:id="KR3fc013_tls_p4.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻" quantity="1"/>除之上<space n="䶻" quantity="1"/>下<space n="䶻" quantity="1"/>上法下實卽老軍七人力引</seg>
+                    <seg xml:id="KR3fc013_tls_p4.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻" quantity="1"/>八十石以七除八十石得一十一石七分石</seg>
+                    <seg xml:id="KR3fc013_tls_p4.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻" quantity="1"/>之三卽老軍數求中行減一十一石七分石</seg>
+                    <seg xml:id="KR3fc013_tls_p4.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻" quantity="1"/>之三中行得六十八石七分石之四折半得</seg>
+                    <seg xml:id="KR3fc013_tls_p4.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻" quantity="1"/>三十四石七分石之二卽弱軍數以求右行</seg>
+                    <seg xml:id="KR3fc013_tls_p4.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻" quantity="1"/>減去三十四石七分石之二餘四十五石七</seg>
+                    <seg xml:id="KR3fc013_tls_p4.s18" state="locked">
+                        <lb n="18" ed="KX"/>
+                        <space n="䶻" quantity="1"/>分石之五卽壯軍數</seg>
+                    <seg xml:id="KR3fc013_tls_p4.s19" state="locked">
+                        <lb n="19" ed="KX"/>謌曰<space n="䶻" quantity="1"/>草垛添尖以元乘今折半積眞三角添</seg>
+                    <pb ed="KX" n="03-07-067.5" xml:id="KR3fc013_tls_5a"/>
+                    <seg xml:id="KR3fc013_tls_p5.s1" state="locked">
+                        <lb n="1" ed="KX"/>一又添二乘六而一精四角添一又添半乘三</seg>
+                    <seg xml:id="KR3fc013_tls_p5.s2" state="locked">
+                        <lb n="2" ed="KX"/>而一盈四角長垛長闊相減餘數折半添半長</seg>
+                    <seg xml:id="KR3fc013_tls_p5.s3" state="locked">
+                        <lb n="3" ed="KX"/>攬以闊乘旣添一乘次如三一是圓箭添六以</seg>
+                    <seg xml:id="KR3fc013_tls_p5.s4" state="locked">
+                        <lb n="4" ed="KX"/>乘實數十二除之入心一箇方箭副置各添以</seg>
+                    <seg xml:id="KR3fc013_tls_p5.s5" state="locked">
+                        <lb n="5" ed="KX"/>四自乘見數十六一嗣須辯歸例</seg>
+                    <seg xml:id="KR3fc013_tls_p5.s6" state="locked">
+                        <lb n="6" ed="KX"/>今有菓子三角垛每面底子四十四箇問計積</seg>
+                    <seg xml:id="KR3fc013_tls_p5.s7" state="locked">
+                        <lb n="7" ed="KX"/>幾箇</seg>
+                    <seg xml:id="KR3fc013_tls_p5.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰一萬五千一百八十箇</seg>
+                    <seg xml:id="KR3fc013_tls_p5.s9" state="locked">
+                        <lb n="9" ed="KX"/>
+                        <space n="䶻" quantity="1"/>列四十四箇內添三箇得四十七箇以四十</seg>
+                    <seg xml:id="KR3fc013_tls_p5.s11" state="locked">
+                        <lb n="11" ed="KX"/>
+                        <space n="䶻" quantity="1"/>四箇乘之得二千六十八箇又添兩箇得二</seg>
+                    <seg xml:id="KR3fc013_tls_p5.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻" quantity="1"/>千七十箇又以四十四乘之得九萬一千八</seg>
+                    <seg xml:id="KR3fc013_tls_p5.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻" quantity="1"/>十箇以六除之得數也又法置四十四箇添</seg>
+                    <seg xml:id="KR3fc013_tls_p5.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻" quantity="1"/>一添二乘之如法而一</seg>
+                    <seg xml:id="KR3fc013_tls_p5.s15" state="locked">
+                        <lb n="15" ed="KX"/>今有菓子四角垛每面底子四十四箇問共積</seg>
+                    <seg xml:id="KR3fc013_tls_p5.s16" state="locked">
+                        <lb n="16" ed="KX"/>幾箇</seg>
+                    <seg xml:id="KR3fc013_tls_p5.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰二萬九千三百七十箇</seg>
+                    <seg xml:id="KR3fc013_tls_p5.s18" state="locked">
+                        <lb n="18" ed="KX"/>
+                        <space n="䶻" quantity="1"/>列底子四十四箇內添一箇半得四十五箇</seg>
+                    <seg xml:id="KR3fc013_tls_p5.s19" state="locked">
+                        <lb n="19" ed="KX"/>
+                        <space n="䶻" quantity="1"/>半以四十四箇乘之得二千零二箇又添半</seg>
+                    <pb ed="KX" n="03-07-067.6" xml:id="KR3fc013_tls_6a"/>
+                    <seg xml:id="KR3fc013_tls_p6.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻" quantity="1"/>箇以四十四箇乘之得八萬八千一百一十</seg>
+                    <seg xml:id="KR3fc013_tls_p6.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻" quantity="1"/>以三除之又法置四十四箇添一添半乘之</seg>
+                    <seg xml:id="KR3fc013_tls_p6.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻" quantity="1"/>如法而一</seg>
+                    <seg xml:id="KR3fc013_tls_p6.s4" state="locked">
+                        <lb n="4" ed="KX"/>今有茭草垛厎子一面三十六箇問積幾箇</seg>
+                    <seg state="locked" xml:id="KR3fc013_tls_p6.s5.1">
+                        <lb n="5" ed="KX"/>荅曰六百六十六箇</seg>
+                    <seg state="locked" xml:id="KR3fc013_tls_p6.s5.2" type="comm">平尖草<lb type="/"/>垛也</seg>
+                    <seg xml:id="KR3fc013_tls_p6.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻" quantity="1"/>列底子三十六箇內添一尖得三十七箇以</seg>
+                    <seg xml:id="KR3fc013_tls_p6.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻" quantity="1"/>三十六箇乘之得一千三百三十二箇折半</seg>
+                    <seg xml:id="KR3fc013_tls_p6.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻" quantity="1"/>卽得</seg>
+                    <seg xml:id="KR3fc013_tls_p6.s9" state="locked">
+                        <lb n="9" ed="KX"/>今有圓箭一束外周五十四隻問積幾何</seg>
+                    <seg xml:id="KR3fc013_tls_p6.s11" state="locked">
+                        <lb n="11" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰二百七十一隻</seg>
+                    <seg xml:id="KR3fc013_tls_p6.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻" quantity="1"/>列五十四隻添入六隻得六十隻以五十四</seg>
+                    <seg xml:id="KR3fc013_tls_p6.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻" quantity="1"/>隻乘之得三千二百四十隻爲實以十二除</seg>
+                    <seg xml:id="KR3fc013_tls_p6.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻" quantity="1"/>之得二百七十隻加入心箭一隻</seg>
+                    <seg xml:id="KR3fc013_tls_p6.s15" state="locked">
+                        <lb n="15" ed="KX"/>倉窖謌曰<space n="䶻" quantity="1"/>方是闊乘高乘斛除圓周自乘以</seg>
+                    <seg xml:id="KR3fc013_tls_p6.s16" state="locked">
+                        <lb n="16" ed="KX"/>高乘之十二而一以斛除施上下之方則各自</seg>
+                    <seg xml:id="KR3fc013_tls_p6.s17" state="locked">
+                        <lb n="17" ed="KX"/>乘相乘三併深乘見眞方三面一圓四九成平</seg>
+                    <seg xml:id="KR3fc013_tls_p6.s18" state="locked">
+                        <lb n="18" ed="KX"/>地四九倚壁二九內角一九外角三九斛法先</seg>
+                    <seg xml:id="KR3fc013_tls_p6.s19" state="locked">
+                        <lb n="19" ed="KX"/>定</seg>
+                    <pb ed="KX" n="03-07-067.7" xml:id="KR3fc013_tls_7a"/>
+                    <seg xml:id="KR3fc013_tls_p7.s1" state="locked">
+                        <lb n="1" ed="KX"/>今有正糧三百七十八石九斗七升八合每石</seg>
+                    <seg xml:id="KR3fc013_tls_p7.s2" state="locked">
+                        <lb n="2" ed="KX"/>借收下年二斗五升問總得幾何</seg>
+                    <seg xml:id="KR3fc013_tls_p7.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰四百七十三石七斗二升二合五勺</seg>
+                    <seg xml:id="KR3fc013_tls_p7.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻" quantity="1"/>此借收入加法也以正糧爲實二斗五升爲</seg>
+                    <seg state="locked" xml:id="KR3fc013_tls_p7.s5.1">
+                        <lb n="5" ed="KX"/>法自尾就身加之</seg>
+                    <seg state="locked" xml:id="KR3fc013_tls_p7.s5.2" type="comm">石見斗故十則<lb type="/"/>就身零則挨身</seg>
+                    <seg state="locked" xml:id="KR3fc013_tls_p7.s5.3">呼二八一</seg>
+                    <seg xml:id="KR3fc013_tls_p7.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻" quantity="1"/>十六五八四十二七一十四五七三十五二</seg>
+                    <seg xml:id="KR3fc013_tls_p7.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻" quantity="1"/>九一十八五九四十五二八一十六五八四</seg>
+                    <seg xml:id="KR3fc013_tls_p7.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻" quantity="1"/>十二七一十四五七三十五二三如六三五</seg>
+                    <seg xml:id="KR3fc013_tls_p7.s9" state="locked">
+                        <lb n="9" ed="KX"/>
+                        <space n="䶻" quantity="1"/>一十五合問</seg>
+                    <seg xml:id="KR3fc013_tls_p7.s11" state="locked">
+                        <lb n="11" ed="KX"/>今有收糧二千四百八十七石五斗八升六合</seg>
+                    <seg xml:id="KR3fc013_tls_p7.s12" state="locked">
+                        <lb n="12" ed="KX"/>八勺爲無耗糧欲於每石內豁除耗糧六升問</seg>
+                    <seg xml:id="KR3fc013_tls_p7.s13" state="locked">
+                        <lb n="13" ed="KX"/>納正糧及耗糧各幾何</seg>
+                    <seg xml:id="KR3fc013_tls_p7.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰正糧二千三百四十六石七斗八升</seg>
+                    <seg xml:id="KR3fc013_tls_p7.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻䶻䶻" quantity="3"/>耗糧一百四十石八斗六合八勺</seg>
+                    <seg xml:id="KR3fc013_tls_p7.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻" quantity="1"/>此豁除減法也以收糧數爲實六升爲法自</seg>
+                    <seg state="locked" xml:id="KR3fc013_tls_p7.s17.1">
+                        <lb n="17" ed="KX"/>首減之</seg>
+                    <seg state="locked" xml:id="KR3fc013_tls_p7.s17.2" type="comm">石見升當第<lb type="/"/>二位挨身減</seg>
+                    <seg state="locked" xml:id="KR3fc013_tls_p7.s17.3">呼二六去一十二三六</seg>
+                    <seg xml:id="KR3fc013_tls_p7.s18" state="locked">
+                        <lb n="18" ed="KX"/>
+                        <space n="䶻" quantity="1"/>去一十八四六去二十四六六去三十六六</seg>
+                    <seg xml:id="KR3fc013_tls_p7.s19" state="locked">
+                        <lb n="19" ed="KX"/>
+                        <space n="䶻" quantity="1"/>七去四十二六八去四十八得正糧數以六</seg>
+                    <pb ed="KX" n="03-07-067.8" xml:id="KR3fc013_tls_8a"/>
+                    <seg xml:id="KR3fc013_tls_p8.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻" quantity="1"/>因之得耗糧數也如求法者以今得正糧減</seg>
+                    <seg xml:id="KR3fc013_tls_p8.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻" quantity="1"/>實所餘爲實又以今得正耗爲法除之如止</seg>
+                    <seg xml:id="KR3fc013_tls_p8.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻" quantity="1"/>有正耗糧不得法者以耗糧爲實正糧爲法</seg>
+                    <seg xml:id="KR3fc013_tls_p8.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻" quantity="1"/>除之也如有實及耗者以耗減正得餘數爲</seg>
+                    <seg xml:id="KR3fc013_tls_p8.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻" quantity="1"/>正也卻以正實求法法求之又如重位者則</seg>
+                    <seg xml:id="KR3fc013_tls_p8.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻" quantity="1"/>重減之如今有納糧一石計水腳耗一斗七</seg>
+                    <seg xml:id="KR3fc013_tls_p8.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻" quantity="1"/>升今總納到五石不知正耗各若干則以五</seg>
+                    <seg xml:id="KR3fc013_tls_p8.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻" quantity="1"/>石爲實一斗七升爲法自首減之也呼一四</seg>
+                    <seg xml:id="KR3fc013_tls_p8.s9" state="locked">
+                        <lb n="9" ed="KX"/>
+                        <space n="䶻" quantity="1"/>除四四七去二十八一二去二二七去一十四</seg>
+                    <seg xml:id="KR3fc013_tls_p8.s11" state="locked">
+                        <lb n="11" ed="KX"/>
+                        <space n="䶻" quantity="1"/>一七去七七七去四十九一三去三三七去</seg>
+                    <seg xml:id="KR3fc013_tls_p8.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻" quantity="1"/>二十一一五去五五七去三十五餘五撮除</seg>
+                    <seg state="locked" xml:id="KR3fc013_tls_p8.s13.1">
+                        <lb n="13" ed="KX"/>不盡是正糧數將共數反減餘爲耗糧也</seg>
+                    <seg state="locked" xml:id="KR3fc013_tls_p8.s13.2" type="comm">他<lb type="/"/>準</seg>
+                    <seg state="locked" xml:id="KR3fc013_tls_p8.s14.1" type="comm">
+                        <lb n="14" ed="KX"/>此並減<lb type="/"/>還原</seg>
+                    <seg xml:id="KR3fc013_tls_p8.s15" state="locked">
+                        <lb n="15" ed="KX"/>今有正糧五百七十九石八斗六升七合每石</seg>
+                    <seg xml:id="KR3fc013_tls_p8.s16" state="locked">
+                        <lb n="16" ed="KX"/>減免二斗問實徵米若干</seg>
+                    <seg xml:id="KR3fc013_tls_p8.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰四百六十三石八斗九升三合六勺</seg>
+                    <seg xml:id="KR3fc013_tls_p8.s18" state="locked">
+                        <lb n="18" ed="KX"/>
+                        <space n="䶻" quantity="1"/>此減免減法也以正糧爲實二斗爲法自尾</seg>
+                    <seg state="locked" xml:id="KR3fc013_tls_p8.s19.1">
+                        <lb n="19" ed="KX"/>就身減之</seg>
+                    <seg state="locked" xml:id="KR3fc013_tls_p8.s19.2" type="comm">石見斗故就身然減只此<lb type="/"/>一法可尾也他在旁通</seg>
+                    <seg state="locked" xml:id="KR3fc013_tls_p8.s19.3">呼二七</seg>
+                    <pb ed="KX" n="03-07-067.9" xml:id="KR3fc013_tls_9a"/>
+                    <seg xml:id="KR3fc013_tls_p9.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻" quantity="1"/>去一十四二六去一十二二八去一十六二</seg>
+                    <seg xml:id="KR3fc013_tls_p9.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻" quantity="1"/>九去一十八二七去一十四二五去一十合</seg>
+                    <seg xml:id="KR3fc013_tls_p9.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻" quantity="1"/>問也有零則下位連破之如一石減免二斗</seg>
+                    <seg xml:id="KR3fc013_tls_p9.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻" quantity="1"/>五升呼一二去二一五去五也八歸還原加</seg>
+                    <seg xml:id="KR3fc013_tls_p9.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻" quantity="1"/>之不可也葢八歸是八分之一正數卽一分</seg>
+                    <seg xml:id="KR3fc013_tls_p9.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻" quantity="1"/>今得減寡所餘爲實正實爲法除之得法也</seg>
+                    <seg xml:id="KR3fc013_tls_p9.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻" quantity="1"/>凡算之法乘除不難通分乃難也今以此例</seg>
+                    <seg xml:id="KR3fc013_tls_p9.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻" quantity="1"/>發十花則通者思過半矣法以正糧倍之爲</seg>
+                    <seg xml:id="KR3fc013_tls_p9.s9" state="locked">
+                        <lb n="9" ed="KX"/>
+                        <space n="䶻" quantity="1"/>實身外加二以三除之合問折之三因減二</seg>
+                    <seg xml:id="KR3fc013_tls_p9.s11" state="locked">
+                        <lb n="11" ed="KX"/>
+                        <space n="䶻" quantity="1"/>原<space n="䶻" quantity="1"/>法以正糧數爲實以七乘之就身加二</seg>
+                    <seg xml:id="KR3fc013_tls_p9.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻" quantity="1"/>隔位減五合問七歸隔位減五就身減二原</seg>
+                    <seg xml:id="KR3fc013_tls_p9.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>法以正糧爲實四八乘之六除之六乘四</seg>
+                    <seg xml:id="KR3fc013_tls_p9.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻" quantity="1"/>八除原<space n="䶻" quantity="1"/>法正糧爲實六四乘之八除之八</seg>
+                    <seg xml:id="KR3fc013_tls_p9.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻" quantity="1"/>乘六四除原<space n="䶻" quantity="1"/>法正糧爲實五六乘之七除</seg>
+                    <seg xml:id="KR3fc013_tls_p9.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻" quantity="1"/>之七乘五六除原<space n="䶻" quantity="1"/>法正糧倍之爲實以四</seg>
+                    <seg xml:id="KR3fc013_tls_p9.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻" quantity="1"/>乘之折半四歸原<space n="䶻" quantity="1"/>法正糧爲實折半就身</seg>
+                    <seg xml:id="KR3fc013_tls_p9.s18" state="locked">
+                        <lb n="18" ed="KX"/>
+                        <space n="䶻" quantity="1"/>加六倍就身減六原<space n="䶻" quantity="1"/>法正糧爲實以八乘</seg>
+                    <seg xml:id="KR3fc013_tls_p9.s19" state="locked">
+                        <lb n="19" ed="KX"/>
+                        <space n="䶻" quantity="1"/>之除原<space n="䶻" quantity="1"/>法正糧爲實三度倍之三折原總</seg>
+                    <pb ed="KX" n="03-07-067.10" xml:id="KR3fc013_tls_10a"/>
+                    <seg state="locked" xml:id="KR3fc013_tls_p10.s1.1">
+                        <lb n="1" ed="KX"/>皆反減</seg>
+                    <seg state="locked" xml:id="KR3fc013_tls_p10.s1.2" type="comm">如異乘同<lb type="/"/>除求之</seg>
+                    <seg xml:id="KR3fc013_tls_p10.s2" state="locked">
+                        <lb n="2" ed="KX"/>今有糧一百八十一石二斗一升二合五勺每</seg>
+                    <seg xml:id="KR3fc013_tls_p10.s3" state="locked">
+                        <lb n="3" ed="KX"/>糧七斗折納小春布一匹問收布幾匹</seg>
+                    <seg xml:id="KR3fc013_tls_p10.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰二百五十八匹三十六尺七寸五分</seg>
+                    <seg state="locked" xml:id="KR3fc013_tls_p10.s5.1" type="comm">
+                        <lb n="5" ed="KX"/>匹法四<lb type="/"/>十二尺</seg>
+                    <seg xml:id="KR3fc013_tls_p10.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻" quantity="1"/>以糧數爲實以七斗爲法除之得二百五十</seg>
+                    <seg xml:id="KR3fc013_tls_p10.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻" quantity="1"/>八匹餘八分七釐五毫匹法乘之得三十六</seg>
+                    <seg xml:id="KR3fc013_tls_p10.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻" quantity="1"/>尺七寸五分</seg>
+                    <seg xml:id="KR3fc013_tls_p10.s9" state="locked">
+                        <lb n="9" ed="KX"/>今有子粒折收輕齎每石正價三兩五錢分例</seg>
+                    <seg xml:id="KR3fc013_tls_p10.s11" state="locked">
+                        <lb n="11" ed="KX"/>耗穀三升五合今欲先起解鈔一百定內除帶</seg>
+                    <seg xml:id="KR3fc013_tls_p10.s12" state="locked">
+                        <lb n="12" ed="KX"/>解租鈔二錠一兩一錢四分八釐三毫五絲問</seg>
+                    <seg xml:id="KR3fc013_tls_p10.s13" state="locked">
+                        <lb n="13" ed="KX"/>該正耗分例各若干</seg>
+                    <seg xml:id="KR3fc013_tls_p10.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰鈔一百錠<space n="䶻" quantity="1"/>子粒正耗分例穀一千</seg>
+                    <seg xml:id="KR3fc013_tls_p10.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>三百九十九石六斗七升一合九勺<space n="䶻" quantity="1"/>鈔</seg>
+                    <seg xml:id="KR3fc013_tls_p10.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>九十七錠四十八兩八錢五分一釐六毫</seg>
+                    <seg xml:id="KR3fc013_tls_p10.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>五絲<space n="䶻" quantity="1"/>正穀一千三百五十二石三斗四</seg>
+                    <seg xml:id="KR3fc013_tls_p10.s18" state="locked">
+                        <lb n="18" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>升<space n="䶻" quantity="1"/>折鈔九十四錠三十三兩一錢九分</seg>
+                    <seg xml:id="KR3fc013_tls_p10.s19" state="locked">
+                        <lb n="19" ed="KX"/>
+                        <space n="䶻䶻䶻" quantity="3"/>分例耗穀四十七石三斗三升一合九</seg>
+                    <pb ed="KX" n="03-07-067.11" xml:id="KR3fc013_tls_11a"/>
+                    <seg xml:id="KR3fc013_tls_p11.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>勺<space n="䶻" quantity="1"/>該鈔三錠一十五兩六錢六分一釐</seg>
+                    <seg xml:id="KR3fc013_tls_p11.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>六毫五絲<space n="䶻" quantity="1"/>租地鈔二錠一兩一錢四分</seg>
+                    <seg xml:id="KR3fc013_tls_p11.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>八釐三毫五絲</seg>
+                    <seg xml:id="KR3fc013_tls_p11.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻" quantity="1"/>此重法也去租破錠歸除減乘皆有之故曰</seg>
+                    <seg xml:id="KR3fc013_tls_p11.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻" quantity="1"/>重也置一百錠先除二錠一兩一錢四分八</seg>
+                    <seg xml:id="KR3fc013_tls_p11.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻" quantity="1"/>釐三毫五絲餘九十七錠四十八兩八錢五</seg>
+                    <seg xml:id="KR3fc013_tls_p11.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻" quantity="1"/>分一釐六毫五絲折錠得四千八百九十八</seg>
+                    <seg xml:id="KR3fc013_tls_p11.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻" quantity="1"/>兩八錢五分一釐六毫五絲以三歸五除之</seg>
+                    <seg xml:id="KR3fc013_tls_p11.s9" state="locked">
+                        <lb n="9" ed="KX"/>
+                        <space n="䶻" quantity="1"/>呼逢三進一十除一五如五呼三一三十一</seg>
+                    <seg xml:id="KR3fc013_tls_p11.s11" state="locked">
+                        <lb n="11" ed="KX"/>
+                        <space n="䶻" quantity="1"/>除三五一十五呼撞歸九十三除五九四十</seg>
+                    <seg xml:id="KR3fc013_tls_p11.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻" quantity="1"/>五呼撞歸九十三除五九四十五呼三二六</seg>
+                    <seg xml:id="KR3fc013_tls_p11.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻" quantity="1"/>十二除五六三十呼三二六十二逢三進一</seg>
+                    <seg xml:id="KR3fc013_tls_p11.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻" quantity="1"/>十除五七三十五呼逢三進一十除一五如</seg>
+                    <seg xml:id="KR3fc013_tls_p11.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻" quantity="1"/>五呼撞歸九十三除五九四十五總得穀一</seg>
+                    <seg xml:id="KR3fc013_tls_p11.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻" quantity="1"/>千三百九十九石六斗七升一合九勺自首</seg>
+                    <seg xml:id="KR3fc013_tls_p11.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻" quantity="1"/>退位減三五得正穀一千三百五十二石三</seg>
+                    <seg xml:id="KR3fc013_tls_p11.s18" state="locked">
+                        <lb n="18" ed="KX"/>
+                        <space n="䶻" quantity="1"/>斗四升反減總數得耗穀四十七石三斗三</seg>
+                    <seg xml:id="KR3fc013_tls_p11.s19" state="locked">
+                        <lb n="19" ed="KX"/>
+                        <space n="䶻" quantity="1"/>升一合九勺各以價乘之合問</seg>
+                    <pb ed="KX" n="03-07-067.12" xml:id="KR3fc013_tls_12a"/>
+                    <seg xml:id="KR3fc013_tls_p12.s1" state="locked">
+                        <lb n="1" ed="KX"/>今有粟一百三十七石八斗欲雇船裝載每粟</seg>
+                    <seg xml:id="KR3fc013_tls_p12.s2" state="locked">
+                        <lb n="2" ed="KX"/>一斗直時價一錢二分五釐議腳價三分五釐</seg>
+                    <seg xml:id="KR3fc013_tls_p12.s3" state="locked">
+                        <lb n="3" ed="KX"/>爲無錢就粟內抽分問該腳粟幾何</seg>
+                    <seg xml:id="KR3fc013_tls_p12.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰腳價粟三十石一斗四升三合七勺</seg>
+                    <seg xml:id="KR3fc013_tls_p12.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>五抄</seg>
+                    <seg xml:id="KR3fc013_tls_p12.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>主粟一百七石六斗五升六合二勺五抄</seg>
+                    <seg xml:id="KR3fc013_tls_p12.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻" quantity="1"/>若以腳錢爲實每斗爲法除之得二升八合</seg>
+                    <seg xml:id="KR3fc013_tls_p12.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻" quantity="1"/>爲三分五釐所得之米爲法減總粟亦通</seg>
+                    <seg xml:id="KR3fc013_tls_p12.s9" state="locked">
+                        <lb n="9" ed="KX"/>今有羅六十七丈五尺於內抽一丈七尺五寸</seg>
+                    <seg xml:id="KR3fc013_tls_p12.s11" state="locked">
+                        <lb n="11" ed="KX"/>買顏色染緋羅六丈二尺五寸問各該幾何</seg>
+                    <seg xml:id="KR3fc013_tls_p12.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰緋羅五十二丈七尺三寸四分三釐</seg>
+                    <seg xml:id="KR3fc013_tls_p12.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>七毫五絲<space n="䶻" quantity="1"/>顏色羅十四丈七尺六寸五</seg>
+                    <seg xml:id="KR3fc013_tls_p12.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>分六釐二毫五絲</seg>
+                    <seg xml:id="KR3fc013_tls_p12.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻" quantity="1"/>若以緋羅爲法抽爲實除之得二八減總羅</seg>
+                    <seg xml:id="KR3fc013_tls_p12.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻" quantity="1"/>亦通</seg>
+                    <seg xml:id="KR3fc013_tls_p12.s17" state="locked">
+                        <lb n="17" ed="KX"/>今有西縣糴麥四百六十五石三斗每石價二</seg>
+                    <seg xml:id="KR3fc013_tls_p12.s18" state="locked">
+                        <lb n="18" ed="KX"/>兩四錢今雇腳載至東縣每石腳錢三錢半今</seg>
+                    <seg xml:id="KR3fc013_tls_p12.s19" state="locked">
+                        <lb n="19" ed="KX"/>爲無錢只於麥內抽取問合與腳錢并到縣麥</seg>
+                    <pb ed="KX" n="03-07-067.13" xml:id="KR3fc013_tls_13a"/>
+                    <seg xml:id="KR3fc013_tls_p13.s1" state="locked">
+                        <lb n="1" ed="KX"/>多少</seg>
+                    <seg xml:id="KR3fc013_tls_p13.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰腳錢麥五十九石二斗二升<space n="䶻" quantity="1"/>到縣</seg>
+                    <seg xml:id="KR3fc013_tls_p13.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>麥四百六石八升</seg>
+                    <seg xml:id="KR3fc013_tls_p13.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻" quantity="1"/>下麥三五乘爲合與腳錢爲實併麥價與腳</seg>
+                    <seg xml:id="KR3fc013_tls_p13.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻" quantity="1"/>錢得二兩七錢半爲法除實得腳錢麥減原</seg>
+                    <seg xml:id="KR3fc013_tls_p13.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻" quantity="1"/>麥爲到縣麥</seg>
+                    <seg xml:id="KR3fc013_tls_p13.s7" state="locked">
+                        <lb n="7" ed="KX"/>今有官支鈔一百三十二錠一十八兩七錢一</seg>
+                    <seg xml:id="KR3fc013_tls_p13.s8" state="locked">
+                        <lb n="8" ed="KX"/>分九釐八毫糴米八百六十七石四斗六升起</seg>
+                    <seg xml:id="KR3fc013_tls_p13.s9" state="locked">
+                        <lb n="9" ed="KX"/>運赴都該水腳鈔八錠一十三兩五錢四分六</seg>
+                    <seg xml:id="KR3fc013_tls_p13.s11" state="locked">
+                        <lb n="11" ed="KX"/>釐爲無官鈔可支欲於糴到米內除米給還問</seg>
+                    <seg xml:id="KR3fc013_tls_p13.s12" state="locked">
+                        <lb n="12" ed="KX"/>水腳官米各幾何</seg>
+                    <seg xml:id="KR3fc013_tls_p13.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰水腳米五十四石二斗<space n="䶻" quantity="1"/>官米八百</seg>
+                    <seg state="locked" xml:id="KR3fc013_tls_p13.s14.1">
+                        <lb n="14" ed="KX"/>一十三石二斗六升</seg>
+                    <seg state="locked" xml:id="KR3fc013_tls_p13.s14.2" type="comm">每官米一石計水腳<lb type="/"/>錢六升六合六分合</seg>
+                    <seg state="locked" xml:id="KR3fc013_tls_p13.s15.1" type="comm">
+                        <lb n="15" ed="KX"/>之<lb type="/"/>一</seg>
+                    <seg xml:id="KR3fc013_tls_p13.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻" quantity="1"/>此重求也置水腳鈔破錠得四百一十三兩</seg>
+                    <seg xml:id="KR3fc013_tls_p13.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻" quantity="1"/>五錢四分六釐爲實以官支鈔破錠得六千</seg>
+                    <seg xml:id="KR3fc013_tls_p13.s18" state="locked">
+                        <lb n="18" ed="KX"/>
+                        <space n="䶻" quantity="1"/>六百一十八兩七錢一分九釐八毫以糴到</seg>
+                    <seg xml:id="KR3fc013_tls_p13.s19" state="locked">
+                        <lb n="19" ed="KX"/>
+                        <space n="䶻" quantity="1"/>米數除之呼八六七十四除六七四十二七</seg>
+                    <pb ed="KX" n="03-07-067.14" xml:id="KR3fc013_tls_14a"/>
+                    <seg xml:id="KR3fc013_tls_p14.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻" quantity="1"/>七四十九四七二十八六七四十二呼八五</seg>
+                    <seg xml:id="KR3fc013_tls_p14.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻" quantity="1"/>六十二除六六三十六六七四十二四六二</seg>
+                    <seg xml:id="KR3fc013_tls_p14.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻" quantity="1"/>十四六六三十六呼八二下加四逢八進一</seg>
+                    <seg xml:id="KR3fc013_tls_p14.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻" quantity="1"/>十除三六一十六三七二十一四三一十二</seg>
+                    <seg xml:id="KR3fc013_tls_p14.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻" quantity="1"/>三六一十八得七兩六錢三分爲一石之價</seg>
+                    <seg xml:id="KR3fc013_tls_p14.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻" quantity="1"/>爲法除實呼七四五十五除五六三十三五</seg>
+                    <seg xml:id="KR3fc013_tls_p14.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻" quantity="1"/>一十五呼七三四十二除四六二十四三四</seg>
+                    <seg xml:id="KR3fc013_tls_p14.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻" quantity="1"/>一十二呼七一下加三逢七進一十除二六</seg>
+                    <seg xml:id="KR3fc013_tls_p14.s9" state="locked">
+                        <lb n="9" ed="KX"/>
+                        <space n="䶻" quantity="1"/>一十二二三如六得五十四石二斗爲水腳</seg>
+                    <seg xml:id="KR3fc013_tls_p14.s11" state="locked">
+                        <lb n="11" ed="KX"/>
+                        <space n="䶻" quantity="1"/>米數反減糴到米卽官米也用抽分法亦通</seg>
+                    <seg xml:id="KR3fc013_tls_p14.s12" state="locked">
+                        <lb n="12" ed="KX"/>今有稅務法則三十兩納稅錢一兩今有客持</seg>
+                    <seg xml:id="KR3fc013_tls_p14.s13" state="locked">
+                        <lb n="13" ed="KX"/>絲六百四十斤每斤價錢三兩二錢五分二釐</seg>
+                    <seg xml:id="KR3fc013_tls_p14.s14" state="locked">
+                        <lb n="14" ed="KX"/>問稅錢多少</seg>
+                    <seg xml:id="KR3fc013_tls_p14.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰六十九兩三錢七分六釐</seg>
+                    <seg state="locked" xml:id="KR3fc013_tls_p14.s16.1">
+                        <lb n="16" ed="KX"/>置絲斤以每斤價乘之爲實</seg>
+                    <seg state="locked" xml:id="KR3fc013_tls_p14.s16.2" type="comm">本以一兩乘之<lb type="/"/>今乃爾者免乘</seg>
+                    <seg state="locked" xml:id="KR3fc013_tls_p14.s17.1" type="comm">
+                        <lb n="17" ed="KX"/>也</seg>
+                    <seg state="locked" xml:id="KR3fc013_tls_p14.s17.2">以三十兩爲法除之</seg>
+                    <seg xml:id="KR3fc013_tls_p14.s18" state="locked">
+                        <lb n="18" ed="KX"/>匹求尺者匹法乘之尺求匹者匹法除之通匹</seg>
+                    <seg state="locked" xml:id="KR3fc013_tls_p14.s19.1">
+                        <lb n="19" ed="KX"/>下分</seg>
+                    <seg state="locked" xml:id="KR3fc013_tls_p14.s19.2" type="comm">匹下有尺匹法除爲分匹下<lb type="/"/>有分匹法乘爲尺端分仿此</seg>
+                    <seg state="locked" xml:id="KR3fc013_tls_p14.s19.3">乘除主數</seg>
+                    <pb ed="KX" n="03-07-067.15" xml:id="KR3fc013_tls_15a"/>
+                    <seg xml:id="KR3fc013_tls_p15.s1" state="locked">
+                        <lb n="1" ed="KX"/>今有兵士三千二百五十人每人給散胖襖一</seg>
+                    <seg xml:id="KR3fc013_tls_p15.s2" state="locked">
+                        <lb n="2" ed="KX"/>領用紵絲一丈八尺五寸問該幾</seg>
+                    <seg xml:id="KR3fc013_tls_p15.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰二千五百五匹五尺</seg>
+                    <seg xml:id="KR3fc013_tls_p15.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻" quantity="1"/>下兵數加八五得尺以匹法二丈四尺收之</seg>
+                    <seg state="locked" xml:id="KR3fc013_tls_p15.s5.1">
+                        <lb n="5" ed="KX"/>今有布二十六匹</seg>
+                    <seg state="locked" xml:id="KR3fc013_tls_p15.s5.2" type="comm">匹法二十八尺</seg>
+                    <seg state="locked" xml:id="KR3fc013_tls_p15.s5.3">問幾尺</seg>
+                    <seg xml:id="KR3fc013_tls_p15.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰七百二十八尺</seg>
+                    <seg xml:id="KR3fc013_tls_p15.s7" state="locked">
+                        <lb n="7" ed="KX"/>今有布七百二十八尺爲幾匹</seg>
+                    <seg xml:id="KR3fc013_tls_p15.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰二十六匹</seg>
+                    <seg xml:id="KR3fc013_tls_p15.s9" state="locked">
+                        <lb n="9" ed="KX"/>
+                        <space n="䶻" quantity="1"/>尺見匹匹法二八除之</seg>
+                    <seg xml:id="KR3fc013_tls_p15.s11" state="locked">
+                        <lb n="11" ed="KX"/>今有原借官絹長三丈七尺六寸五分闊二尺</seg>
+                    <seg xml:id="KR3fc013_tls_p15.s12" state="locked">
+                        <lb n="12" ed="KX"/>五寸今還鄉絹只闊二尺合還鄉絹幾何</seg>
+                    <seg xml:id="KR3fc013_tls_p15.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰四丈七尺六分二釐五毫</seg>
+                    <seg xml:id="KR3fc013_tls_p15.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻" quantity="1"/>置官絹以闊乘之只闊除之</seg>
+                    <seg xml:id="KR3fc013_tls_p15.s15" state="locked">
+                        <lb n="15" ed="KX"/>今有羅二十三匹一丈六尺八寸每匹價一十</seg>
+                    <seg xml:id="KR3fc013_tls_p15.s16" state="locked">
+                        <lb n="16" ed="KX"/>二兩半問共多少</seg>
+                    <seg state="locked" xml:id="KR3fc013_tls_p15.s17.1">
+                        <lb n="17" ed="KX"/>荅曰二百九十五兩</seg>
+                    <seg state="locked" xml:id="KR3fc013_tls_p15.s17.2" type="comm">二八匹法</seg>
+                    <seg xml:id="KR3fc013_tls_p15.s18" state="locked">
+                        <lb n="18" ed="KX"/>
+                        <space n="䶻" quantity="1"/>下羅匹下尺匹法除爲分以匹價加二五下</seg>
+                    <seg xml:id="KR3fc013_tls_p15.s19" state="locked">
+                        <lb n="19" ed="KX"/>
+                        <space n="䶻" quantity="1"/>匹二八乘入零尺匹價加二五爲實二八除</seg>
+                    <pb ed="KX" n="03-07-067.16" xml:id="KR3fc013_tls_16a"/>
+                    <seg state="locked" xml:id="KR3fc013_tls_p16.s1.1">
+                        <lb n="1" ed="KX"/>之</seg>
+                    <seg state="locked" xml:id="KR3fc013_tls_p16.s1.2" type="comm">還原下鈔二八乘爲實減二五得共尺以</seg>
+                    <seg state="locked" xml:id="KR3fc013_tls_p16.s2.1" type="comm">
+                        <lb n="2" ed="KX"/>匹法二八收之爲匹前法下鈔匹價減匹下</seg>
+                    <seg state="locked" xml:id="KR3fc013_tls_p16.s3.1" type="comm">
+                        <lb n="3" ed="KX"/>有分匹法乘之</seg>
+                    <seg xml:id="KR3fc013_tls_p16.s4" state="locked">
+                        <lb n="4" ed="KX"/>今有絹一丈八尺賣錢五兩五錢二分問一匹</seg>
+                    <seg xml:id="KR3fc013_tls_p16.s5" state="locked">
+                        <lb n="5" ed="KX"/>長四十二尺該鈔幾何</seg>
+                    <seg xml:id="KR3fc013_tls_p16.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰一十二兩八錢八分</seg>
+                    <seg xml:id="KR3fc013_tls_p16.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻" quantity="1"/>置鈔在地匹法乘之爲實原絹爲法除之</seg>
+                    <seg xml:id="KR3fc013_tls_p16.s8" state="locked">
+                        <lb n="8" ed="KX"/>今有羅二十三匹二丈三尺每匹四十二尺共</seg>
+                    <seg xml:id="KR3fc013_tls_p16.s9" state="locked">
+                        <lb n="9" ed="KX"/>賣鈔二百三十一兩四錢二分六釐問每尺該</seg>
+                    <seg xml:id="KR3fc013_tls_p16.s11" state="locked">
+                        <lb n="11" ed="KX"/>鈔幾何</seg>
+                    <seg xml:id="KR3fc013_tls_p16.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰二錢三分四釐</seg>
+                    <seg xml:id="KR3fc013_tls_p16.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻" quantity="1"/>置鈔在地以匹法四十二乘之搭入丈尺得</seg>
+                    <seg xml:id="KR3fc013_tls_p16.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻" quantity="1"/>九百八十九尺爲法除之</seg>
+                    <seg xml:id="KR3fc013_tls_p16.s15" state="locked">
+                        <lb n="15" ed="KX"/>今有官配布七千五百六十四匹每匹帶納布</seg>
+                    <seg xml:id="KR3fc013_tls_p16.s16" state="locked">
+                        <lb n="16" ed="KX"/>三尺問共多少</seg>
+                    <seg state="locked" xml:id="KR3fc013_tls_p16.s17.1">
+                        <lb n="17" ed="KX"/>荅曰九百四十五匹半</seg>
+                    <seg state="locked" xml:id="KR3fc013_tls_p16.s17.2" type="comm">二四匹法</seg>
+                    <seg xml:id="KR3fc013_tls_p16.s18" state="locked">
+                        <lb n="18" ed="KX"/>
+                        <space n="䶻" quantity="1"/>下布三因得共尺匹法二丈四尺除之</seg>
+                    <seg xml:id="KR3fc013_tls_p16.s19" state="locked">
+                        <lb n="19" ed="KX"/>今有布一尺賣錢一錢九分三釐問一端長五</seg>
+                    <pb ed="KX" n="03-07-067.17" xml:id="KR3fc013_tls_17a"/>
+                    <seg xml:id="KR3fc013_tls_p17.s1" state="locked">
+                        <lb n="1" ed="KX"/>十二尺該鈔幾何</seg>
+                    <seg xml:id="KR3fc013_tls_p17.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰十兩三分六釐</seg>
+                    <seg xml:id="KR3fc013_tls_p17.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻" quantity="1"/>置鈔在地端法乘之</seg>
+                    <seg xml:id="KR3fc013_tls_p17.s4" state="locked">
+                        <lb n="4" ed="KX"/>權衡之數起於黍十黍爲一累十累爲一銖六</seg>
+                    <seg state="locked" xml:id="KR3fc013_tls_p17.s5.1">
+                        <lb n="5" ed="KX"/>銖爲一分四分爲一兩</seg>
+                    <seg state="locked" xml:id="KR3fc013_tls_p17.s5.2" type="comm">今從省數者兩下止言</seg>
+                    <seg state="locked" xml:id="KR3fc013_tls_p17.s6.1" type="comm">
+                        <lb n="6" ed="KX"/>錢分釐毫絲忽如銀錢法猶田畝之不用里角</seg>
+                    <seg state="locked" xml:id="KR3fc013_tls_p17.s7.1" type="comm">
+                        <lb n="7" ed="KX"/>而從頃分釐毫絲忽也</seg>
+                    <seg state="locked" xml:id="KR3fc013_tls_p17.s7.2">十六兩爲斤十五斤爲</seg>
+                    <seg state="locked" xml:id="KR3fc013_tls_p17.s8.1">
+                        <lb n="8" ed="KX"/>稱二稱爲一鈞四鈞爲一碩</seg>
+                    <seg state="locked" xml:id="KR3fc013_tls_p17.s8.2" type="comm">卽百二十斤也</seg>
+                    <seg state="locked" xml:id="KR3fc013_tls_p17.s8.3">十</seg>
+                    <seg xml:id="KR3fc013_tls_p17.s9" state="locked">
+                        <lb n="9" ed="KX"/>碩百碩千碩萬碩觔之諸率兩求銖者二十四</seg>
+                    <seg xml:id="KR3fc013_tls_p17.s11" state="locked">
+                        <lb n="11" ed="KX"/>乘銖求兩者二十四除斤求銖者三百八十四</seg>
+                    <seg xml:id="KR3fc013_tls_p17.s12" state="locked">
+                        <lb n="12" ed="KX"/>乘銖求斤者三百八十四除斤求兩者加六兩</seg>
+                    <seg xml:id="KR3fc013_tls_p17.s13" state="locked">
+                        <lb n="13" ed="KX"/>求斤者減六稱求斤加五斤求稱者減五鈞三</seg>
+                    <seg xml:id="KR3fc013_tls_p17.s14" state="locked">
+                        <lb n="14" ed="KX"/>乘除碩一十二乘除亦通爲斤也</seg>
+                    <seg xml:id="KR3fc013_tls_p17.s15" state="locked">
+                        <lb n="15" ed="KX"/>斤下有分者化之稱下有斤減五爲分稱下有</seg>
+                    <seg xml:id="KR3fc013_tls_p17.s16" state="locked">
+                        <lb n="16" ed="KX"/>分加五爲斤稱下有斤兩先以兩減六後以斤</seg>
+                    <seg xml:id="KR3fc013_tls_p17.s17" state="locked">
+                        <lb n="17" ed="KX"/>減五爲分釐稱下有分釐先以斤加五後兩加</seg>
+                    <seg xml:id="KR3fc013_tls_p17.s18" state="locked">
+                        <lb n="18" ed="KX"/>六爲兩鈞石爲主敎者準此裹法重二斤二兩</seg>
+                    <seg xml:id="KR3fc013_tls_p17.s19" state="locked">
+                        <lb n="19" ed="KX"/>計三十四兩通裹下分裹見兩裹法乘爲兩兩</seg>
+                    <pb ed="KX" n="03-07-067.18" xml:id="KR3fc013_tls_18a"/>
+                    <seg xml:id="KR3fc013_tls_p18.s1" state="locked">
+                        <lb n="1" ed="KX"/>見裹裹法除爲裹裹下兩裹法除爲分裹下分</seg>
+                    <seg xml:id="KR3fc013_tls_p18.s2" state="locked">
+                        <lb n="2" ed="KX"/>裹法乘爲兩</seg>
+                    <seg xml:id="KR3fc013_tls_p18.s3" state="locked">
+                        <lb n="3" ed="KX"/>今有買粉錢二百三十四兩每裹三兩二錢問</seg>
+                    <seg xml:id="KR3fc013_tls_p18.s4" state="locked">
+                        <lb n="4" ed="KX"/>買幾裹</seg>
+                    <seg xml:id="KR3fc013_tls_p18.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰七十三裹四兩二錢半</seg>
+                    <seg state="locked" xml:id="KR3fc013_tls_p18.s6.1">
+                        <lb n="6" ed="KX"/>下錢裹價除之裹下分裹法乘爲兩</seg>
+                    <seg state="locked" xml:id="KR3fc013_tls_p18.s6.2" type="comm">裹法三</seg>
+                    <seg state="locked" xml:id="KR3fc013_tls_p18.s7.1" type="comm">
+                        <lb n="7" ed="KX"/>十四兩</seg>
+                    <seg xml:id="KR3fc013_tls_p18.s8" state="locked">
+                        <lb n="8" ed="KX"/>今有沙金一百三十一兩每銖賣鈔一兩二錢</seg>
+                    <seg xml:id="KR3fc013_tls_p18.s9" state="locked">
+                        <lb n="9" ed="KX"/>五分問金幾銖賣鈔幾何</seg>
+                    <seg xml:id="KR3fc013_tls_p18.s11" state="locked">
+                        <lb n="11" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰金三千一百四十四銖<space n="䶻" quantity="1"/>鈔三千九</seg>
+                    <seg xml:id="KR3fc013_tls_p18.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>百三十兩</seg>
+                    <seg xml:id="KR3fc013_tls_p18.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻" quantity="1"/>置金以二四乘之兩上錠百銖得三千一百</seg>
+                    <seg xml:id="KR3fc013_tls_p18.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻" quantity="1"/>四十四銖爲實以價乘之又置金三因得鈔</seg>
+                    <seg xml:id="KR3fc013_tls_p18.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻" quantity="1"/>八因得銖鈔</seg>
+                    <seg xml:id="KR3fc013_tls_p18.s16" state="locked">
+                        <lb n="16" ed="KX"/>今有錢三十三兩二錢五分買絲二斤十二兩</seg>
+                    <seg xml:id="KR3fc013_tls_p18.s17" state="locked">
+                        <lb n="17" ed="KX"/>八銖問每斤該鈔幾何</seg>
+                    <seg xml:id="KR3fc013_tls_p18.s18" state="locked">
+                        <lb n="18" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰一十二兩</seg>
+                    <seg xml:id="KR3fc013_tls_p18.s19" state="locked">
+                        <lb n="19" ed="KX"/>
+                        <space n="䶻" quantity="1"/>置錢以絲斤爲兩搭入零兩以二十四乘之</seg>
+                    <pb ed="KX" n="03-07-067.19" xml:id="KR3fc013_tls_19a"/>
+                    <seg xml:id="KR3fc013_tls_p19.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻" quantity="1"/>爲銖搭入零銖得一千六十四爲法除之却</seg>
+                    <seg xml:id="KR3fc013_tls_p19.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻" quantity="1"/>以三八四乘之</seg>
+                    <seg xml:id="KR3fc013_tls_p19.s3" state="locked">
+                        <lb n="3" ed="KX"/>今有鈔五十四兩九錢五分買甘草九斤一十</seg>
+                    <seg xml:id="KR3fc013_tls_p19.s4" state="locked">
+                        <lb n="4" ed="KX"/>三兩欲斤率之問價幾何</seg>
+                    <seg xml:id="KR3fc013_tls_p19.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰五兩六錢</seg>
+                    <seg xml:id="KR3fc013_tls_p19.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻" quantity="1"/>置鈔以斤率乘之得八千七百九十二爲實</seg>
+                    <seg xml:id="KR3fc013_tls_p19.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻" quantity="1"/>又置九斤通分內子一十三兩得一百五十</seg>
+                    <seg xml:id="KR3fc013_tls_p19.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻" quantity="1"/>七爲法實如法而一<space n="䶻" quantity="1"/>又收斤下子爲實鈔</seg>
+                    <seg state="locked" xml:id="KR3fc013_tls_p19.s9.1">
+                        <lb n="9" ed="KX"/>除之</seg>
+                    <seg state="locked" xml:id="KR3fc013_tls_p19.s9.2" type="comm">此通上法</seg>
+                    <seg xml:id="KR3fc013_tls_p19.s11" state="locked">
+                        <lb n="11" ed="KX"/>今有鈔八千五百三十一兩二錢五分買絲一</seg>
+                    <seg xml:id="KR3fc013_tls_p19.s12" state="locked">
+                        <lb n="12" ed="KX"/>石二鈞三稱一十八斤一十二兩欲其斤率之</seg>
+                    <seg xml:id="KR3fc013_tls_p19.s13" state="locked">
+                        <lb n="13" ed="KX"/>問價若干</seg>
+                    <seg xml:id="KR3fc013_tls_p19.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰三十五兩</seg>
+                    <seg xml:id="KR3fc013_tls_p19.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻" quantity="1"/>鈔數爲實以一石二鈞三稱一十八斤以石</seg>
+                    <seg xml:id="KR3fc013_tls_p19.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻" quantity="1"/>鈞稱法乘之得二百四十三斤搭一十二兩</seg>
+                    <seg xml:id="KR3fc013_tls_p19.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻" quantity="1"/>留七五爲法實如法而一</seg>
+                    <seg xml:id="KR3fc013_tls_p19.s18" state="locked">
+                        <lb n="18" ed="KX"/>今有鈔二十五兩四分二釐五毫買鹽每斤價</seg>
+                    <seg xml:id="KR3fc013_tls_p19.s19" state="locked">
+                        <lb n="19" ed="KX"/>二錢八分問買幾斤</seg>
+                    <pb ed="KX" n="03-07-067.20" xml:id="KR3fc013_tls_20a"/>
+                    <seg xml:id="KR3fc013_tls_p20.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰八十九斤七兩</seg>
+                    <seg xml:id="KR3fc013_tls_p20.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻" quantity="1"/>以鈔以斤價除之斤下有分加六爲兩<space n="䶻" quantity="1"/>下</seg>
+                    <seg xml:id="KR3fc013_tls_p20.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻" quantity="1"/>鈔加六又以斤價除之得數十六收之</seg>
+                    <seg xml:id="KR3fc013_tls_p20.s4" state="locked">
+                        <lb n="4" ed="KX"/>今有鹽八十九斤七兩每斤價二錢八分問共</seg>
+                    <seg xml:id="KR3fc013_tls_p20.s5" state="locked">
+                        <lb n="5" ed="KX"/>多少</seg>
+                    <seg xml:id="KR3fc013_tls_p20.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰二十五兩四分二釐五毫</seg>
+                    <seg xml:id="KR3fc013_tls_p20.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻" quantity="1"/>斤下有兩減六爲分以價乘之</seg>
+                    <seg xml:id="KR3fc013_tls_p20.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻" quantity="1"/>又下斤十六通之搭入七兩斤價乘之十六</seg>
+                    <seg xml:id="KR3fc013_tls_p20.s9" state="locked">
+                        <lb n="9" ed="KX"/>
+                        <space n="䶻" quantity="1"/>減之</seg>
+                    <seg xml:id="KR3fc013_tls_p20.s11" state="locked">
+                        <lb n="11" ed="KX"/>今有蠟五稱一十四斤一十二兩每斤價二兩</seg>
+                    <seg xml:id="KR3fc013_tls_p20.s12" state="locked">
+                        <lb n="12" ed="KX"/>三錢五分問鈔幾何</seg>
+                    <seg xml:id="KR3fc013_tls_p20.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰四錠一十兩九錢一分二釐五毫</seg>
+                    <seg xml:id="KR3fc013_tls_p20.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻" quantity="1"/>通稱斤兩爲斤以價乘之</seg>
+                    <seg xml:id="KR3fc013_tls_p20.s15" state="locked">
+                        <lb n="15" ed="KX"/>今有銀七百八十九錠三十七兩半買金每兩</seg>
+                    <seg xml:id="KR3fc013_tls_p20.s16" state="locked">
+                        <lb n="16" ed="KX"/>價三錠問幾兩</seg>
+                    <seg xml:id="KR3fc013_tls_p20.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰二百六十三兩二錢半</seg>
+                    <seg state="locked" xml:id="KR3fc013_tls_p20.s18.1">
+                        <lb n="18" ed="KX"/>下銀錠下有兩歸爲分以三錠爲法除之</seg>
+                    <seg state="locked" xml:id="KR3fc013_tls_p20.s18.2" type="comm">三</seg>
+                    <seg state="locked" xml:id="KR3fc013_tls_p20.s19.1" type="comm">
+                        <lb n="19" ed="KX"/>五乘元法</seg>
+                    <seg state="locked" xml:id="KR3fc013_tls_p20.s19.2">下錠五因內加入零兩以一百五</seg>
+                    <pb ed="KX" n="03-07-067.21" xml:id="KR3fc013_tls_21a"/>
+                    <seg state="locked" xml:id="KR3fc013_tls_p21.s1.1">
+                        <lb n="1" ed="KX"/>十兩減之</seg>
+                    <seg state="locked" xml:id="KR3fc013_tls_p21.s1.2" type="comm">五除百五十乘元</seg>
+                    <seg xml:id="KR3fc013_tls_p21.s2" state="locked">
+                        <lb n="2" ed="KX"/>今有包俸銀八百七十五錠每錠帶納一兩五</seg>
+                    <seg xml:id="KR3fc013_tls_p21.s3" state="locked">
+                        <lb n="3" ed="KX"/>錢問帶納多少</seg>
+                    <seg xml:id="KR3fc013_tls_p21.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰二十六錠一十二兩半</seg>
+                    <seg xml:id="KR3fc013_tls_p21.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻" quantity="1"/>下銀加五爲兩從上五除爲錠</seg>
+                    <seg xml:id="KR3fc013_tls_p21.s6" state="locked">
+                        <lb n="6" ed="KX"/>今有藥八稱九斤十二兩每稱八十四兩問共</seg>
+                    <seg xml:id="KR3fc013_tls_p21.s7" state="locked">
+                        <lb n="7" ed="KX"/>多少</seg>
+                    <seg xml:id="KR3fc013_tls_p21.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰七百二十六兩六錢</seg>
+                    <seg xml:id="KR3fc013_tls_p21.s9" state="locked">
+                        <lb n="9" ed="KX"/>
+                        <space n="䶻" quantity="1"/>下藥稱下有斤兩先以兩減六得七分五釐</seg>
+                    <seg xml:id="KR3fc013_tls_p21.s11" state="locked">
+                        <lb n="11" ed="KX"/>
+                        <space n="䶻" quantity="1"/>爲斤分又以斤減五得六分五釐爲稱分以</seg>
+                    <seg xml:id="KR3fc013_tls_p21.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻" quantity="1"/>稱價乘之</seg>
+                    <seg xml:id="KR3fc013_tls_p21.s13" state="locked">
+                        <lb n="13" ed="KX"/>今有買藥鈔七百二十六兩六錢每稱價八十</seg>
+                    <seg xml:id="KR3fc013_tls_p21.s14" state="locked">
+                        <lb n="14" ed="KX"/>四兩問買幾何</seg>
+                    <seg xml:id="KR3fc013_tls_p21.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰八稱九斤一十二兩</seg>
+                    <seg xml:id="KR3fc013_tls_p21.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻" quantity="1"/>以鈔爲實以每稱價除之得八稱六分五釐</seg>
+                    <seg xml:id="KR3fc013_tls_p21.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻" quantity="1"/>稱下有分釐先以斤加五爲斤得九斤七分</seg>
+                    <seg xml:id="KR3fc013_tls_p21.s18" state="locked">
+                        <lb n="18" ed="KX"/>
+                        <space n="䶻" quantity="1"/>五釐斤下有分加六爲兩得十二兩</seg>
+                    <seg xml:id="KR3fc013_tls_p21.s19" state="locked">
+                        <lb n="19" ed="KX"/>今有粉一百二十三裹一十七兩每裹價八錢</seg>
+                    <pb ed="KX" n="03-07-067.22" xml:id="KR3fc013_tls_22a"/>
+                    <seg xml:id="KR3fc013_tls_p22.s1" state="locked">
+                        <lb n="1" ed="KX"/>半問共多少</seg>
+                    <seg xml:id="KR3fc013_tls_p22.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻" quantity="1"/>荅曰一百四兩九錢七分半</seg>
+                    <seg xml:id="KR3fc013_tls_p22.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻" quantity="1"/>裹下兩裹法除爲分以價乘之</seg>
+                    <seg xml:id="KR3fc013_tls_p22.s4" state="locked">
+                        <lb n="4" ed="KX"/>今有銅一百二十三稱問爲幾斤</seg>
+                    <seg xml:id="KR3fc013_tls_p22.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰一千八百四十五斤</seg>
+                    <seg xml:id="KR3fc013_tls_p22.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻" quantity="1"/>以稱爲實以五加之減五還元</seg>
+                    <seg xml:id="KR3fc013_tls_p22.s7" state="locked">
+                        <lb n="7" ed="KX"/>今有粉二百三十四裹問爲幾兩</seg>
+                    <seg xml:id="KR3fc013_tls_p22.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰七千九百五十六兩</seg>
+                    <seg state="locked" xml:id="KR3fc013_tls_p22.s9.1">
+                        <lb n="9" ed="KX"/>裹見兩裹法三十四乘之</seg>
+                    <seg state="locked" xml:id="KR3fc013_tls_p22.s9.2" type="comm">除還元</seg>
+                    <seg xml:id="KR3fc013_tls_p22.s11" state="locked">
+                        <lb n="11" ed="KX"/>今有胡椒二十四稱八斤每斤價二兩三錢六</seg>
+                    <seg xml:id="KR3fc013_tls_p22.s12" state="locked">
+                        <lb n="12" ed="KX"/>分九釐問總價若干</seg>
+                    <seg xml:id="KR3fc013_tls_p22.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰八百七十一兩七錢九分二釐</seg>
+                    <seg xml:id="KR3fc013_tls_p22.s14" state="locked">
+                        <lb n="14" ed="KX"/>今有糖五百六十八斤十兩每斤價六兩四錢</seg>
+                    <seg xml:id="KR3fc013_tls_p22.s15" state="locked">
+                        <lb n="15" ed="KX"/>八分問總價多少</seg>
+                    <seg xml:id="KR3fc013_tls_p22.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰三千六百八十四兩六錢九分</seg>
+                    <seg xml:id="KR3fc013_tls_p22.s17" state="locked">
+                        <lb n="17" ed="KX"/>今有銀一十二兩四錢八分買藥一斤問一銖</seg>
+                    <seg xml:id="KR3fc013_tls_p22.s18" state="locked">
+                        <lb n="18" ed="KX"/>幾何</seg>
+                    <seg xml:id="KR3fc013_tls_p22.s19" state="locked">
+                        <lb n="19" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰三分二釐五毫</seg>
+                    <pb ed="KX" n="03-07-067.23" xml:id="KR3fc013_tls_23a"/>
+                    <seg xml:id="KR3fc013_tls_p23.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻" quantity="1"/>置銀三八四除之</seg>
+                    <seg xml:id="KR3fc013_tls_p23.s2" state="locked">
+                        <lb n="2" ed="KX"/>今有緜二十八斤六兩每斤價五兩七錢四分</seg>
+                    <seg xml:id="KR3fc013_tls_p23.s3" state="locked">
+                        <lb n="3" ed="KX"/>問總價多少</seg>
+                    <seg xml:id="KR3fc013_tls_p23.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰一百六十二兩八錢七分二釐五毫</seg>
+                    <seg xml:id="KR3fc013_tls_p23.s5" state="locked">
+                        <lb n="5" ed="KX"/>今有絲五十六斤四兩每斤價六兩九錢四釐</seg>
+                    <seg xml:id="KR3fc013_tls_p23.s6" state="locked">
+                        <lb n="6" ed="KX"/>問錢多少</seg>
+                    <seg xml:id="KR3fc013_tls_p23.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰三百四十二兩七錢八分七釐五毫</seg>
+                    <seg xml:id="KR3fc013_tls_p23.s8" state="locked">
+                        <lb n="8" ed="KX"/>今有金九斤七兩賣錢每兩價八十一兩一錢</seg>
+                    <seg xml:id="KR3fc013_tls_p23.s9" state="locked">
+                        <lb n="9" ed="KX"/>二分問錢多少</seg>
+                    <seg xml:id="KR3fc013_tls_p23.s11" state="locked">
+                        <lb n="11" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰一萬二千二百四十九兩一錢二分</seg>
+                    <seg xml:id="KR3fc013_tls_p23.s12" state="locked">
+                        <lb n="12" ed="KX"/>今有茯苓五千七百八十九兩問計幾斤</seg>
+                    <seg xml:id="KR3fc013_tls_p23.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰三百六十一斤一十三兩</seg>
+                    <seg state="locked" xml:id="KR3fc013_tls_p23.s14.1">
+                        <lb n="14" ed="KX"/>以兩爲實減六爲法首減之餘一十三兩</seg>
+                    <seg state="locked" xml:id="KR3fc013_tls_p23.s14.2" type="comm">存</seg>
+                    <seg state="locked" xml:id="KR3fc013_tls_p23.s15.1" type="comm">
+                        <lb n="15" ed="KX"/>身</seg>
+                    <seg xml:id="KR3fc013_tls_p23.s16" state="locked">
+                        <lb n="16" ed="KX"/>今有檀香一千三百五十六斤問計幾兩</seg>
+                    <seg xml:id="KR3fc013_tls_p23.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰二萬一千六百九十六兩</seg>
+                    <seg state="locked" xml:id="KR3fc013_tls_p23.s18.1">
+                        <lb n="18" ed="KX"/>以斤爲實以六爲法自尾加之</seg>
+                    <seg state="locked" xml:id="KR3fc013_tls_p23.s18.2" type="comm">就身</seg>
+                    <seg state="locked" xml:id="KR3fc013_tls_p23.s18.3">又以</seg>
+                    <seg xml:id="KR3fc013_tls_p23.s19" state="locked">
+                        <lb n="19" ed="KX"/>
+                        <space n="䶻" quantity="1"/>斤爲實以四乘之再倍之</seg>
+                    <pb ed="KX" n="03-07-067.24" xml:id="KR3fc013_tls_24a"/>
+                    <seg xml:id="KR3fc013_tls_p24.s1" state="locked">
+                        <lb n="1" ed="KX"/>今有麪一百七十二斤零二兩賣鈔二十五兩</seg>
+                    <seg xml:id="KR3fc013_tls_p24.s2" state="locked">
+                        <lb n="2" ed="KX"/>五錢問每兩該麪若干</seg>
+                    <seg xml:id="KR3fc013_tls_p24.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰六斤一十二兩</seg>
+                    <seg xml:id="KR3fc013_tls_p24.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻" quantity="1"/>此歸除法也置都斤在地爲實并二兩爲一</seg>
+                    <seg xml:id="KR3fc013_tls_p24.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻" quantity="1"/>二五在地以二呼除二六一十二另置商六</seg>
+                    <seg xml:id="KR3fc013_tls_p24.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻" quantity="1"/>却於實上二位除五六三十五六三十其餘</seg>
+                    <seg xml:id="KR3fc013_tls_p24.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻" quantity="1"/>數又呼除二七一十四續商七卻於實上二</seg>
+                    <seg xml:id="KR3fc013_tls_p24.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻" quantity="1"/>位除五七三十五五七三十五再不盡又呼</seg>
+                    <seg xml:id="KR3fc013_tls_p24.s9" state="locked">
+                        <lb n="9" ed="KX"/>
+                        <space n="䶻" quantity="1"/>除二五一十續商五卻於實上二位又除五</seg>
+                    <seg xml:id="KR3fc013_tls_p24.s11" state="locked">
+                        <lb n="11" ed="KX"/>
+                        <space n="䶻" quantity="1"/>五二十五五五二十五適盡又以七五爲一</seg>
+                    <seg xml:id="KR3fc013_tls_p24.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻" quantity="1"/>十二兩合問</seg>
+                    <seg xml:id="KR3fc013_tls_p24.s13" state="locked">
+                        <lb n="13" ed="KX"/>今有生絲九十六斤一十二兩六錢欲練絨每</seg>
+                    <seg xml:id="KR3fc013_tls_p24.s14" state="locked">
+                        <lb n="14" ed="KX"/>斤折四兩問練絨并折絲各多少</seg>
+                    <seg xml:id="KR3fc013_tls_p24.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰絨七十二斤九兩四錢半折絲二十</seg>
+                    <seg xml:id="KR3fc013_tls_p24.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>四斤三兩一錢半</seg>
+                    <seg xml:id="KR3fc013_tls_p24.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻" quantity="1"/>通絲斤兩以七五乘之得數加斤下兩見絨</seg>
+                    <seg xml:id="KR3fc013_tls_p24.s18" state="locked">
+                        <lb n="18" ed="KX"/>
+                        <space n="䶻" quantity="1"/>也通絲斤兩二五乘之得數加斤下兩折數</seg>
+                    <seg xml:id="KR3fc013_tls_p24.s19" state="locked">
+                        <lb n="19" ed="KX"/>
+                        <space n="䶻" quantity="1"/>也<space n="䶻" quantity="1"/>通斤兩爲一千五百四十八兩六錢以</seg>
+                    <pb ed="KX" n="03-07-067.25" xml:id="KR3fc013_tls_25a"/>
+                    <seg xml:id="KR3fc013_tls_p25.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻" quantity="1"/>十二加之又以十六而一得一千一百六十</seg>
+                    <seg xml:id="KR3fc013_tls_p25.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻" quantity="1"/>一兩四錢半以十六收之爲斤見絨也直減</seg>
+                    <seg xml:id="KR3fc013_tls_p25.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻" quantity="1"/>總絲見折通絲斤兩四除見折三乘見絨</seg>
+                    <seg xml:id="KR3fc013_tls_p25.s4" state="locked">
+                        <lb n="4" ed="KX"/>今有銀四千八百六十五錠問爲幾兩</seg>
+                    <seg xml:id="KR3fc013_tls_p25.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰二十四萬三千二百五十兩</seg>
+                    <seg xml:id="KR3fc013_tls_p25.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻" quantity="1"/>下銀錠見兩五因爲兩</seg>
+                    <seg xml:id="KR3fc013_tls_p25.s7" state="locked">
+                        <lb n="7" ed="KX"/>今有銀二十四萬三千二百五十兩問爲幾錠</seg>
+                    <seg xml:id="KR3fc013_tls_p25.s8" state="locked">
+                        <lb n="8" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰四千八百六十五錠</seg>
+                    <seg xml:id="KR3fc013_tls_p25.s9" state="locked">
+                        <lb n="9" ed="KX"/>
+                        <space n="䶻" quantity="1"/>下銀兩見錠五歸爲錠</seg>
+                    <seg xml:id="KR3fc013_tls_p25.s11" state="locked">
+                        <lb n="11" ed="KX"/>今有紋錦局織暗花二百六十七疋三丈五尺</seg>
+                    <seg xml:id="KR3fc013_tls_p25.s12" state="locked">
+                        <lb n="12" ed="KX"/>七寸每疋用淨絲一斤三兩問用絲幾斤</seg>
+                    <seg xml:id="KR3fc013_tls_p25.s13" state="locked">
+                        <lb n="13" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰三百一十八斤一兩一錢五分</seg>
+                    <seg xml:id="KR3fc013_tls_p25.s14" state="locked">
+                        <lb n="14" ed="KX"/>
+                        <space n="䶻" quantity="1"/>置暗花數以疋法除丈尺爲疋下之分八分</seg>
+                    <seg xml:id="KR3fc013_tls_p25.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻" quantity="1"/>五釐以一斤一八七五爲法乘之得三百一</seg>
+                    <seg xml:id="KR3fc013_tls_p25.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻" quantity="1"/>十八斤餘加六得兩數<space n="䶻" quantity="1"/>又置二百六十七</seg>
+                    <seg xml:id="KR3fc013_tls_p25.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻" quantity="1"/>疋八分五釐爲實加九減六</seg>
+                    <seg xml:id="KR3fc013_tls_p25.s18" state="locked">
+                        <lb n="18" ed="KX"/>今有甘草二千九百七十斤每稱重一十五斤</seg>
+                    <seg xml:id="KR3fc013_tls_p25.s19" state="locked">
+                        <lb n="19" ed="KX"/>問爲幾稱</seg>
+                    <pb ed="KX" n="03-07-067.26" xml:id="KR3fc013_tls_26a"/>
+                    <seg xml:id="KR3fc013_tls_p26.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰一百九十八稱</seg>
+                    <seg xml:id="KR3fc013_tls_p26.s2" state="locked">
+                        <lb n="2" ed="KX"/>今有水銀四千二百八十八兩每斤重一十六</seg>
+                    <seg xml:id="KR3fc013_tls_p26.s3" state="locked">
+                        <lb n="3" ed="KX"/>兩問爲幾斤</seg>
+                    <seg xml:id="KR3fc013_tls_p26.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰二百六十八斤</seg>
+                    <seg xml:id="KR3fc013_tls_p26.s5" state="locked">
+                        <lb n="5" ed="KX"/>今有銀一萬一千三百四十九兩欲買鹽每引</seg>
+                    <seg xml:id="KR3fc013_tls_p26.s6" state="locked">
+                        <lb n="6" ed="KX"/>價十三兩問得鹽幾引</seg>
+                    <seg xml:id="KR3fc013_tls_p26.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰八百七十三引</seg>
+                    <seg xml:id="KR3fc013_tls_p26.s8" state="locked">
+                        <lb n="8" ed="KX"/>今有鈔二錠一十七兩一錢三分欲買乾薑每</seg>
+                    <seg xml:id="KR3fc013_tls_p26.s9" state="locked">
+                        <lb n="9" ed="KX"/>斤鈔一錢七分問計若干</seg>
+                    <seg xml:id="KR3fc013_tls_p26.s11" state="locked">
+                        <lb n="11" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰六百八十九斤</seg>
+                    <seg xml:id="KR3fc013_tls_p26.s12" state="locked">
+                        <lb n="12" ed="KX"/>今有中統鈔四十七兩五錢赴庫倒換至元鈔</seg>
+                    <seg xml:id="KR3fc013_tls_p26.s13" state="locked">
+                        <lb n="13" ed="KX"/>每中統鈔一兩工墨錢三分問除工墨外得鈔</seg>
+                    <seg xml:id="KR3fc013_tls_p26.s14" state="locked">
+                        <lb n="14" ed="KX"/>多少</seg>
+                    <seg state="locked" xml:id="KR3fc013_tls_p26.s15.1">
+                        <lb n="15" ed="KX"/>荅曰至元鈔九兩二錢一分半</seg>
+                    <seg state="locked" xml:id="KR3fc013_tls_p26.s15.2" type="comm">至元一錠<lb type="/"/>中統五錠</seg>
+                    <seg xml:id="KR3fc013_tls_p26.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻" quantity="1"/>下中統鈔以一錢九分四釐加之</seg>
+                    <seg xml:id="KR3fc013_tls_p26.s17" state="locked">
+                        <lb n="17" ed="KX"/>今有中統鈔二千六百四十五錠二十八兩半</seg>
+                    <seg xml:id="KR3fc013_tls_p26.s18" state="locked">
+                        <lb n="18" ed="KX"/>赴庫倒換至元鈔每中統鈔一兩工墨錢三分</seg>
+                    <seg xml:id="KR3fc013_tls_p26.s19" state="locked">
+                        <lb n="19" ed="KX"/>問除工墨外得至元鈔多少</seg>
+                    <pb ed="KX" n="03-07-067.27" xml:id="KR3fc013_tls_27a"/>
+                    <seg xml:id="KR3fc013_tls_p27.s1" state="locked">
+                        <lb n="1" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰至元鈔五百一十三錠一十二兩二</seg>
+                    <seg xml:id="KR3fc013_tls_p27.s2" state="locked">
+                        <lb n="2" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>分九釐工墨錢中統鈔七十九錠一十八</seg>
+                    <seg xml:id="KR3fc013_tls_p27.s3" state="locked">
+                        <lb n="3" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>兩三錢五分五釐</seg>
+                    <seg xml:id="KR3fc013_tls_p27.s4" state="locked">
+                        <lb n="4" ed="KX"/>
+                        <space n="䶻" quantity="1"/>下中統鈔錠下兩五除爲分以一兩半加之</seg>
+                    <seg xml:id="KR3fc013_tls_p27.s5" state="locked">
+                        <lb n="5" ed="KX"/>
+                        <space n="䶻" quantity="1"/>得數從上五除爲錠見工墨錢也又下中統</seg>
+                    <seg xml:id="KR3fc013_tls_p27.s6" state="locked">
+                        <lb n="6" ed="KX"/>
+                        <space n="䶻" quantity="1"/>鈔錠下五除爲分以九兩七錢乘之得數爲</seg>
+                    <seg xml:id="KR3fc013_tls_p27.s7" state="locked">
+                        <lb n="7" ed="KX"/>
+                        <space n="䶻" quantity="1"/>兩從五除爲錠也</seg>
+                    <seg xml:id="KR3fc013_tls_p27.s8" state="locked">
+                        <lb n="8" ed="KX"/>今有甲於乙處以加三斗借訖麥三十七石五</seg>
+                    <seg xml:id="KR3fc013_tls_p27.s9" state="locked">
+                        <lb n="9" ed="KX"/>斗今無元斗只於加二斗內還之合還多少</seg>
+                    <seg xml:id="KR3fc013_tls_p27.s11" state="locked">
+                        <lb n="11" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰四十石六斗二升半</seg>
+                    <seg xml:id="KR3fc013_tls_p27.s12" state="locked">
+                        <lb n="12" ed="KX"/>
+                        <space n="䶻" quantity="1"/>下麥加三減二</seg>
+                    <seg xml:id="KR3fc013_tls_p27.s13" state="locked">
+                        <lb n="13" ed="KX"/>今有人欠錢一萬一千二百五十兩欲還錢銀</seg>
+                    <seg xml:id="KR3fc013_tls_p27.s14" state="locked">
+                        <lb n="14" ed="KX"/>適等其銀每兩折鈔五兩問各還多少</seg>
+                    <seg xml:id="KR3fc013_tls_p27.s15" state="locked">
+                        <lb n="15" ed="KX"/>
+                        <space n="䶻䶻" quantity="2"/>荅曰一千八百七十五兩</seg>
+                    <seg xml:id="KR3fc013_tls_p27.s16" state="locked">
+                        <lb n="16" ed="KX"/>
+                        <space n="䶻" quantity="1"/>置欠鈔五因之爲實以三十兩爲法除之又</seg>
+                    <seg xml:id="KR3fc013_tls_p27.s17" state="locked">
+                        <lb n="17" ed="KX"/>
+                        <space n="䶻" quantity="1"/>六除之</seg>
+                    <seg xml:id="KR3fc013_tls_p27.s19" state="locked">
+                        <lb n="19" ed="KX"/>丁巨算法終<space n="䶻䶻䶻䶻䶻䶻" quantity="6"/>桐鄉馬以艮算校</seg>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>
