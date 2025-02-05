@@ -1,9 +1,15 @@
+.DS_Store
+.idea
+*.log
+tmp/
+
+
 # =========================
 # Operating System Files
 # =========================
 
 # Windows image file caches
- Thumbs.db
+~ Thumbs.db
  ehthumbs.db
 
 # Folder config file
@@ -84,4 +90,3 @@ bower_components/
 webtest/bin
 webtest/reports
 webtest/errorShots
-

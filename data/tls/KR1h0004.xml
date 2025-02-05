@@ -13,6 +13,8 @@
             <extent>
                 <measure unit="char" quantity="16096"/>
                 <date when-iso="2023-05-10T10:22:29.135+09:00"/>
+                <measure unit="seg" quantity="4055"/>
+                <date when-iso="2023-07-06T21:30:03.441+09:00"/>
             </extent>
          <publicationStmt>
             <p>Published electronically</p>
@@ -30,6 +32,9 @@
                 <catRef scheme="#tls-internal" target="#tr-la"/>
                 <catRef scheme="#tls-internal" target="#tr-fr"/>
                 <catRef scheme="#tls-internal" target="#tr-ru"/>
+                <catRef scheme="#tls-internal" target="#tr-zh"/>
+                <catRef scheme="#tls-internal" target="#tr-de"/>
+                <catRef scheme="#tls-dates" target="#dat08110"/>
             </textClass>
         </profileDesc>
    </teiHeader>
@@ -763,14 +768,9 @@
             <p>
                     <seg xml:id="KR1h0004_tls_002-25a.2" n="2.24">子曰<c n="："/>
                     </seg>
-                    <seg xml:id="KR1h0004_tls_002-25a.3">
-                        <c n="「"/>非其鬼而祭之<c n="，"/>
-                    </seg>
-                    <seg xml:id="KR1h0004_tls_002-25a.4">諂也<c n="。"/>見義不為<c n="，"/>
-                    </seg>
-                    <seg xml:id="KR1h0004_tls_002-25a.5">無勇也<c n="。"/>
-                        <c n="」"/>
-                    </seg>
+                    <seg xml:id="KR1h0004_tls_002-25a.3" resp="#CH" modified="2024-01-25T02:50:17.591+09:00">「非其鬼而祭之，諂也。</seg>
+                    <seg xml:id="KR1h0004_tls_002-25a.4" resp="#CH" modified="2024-01-25T02:50:37.04+09:00">見義不為，無勇也。 」</seg>
+                    <seg xml:id="KR1h0004_tls_002-25a.5" resp="#CH" modified="2024-01-25T02:50:28.453+09:00"/>
                 </p>
             <p>
                     <seg xml:id="KR1h0004_tls_003-1a.1"/>
@@ -1116,11 +1116,7 @@
             <p>
                     <seg xml:id="KR1h0004_tls_003-21a.2" n="3.20">子曰<c n="："/>
                     </seg>
-                    <seg xml:id="KR1h0004_tls_003-21a.3">
-                        <c n="「"/>
-                        <c n="《"/>關雎<c n="》"/>
-                        <c n="、"/>
-                    </seg>
+                    <seg xml:id="KR1h0004_tls_003-21a.3" resp="#CH" modified="2024-09-13T03:38:37.392+09:00">「 《關雎》</seg>
                     <seg xml:id="KR1h0004_tls_003-21a.4">樂而不淫<c n="，"/>
                     </seg>
                     <seg xml:id="KR1h0004_tls_003-22a.1">哀而不傷<c n="。"/>
@@ -1413,9 +1409,7 @@
                     </seg>
                     <seg xml:id="KR1h0004_tls_004-7a.5">觀過<c n="，"/>
                     </seg>
-                    <seg xml:id="KR1h0004_tls_004-8a.1">斯知人矣<c n="。"/>
-                        <c n="」"/>
-                    </seg>
+                    <seg xml:id="KR1h0004_tls_004-8a.1" resp="#CH" modified="2024-07-28T23:54:00.938+09:00">斯知仁[some read=人]矣。 」</seg>
                 </p>
             <p>
                     <seg xml:id="KR1h0004_tls_004-8a.2" n="4.8">子曰<c n="："/>
@@ -1788,12 +1782,8 @@
                     </seg>
                     <seg xml:id="KR1h0004_tls_005-7a.8">子曰<c n="："/>
                     </seg>
-                    <seg xml:id="KR1h0004_tls_005-7a.9">
-                        <c n="「"/>由也好勇過我<c n="，"/>
-                    </seg>
-                    <seg xml:id="KR1h0004_tls_005-8a.1">無所取材<c n="。"/>
-                        <c n="」"/>
-                    </seg>
+                    <seg xml:id="KR1h0004_tls_005-7a.9" resp="#CH" modified="2024-11-14T17:36:14.594+09:00">「由也好勇過，</seg>
+                    <seg xml:id="KR1h0004_tls_005-8a.1" resp="#CH" modified="2024-11-14T17:36:28.714+09:00">我無所取材。 」</seg>
                 </p>
             <p>
                     <seg xml:id="KR1h0004_tls_005-8a.2" n="5.8">孟武伯問<c n="："/>
@@ -2516,8 +2506,7 @@
                     </seg>
                     <seg xml:id="KR1h0004_tls_006-16a.7">命矣夫<c n="！"/>
                     </seg>
-                    <seg xml:id="KR1h0004_tls_006-16a.8">斯人也而有斯疾也<c n="！"/>
-                    </seg>
+                    <seg xml:id="KR1h0004_tls_006-16a.8" resp="#CH" modified="2024-11-18T23:17:44.214+09:00">斯人也而有斯疾也！</seg>
                     <seg xml:id="KR1h0004_tls_006-17a.1">斯人也而有斯疾也<c n="！"/>
                         <c n="」"/>
                     </seg>
@@ -3123,8 +3112,7 @@
                     <seg xml:id="KR1h0004_tls_007-21a.3">
                         <c n="「"/>加我數年<c n="，"/>
                     </seg>
-                    <seg xml:id="KR1h0004_tls_007-21a.4">五十以學<c n="，"/>
-                    </seg>
+                    <seg xml:id="KR1h0004_tls_007-21a.4" resp="#CH" modified="2024-08-21T21:31:30.196+09:00">五十以學易，</seg>
                     <seg xml:id="KR1h0004_tls_007-22a.1">亦可以無大過矣<c n="。"/>
                         <c n="」"/>
                     </seg>
@@ -3382,10 +3370,8 @@
                     <seg xml:id="KR1h0004_tls_007-40a.1"/>
                     <seg xml:id="KR1h0004_tls_007-40a.2" n="7.33">子曰<c n="："/>
                     </seg>
-                    <seg xml:id="KR1h0004_tls_007-40a.3">
-                        <c n="「"/>文</seg>
-                    <seg xml:id="KR1h0004_tls_007-40a.4">莫吾猶人也<c n="。"/>
-                    </seg>
+                    <seg xml:id="KR1h0004_tls_007-40a.3" resp="#CH" modified="2024-11-23T03:42:17.737+09:00">「文莫</seg>
+                    <seg xml:id="KR1h0004_tls_007-40a.4" resp="#CH" modified="2024-11-23T03:42:08.302+09:00">吾猶人也。</seg>
                     <seg xml:id="KR1h0004_tls_007-40a.5">躬行君子<c n="，"/>
                     </seg>
                     <seg xml:id="KR1h0004_tls_007-41a.1">則吾未之有得<c n="。"/>
@@ -4680,8 +4666,7 @@
                     </seg>
                     <seg xml:id="KR1h0004_tls_010-25a.18">不食<c n="。"/>
                     </seg>
-                    <seg xml:id="KR1h0004_tls_010-25a.19">不食<c n="。"/>肉雖多<c n="，"/>
-                    </seg>
+                    <seg xml:id="KR1h0004_tls_010-25a.19" resp="#CH" modified="2024-04-06T11:34:54.921+09:00">肉雖多，</seg>
                     <seg xml:id="KR1h0004_tls_010-25a.20">不使勝食氣<c n="。"/>
                     </seg>
                     <seg xml:id="KR1h0004_tls_010-25a.21">唯酒無量<c n="，"/>
@@ -5735,8 +5720,7 @@
                     </seg>
                     <seg xml:id="KR1h0004_tls_012-4a.6">己所不欲<c n="，"/>
                     </seg>
-                    <seg xml:id="KR1h0004_tls_012-4a.7">勿施於人<c n="。"/>
-                    </seg>
+                    <seg xml:id="KR1h0004_tls_012-4a.7" resp="#CH" modified="2024-08-08T04:59:28.502+09:00">勿施於人，</seg>
                     <seg xml:id="KR1h0004_tls_012-4a.8">在邦無怨<c n="，"/>
                     </seg>
                     <seg xml:id="KR1h0004_tls_012-5a.1">在家無怨<c n="。"/>
@@ -6196,11 +6180,8 @@
             <p>
                     <seg xml:id="KR1h0004_tls_012-31a.10">子曰<c n="："/>
                     </seg>
-                    <seg xml:id="KR1h0004_tls_012-31a.11">
-                        <c n="「"/>是聞也<c n="，"/>
-                    </seg>
-                    <seg xml:id="KR1h0004_tls_012-31a.12">非達也<c n="。"/>夫達也者<c n="，"/>
-                    </seg>
+                    <seg xml:id="KR1h0004_tls_012-31a.11" resp="#CH" modified="2024-04-15T04:15:33.113+09:00">「是聞也，非達也。</seg>
+                    <seg xml:id="KR1h0004_tls_012-31a.12" resp="#CH" modified="2024-04-15T04:15:12.054+09:00">夫達也者，</seg>
                     <seg xml:id="KR1h0004_tls_012-31a.13">質直而好義<c n="，"/>
                     </seg>
                     <seg xml:id="KR1h0004_tls_012-31a.14">察言而觀色<c n="，"/>
@@ -9562,9 +9543,7 @@
             <p>
                     <seg xml:id="KR1h0004_tls_017-25a.2" n="17.13">子曰<c n="："/>
                     </seg>
-                    <seg xml:id="KR1h0004_tls_017-25a.3">
-                        <c n="「"/>鄉原<c n="、"/>
-                    </seg>
+                    <seg xml:id="KR1h0004_tls_017-25a.3" resp="#CH" modified="2024-09-29T00:58:35.344+09:00">「鄉原，</seg>
                     <seg xml:id="KR1h0004_tls_017-26a.1">德之賊也<c n="。"/>
                         <c n="」"/>
                     </seg>

@@ -13,6 +13,8 @@
             <extent>
                 <measure unit="char" quantity="6777"/>
                 <date when-iso="2023-05-10T10:22:29.135+09:00"/>
+                <measure unit="seg" quantity="1520"/>
+                <date when-iso="2023-07-06T21:30:03.441+09:00"/>
             </extent>
          <publicationStmt>
             <p>Published electronically</p>
@@ -27,6 +29,11 @@
                 <catRef scheme="#tls-internal" target="#core"/>
                 <catRef scheme="#tls-internal" target="#swl"/>
                 <catRef scheme="#tls-internal" target="#tr-en"/>
+                <catRef scheme="#tls-internal" target="#tr-de"/>
+                <catRef scheme="#tls-internal" target="#tr-zh"/>
+                <catRef scheme="#tls-internal" target="#tr-ru"/>
+                <catRef scheme="#tls-internal" target="#tr-fr"/>
+                <catRef scheme="#tls-dates" target="#dat08110"/>
             </textClass>
         </profileDesc>
    </teiHeader>
@@ -482,8 +489,7 @@
             <p>
                     <seg xml:id="KR3b0003_tls_003-2a.17">故善用兵者<c n="，"/>
                     </seg>
-                    <seg xml:id="KR3b0003_tls_003-2a.18">屈人之兵而非戰也<c n="，"/>拔人之城而非攻也<c n="，"/>
-                    </seg>
+                    <seg xml:id="KR3b0003_tls_003-2a.18" resp="#dsehnal" modified="2023-12-17T00:06:11.17+09:00">屈人之兵而非戰也，拔人之城而非攻也，</seg>
                     <seg xml:id="KR3b0003_tls_003-2a.19">毀人之國而非久也<c n="。"/>
                     </seg>
                     <seg xml:id="KR3b0003_tls_003-2a.20">必以全爭於天下<c n="，"/>
@@ -756,8 +762,7 @@
                     </seg>
                     <seg xml:id="KR3b0003_tls_005-1a.11">兵之所加<c n="，"/>
                     </seg>
-                    <seg xml:id="KR3b0003_tls_005-1a.12">如以碬投卵者<c n="，"/>
-                    </seg>
+                    <seg xml:id="KR3b0003_tls_005-1a.12" resp="#dsehnal" modified="2024-02-01T22:06:59.398+09:00">如以碬(=碫)投卵者，</seg>
                     <seg xml:id="KR3b0003_tls_005-1a.13">虛實是也<c n="。"/>
                     </seg>
                     <seg xml:id="KR3b0003_tls_005-2a.1"/>

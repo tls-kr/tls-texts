@@ -13,6 +13,8 @@
             <extent>
                 <measure unit="char" quantity="1644"/>
                 <date when-iso="2023-05-10T10:22:29.135+09:00"/>
+                <measure unit="seg" quantity="416"/>
+                <date when-iso="2023-07-06T21:30:03.441+09:00"/>
             </extent>
 <publicationStmt>
 <p>Published electronically</p>
@@ -25,6 +27,8 @@
             <textClass>
                 <catRef scheme="#kr-categories" target="#KR2p"/>
                 <catRef scheme="#tls-internal" target="#tr-en"/>
+                <catRef scheme="#tls-internal" target="#swl"/>
+                <catRef scheme="#tls-dates" target="#dat06230"/>
             </textClass>
         </profileDesc>
 </teiHeader>
@@ -391,11 +395,9 @@
                     <pb xml:id="KR2p0026_tls_001-17a"/>
                     <seg xml:id="KR2p0026_tls_001-17a.1">凡聲<c n="，"/>
                     </seg>
-                    <seg xml:id="KR2p0026_tls_001-17a.2">其出於情也</seg>
-                    <seg xml:id="KR2p0026_tls_001-17a.3">信<c n="，"/>
-                    </seg>
-                    <seg xml:id="KR2p0026_tls_001-17a.4" n="LL">然後其入拔<c n="["/>撥<c n="]"/>人之心也</seg>
-                    <seg xml:id="KR2p0026_tls_001-17a.5" n=".">厚</seg>
+                    <seg xml:id="KR2p0026_tls_001-17a.2" resp="#CH" modified="2023-10-01T19:37:29.939+09:00">其出於情也信，</seg>
+                    <seg xml:id="KR2p0026_tls_001-17a.4" resp="#CH" modified="2023-10-01T19:39:06.072+09:00">LL　然後其入拔[撥]人之心也厚.</seg>
+                    <seg xml:id="KR2p0026_tls_001-17a.5" resp="#CH" modified="2023-10-01T19:38:24.573+09:00"/>
                 </p>
 
 <p source="GUODIAN XINGZIMINGCHU 13.17. SLIPS 24-25">
@@ -772,9 +774,7 @@
 
 <p source="GUODIAN XINGZIMINGCHU 13.34. SLIPS 48-49">
                     <pb xml:id="KR2p0026_tls_001-35a"/>
-                    <seg xml:id="KR2p0026_tls_001-35a.1">凡人偽為</seg>
-                    <seg xml:id="KR2p0026_tls_001-35a.2">可惡也<c n="。"/>
-                    </seg>
+                    <seg xml:id="KR2p0026_tls_001-35a.1" resp="#CH" modified="2023-10-01T19:49:05.661+09:00">凡人偽為可惡也。</seg>
                     <seg xml:id="KR2p0026_tls_001-35a.3">偽斯吝矣<c n="，"/>
                     </seg>
                     <seg xml:id="KR2p0026_tls_001-35a.4">吝斯慮矣<c n="，"/>

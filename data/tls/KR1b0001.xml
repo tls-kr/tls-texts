@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>尚書</title>
+            <title>今文尚書</title>
          </titleStmt>
          <editionStmt>
                 <edition>
@@ -13,12 +13,14 @@
             <extent>
                 <measure unit="char" quantity="28393"/>
                 <date when-iso="2023-05-10T10:22:29.135+09:00"/>
+                <measure unit="seg" quantity="6606"/>
+                <date when-iso="2023-07-06T21:30:03.441+09:00"/>
             </extent>
          <publicationStmt>
             <p>Published electronically</p>
          </publicationStmt>
          <sourceDesc>
-            <p>Generated from the TLS textfiles in Kanripo format on 2019<c n="-"/>03<c n="-"/>20</p>
+            <p>Generated from the TLS textfiles in Kanripo format on 2019-03-20</p>
          </sourceDesc>
       </fileDesc>
         <profileDesc>
@@ -28,6 +30,10 @@
                 <catRef scheme="#tls-dates" target="#dat05000"/>
                 <catRef scheme="#tls-internal" target="#swl"/>
                 <catRef scheme="#tls-internal" target="#tr-en"/>
+            <catRef scheme="#tls-internal" target="#tr-fr"/>
+                <catRef scheme="#tls-internal" target="#tr-la"/>
+                <catRef scheme="#tls-internal" target="#tr-ru"/>
+                <catRef scheme="#tls-internal" target="#tr-zh"/>
             </textClass>
         </profileDesc>
    </teiHeader>

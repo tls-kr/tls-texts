@@ -13,6 +13,8 @@
             <extent>
                 <measure unit="char" quantity="30837"/>
                 <date when-iso="2023-05-10T10:22:29.135+09:00"/>
+                <measure unit="seg" quantity="6138"/>
+                <date when-iso="2023-07-06T21:30:03.441+09:00"/>
             </extent>
          <publicationStmt>
             <p>Published electronically</p>
@@ -28,6 +30,9 @@
                 <catRef scheme="#tls-dates" target="#dat04100"/>
                 <catRef scheme="#tls-internal" target="#swl"/>
                 <catRef scheme="#tls-internal" target="#tr-en"/>
+                <catRef scheme="#tls-internal" target="#tr-fr"/>
+                <catRef scheme="#tls-internal" target="#tr-zh"/>
+                <catRef scheme="#tls-internal" target="#tr-ru"/>
             </textClass>
         </profileDesc>
    </teiHeader>
@@ -11419,10 +11424,8 @@
                     </seg>
                     <seg xml:id="KR5c0124_tls_007-9a.40">以俟於死<c n="。"/>
                     </seg>
-                    <seg xml:id="KR5c0124_tls_007-9a.41">將死<c n="，"/>則廢而任之<c n="，"/>
-                    </seg>
-                    <seg xml:id="KR5c0124_tls_007-9a.42">究其所之<c n="，"/>
-                    </seg>
+                    <seg xml:id="KR5c0124_tls_007-9a.41" resp="#CH" modified="2024-01-27T00:26:52.712+09:00">將死，</seg>
+                    <seg xml:id="KR5c0124_tls_007-9a.42" resp="#CH" modified="2024-01-27T00:27:01.886+09:00">則廢而任之，究其所之，</seg>
                     <seg xml:id="KR5c0124_tls_007-9a.43">以放於盡<c n="。"/>
                     </seg>
                     <seg xml:id="KR5c0124_tls_007-9a.44">无不廢<c n="，"/>
@@ -14044,9 +14047,7 @@
                     </seg>
                     <seg xml:id="KR5c0124_tls_008-24a.13">嚮者使汝狗白而往<c n="，"/>黑而來<c n="，"/>
                     </seg>
-                    <seg xml:id="KR5c0124_tls_008-25a.1">子豈能无怪哉<c n="？"/>
-                        <c n="」"/>
-                    </seg>
+                    <seg xml:id="KR5c0124_tls_008-25a.1" resp="#dsehnal" modified="2024-06-19T02:10:39.171+09:00">子豈能无怪哉？ 」</seg>
                 </p>
             <p>
                     <seg xml:id="KR5c0124_tls_008-25a.2">楊朱曰<c n="："/>
@@ -14375,10 +14376,8 @@
                     </seg>
                     <seg xml:id="KR5c0124_tls_008-34a.3">清旦被衣冠而之市<c n="，"/>
                     </seg>
-                    <seg xml:id="KR5c0124_tls_008-34a.4">適鬻金者因之所<c n="，"/>
-                    </seg>
-                    <seg xml:id="KR5c0124_tls_008-34a.5">攫其金而去<c n="。"/>
-                    </seg>
+                    <seg xml:id="KR5c0124_tls_008-34a.4" resp="#dsehnal" modified="2024-06-13T23:34:10.648+09:00">適鬻金者之所，</seg>
+                    <seg xml:id="KR5c0124_tls_008-34a.5" resp="#dsehnal" modified="2024-06-13T23:34:24.282+09:00">因攫其金而去。</seg>
                     <seg xml:id="KR5c0124_tls_008-34a.6">吏捕得之<c n="，"/>
                     </seg>
                     <seg xml:id="KR5c0124_tls_008-34a.7">問曰<c n="："/>

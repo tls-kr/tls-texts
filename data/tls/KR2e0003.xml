@@ -13,6 +13,8 @@
             <extent>
                 <measure unit="char" quantity="125828"/>
                 <date when-iso="2023-05-10T10:22:29.135+09:00"/>
+                <measure unit="seg" quantity="23722"/>
+                <date when-iso="2023-07-06T21:30:03.441+09:00"/>
             </extent>
          <publicationStmt>
             <p>Published electronically</p>
@@ -28,6 +30,8 @@
                 <catRef scheme="#tls-dates" target="#dat08110"/>
                 <catRef scheme="#tls-internal" target="#swl"/>
                 <catRef scheme="#tls-internal" target="#tr-en"/>
+                <catRef scheme="#tls-internal" target="#tr-zh"/>
+                <catRef scheme="#tls-internal" target="#tr-de"/>
             </textClass>
         </profileDesc>
    </teiHeader>
@@ -611,16 +615,12 @@
                     </seg>
                     <seg xml:id="KR2e0003_tls_007-1a.13">不信周<c n="，"/>
                     </seg>
-                    <seg xml:id="KR2e0003_tls_007-1a.14">是韓不伐也<c n="。"/>
-                        <c n="』"/>
-                        <c n="」"/>
-                    </seg>
+                    <seg xml:id="KR2e0003_tls_007-1a.14" resp="#schwermann" modified="2023-06-20T00:30:00.039+09:00">是韓不伐也。』</seg>
                 </p>
             <p>
                     <seg xml:id="KR2e0003_tls_007-1a.15">又謂秦王曰<c n="："/>
                     </seg>
-                    <seg xml:id="KR2e0003_tls_007-1a.16">
-                        <c n="「"/>
+                    <seg xml:id="KR2e0003_tls_007-1a.16" type="root">
                         <c n="『"/>韓強與周地<c n="，"/>
                     </seg>
                     <seg xml:id="KR2e0003_tls_007-1a.17">將以疑周於秦<c n="，"/>
@@ -12718,9 +12718,7 @@
                     </seg>
                     <seg xml:id="KR2e0003_tls_110-4a.30">人主豈得其用哉<c n="！"/>
                     </seg>
-                    <seg xml:id="KR2e0003_tls_110-4a.31">故明</seg>
-                    <seg xml:id="KR2e0003_tls_110-4a.32">主不取其汙<c n="，"/>
-                    </seg>
+                    <seg xml:id="KR2e0003_tls_110-4a.31" resp="#CH" modified="2023-12-08T00:35:41.571+09:00">故明主不取其汙，</seg>
                     <seg xml:id="KR2e0003_tls_110-4a.33">不聽其非<c n="，"/>
                     </seg>
                     <seg xml:id="KR2e0003_tls_110-4a.34">察其為己用<c n="。"/>

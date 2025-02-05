@@ -13,6 +13,8 @@
             <extent>
                 <measure unit="char" quantity="5941"/>
                 <date when-iso="2023-05-10T10:22:29.135+09:00"/>
+                <measure unit="seg" quantity="1328"/>
+                <date when-iso="2023-07-06T21:30:03.441+09:00"/>
             </extent>
          <publicationStmt>
             <p>Published electronically</p>
@@ -28,6 +30,10 @@
                 <catRef scheme="#tls-dates" target="#dat08120"/>
                 <catRef scheme="#tls-internal" target="#swl"/>
                 <catRef scheme="#tls-internal" target="#tr-en"/>
+                <catRef scheme="#tls-internal" target="#tr-fr"/>
+                <catRef scheme="#tls-internal" target="#tr-zh"/>
+                <catRef scheme="#tls-internal" target="#tr-de"/>
+                <catRef scheme="#tls-internal" target="#tr-ru"/>
             </textClass>
         </profileDesc>
         <encodingDesc>
@@ -54,10 +60,8 @@
                     </seg>
                     <seg xml:id="KR5c0057_tls_001-1a.6">非恒名<c n="。"/>
                     </seg>
-                    <seg xml:id="KR5c0057_tls_001-1a.7">無名<c n="、"/>天地之始<c n="，"/>
-                    </seg>
-                    <seg xml:id="KR5c0057_tls_001-1a.8">有名<c n="、"/>萬物之母<c n="，"/>
-                    </seg>
+                    <seg xml:id="KR5c0057_tls_001-1a.7" resp="#CH" modified="2023-08-10T00:55:40.863+09:00">無名，天地之始，</seg>
+                    <seg xml:id="KR5c0057_tls_001-1a.8" resp="#CH" modified="2023-08-10T00:55:47.379+09:00">有名，萬物之母，</seg>
                     <seg xml:id="KR5c0057_tls_001-1a.9">故恒無欲<c n="，"/>以觀其妙<c n="。"/>
                     </seg>
                     <seg xml:id="KR5c0057_tls_001-1a.10">恒有欲<c n="，"/>以觀其徼<c n="。"/>
@@ -458,7 +462,7 @@
                     <seg xml:id="KR5c0057_tls_012-1a.9">令人行妨<c n="。"/>
                     </seg>
                     <seg xml:id="KR5c0057_tls_012-1a.10">是以聖人</seg>
-                    <seg xml:id="KR5c0057_tls_012-1a.11">之治也<c n="，"/>為腹</seg>
+                    <seg xml:id="KR5c0057_tls_012-1a.11" resp="#CH" modified="2023-11-01T00:15:37.52+09:00">之治也為腹</seg>
                     <seg xml:id="KR5c0057_tls_012-1a.12">不為目<c n="。"/>
                     </seg>
                     <seg xml:id="KR5c0057_tls_012-1a.13">故去彼取此<c n="。"/>
@@ -529,8 +533,7 @@
                     </seg>
                     <seg xml:id="KR5c0057_tls_014-1a.8">名之曰微<c n="。"/>
                     </seg>
-                    <seg xml:id="KR5c0057_tls_014-1a.9">此三者<c n="、"/>不可致詰<c n="，"/>
-                    </seg>
+                    <seg xml:id="KR5c0057_tls_014-1a.9" resp="#CH" modified="2024-01-04T21:24:46.838+09:00">此三者不可致詰，</seg>
                     <seg xml:id="KR5c0057_tls_014-1a.10">故混而為一<c n="。"/>
                     </seg>
                 </p>
@@ -993,11 +996,8 @@
                     </seg>
                     <seg xml:id="KR5c0057_tls_024-1a.8">自矜者不長<c n="。"/>
                     </seg>
-                    <seg xml:id="KR5c0057_tls_024-1a.9">其在道也<c n="，"/>曰</seg>
-                    <seg xml:id="KR5c0057_tls_024-1a.10">
-                        <c n="「"/>餘食<c n="、"/>贅行<c n="」"/>
-                        <c n="。"/>
-                    </seg>
+                    <seg xml:id="KR5c0057_tls_024-1a.9" resp="#CH" modified="2023-11-01T02:38:40.627+09:00">其在道也，</seg>
+                    <seg xml:id="KR5c0057_tls_024-1a.10" resp="#CH" modified="2023-11-01T02:38:48.577+09:00">曰「餘食、贅行」 。</seg>
                     <seg xml:id="KR5c0057_tls_024-1a.11">物或惡之<c n="，"/>
                     </seg>
                     <seg xml:id="KR5c0057_tls_024-1a.12">故有道者弗處<c n="。"/>
@@ -1210,8 +1210,7 @@
                     </seg>
                     <seg xml:id="KR5c0057_tls_029-1a.4">吾見其弗得已<c n="。"/>
                     </seg>
-                    <seg xml:id="KR5c0057_tls_029-1a.5">天下<c n="、"/>神器<c n="，"/>
-                    </seg>
+                    <seg xml:id="KR5c0057_tls_029-1a.5" resp="#CH" modified="2023-11-01T04:50:57.1+09:00">天下神器，</seg>
                     <seg xml:id="KR5c0057_tls_029-1a.6">不可為也<c n="。"/>
                     </seg>
                     <seg xml:id="KR5c0057_tls_029-1a.7">為者敗之<c n="，"/>
@@ -1294,8 +1293,7 @@
                 </head>
             <p/>
             <p>
-                    <seg xml:id="KR5c0057_tls_031-1a.3">夫隹兵者<c n="、"/>不祥之器也<c n="，"/>
-                    </seg>
+                    <seg xml:id="KR5c0057_tls_031-1a.3" resp="#CH" modified="2023-11-01T05:24:50.323+09:00">夫隹兵者不祥之器也，</seg>
                     <seg xml:id="KR5c0057_tls_031-1a.4">物或惡之<c n="，"/>
                     </seg>
                     <seg xml:id="KR5c0057_tls_031-1a.5">故有道者弗處<c n="。"/>
@@ -1304,8 +1302,7 @@
                     </seg>
                     <seg xml:id="KR5c0057_tls_031-1a.7">用兵則貴右<c n="。"/>
                     </seg>
-                    <seg xml:id="KR5c0057_tls_031-1a.8">故兵者<c n="、"/>不祥之器也<c n="，"/>
-                    </seg>
+                    <seg xml:id="KR5c0057_tls_031-1a.8" resp="#CH" modified="2023-11-01T05:26:00.16+09:00">故兵者不祥之器也，</seg>
                     <seg xml:id="KR5c0057_tls_031-1a.9">非君子之器也<c n="，"/>
                     </seg>
                     <seg xml:id="KR5c0057_tls_031-1a.10">不得已而用之<c n="，"/>
@@ -1642,8 +1639,7 @@
                     </seg>
                     <seg xml:id="KR5c0057_tls_039-1a.9">侯王得一以為天下貞<c n="。"/>
                     </seg>
-                    <seg xml:id="KR5c0057_tls_039-1a.10">其致之也<c n="，"/>
-                    </seg>
+                    <seg xml:id="KR5c0057_tls_039-1a.10" resp="#CH" modified="2024-01-04T21:57:55.606+09:00">其致之（一）也，</seg>
                     <seg xml:id="KR5c0057_tls_039-1a.11">謂天無以清將恐裂<c n="，"/>
                     </seg>
                     <seg xml:id="KR5c0057_tls_039-1a.12">謂地無以寧將恐發<c n="，"/>
@@ -2007,10 +2003,10 @@
                     </seg>
                     <seg xml:id="KR5c0057_tls_049-1a.10">德信<c n="。"/>
                     </seg>
-                    <seg xml:id="KR5c0057_tls_049-1a.11">聖人之在</seg>
+                    <seg xml:id="KR5c0057_tls_049-1a.11" resp="#CH" modified="2023-08-02T22:59:36.352+09:00">聖人之在天下也，</seg>
                 </p>
             <p>
-                    <seg xml:id="KR5c0057_tls_049-1a.12">天下也<c n="，"/>歙歙焉</seg>
+                    <seg xml:id="KR5c0057_tls_049-1a.12" resp="#CH" modified="2023-08-02T22:59:26.794+09:00">歙歙焉</seg>
                     <seg xml:id="KR5c0057_tls_049-1a.13">為天下渾其心<c n="。"/>
                     </seg>
                     <seg xml:id="KR5c0057_tls_049-1a.14">百姓皆注其耳目焉<c n="，"/>

@@ -10,6 +10,7 @@
   <target>tls-texts</target>
   <prepare>pre-install.xql</prepare>
   <finish>post-install.xql</finish>
-  <permissions xmlns:repo="http://exist-db.org/xquery/repo" password="" user="tls" group="tls-user" mode="rwxrwxr--"/>
+  <permissions xmlns:repo="http://exist-db.org/xquery/repo" user="tls" group="tls-user" mode="rwxrwxr--"/>
 
+<deployed>2022-07-26T12:25:34.156+09:00</deployed>
 </meta>

@@ -13,6 +13,8 @@
             <extent>
                 <measure unit="char" quantity="75633"/>
                 <date when-iso="2023-05-10T10:22:29.135+09:00"/>
+                <measure unit="seg" quantity="14633"/>
+                <date when-iso="2023-07-06T21:30:03.441+09:00"/>
             </extent>
          <publicationStmt>
             <p>Published electronically</p>
@@ -28,6 +30,10 @@
                 <catRef scheme="#tls-dates" target="#dat08110"/>
                 <catRef scheme="#tls-internal" target="#swl"/>
                 <catRef scheme="#tls-internal" target="#tr-en"/>
+                <catRef scheme="#tls-internal" target="#tr-ru"/>
+                <catRef scheme="#tls-internal" target="#tr-fr"/>
+                <catRef scheme="#tls-internal" target="#tr-de"/>
+                <catRef scheme="#tls-internal" target="#tr-zh"/>
             </textClass>
         </profileDesc>
    </teiHeader>
@@ -18691,11 +18697,8 @@
                     </seg>
                     <seg xml:id="KR3a0002_tls_018-2a.119">可以有竊國<c n="，"/>
                     </seg>
-                    <seg xml:id="KR3a0002_tls_018-2a.120">不可以有竊天下也<c n="。"/>
-                        <c n="（"/>
-                    </seg>
-                    <seg xml:id="KR3a0002_tls_018-2a.121">可以<c n="）"/>奪之者可以有國<c n="，"/>
-                    </seg>
+                    <seg xml:id="KR3a0002_tls_018-2a.120" resp="#CH" modified="2023-08-05T17:12:32.311+09:00">不可以有竊天下也。</seg>
+                    <seg xml:id="KR3a0002_tls_018-2a.121" resp="#CH" modified="2023-08-05T17:12:38.737+09:00">（可以）奪之者可以有國，</seg>
                     <seg xml:id="KR3a0002_tls_018-2a.122">而不可以有天下<c n="；"/>
                     </seg>
                     <seg xml:id="KR3a0002_tls_018-2a.123">竊可以得國<c n="，"/>
@@ -29607,11 +29610,8 @@
                 </p>
             <p>
                     <seg xml:id="KR3a0002_tls_027-102a.1"/>
-                    <seg xml:id="KR3a0002_tls_027-102a.2">凡物有乘而來<c n="，"/>
-                        <c n="（"/>
-                    </seg>
-                    <seg xml:id="KR3a0002_tls_027-102a.3">乘<c n="）"/>其出者<c n="，"/>
-                    </seg>
+                    <seg xml:id="KR3a0002_tls_027-102a.2" resp="#CH" modified="2024-04-04T22:35:09.022+09:00">凡物有乘而來，</seg>
+                    <seg xml:id="KR3a0002_tls_027-102a.3" resp="#CH" modified="2024-04-04T22:35:49.094+09:00">（乘）其出者，</seg>
                     <seg xml:id="KR3a0002_tls_027-102a.4">是其反者也<c n="。"/>
                     </seg>
                 </p>

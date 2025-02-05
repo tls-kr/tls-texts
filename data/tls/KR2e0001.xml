@@ -13,6 +13,8 @@
             <extent>
                 <measure unit="char" quantity="72476"/>
                 <date when-iso="2023-05-10T10:22:29.135+09:00"/>
+                <measure unit="seg" quantity="16005"/>
+                <date when-iso="2023-07-06T21:30:03.441+09:00"/>
             </extent>
          <publicationStmt>
             <p>Published electronically</p>
@@ -28,6 +30,9 @@
                 <catRef scheme="#tls-dates" target="#dat08110"/>
                 <catRef scheme="#tls-internal" target="#swl"/>
                 <catRef scheme="#tls-internal" target="#tr-en"/>
+                <catRef scheme="#tls-internal" target="#tr-ru"/>
+                <catRef scheme="#tls-internal" target="#tr-zh"/>
+                <catRef scheme="#tls-internal" target="#tr-fr"/>
             </textClass>
         </profileDesc>
    </teiHeader>
@@ -10079,12 +10084,8 @@
                     </seg>
                     <seg xml:id="KR2e0001_tls_002-93a.14">而議其老幼<c n="。"/>
                     </seg>
-                    <seg xml:id="KR2e0001_tls_002-93a.15">於是乎有鰥<c n="、"/>
-                    </seg>
-                    <seg xml:id="KR2e0001_tls_002-93a.16">寡<c n="、"/>孤<c n="、"/>
-                    </seg>
-                    <seg xml:id="KR2e0001_tls_002-93a.17">疾<c n="，"/>有軍旅之出<c n="，"/>
-                    </seg>
+                    <seg xml:id="KR2e0001_tls_002-93a.15" resp="#CH" modified="2024-01-30T18:11:00.339+09:00">於是乎有鰥、寡、孤、疾，</seg>
+                    <seg xml:id="KR2e0001_tls_002-93a.17" resp="#CH" modified="2024-01-30T18:08:38.177+09:00">有軍旅之出，</seg>
                     <seg xml:id="KR2e0001_tls_002-93a.18">則徵之<c n="，"/>
                     </seg>
                     <seg xml:id="KR2e0001_tls_002-93a.19">無則已<c n="。"/>
