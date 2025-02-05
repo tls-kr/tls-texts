@@ -1,0 +1,4271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KR3ed101">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>醫略抄</title>
+        <author>日本· 丹波元簡</author>
+      </titleStmt>
+      <extent>
+        <measure unit="char" quantity="7784"/>
+        <date when-iso="2024-02-21T13:40:49.864+09:00"/>
+      </extent>
+      <publicationStmt>
+        <p>Originally published at <ref target="https://jicheng.tw/tcm/book/index.html">中醫笈成:醫略抄</ref>. Checkout from https://gitlab.com/jicheng/jc.data, commit aab40201, 2022-12-28.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>出自《皇漢醫學叢書》第十二冊，1936年上海世界書局刊行（<ref target="https://taiwanebook.ncl.edu.tw/zh-tw/book/NTL-9900015280">國家圖書館掃描本</ref>）</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>清</date>
+      </creation>
+      <textClass>
+        <catRef scheme="#kr-categories" target="#KR3ed"/>
+        <catRef scheme="#tls-dates" target="#dat04210"/>
+      </textClass>
+    </profileDesc>
+    <encodingDesc>
+      <p>Quality: </p>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+
+<div n="h1" xml:id="KR3ed101_jc_000-d2">
+        <head n="h1" xml:id="KR3ed101_jc_000-d2h1">
+          <seg xml:id="KR3ed101_jc_000-d2.h1s1">序</seg>
+        </head>
+        <p xml:id="KR3ed101_jc_000-d2p2">
+          <seg xml:id="KR3ed101_jc_000-d2.p2s1">古經方如葛仙翁<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d2.p2s2">孫真人諸名醫之所撰也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d2.p2s3">而以本草仲景書律之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d2.p2s4">則似有不合繩墨者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d2.p2s5">時以方士禁咒之術涉迂怪者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d2.p2s6">雜出其間<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d2.p2s7">又有僻藥而不易辦者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d2.p2s8">或有凡品而不堪服者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d2.p2s9">是以可用於今者若甚鮮矣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d2.p2s10">豈立方之指深奧幽微<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d2.p2s11">非淺庸所能測耶<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d2.p2s12">抑時世之變<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d2.p2s13">方域之殊<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d2.p2s14">情性之差使然邪<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d2.p2s15">然臨病對證而施之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d2.p2s16">則效應如神<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d2.p2s17">其出於意慮之表者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d2.p2s18">不暇枚舉<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d2.p2s19">乃與後世諸家<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d2.p2s20">執泥引經報使之說<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d2.p2s21">而所制迥別<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d2.p2s22">是古經方所以不可廢於今也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d2.p2s23">醫略抄者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d2.p2s24">我家主稅公<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d2.p2s25">摘錄單行徑易之方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d2.p2s26">以備卒病暴疢之檢用<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d2.p2s27">分門五十集<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d2.p2s28">方二百四十有二<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d2.p2s29">所援引晉唐經方凡三十四家<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d2.p2s30">雖卷頁無多<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d2.p2s31">輯搜極廣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d2.p2s32">間有千金外臺所未載<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d2.p2s33">後世方書所罕睹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d2.p2s34">其可盡用於今與否<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d2.p2s35">姑置而弗論也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d2.p2s36">本朝經方舊籍之存者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d2.p2s37">僅僅不過數家<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d2.p2s38">寧容不珍而寶諸<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d2.p2s39">茲歲春簡偶得是書喜劇<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d2.p2s40">唯輾轉謄錄<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d2.p2s41">訛舛頗多<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d2.p2s42">因不揣譾陋<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d2.p2s43">略為之校訂<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d2.p2s44">亟鋟諸梓<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d2.p2s45">用廣傳布<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d2.p2s46">央載公在承歷寬治之間<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d2.p2s47">名聲大振<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d2.p2s48">而有日本扁鵲之稱<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d2.p2s49">則其術之神可想也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d2.p2s50">則斯書所收<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d2.p2s51">必是親驗屢效者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d2.p2s52">奇方靈劑<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d2.p2s53">蓋亦不鮮也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d2.p2s54">簡將與同仁試焉<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d2.p2s55">寬政七年五月望日丹波元簡謹書<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ed101_jc_000-d3">
+        <head n="h1" xml:id="KR3ed101_jc_000-d3h1">
+          <seg xml:id="KR3ed101_jc_000-d3.h1s1">國史丹波雅忠傳</seg>
+        </head>
+        <p xml:id="KR3ed101_jc_000-d3p2">
+          <seg xml:id="KR3ed101_jc_000-d3.p2s1">丹波雅忠阿智使主裔也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d3.p2s2">世居丹波<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d3.p2s3">曾祖康賴賜姓丹波<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d3.p2s4">宿稱以醫術著任右衛門佐兼針醫博士<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d3.p2s5">永觀中著醫心方三十卷<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d3.p2s6">上之祖重雅</seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d3.p2s7">
+            <c n="（"/>雅一作明<c n="。"/>
+            <c n="）"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d3.p2s8">為典藥頭侍醫<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d3.p2s9">兼丹波權守<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d3.p2s10">父忠明亦為典藥頭侍醫<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d3.p2s11">兼丹波介敕<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d3.p2s12">改姓宿稱賜朝臣</seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d3.p2s13">
+            <c n="（"/>系圖<c n="。"/>
+            <c n="）"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d3.p2s14">雅忠<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d3.p2s15">繼父祖業<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d3.p2s16">蚤有聲譽<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d3.p2s17">為醫學得業<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d3.p2s18">生長元七年奉課試<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d3.p2s19">
+            <c n="（"/>左經記<c n="。"/>
+            <c n="）"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d3.p2s20">既而為典樂頭補右衛門佐<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d3.p2s21">
+            <c n="（"/>系圖<c n="。"/>
+            <c n="）"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d3.p2s22">永承中兼丹波介秩<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d3.p2s23">滿還京師<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d3.p2s24">時帝違豫<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d3.p2s25">雅忠進藥有效<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d3.p2s26">褒授從四位下<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d3.p2s27">
+            <c n="（"/>扶桑略記百鍊抄<c n="。"/>
+            <c n="）"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d3.p2s28">任施藥院使<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d3.p2s29">被聽禁色雜袍升殿上<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d3.p2s30">又轉主稅頭<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d3.p2s31">
+            <c n="（"/>系圖<c n="。"/>
+            <c n="）"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d3.p2s32">再為丹波介遷權守<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d3.p2s33">
+            <c n="（"/>除目大成抄<c n="。"/>
+            <c n="）"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d3.p2s34">承歷中高麗王妃疾<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d3.p2s35">王附商舶牒太宰府<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d3.p2s36">以厚幣求雅忠<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d3.p2s37">朝廷不許<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d3.p2s38">令太宰府報牒<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d3.p2s39">有扁鵲何入雞林之云語<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d3.p2s40">
+            <c n="（"/>續文粹朝野群載十訓抄<c n="。"/>
+            <c n="）"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d3.p2s41">自是世稱雅忠為日本扁鵲<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d3.p2s42">寬治二年卒<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d3.p2s43">年六十八<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d3.p2s44">
+            <c n="（"/>歷代皇紀系圖<c n="。"/>
+            <c n="）"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d3.p2s45">初後朱雀帝患瘡<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d3.p2s46">與藥頭和氣相成診曰<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d3.p2s47">膿水止而愈<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d3.p2s48">雅忠時尚弱冠<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d3.p2s49">退謂人曰<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d3.p2s50">恐不可為<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d3.p2s51">果崩<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d3.p2s52">雅忠嘗夢有童子告曰<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d3.p2s53">汝曾祖康賴<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d3.p2s54">懇誠禱我<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d3.p2s55">我為護方書久矣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d3.p2s56">今將有災厄<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d3.p2s57">汝戒之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d3.p2s58">雅忠驚寤而為之備<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d3.p2s59">未幾有火災<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d3.p2s60">方書遂免焚<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d3.p2s61">
+            <c n="（"/>續古事談<c n="。"/>
+            <c n="）"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d3.p2s62">子忠康重康<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d3.p2s63">忠康亦為與藥頭<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d3.p2s64">兼穀倉院別當<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d3.p2s65">重康圖書頭<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d3.p2s66">施藥院使為侍醫<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d3.p2s67">子孫世以醫而仕<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d3.p2s68">
+            <c n="（"/>系圖<c n="。"/>
+            <c n="）"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ed101_jc_000-d4">
+        <head n="h1" xml:id="KR3ed101_jc_000-d4h1">
+          <seg xml:id="KR3ed101_jc_000-d4.h1s1">醫略抄</seg>
+        </head>
+        <p xml:id="KR3ed101_jc_000-d4p2">
+          <seg xml:id="KR3ed101_jc_000-d4.p2s1">夫病源之候<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d4.p2s2">其流不一<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d4.p2s3">療治之方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d4.p2s4">其趣旁⿹勹丿<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d4.p2s5">
+            <c n="（"/>簡案此字偏旁蠹殘難辨<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d4.p2s6">不敢妄補填<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d4.p2s7">姑仍其舊<c n="。"/>
+            <c n="）"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d4.p2s8">諸家傳論<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d4.p2s9">先賢撰集漢家<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d4.p2s10">本朝斯匯蓋多<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d4.p2s11">或卷軸既繁<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d4.p2s12">有煩披閱<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d4.p2s13">或部帙相混<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d4.p2s14">難支危急<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d4.p2s15">仍為遣卒爾之疾類<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d4.p2s16">聊抽諸方之簡要<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d4.p2s17">不敢顧時俗之嘲<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d4.p2s18">只為省暗質之惑也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d4.p2s19">於時永保辛酉之年<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d4.p2s20">三月七日<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d4.p2s21">侍醫丹波雅忠撰之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d4p4">
+          <seg xml:id="KR3ed101_jc_000-d4.p4s1">陶貞白序<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d4.p4s2">補闕肘後云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d4.p4s3">方中用烏獸屎作矢字<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d4.p4s4">尿作溺時<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d4.p4s5">乾作干時<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d4.p4s6">今斯書不止是耳<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d4.p4s7">疹作𤵜<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d4.p4s8">癰作癕<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d4.p4s9">肉作宍<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d4.p4s10">亦作彑之類尤多<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d4.p4s11">蓋當時通用文字<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d4.p4s12">間有顏元孫干祿書等傍訓國字亦有與今異者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d4.p4s13">讀者毋以為僻繆也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d4.p4s14">
+            <c n="("/>元簡<c n=")"/>識<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ed101_jc_000-d5">
+        <head n="h1" xml:id="KR3ed101_jc_000-d5h1">
+          <seg xml:id="KR3ed101_jc_000-d5.h1s1">一、癰疽方</seg>
+        </head>
+        <p xml:id="KR3ed101_jc_000-d5p2">
+          <seg xml:id="KR3ed101_jc_000-d5.p2s1">病源論云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d5.p2s2">癰者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d5.p2s3">六府不和所生也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d5.p2s4">疽者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d5.p2s5">五藏不調所生也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d5.p2s6">凡腫一寸至二寸癤也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d5.p2s7">二寸至五寸癰也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d5.p2s8">五寸至一尺癰疽也<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d5p4">
+          <seg xml:id="KR3ed101_jc_000-d5.p4s1">又云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d5.p4s2">腫高者疹源淺<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d5.p4s3">腫下者疹源深<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d5.p4s4">大熱者治<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d5.p4s5">
+            <c n="（"/>簡案病源作易治<c n="。"/>
+            <c n="）"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d5.p4s6">小熱者難治<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d5p6">
+          <seg xml:id="KR3ed101_jc_000-d5.p6s1">崔禹云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d5.p6s2">五月勿食未成核果<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d5.p6s3">及桃李棗<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d5.p6s4">發癰癤<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d5p8">
+          <seg xml:id="KR3ed101_jc_000-d5.p8s1">千金方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d5.p8s2">恆冷水射之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d5.p8s3">漬冷石熨之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d5.p8s4">日夜忽<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d5.p8s5">
+            <c n="（"/>簡案忽<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d5.p8s6">據外臺當作勿止二字<c n="。"/>
+            <c n="）"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d5.p8s7">待差住手<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d5p10">
+          <seg xml:id="KR3ed101_jc_000-d5.p10s1">又云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d5.p10s2">此病忌面酒肉五辛等<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d5p12">
+          <seg xml:id="KR3ed101_jc_000-d5.p12s1">葛氏方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d5.p12s2">但炙其上百壯<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d5p14">
+          <seg xml:id="KR3ed101_jc_000-d5.p14s1">本草拾遺云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d5.p14s2">水蛭<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d5.p14s3">人患癰疽毒腫<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d5.p14s4">取十餘枚令𫫠<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d5.p14s5">
+            <c n="（"/>簡案𫫠<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d5.p14s6">證類本草作啖<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d5.p14s7">注云<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d5.p14s8">一作𫫠<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d5.p14s9">𫫠字書無所考<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d5.p14s10">唯龍龕手鑑所六切<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d5.p14s11">有音而無義<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d5.p14s12">竊疑舀宿字體近似<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d5.p14s13">故啖訛為𫫠耳<c n="。"/>
+            <c n="）"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d5.p14s14">病處無不差者<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d5.p14s15">
+            <c n="（"/>
+            <c n="「"/>原注<c n="」"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d5.p14s16">今案經心方云<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d5.p14s17">以水蛭食去惡血<c n="。"/>
+            <c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d5p16">
+          <seg xml:id="KR3ed101_jc_000-d5.p16s1">劉涓子方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d5.p16s2">破甘蕉根薄之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d5p18">
+          <seg xml:id="KR3ed101_jc_000-d5.p18s1">徐伯方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d5.p18s2">搗苦苣薄上<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d5.p18s3">又食良<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ed101_jc_000-d6">
+        <head n="h1" xml:id="KR3ed101_jc_000-d6h1">
+          <seg xml:id="KR3ed101_jc_000-d6.h1s1">二、丁創方</seg>
+        </head>
+        <p xml:id="KR3ed101_jc_000-d6p2">
+          <seg xml:id="KR3ed101_jc_000-d6.p2s1">病源論云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d6.p2s2">丁創者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d6.p2s3">風邪毒氣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d6.p2s4">持於肌肉所生也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d6.p2s5">初如風𤺋<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d6.p2s6">搔破青黃汗出<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d6.p2s7">里有赤黑脈如魚眼<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d6.p2s8">赤黑久結<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d6.p2s9">皆變成創<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d6.p2s10">創下有深孔<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d6.p2s11">如大針穿之狀<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d6.p2s12">手足頭面骨節間者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d6.p2s13">其毒入腹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d6.p2s14">則煩悶不住<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d6.p2s15">或如醉<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d6.p2s16">如此者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d6.p2s17">二三日便死也<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d6p4">
+          <seg xml:id="KR3ed101_jc_000-d6.p4s1">此創有十三種<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d6.p4s2">其色白黑紅也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d6.p4s3">口有大小<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d6.p4s4">腫非一樣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d6.p4s5">四支沉重<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d6.p4s6">頭痛嘔逆<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d6.p4s7">逆者難治<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d6p6">
+          <seg xml:id="KR3ed101_jc_000-d6.p6s1">千金方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d6.p6s2">此病者忌豬魚韭葵酒酢面葵等<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d6.p6s3">又見豹即死<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d6.p6s4">大忌之<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d6.p6s5">
+            <c n="（"/>
+            <c n="「"/>原注<c n="」"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d6.p6s6">今古錄驗方云<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d6.p6s7">七日不得食□□酒肉五辛生冷酢滑者<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d6.p6s8">不得帶赤者有毒<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d6.p6s9">唯用白色者<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d6.p6s10">○簡案見豹即死<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d6.p6s11">千金無所考<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d6.p6s12">唯有忌見□勃見之即死之戒<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d6.p6s13">外臺引錄驗方云<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d6.p6s14">此皮不赤有毒沌白者上<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d6.p6s15">此注不得□當□□□二字義始通<c n="。"/>
+            <c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d6p8">
+          <seg xml:id="KR3ed101_jc_000-d6.p8s1">錄驗方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d6.p8s2">五香方<c n="。"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d6.p8s3">青木<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d6.p8s4">沉香<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d6.p8s5">丁子<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d6.p8s6">藿香</seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d6.p8s7">
+            <c n="（"/>各一兩<c n="）"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d6.p8s8">水三升<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d6.p8s9">煮取一升半<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d6.p8s10">分三服<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d6.p8s11">得麝香二分<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d6.p8s12">去藿香<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d6.p8s13">
+            <c n="（"/>
+            <c n="「"/>原注<c n="」"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d6.p8s14">□□方同之<c n="。"/>
+            <c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d6p10">
+          <seg xml:id="KR3ed101_jc_000-d6.p10s1">極要方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d6.p10s2">搗茺蔚葉薄腫上<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d6.p10s3">服汁令丁毒內消<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d6p12">
+          <seg xml:id="KR3ed101_jc_000-d6.p12s1">百濟新集方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d6.p12s2">取菊葉合莖搗絞取汁三升<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d6.p12s3">頓服之<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ed101_jc_000-d7">
+        <head n="h1" xml:id="KR3ed101_jc_000-d7h1">
+          <seg xml:id="KR3ed101_jc_000-d7.h1s1">三、中風口噤方</seg>
+        </head>
+        <p xml:id="KR3ed101_jc_000-d7p2">
+          <seg xml:id="KR3ed101_jc_000-d7.p2s1">病源論云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d7.p2s2">諸陽經筋<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d7.p2s3">皆在於頭<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d7.p2s4">三陽之筋<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d7.p2s5">並結入於䫲頰<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d7.p2s6">夾於口<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d7.p2s7">諸陽為風寒所客<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d7.p2s8">則筋急<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d7.p2s9">故口噤不開也<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d7p4">
+          <seg xml:id="KR3ed101_jc_000-d7.p4s1">葛氏方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d7.p4s2">取大豆五升<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d7.p4s3">熬令黃黑<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d7.p4s4">以五升酒漬取汁<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d7.p4s5">以口灌之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d7p6">
+          <seg xml:id="KR3ed101_jc_000-d7.p6s1">千金方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d7.p6s2">術四兩<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d7.p6s3">酒三升<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d7.p6s4">煮取一升<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d7.p6s5">頓服之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d7p8">
+          <seg xml:id="KR3ed101_jc_000-d7.p8s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d7.p8s2">服淡竹瀝一升<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d7p10">
+          <seg xml:id="KR3ed101_jc_000-d7.p10s1">新錄方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d7.p10s2">灸承漿穴<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d7.p10s3">在頤前下唇之下<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d7p12">
+          <seg xml:id="KR3ed101_jc_000-d7.p12s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d7.p12s2">灸頤尖十壯<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ed101_jc_000-d8">
+        <head n="h1" xml:id="KR3ed101_jc_000-d8h1">
+          <seg xml:id="KR3ed101_jc_000-d8.h1s1">四、中風口喎方</seg>
+        </head>
+        <p xml:id="KR3ed101_jc_000-d8p2">
+          <seg xml:id="KR3ed101_jc_000-d8.p2s1">病源論云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d8.p2s2">風邪入於足陽明<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d8.p2s3">手太陽之經過<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d8.p2s4">
+            <c n="（"/>簡案病源作遇是<c n="。"/>
+            <c n="）"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d8.p2s5">寒則筋急引頰<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d8.p2s6">故使口喎闢<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d8.p2s7">言語不正<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d8p4">
+          <seg xml:id="KR3ed101_jc_000-d8.p4s1">千金方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d8.p4s2">炒大豆三升<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d8.p4s3">令焦<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d8.p4s4">酒三升淋取汁<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d8.p4s5">頓服之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d8.p4s6">日一<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d8p6">
+          <seg xml:id="KR3ed101_jc_000-d8.p6s1">集驗方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d8.p6s2">取空青如棗者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d8.p6s3">著口中令咽之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d8.p6s4">即愈<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d8.p6s5">
+            <c n="（"/>
+            <c n="「"/>原注<c n="」"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d8.p6s6">千金方<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d8.p6s7">如豆一枚<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d8.p6s8">含之<c n="。"/>
+            <c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d8p8">
+          <seg xml:id="KR3ed101_jc_000-d8.p8s1">範汪方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d8.p8s2">豉五升<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d8.p8s3">茱萸一升<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d8.p8s4">合煮三沸<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d8.p8s5">去滓<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d8.p8s6">飲汁神驗<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d8p10">
+          <seg xml:id="KR3ed101_jc_000-d8.p10s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d8.p10s2">兩手又於頭上隨僻左右<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d8.p10s3">灸肘頭三四壯<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ed101_jc_000-d9">
+        <head n="h1" xml:id="KR3ed101_jc_000-d9h1">
+          <seg xml:id="KR3ed101_jc_000-d9.h1s1">五、中風舌強方</seg>
+        </head>
+        <p xml:id="KR3ed101_jc_000-d9p2">
+          <seg xml:id="KR3ed101_jc_000-d9.p2s1">病源論云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d9.p2s2">脾脈絡胃夾咽連舌本<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d9.p2s3">散舌下<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d9.p2s4">心之別脈<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d9.p2s5">系舌本<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d9.p2s6">今心脾兩藏受風邪<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d9.p2s7">故舌強不得語也<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d9p4">
+          <seg xml:id="KR3ed101_jc_000-d9.p4s1">範汪方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d9.p4s2">豉煮汁漸服<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d9.p4s3">一日可數十過不頓多<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d9p6">
+          <seg xml:id="KR3ed101_jc_000-d9.p6s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d9.p6s2">新好桂削去皮<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d9.p6s3">搗下篩<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d9.p6s4">以三指撮著舌下咽之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d9p8">
+          <seg xml:id="KR3ed101_jc_000-d9.p8s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d9.p8s2">灸廉泉穴<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d9.p8s3">在頰下結咽<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d9.p8s4">上舌本<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d9p10">
+          <seg xml:id="KR3ed101_jc_000-d9.p10s1">葛氏方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d9.p10s2">灸第二第三椎上<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d9.p10s3">百五十壯<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ed101_jc_000-d10">
+        <head n="h1" xml:id="KR3ed101_jc_000-d10h1">
+          <seg xml:id="KR3ed101_jc_000-d10.h1s1">六、中風卒失音方</seg>
+        </head>
+        <p xml:id="KR3ed101_jc_000-d10p2">
+          <seg xml:id="KR3ed101_jc_000-d10.p2s1">病源論云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d10.p2s2">喉嚨者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d10.p2s3">氣之所以上下也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d10.p2s4">喉</seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d10.p2s5">
+            <c n="（"/>簡案今本病源作會<c n="。"/>
+            <c n="）"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d10.p2s6">厭者聲之門戶也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d10.p2s7">舌者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d10.p2s8">聲之機<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d10.p2s9">口者聲之扉也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d10.p2s10">風寒客於喉厭之間<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d10.p2s11">故卒然無音<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d10.p2s12">故謂風</seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d10.p2s13">
+            <c n="（"/>簡案原本作盛<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d10.p2s14">今據病源校改<c n="。"/>
+            <c n="）"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d10.p2s15">失音不語<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d10.p2s16">範汪方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d10.p2s17">大豆一升<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d10.p2s18">熬令焦<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d10.p2s19">好酒二升<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d10.p2s20">合煮令沸<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d10.p2s21">隨人多少服<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d10.p2s22">取令醉<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d10.p2s23">
+            <c n="（"/>
+            <c n="「"/>原注<c n="」"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d10.p2s24">謂之大豆紫湯<c n="。"/>
+            <c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d10p4">
+          <seg xml:id="KR3ed101_jc_000-d10.p4s1">千金方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d10.p4s2">濃煮大豆汁含之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d10.p4s3">豉彑良<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d10p6">
+          <seg xml:id="KR3ed101_jc_000-d10.p6s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d10.p6s2">灸天窗<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d10.p6s3">百會穴<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d10.p6s4">
+            <c n="（"/>
+            <c n="「"/>原注<c n="」"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d10.p6s5">新錄方同之<c n="。"/>
+            <c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d10p8">
+          <seg xml:id="KR3ed101_jc_000-d10.p8s1">孟詵食經云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d10.p8s2">杏仁三分<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d10.p8s3">去皮熬<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d10.p8s4">別搗作脂<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d10.p8s5">桂心末一分<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d10.p8s6">和如泥<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d10.p8s7">取李核許<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d10.p8s8">棉裹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d10.p8s9">少咽之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d10.p8s10">五夜一<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d10.p8s11">
+            <c n="（"/>簡案證類本草引孟詵作綿裹含<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d10.p8s12">細細嚥之<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d10.p8s13">日五夜三<c n="。"/>
+            <c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d10p10">
+          <seg xml:id="KR3ed101_jc_000-d10.p10s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d10.p10s2">搗梨汁一合<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d10.p10s3">頓服之<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ed101_jc_000-d11">
+        <head n="h1" xml:id="KR3ed101_jc_000-d11h1">
+          <seg xml:id="KR3ed101_jc_000-d11.h1s1">七、中風言語錯亂方</seg>
+        </head>
+        <p xml:id="KR3ed101_jc_000-d11p2">
+          <seg xml:id="KR3ed101_jc_000-d11.p2s1">病源論云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d11.p2s2">風邪者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d11.p2s3">謂風氣傷於人也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d11.p2s4">以身內氣血為正<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d11.p2s5">外風氣為邪<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d11.p2s6">內損<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d11.p2s7">
+            <c n="（"/>簡案今本病源作府藏內損<c n="。"/>
+            <c n="）"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d11.p2s8">血氣外虛<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d11.p2s9">則為風邪所傷也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d11.p2s10">故病有五邪<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d11.p2s11">一曰中風<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d11.p2s12">二曰傷暑<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d11.p2s13">三曰飲食勞倦<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d11.p2s14">四曰中寒<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d11.p2s15">五曰中濕<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d11.p2s16">其為病不同中邪者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d11.p2s17">發時則不自覺知<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d11.p2s18">狂惑妄言<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d11.p2s19">悲喜無憂<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d11.p2s20">是也<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d11p4">
+          <seg xml:id="KR3ed101_jc_000-d11.p4s1">僧深方云<c n="。"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d11.p4s2">人參<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d11.p4s3">茯苓<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d11.p4s4">茯神<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d11.p4s5">白朮<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d11.p4s6">菖蒲</seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d11.p4s7">
+            <c n="（"/>各三兩<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d11p6">
+          <seg xml:id="KR3ed101_jc_000-d11.p6s1">凡五物<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d11.p6s2">水一斗煮取二升半<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d11.p6s3">去滓<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d11.p6s4">先食服八合<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d11.p6s5">日三<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d11.p6s6">
+            <c n="（"/>簡案外臺引範汪名五邪湯即是<c n="。"/>
+            <c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d11p8">
+          <seg xml:id="KR3ed101_jc_000-d11.p8s1">範汪方云<c n="。"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d11.p8s2">茯神<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d11.p8s3">菖蒲</seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d11.p8s4">
+            <c n="（"/>各三兩<c n="）"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d11.p8s5">赤小豆</seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d11.p8s6">
+            <c n="（"/>三十枚<c n="）"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d11.p8s7">人參<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d11.p8s8">茯苓</seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d11.p8s9">
+            <c n="（"/>各三兩<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d11p10">
+          <seg xml:id="KR3ed101_jc_000-d11.p10s1">凡五物<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d11.p10s2">水一斗煮取二升半<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d11.p10s3">分三服<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d11.p10s4">
+            <c n="（"/>簡案外臺引錄驗名茯神湯即是<c n="。"/>
+            <c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d11p12">
+          <seg xml:id="KR3ed101_jc_000-d11.p12s1">經心方云<c n="。"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d11.p12s2">烏頭</seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d11.p12s3">
+            <c n="（"/>一分炮<c n="）"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d11.p12s4">恆山<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d11.p12s5">甘草<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d11.p12s6">蔥利</seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d11.p12s7">
+            <c n="（"/>簡案未詳何物<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d11.p12s8">本草梨蘆一名蔥苒<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d11.p12s9">大上膈風涎<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d11.p12s10">竊疑利是𫇶之訛<c n="。"/>
+            <c n="）"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d11.p12s11">桃花</seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d11.p12s12">
+            <c n="（"/>各一分<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d11p14">
+          <seg xml:id="KR3ed101_jc_000-d11.p14s1">五味好酒四升<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d11.p14s2">煎取一升<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d11.p14s3">頓服大吐<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ed101_jc_000-d12">
+        <head n="h1" xml:id="KR3ed101_jc_000-d12h1">
+          <seg xml:id="KR3ed101_jc_000-d12.h1s1">八、目入芒草沙石不出方</seg>
+        </head>
+        <p xml:id="KR3ed101_jc_000-d12p2">
+          <seg xml:id="KR3ed101_jc_000-d12.p2s1">葛氏方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d12.p2s2">磨好書墨<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d12.p2s3">以新筆染注瞳子上<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d12p4">
+          <seg xml:id="KR3ed101_jc_000-d12.p4s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d12.p4s2">鹽豉各少少著水中<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d12.p4s3">臨視之即出<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d12p6">
+          <seg xml:id="KR3ed101_jc_000-d12.p6s1">廣濟方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d12.p6s2">取少許甑帶燒作灰<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d12.p6s3">水服方寸匕<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d12.p6s4">立出<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d12.p6s5">治眼方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d12.p6s6">吞蠶矢一枚<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d12p8">
+          <seg xml:id="KR3ed101_jc_000-d12.p8s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d12.p8s2">灸足中指節上<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d12.p8s3">隨目左右<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d12.p8s4">
+            <c n="（"/>
+            <c n="「"/>原注<c n="」"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d12.p8s5">千金方同之<c n="。"/>
+            <c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d12p10">
+          <seg xml:id="KR3ed101_jc_000-d12.p10s1">範汪方云<c n="。"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d12.p10s2">瞿麥<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d12.p10s3">乾薑</seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d12p12">
+          <seg xml:id="KR3ed101_jc_000-d12.p12s1">凡二物<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d12.p12s2">分等為散<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d12.p12s3">以井花水服一刀圭<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d12.p12s4">日三<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ed101_jc_000-d13">
+        <head n="h1" xml:id="KR3ed101_jc_000-d13h1">
+          <seg xml:id="KR3ed101_jc_000-d13.h1s1">九、治卒鼻衄方</seg>
+        </head>
+        <p xml:id="KR3ed101_jc_000-d13p2">
+          <seg xml:id="KR3ed101_jc_000-d13.p2s1">病源論云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d13.p2s2">肺開竅於鼻<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d13.p2s3">熱乘於肺<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d13.p2s4">則氣熱也<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d13.p2s5">
+            <c n="（"/>簡案病源作熱乘於血<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d13.p2s6">則氣亦熱也<c n="。"/>
+            <c n="）"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d13.p2s7">氣血俱熱<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d13.p2s8">血隨氣發出於鼻為衄<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d13p4">
+          <seg xml:id="KR3ed101_jc_000-d13.p4s1">醫門方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d13.p4s2">上實下虛<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d13.p4s3">其人必衄<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d13.p4s4">衄發從春至夏為太陽衄<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d13.p4s5">從秋至冬為陽明衄<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d13p6">
+          <seg xml:id="KR3ed101_jc_000-d13.p6s1">小品方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d13.p6s2">乾薑屑<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d13.p6s3">龍骨末<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d13.p6s4">吹之即止<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d13p8">
+          <seg xml:id="KR3ed101_jc_000-d13.p8s1">千金方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d13.p8s2">冷水淨嗽口<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d13.p8s3">含水以葦管中吹二孔中即止<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d13p10">
+          <seg xml:id="KR3ed101_jc_000-d13.p10s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d13.p10s2">溫布薄胸上<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d13p12">
+          <seg xml:id="KR3ed101_jc_000-d13.p12s1">葛氏方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d13.p12s2">苦酒漬綿塞鼻孔<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d13p14">
+          <seg xml:id="KR3ed101_jc_000-d13.p14s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d13.p14s2">釜底墨末<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d13.p14s3">以吹內鼻中<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d13p16">
+          <seg xml:id="KR3ed101_jc_000-d13.p16s1">廣濟方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d13.p16s2">新汲水淋頭頂上<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d13.p16s3">六七斗<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d13.p16s4">並將浸□立效<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d13p18">
+          <seg xml:id="KR3ed101_jc_000-d13.p18s1">範汪方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d13.p18s2">書額上作由字<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d13p20">
+          <seg xml:id="KR3ed101_jc_000-d13.p20s1">如意方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d13.p20s2">取衄血以書其人額云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d13.p20s3">今日血忌字即上<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d13.p20s4">
+            <c n="（"/>簡案醫心方作今□日血忌字即止<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d13.p20s5">當隨今日甲乙<c n="。"/>
+            <c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d13p22">
+          <seg xml:id="KR3ed101_jc_000-d13.p22s1">廣利方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d13.p22s2">濃研經墨<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d13.p22s3">點鼻中立效<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d13.p22s4">
+            <c n="（"/>簡案醫心方注經墨者<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d13.p22s5">久墨也<c n="。"/>
+            <c n="）"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ed101_jc_000-d14">
+        <head n="h1" xml:id="KR3ed101_jc_000-d14h1">
+          <seg xml:id="KR3ed101_jc_000-d14.h1s1">一○、百蟲入耳方</seg>
+        </head>
+        <p xml:id="KR3ed101_jc_000-d14p2">
+          <seg xml:id="KR3ed101_jc_000-d14.p2s1">葛氏方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d14.p2s2">以好苦酒<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d14.p2s3">漬椒灌之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d14.p2s4">以起行便出<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d14p4">
+          <seg xml:id="KR3ed101_jc_000-d14.p4s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d14.p4s2">搗生薑汁灌之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d14.p4s3">韭汁彑佳<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d14p6">
+          <seg xml:id="KR3ed101_jc_000-d14.p6s1">千金方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d14.p6s2">桃葉塞耳立出<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d14p8">
+          <seg xml:id="KR3ed101_jc_000-d14.p8s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d14.p8s2">以蔥涕灌耳即出<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d14.p8s3">大驗<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d14p10">
+          <seg xml:id="KR3ed101_jc_000-d14.p10s1">新錄方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d14.p10s2">乾薑末吹耳中出<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d14p12">
+          <seg xml:id="KR3ed101_jc_000-d14.p12s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d14.p12s2">綿裹銅屑塞耳<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ed101_jc_000-d15">
+        <head n="h1" xml:id="KR3ed101_jc_000-d15h1">
+          <seg xml:id="KR3ed101_jc_000-d15.h1s1">一一、食諸果中毒方</seg>
+        </head>
+        <p xml:id="KR3ed101_jc_000-d15p2">
+          <seg xml:id="KR3ed101_jc_000-d15.p2s1">養生要集云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d15.p2s2">取其餘類燒作末<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d15.p2s3">服方寸匕<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d15.p2s4">便吐出良<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d15p4">
+          <seg xml:id="KR3ed101_jc_000-d15.p4s1">又方<c n="。"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d15.p4s2">甘草<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d15.p4s3">貝齒<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d15.p4s4">粉</seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d15.p4s5">
+            <c n="（"/>簡案陶氏本草序例千金方<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d15.p4s6">並作胡粉<c n="。"/>
+            <c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d15p6">
+          <seg xml:id="KR3ed101_jc_000-d15.p6s1">凡三物<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d15.p6s2">等分作末<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d15.p6s3">以水服良<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d15p8">
+          <seg xml:id="KR3ed101_jc_000-d15.p8s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d15.p8s2">以小兒</seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d15.p8s3">
+            <c n="（"/>簡案醫心方引本草兒下有溺字<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d15.p8s4">證類序例同<c n="。"/>
+            <c n="）"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d15.p8s5">乳汁二升<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d15.p8s6">服之良<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d15.p8s7">
+            <c n="（"/>簡案醫心方<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d15.p8s8">服二升亦佳<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d15.p8s9">千金方同<c n="。"/>
+            <c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d15p10">
+          <seg xml:id="KR3ed101_jc_000-d15.p10s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d15.p10s2">含白蜜<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d15.p10s3">嚼之立愈<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ed101_jc_000-d16">
+        <head n="h1" xml:id="KR3ed101_jc_000-d16h1">
+          <seg xml:id="KR3ed101_jc_000-d16.h1s1">一二、食諸菜中毒方</seg>
+        </head>
+        <p xml:id="KR3ed101_jc_000-d16p2">
+          <seg xml:id="KR3ed101_jc_000-d16.p2s1">葛氏方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d16.p2s2">煮豉汁<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d16.p2s3">飲一二升<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d16p4">
+          <seg xml:id="KR3ed101_jc_000-d16.p4s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d16.p4s2">煮葛根汁飲<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d16.p4s3">亦生嚼咽汁<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d16p6">
+          <seg xml:id="KR3ed101_jc_000-d16.p6s1">養生要集云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d16.p6s2">搗胡麻<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d16.p6s3">以水服二合<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ed101_jc_000-d17">
+        <head n="h1" xml:id="KR3ed101_jc_000-d17h1">
+          <seg xml:id="KR3ed101_jc_000-d17.h1s1">一三、食諸魚中毒方</seg>
+        </head>
+        <p xml:id="KR3ed101_jc_000-d17p2">
+          <seg xml:id="KR3ed101_jc_000-d17.p2s1">小品方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d17.p2s2">煮橘皮淳飲之佳<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d17.p2s3">
+            <c n="（"/>簡案淳<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d17.p2s4">外臺作停冷二字<c n="。"/>
+            <c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d17p4">
+          <seg xml:id="KR3ed101_jc_000-d17.p4s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d17.p4s2">舂馬鞭草飲汁一升<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d17.p4s3">即消去<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d17p6">
+          <seg xml:id="KR3ed101_jc_000-d17.p6s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d17.p6s2">生薑葉亦佳<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d17p8">
+          <seg xml:id="KR3ed101_jc_000-d17.p8s1">集驗方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d17.p8s2">煮蘆根<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d17.p8s3">取汁飲之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d17p10">
+          <seg xml:id="KR3ed101_jc_000-d17.p10s1">崔禹錫食經云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d17.p10s2">犀角二兩<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d17.p10s3">細切<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d17.p10s4">以水四升煮取二升<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d17.p10s5">極冷服之<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ed101_jc_000-d18">
+        <head n="h1" xml:id="KR3ed101_jc_000-d18h1">
+          <seg xml:id="KR3ed101_jc_000-d18.h1s1">一四、治食諸鳥中毒方</seg>
+        </head>
+        <p xml:id="KR3ed101_jc_000-d18p2">
+          <seg xml:id="KR3ed101_jc_000-d18.p2s1">葛氏方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d18.p2s2">服頭垢一錢匕<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d18p4">
+          <seg xml:id="KR3ed101_jc_000-d18.p4s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d18.p4s2">水漬豉<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d18.p4s3">取汁飲數升<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ed101_jc_000-d19">
+        <head n="h1" xml:id="KR3ed101_jc_000-d19h1">
+          <seg xml:id="KR3ed101_jc_000-d19.h1s1">一五、食諸肉中毒方</seg>
+        </head>
+        <p xml:id="KR3ed101_jc_000-d19p2">
+          <seg xml:id="KR3ed101_jc_000-d19.p2s1">葛氏方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d19.p2s2">以水五升<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d19.p2s3">煮三升土<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d19.p2s4">五六沸<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d19.p2s5">下之食頃<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d19.p2s6">飲上清一升<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d19p4">
+          <seg xml:id="KR3ed101_jc_000-d19.p4s1">錄驗方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d19.p4s2">水六升<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d19.p4s3">煮大豆三升<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d19.p4s4">取汁二升<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d19.p4s5">服之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d19p6">
+          <seg xml:id="KR3ed101_jc_000-d19.p6s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d19.p6s2">服土漿一二升<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d19p8">
+          <seg xml:id="KR3ed101_jc_000-d19.p8s1">千金方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d19.p8s2">掘地三尺<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d19.p8s3">取下土三升<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d19.p8s4">以三升水煮土五六沸<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d19.p8s5">取上清飲一升<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d19.p8s6">頓愈<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d19p10">
+          <seg xml:id="KR3ed101_jc_000-d19.p10s1">小品方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d19.p10s2">取其畜干屎末<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d19.p10s3">水服佳<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ed101_jc_000-d20">
+        <head n="h1" xml:id="KR3ed101_jc_000-d20h1">
+          <seg xml:id="KR3ed101_jc_000-d20.h1s1">一六、食諸菌中毒方</seg>
+        </head>
+        <p xml:id="KR3ed101_jc_000-d20p2">
+          <seg xml:id="KR3ed101_jc_000-d20.p2s1">葛氏方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d20.p2s2">掘地作坎<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d20.p2s3">入</seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d20.p2s4">
+            <c n="（"/>簡案醫心方作以<c n="。"/>
+            <c n="）"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d20.p2s5">水滿中攪之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d20.p2s6">服一二升<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d20p4">
+          <seg xml:id="KR3ed101_jc_000-d20.p4s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d20.p4s2">濃煮大豆汁<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d20.p4s3">服之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d20p6">
+          <seg xml:id="KR3ed101_jc_000-d20.p6s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d20.p6s2">古賢口傳云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d20.p6s3">粟粥服之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d20.p6s4">忽愈云云<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ed101_jc_000-d21">
+        <head n="h1" xml:id="KR3ed101_jc_000-d21h1">
+          <seg xml:id="KR3ed101_jc_000-d21.h1s1">一七、治食蜀椒毒方</seg>
+        </head>
+        <p xml:id="KR3ed101_jc_000-d21p2">
+          <seg xml:id="KR3ed101_jc_000-d21.p2s1">葛氏方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d21.p2s2">蜀椒閉口者有毒<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d21.p2s3">食之氣便欲絕<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d21.p2s4">及吐白沫<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d21.p2s5">並吐下者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d21.p2s6">煮桂飲其汁<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d21.p2s7">
+            <c n="（"/>
+            <c n="「"/>原注<c n="」"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d21.p2s8">崔禹錫食經同之<c n="。"/>
+            <c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d21p4">
+          <seg xml:id="KR3ed101_jc_000-d21.p4s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d21.p4s2">多飲冷水<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d21.p4s3">一二升<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d21p6">
+          <seg xml:id="KR3ed101_jc_000-d21.p6s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d21.p6s2">以雞毛擿其咽中<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d21.p6s3">
+            <c n="（"/>簡案本草序例千金並云雞毛燒吸菸<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d21.p6s4">及水調服<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d21.p6s5">與此不同<c n="。"/>
+            <c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d21p8">
+          <seg xml:id="KR3ed101_jc_000-d21.p8s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d21.p8s2">食土一升許<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d21.p8s3">
+            <c n="（"/>
+            <c n="「"/>原注<c n="」"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d21.p8s4">範汪方飲土漿<c n="。"/>
+            <c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d21p10">
+          <seg xml:id="KR3ed101_jc_000-d21.p10s1">範汪方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d21.p10s2">煮葵汁飲之<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ed101_jc_000-d22">
+        <head n="h1" xml:id="KR3ed101_jc_000-d22h1">
+          <seg xml:id="KR3ed101_jc_000-d22.h1s1">一八、治食噎不下方</seg>
+        </head>
+        <p xml:id="KR3ed101_jc_000-d22p2">
+          <seg xml:id="KR3ed101_jc_000-d22.p2s1">病源論云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d22.p2s2">食噎<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d22.p2s3">此由藏氣冷<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d22.p2s4">而不理<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d22.p2s5">津液澀少<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d22.p2s6">不能傳行<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d22.p2s7">飲食入則噎塞不通<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d22.p2s8">故謂之食噎<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d22.p2s9">胸內痛<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d22.p2s10">不得喘息<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d22.p2s11">食不下是也<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d22p4">
+          <seg xml:id="KR3ed101_jc_000-d22.p4s1">葛氏方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d22.p4s2">以針三七過刺水中<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d22.p4s3">東向飲其水良<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d22p6">
+          <seg xml:id="KR3ed101_jc_000-d22.p6s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d22.p6s2">燒羚羊角<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d22.p6s3">多少飲之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d22.p6s4">又以羚羊角<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d22.p6s5">磨□上<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d22.p6s6">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d22.p6s7">橘皮三兩<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d22.p6s8">以水三升<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d22.p6s9">煮取一升飲之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d22.p6s10">廣利方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d22.p6s11">蜜一匙<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d22.p6s12">含細細嚥則下<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ed101_jc_000-d23">
+        <head n="h1" xml:id="KR3ed101_jc_000-d23h1">
+          <seg xml:id="KR3ed101_jc_000-d23.h1s1">一九、食諸魚骨哽方</seg>
+        </head>
+        <p xml:id="KR3ed101_jc_000-d23p2">
+          <seg xml:id="KR3ed101_jc_000-d23.p2s1">葛氏方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d23.p2s2">魚骨燒<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d23.p2s3">服少少<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d23p4">
+          <seg xml:id="KR3ed101_jc_000-d23.p4s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d23.p4s2">鸕鷀羽燒末<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d23.p4s3">水服半錢<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d23.p4s4">
+            <c n="（"/>
+            <c n="「"/>原注<c n="」"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d23.p4s5">今案集驗方用屎<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d23.p4s6">如意方用骨<c n="。"/>
+            <c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d23p6">
+          <seg xml:id="KR3ed101_jc_000-d23.p6s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d23.p6s2">燒魚納服之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d23p8">
+          <seg xml:id="KR3ed101_jc_000-d23.p8s1">龍門方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d23.p8s2">取紙方寸<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d23.p8s3">書作甲子字<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d23.p8s4">以水服即下<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d23p10">
+          <seg xml:id="KR3ed101_jc_000-d23.p10s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d23.p10s2">魚納覆頭立下<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d23.p10s3">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d23.p10s4">取獺骨含之立下<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ed101_jc_000-d24">
+        <head n="h1" xml:id="KR3ed101_jc_000-d24h1">
+          <seg xml:id="KR3ed101_jc_000-d24.h1s1">二○、食諸肉骨哽方</seg>
+        </head>
+        <p xml:id="KR3ed101_jc_000-d24p2">
+          <seg xml:id="KR3ed101_jc_000-d24.p2s1">葛氏方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d24.p2s2">白雄雞左右翮大毛<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d24.p2s3">各一枚<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d24.p2s4">燒末水服<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d24.p2s5">
+            <c n="（"/>簡案原本作服水<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d24.p2s6">今據外臺校改<c n="。"/>
+            <c n="）"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d24.p2s7">一刀圭<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d24p4">
+          <seg xml:id="KR3ed101_jc_000-d24.p4s1">僧深方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d24.p4s2">燒鷹屎<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d24.p4s3">下篩服<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d24.p4s4">方寸匕<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d24p6">
+          <seg xml:id="KR3ed101_jc_000-d24.p6s1">新錄方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d24.p6s2">醬清一升<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d24.p6s3">服之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d24p8">
+          <seg xml:id="KR3ed101_jc_000-d24.p8s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d24.p8s2">酒服鹽灰方寸匕<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ed101_jc_000-d25">
+        <head n="h1" xml:id="KR3ed101_jc_000-d25h1">
+          <seg xml:id="KR3ed101_jc_000-d25.h1s1">二一、諸雜哽方</seg>
+        </head>
+        <p xml:id="KR3ed101_jc_000-d25p2">
+          <seg xml:id="KR3ed101_jc_000-d25.p2s1">葛氏方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d25.p2s2">刮東壁土<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d25.p2s3">以酒和服<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d25p4">
+          <seg xml:id="KR3ed101_jc_000-d25.p4s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d25.p4s2">末瞿麥服<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d25.p4s3">方寸匕<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d25p6">
+          <seg xml:id="KR3ed101_jc_000-d25.p6s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d25.p6s2">以皂莢屑<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d25.p6s3">少少吹內鼻中<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d25.p6s4">使得嚏哽出<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ed101_jc_000-d26">
+        <head n="h1" xml:id="KR3ed101_jc_000-d26h1">
+          <seg xml:id="KR3ed101_jc_000-d26.h1s1">二二、誤吞水蛭方</seg>
+        </head>
+        <p xml:id="KR3ed101_jc_000-d26p2">
+          <seg xml:id="KR3ed101_jc_000-d26.p2s1">崔禹錫食經云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d26.p2s2">服馬蓼汁<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d26.p2s3">甚效也<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ed101_jc_000-d27">
+        <head n="h1" xml:id="KR3ed101_jc_000-d27h1">
+          <seg xml:id="KR3ed101_jc_000-d27.h1s1">二三、飲酒大醉欲死方</seg>
+        </head>
+        <p xml:id="KR3ed101_jc_000-d27p2">
+          <seg xml:id="KR3ed101_jc_000-d27.p2s1">養生要集云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d27.p2s2">赤小豆以水煮取汁<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d27.p2s3">一升冷飲之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d27.p2s4">即解<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d27p4">
+          <seg xml:id="KR3ed101_jc_000-d27.p4s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d27.p4s2">生葛根<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d27.p4s3">搗絞取汁<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d27.p4s4">飲之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d27p6">
+          <seg xml:id="KR3ed101_jc_000-d27.p6s1">錄驗方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d27.p6s2">煮菘汁飲之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d27.p6s3">最佳<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d27p8">
+          <seg xml:id="KR3ed101_jc_000-d27.p8s1">蘇敬本草注云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d27.p8s2">飲酒連日不解方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d27.p8s3">食軟熟柿<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d27p10">
+          <seg xml:id="KR3ed101_jc_000-d27.p10s1">崔禹錫食經云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d27.p10s2">煮鯰食之止醉<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d27.p10s3">彑治酒病<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d27p12">
+          <seg xml:id="KR3ed101_jc_000-d27.p12s1">今案食經解酒毒物</seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d27p14">
+          <seg xml:id="KR3ed101_jc_000-d27.p14s1">寄居<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d27.p14s2">蟹<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d27.p14s3">蠣<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d27.p14s4">丹黍<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d27.p14s5">胡麻<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d27.p14s6">熟柿<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d27.p14s7">葵菜<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d27.p14s8">苦菜<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d27.p14s9">水芹<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d27.p14s10">菰根</seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d27p16">
+          <seg type="comm" xml:id="KR3ed101_jc_000-d27.p16s1">
+            <c n="（"/>簡案醫心方有龍蹄子<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d27.p16s2">田中螺子<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d27.p16s3">凡十二種<c n="。"/>
+            <c n="）"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ed101_jc_000-d28">
+        <head n="h1" xml:id="KR3ed101_jc_000-d28h1">
+          <seg xml:id="KR3ed101_jc_000-d28.h1s1">二四、金創血不止方</seg>
+        </head>
+        <p xml:id="KR3ed101_jc_000-d28p2">
+          <seg xml:id="KR3ed101_jc_000-d28.p2s1">千金方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d28.p2s2">燒人矢灰<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d28.p2s3">傅之<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d28.p2s4">
+            <c n="（"/>
+            <c n="「"/>原注<c n="」"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d28.p2s5">今案熬馬矢封之<c n="。"/>
+            <c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d28p4">
+          <seg xml:id="KR3ed101_jc_000-d28.p4s1">範汪方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d28.p4s2">蓮子草汁注中止<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d28.p4s3">冬月未乾者傅之<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ed101_jc_000-d29">
+        <head n="h1" xml:id="KR3ed101_jc_000-d29h1">
+          <seg xml:id="KR3ed101_jc_000-d29.h1s1">二五、治毒箭所傷方</seg>
+        </head>
+        <p xml:id="KR3ed101_jc_000-d29p2">
+          <seg xml:id="KR3ed101_jc_000-d29.p2s1">葛氏方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d29.p2s2">搗藍青絞汁飲<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d29.p2s3">並薄創<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d29.p2s4">無藍紺輩<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d29.p2s5">
+            <c n="（"/>簡案千金作青布漬三字<c n="。"/>
+            <c n="）"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d29.p2s6">絞汁飲之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d29.p2s7">亦以汁灌創中<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d29.p2s8">
+            <c n="（"/>
+            <c n="「"/>原注<c n="」"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d29.p2s9">小品方同之<c n="。"/>
+            <c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d29p4">
+          <seg xml:id="KR3ed101_jc_000-d29.p4s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d29.p4s2">煮藕飲汁<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d29.p4s3">多多益善<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d29p6">
+          <seg xml:id="KR3ed101_jc_000-d29.p6s1">千金方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d29.p6s2">煮蘆根飲汁<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d29.p6s3">一二升<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d29p8">
+          <seg xml:id="KR3ed101_jc_000-d29.p8s1">集驗方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d29.p8s2">剝桑白皮<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d29.p8s3">去上黑者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d29.p8s4">以裹之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d29.p8s5">桑白汁入創<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d29.p8s6">冬月用桑根皮汁<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ed101_jc_000-d30">
+        <head n="h1" xml:id="KR3ed101_jc_000-d30h1">
+          <seg xml:id="KR3ed101_jc_000-d30.h1s1">二六、鐵箭鏑錐刀醫針不出方</seg>
+        </head>
+        <p xml:id="KR3ed101_jc_000-d30p2">
+          <seg xml:id="KR3ed101_jc_000-d30.p2s1">葛氏方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d30.p2s2">搗杏仁塗之<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d30.p2s3">
+            <c n="（"/>
+            <c n="「"/>原注<c n="」"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d30.p2s4">錄驗方同之<c n="。"/>
+            <c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d30p4">
+          <seg xml:id="KR3ed101_jc_000-d30.p4s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d30.p4s2">取鹿角燒作灰<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d30.p4s3">豬膏和傅之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d30p6">
+          <seg xml:id="KR3ed101_jc_000-d30.p6s1">千金方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d30.p6s2">白薟半夏等分末<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d30.p6s3">酒服方寸匕<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d30.p6s4">日三<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d30p8">
+          <seg xml:id="KR3ed101_jc_000-d30.p8s1">小品方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d30.p8s2">牡丹<c n="("/>一分<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d30.p8s3">白薟<c n="("/>一分<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d30.p8s4">末酒服<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d30.p8s5">方寸匕<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d30.p8s6">日三<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d30.p8s7">自出<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d30.p8s8">
+            <c n="（"/>
+            <c n="「"/>原注<c n="」"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d30.p8s9">千金方白薟一分<c n="。"/>
+            <c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d30p10">
+          <seg xml:id="KR3ed101_jc_000-d30.p10s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d30.p10s2">取婦人月經衣已汙者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d30.p10s3">燒末酒服<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d30.p10s4">日三<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d30.p10s5">立出<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d30.p10s6">
+            <c n="（"/>
+            <c n="「"/>原注<c n="」"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d30.p10s7">集驗方同之<c n="。"/>
+            <c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d30p12">
+          <seg xml:id="KR3ed101_jc_000-d30.p12s1">錄驗方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d30.p12s2">大麻子三升<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d30.p12s3">作末<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d30.p12s4">以水和<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d30.p12s5">使得三升<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d30.p12s6">汁溫服之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d30.p12s7">須臾出<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d30p14">
+          <seg xml:id="KR3ed101_jc_000-d30.p14s1">醫門方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d30.p14s2">栝樓揭薄瘡上<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d30.p14s3">日三<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d30.p14s4">自出<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ed101_jc_000-d31">
+        <head n="h1" xml:id="KR3ed101_jc_000-d31h1">
+          <seg xml:id="KR3ed101_jc_000-d31.h1s1">二七、竹木壯刺在肉中不出方</seg>
+        </head>
+        <p xml:id="KR3ed101_jc_000-d31p2">
+          <seg type="comm" xml:id="KR3ed101_jc_000-d31.p2s1">
+            <c n="（"/>簡案楊雄方言云<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d31.p2s2">凡草木刺人<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d31.p2s3">北燕朝鮮之間<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d31.p2s4">謂之壯<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d31.p2s5">郭璞注今惟南人亦呼□□□也<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d31.p2s6">此言壯刺蓋其義也<c n="。"/>
+            <c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d31p4">
+          <seg xml:id="KR3ed101_jc_000-d31.p4s1">葛氏方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d31.p4s2">取根莖合搗<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d31.p4s3">以篩薄之創口<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d31.p4s4">雖合自出<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d31p6">
+          <seg xml:id="KR3ed101_jc_000-d31.p6s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d31.p6s2">取鹿角□□水和塗之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d31.p6s3">立出<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d31.p6s4">遠久者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d31.p6s5">不過一□<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d31p8">
+          <seg xml:id="KR3ed101_jc_000-d31.p8s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d31.p8s2">搗烏梅水和塗上立出<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d31.p8s3">
+            <c n="（"/>
+            <c n="「"/>原注<c n="」"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d31.p8s4">今案集驗方白梅<c n="。"/>
+            <c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d31p10">
+          <seg xml:id="KR3ed101_jc_000-d31.p10s1">錄驗方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d31.p10s2">末王不留行<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d31.p10s3">服即出<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ed101_jc_000-d32">
+        <head n="h1" xml:id="KR3ed101_jc_000-d32h1">
+          <seg xml:id="KR3ed101_jc_000-d32.h1s1">二八、湯火燒灼方</seg>
+        </head>
+        <p xml:id="KR3ed101_jc_000-d32p2">
+          <seg xml:id="KR3ed101_jc_000-d32.p2s1">葛氏方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d32.p2s2">破雞子白<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d32.p2s3">塗之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d32p4">
+          <seg xml:id="KR3ed101_jc_000-d32.p4s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d32.p4s2">以豆醬塗之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d32.p4s3">此二藥皆能不痛<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d32.p4s4">不成瘡<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d32p6">
+          <seg xml:id="KR3ed101_jc_000-d32.p6s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d32.p6s2">末石膏塗之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d32.p6s3">立愈<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d32p8">
+          <seg xml:id="KR3ed101_jc_000-d32.p8s1">極要方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d32.p8s2">削梨帖不爛<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d32.p8s3">易愈<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d32p10">
+          <seg xml:id="KR3ed101_jc_000-d32.p10s1">千金方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d32.p10s2">榆白皮<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d32.p10s3">嚼塗之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d32p12">
+          <seg xml:id="KR3ed101_jc_000-d32.p12s1">龍門方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d32.p12s2">新出牛屎塗差<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d32p14">
+          <seg xml:id="KR3ed101_jc_000-d32.p14s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d32.p14s2">桑柴灰和水塗差<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ed101_jc_000-d33">
+        <head n="h1" xml:id="KR3ed101_jc_000-d33h1">
+          <seg xml:id="KR3ed101_jc_000-d33.h1s1">二九、從車馬並高所落方</seg>
+        </head>
+        <p xml:id="KR3ed101_jc_000-d33p2">
+          <seg xml:id="KR3ed101_jc_000-d33.p2s1">葛氏方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d33.p2s2">取茅筋藕根葉<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d33.p2s3">
+            <c n="（"/>簡案外臺引肘後<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d33.p2s4">作茅連根葉<c n="。"/>
+            <c n="）"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d33.p2s5">搗絞服汁一二升<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d33.p2s6">不過三四服愈<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d33p4">
+          <seg xml:id="KR3ed101_jc_000-d33.p4s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d33.p4s2">末鹿角酒服方寸匕<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d33.p4s3">日三<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d33p6">
+          <seg xml:id="KR3ed101_jc_000-d33.p6s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d33.p6s2">地黃干三在隨</seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d33.p6s3">
+            <c n="（"/>簡案恐是隨在之訛<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d33.p6s4">今本千金文<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d33.p6s5">與此不同<c n="。"/>
+            <c n="）"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d33.p6s6">宜用服取消<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d33.p6s7">
+            <c n="（"/>
+            <c n="「"/>原注<c n="」"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d33.p6s8">千金方醫門方同之<c n="。"/>
+            <c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d33p8">
+          <seg xml:id="KR3ed101_jc_000-d33.p8s1">極要方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d33.p8s2">服虎魄屑神驗<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d33.p8s3">能治瘀血<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d33p10">
+          <seg xml:id="KR3ed101_jc_000-d33.p10s1">千金方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d33.p10s2">折疼痛<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d33.p10s3">
+            <c n="（"/>簡案今本千金作傷折疾痛<c n="。"/>
+            <c n="）"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d33.p10s4">煩躁<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d33.p10s5">啼叫不得臥<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d33.p10s6">取鼠矢<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d33.p10s7">燒末篩<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d33.p10s8">以豬膏和塗痛上即安<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ed101_jc_000-d34">
+        <head n="h1" xml:id="KR3ed101_jc_000-d34h1">
+          <seg xml:id="KR3ed101_jc_000-d34.h1s1">三○、犬齧人方</seg>
+        </head>
+        <p xml:id="KR3ed101_jc_000-d34p2">
+          <seg xml:id="KR3ed101_jc_000-d34.p2s1">病源論云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d34.p2s2">凡被狗齧創<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d34.p2s3">忌食落葵<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d34.p2s4">雖差經一二年<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d34.p2s5">亦重發<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d34p4">
+          <seg xml:id="KR3ed101_jc_000-d34.p4s1">葛氏方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d34.p4s2">以沸湯和灰<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d34.p4s3">以塗創上<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d34.p4s4">又苦酒和塗之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d34p6">
+          <seg xml:id="KR3ed101_jc_000-d34.p6s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d34.p6s2">以熱牛矢塗之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d34p8">
+          <seg xml:id="KR3ed101_jc_000-d34.p8s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d34.p8s2">搗乾薑服<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d34.p8s3">二方寸匕<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d34p10">
+          <seg xml:id="KR3ed101_jc_000-d34.p10s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d34.p10s2">以頭垢<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d34.p10s3">少少內創中<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d34p12">
+          <seg xml:id="KR3ed101_jc_000-d34.p12s1">集驗方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d34.p12s2">以火炙臘灌創中<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d34.p12s3">又取灶中熱灰<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d34.p12s4">粉創中<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d34.p12s5">裹縛立愈<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d34.p12s6">
+            <c n="（"/>
+            <c n="「"/>原注<c n="」"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d34.p12s7">葛氏方同之<c n="。"/>
+            <c n="）"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ed101_jc_000-d35">
+        <head n="h1" xml:id="KR3ed101_jc_000-d35h1">
+          <seg xml:id="KR3ed101_jc_000-d35.h1s1">三一、馬咋蹹人方</seg>
+        </head>
+        <p xml:id="KR3ed101_jc_000-d35p2">
+          <seg xml:id="KR3ed101_jc_000-d35.p2s1">葛氏方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d35.p2s2">割雞冠血<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d35.p2s3">瀝著創中<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d35.p2s4">三下<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d35p4">
+          <seg xml:id="KR3ed101_jc_000-d35.p4s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d35.p4s2">月經博</seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d35.p4s3">
+            <c n="（"/>簡案外臺作敷<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d35.p4s4">此當溥訛<c n="。"/>
+            <c n="）"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d35.p4s5">上最良<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d35p6">
+          <seg xml:id="KR3ed101_jc_000-d35.p6s1">極要方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d35.p6s2">馬鞭鞘長二寸<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d35.p6s3">鼠矢二七枚<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d35.p6s4">合燒末<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d35.p6s5">以膏和塗之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d35.p6s6">立驗<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d35p8">
+          <seg xml:id="KR3ed101_jc_000-d35.p8s1">小品方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d35.p8s2">搗車前藥傅之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d35p10">
+          <seg xml:id="KR3ed101_jc_000-d35.p10s1">經心方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d35.p10s2">末雄黃傅瘡上<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d35.p10s3">日二<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d35p12">
+          <seg xml:id="KR3ed101_jc_000-d35.p12s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d35.p12s2">用銅青傅瘡中好<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ed101_jc_000-d36">
+        <head n="h1" xml:id="KR3ed101_jc_000-d36h1">
+          <seg xml:id="KR3ed101_jc_000-d36.h1s1">三二、眾蛇螫人方</seg>
+        </head>
+        <p xml:id="KR3ed101_jc_000-d36p2">
+          <seg xml:id="KR3ed101_jc_000-d36.p2s1">病源論云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d36.p2s2">凡中蛇者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d36.p2s3">勿正言其名<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d36.p2s4">惡蛇之類甚多<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d36.p2s5">蛇毒之猛者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d36.p2s6">中人不即治多死<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d36p4">
+          <seg xml:id="KR3ed101_jc_000-d36.p4s1">又云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d36.p4s2">入林中<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d36.p4s3">行有落人頸背上者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d36.p4s4">然自不甚齧人<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d36.p4s5">齧人必死<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d36.p4s6">此蛇無正行<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d36.p4s7">大者不過四五尺<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d36.p4s8">世人呼為青條蛇<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d36.p4s9">其尾二三寸色黑者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d36.p4s10">名熇尾<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d36.p4s11">毒眾</seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d36.p4s12">
+            <c n="（"/>簡案病源作最<c n="。"/>
+            <c n="）"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d36.p4s13">猛烈<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d36.p4s14">中人立死<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d36p6">
+          <seg xml:id="KR3ed101_jc_000-d36.p6s1">又云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d36.p6s2">凡蛇創未愈<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d36.p6s3">禁熱食<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d36.p6s4">熱食便發<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d36p8">
+          <seg xml:id="KR3ed101_jc_000-d36.p8s1">葛氏方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d36.p8s2">中蛇毒勿得渡水<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d36.p8s3">渡水則痛甚於初<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d36.p8s4">螫雖車舡亦不免<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d36.p8s5">搗葎草以傅瘡上<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d36.p8s6">立愈<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d36p10">
+          <seg xml:id="KR3ed101_jc_000-d36.p10s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d36.p10s2">搗生蓼絞取汁飲<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d36.p10s3">小小以滓薄之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d36p12">
+          <seg xml:id="KR3ed101_jc_000-d36.p12s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d36.p12s2">挼青藍薄之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d36p14">
+          <seg xml:id="KR3ed101_jc_000-d36.p14s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d36.p14s2">嚼乾薑傅瘡上<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d36.p14s3">
+            <c n="（"/>
+            <c n="「"/>原注<c n="」"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d36.p14s4">耆婆方屑薄之<c n="。"/>
+            <c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d36p16">
+          <seg xml:id="KR3ed101_jc_000-d36.p16s1">僧深方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d36.p16s2">以頭垢著創中<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d36.p16s3">大良<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d36p18">
+          <seg xml:id="KR3ed101_jc_000-d36.p18s1">千金方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d36.p18s2">灸上三七壯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d36.p18s3">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d36.p18s4">搗葵取汁<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d36.p18s5">服之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d36p20">
+          <seg xml:id="KR3ed101_jc_000-d36.p20s1">集驗方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d36.p20s2">搗大蒜塗之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d36.p20s3">即愈<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d36p22">
+          <seg xml:id="KR3ed101_jc_000-d36.p22s1">蘇敬本草注云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d36.p22s2">搗落石絞洗之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d36.p22s3">並服良<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d36p24">
+          <seg xml:id="KR3ed101_jc_000-d36.p24s1">龍門方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d36.p24s2">蜂巢燒灰封差<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d36.p24s3">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d36.p24s4">搗梨傅之<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d36.p24s5">
+            <c n="（"/>
+            <c n="「"/>原注<c n="」"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d36.p24s6">耆婆方同之<c n="。"/>
+            <c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d36p26">
+          <seg xml:id="KR3ed101_jc_000-d36.p26s1">本草云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d36.p26s2">蛇虺百蟲毒<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d36.p26s3">雄黃巴豆麝香乾姜並解之<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d36.p26s4">
+            <c n="（"/>
+            <c n="「"/>原注<c n="」"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d36.p26s5">範汪方雄黃乾薑同之<c n="。"/>
+            <c n="）"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ed101_jc_000-d37">
+        <head n="h1" xml:id="KR3ed101_jc_000-d37h1">
+          <seg xml:id="KR3ed101_jc_000-d37.h1s1">三三、卒心腹俱痛欲死方</seg>
+        </head>
+        <p xml:id="KR3ed101_jc_000-d37p2">
+          <seg xml:id="KR3ed101_jc_000-d37.p2s1">病源論云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d37.p2s2">心腹痛者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d37.p2s3">由府藏虛弱<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d37.p2s4">風寒客於其間之故也<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d37p4">
+          <seg xml:id="KR3ed101_jc_000-d37.p4s1">葛氏方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d37.p4s2">桂心三兩<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d37.p4s3">切以水一升八合<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d37.p4s4">煮得八合<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d37.p4s5">去滓頓服<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d37.p4s6">無桂者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d37.p4s7">乾薑彑良<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d37p6">
+          <seg xml:id="KR3ed101_jc_000-d37.p6s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d37.p6s2">搗生菖蒲根汁<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d37.p6s3">少少令下咽<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d37.p6s4">即愈<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d37p8">
+          <seg xml:id="KR3ed101_jc_000-d37.p8s1">醫門方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d37.p8s2">以沸湯一升<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d37.p8s3">和鹽二合<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d37.p8s4">服之佳<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d37p10">
+          <seg xml:id="KR3ed101_jc_000-d37.p10s1">僧深方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d37.p10s2">吳茱萸二升<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d37.p10s3">以酒五升<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d37.p10s4">煮取二升<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d37.p10s5">分二服甚良<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d37.p10s6">亦以水可煮之<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d37.p10s7">
+            <c n="（"/>簡案可字疑當在以字上<c n="。"/>
+            <c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d37p12">
+          <seg xml:id="KR3ed101_jc_000-d37.p12s1">經心方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d37.p12s2">黃連八兩<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d37.p12s3">水七升<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d37.p12s4">煮取一升五合<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d37.p12s5">分服五合<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d37.p12s6">日三<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ed101_jc_000-d38">
+        <head n="h1" xml:id="KR3ed101_jc_000-d38h1">
+          <seg xml:id="KR3ed101_jc_000-d38.h1s1">三四、卒霍亂方</seg>
+        </head>
+        <p xml:id="KR3ed101_jc_000-d38p2">
+          <seg xml:id="KR3ed101_jc_000-d38.p2s1">病源論云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d38.p2s2">霍亂者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d38.p2s3">由人溫涼不調<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d38.p2s4">陰陽清濁二氣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d38.p2s5">有相干亂之時<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d38.p2s6">其亂在腸胃之間者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d38.p2s7">自過飲食而變<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d38.p2s8">發則心腹絞痛<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d38.p2s9">其有先心痛者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d38.p2s10">則先吐<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d38.p2s11">先腹痛者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d38.p2s12">則先下利<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d38.p2s13">心腹並痛者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d38.p2s14">吐利<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d38.p2s15">霍亂有三名<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d38.p2s16">一名胃反<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d38.p2s17">言其胃氣虛逆<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d38.p2s18">反吐飲食也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d38.p2s19">二名霍亂<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d38.p2s20">言其病揮霍之間<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d38.p2s21">便致繚亂也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d38.p2s22">三名走哺<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d38.p2s23">言其哺食變逆者也<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d38p4">
+          <seg xml:id="KR3ed101_jc_000-d38.p4s1">千金方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d38.p4s2">凡諸霍亂<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d38.p4s3">忌米飲<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d38.p4s4">胃中得米<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d38.p4s5">即吐不止<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d38.p4s6">
+            <c n="（"/>簡案不止<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d38.p4s7">原本作藥心<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d38.p4s8">今據千金及醫心方校改<c n="。"/>
+            <c n="）"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d38.p4s9">與厚朴良<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d38p6">
+          <seg xml:id="KR3ed101_jc_000-d38.p6s1">又云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d38.p6s2">此病定已<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d38.p6s3">一日不食為佳<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d38.p6s4">仍須三日<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d38.p6s5">少少與粥<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d38.p6s6">三日已後<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d38.p6s7">乃恣意食息也<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d38p8">
+          <seg xml:id="KR3ed101_jc_000-d38.p8s1">錄驗方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d38.p8s2">單煮厚朴<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d38.p8s3">飲一二升<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d38.p8s4">有效<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d38p10">
+          <seg xml:id="KR3ed101_jc_000-d38.p10s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d38.p10s2">煮梨葉服之<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d38.p10s3">
+            <c n="（"/>
+            <c n="「"/>原注<c n="」"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d38.p10s4">醫門方同之<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d38.p10s5">簡案醫心方注引醫門方云<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d38.p10s6">取梨口葉一大握<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d38.p10s7">以水二升<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d38.p10s8">煮取一升<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d38.p10s9">頓服立差<c n="。"/>
+            <c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d38p12">
+          <seg xml:id="KR3ed101_jc_000-d38.p12s1">小品方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d38.p12s2">取藿香一把<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d38.p12s3">以水四升<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d38.p12s4">煮取一升<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d38.p12s5">頓服立愈<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d38.p12s6">
+            <c n="（"/>
+            <c n="「"/>原注<c n="」"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d38.p12s7">今案本草云<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d38.p12s8">一把重二兩為正<c n="。"/>
+            <c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d38p14">
+          <seg xml:id="KR3ed101_jc_000-d38.p14s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d38.p14s2">煮青木香汁飲<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d38.p14s3">至佳<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d38p16">
+          <seg xml:id="KR3ed101_jc_000-d38.p16s1">醫門方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d38.p16s2">吐下不止者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d38.p16s3">煮百沸湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d38.p16s4">細細添生水<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d38.p16s5">熱飲之<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d38.p16s6">
+            <c n="（"/>
+            <c n="「"/>原注<c n="」"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d38.p16s7">今案那繁論云<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d38.p16s8">熟水一升<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d38.p16s9">生水一升<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d38.p16s10">相和飲之良<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d38.p16s11">○簡案那繁當是刪繁<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d38.p16s12">然醫心方源順和名抄等<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d38.p16s13">並作那繁<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d38.p16s14">故仍其舊<c n="。"/>
+            <c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d38p18">
+          <seg xml:id="KR3ed101_jc_000-d38.p18s1">通玄方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d38.p18s2">木苽煮作飲<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d38.p18s3">服之<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d38.p18s4">
+            <c n="（"/>
+            <c n="「"/>原注<c n="」"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d38.p18s5">今案本草陶注云<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d38.p18s6">若實並枝煮飲之<c n="。"/>
+            <c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d38p20">
+          <seg xml:id="KR3ed101_jc_000-d38.p20s1">救急單驗方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d38.p20s2">桂三兩<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d38.p20s3">煮汁取一盞<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d38.p20s4">頓服驗<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d38p22">
+          <seg xml:id="KR3ed101_jc_000-d38.p22s1">蘇敬本草云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d38.p22s2">絞痛者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d38.p22s3">粟米泔汁飲數升<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d38.p22s4">立差<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d38p24">
+          <seg xml:id="KR3ed101_jc_000-d38.p24s1">小品方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d38.p24s2">洞下腹痛者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d38.p24s3">以生艾一把<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d38.p24s4">以水三升<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d38.p24s5">煮得一升<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d38.p24s6">頓服之良<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d38p26">
+          <seg xml:id="KR3ed101_jc_000-d38.p26s1">葛氏方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d38.p26s2">轉筋者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d38.p26s3">若酒和粉塗痛上<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d38.p26s4">不能語者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d38.p26s5">飲竹瀝少少許<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d38p28">
+          <seg xml:id="KR3ed101_jc_000-d38.p28s1">陶宏景本草注云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d38.p28s2">霍亂轉筋者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d38.p28s3">但呼木瓜名<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d38.p28s4">及書上良<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d38.p28s5">作木瓜字皆愈<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ed101_jc_000-d39">
+        <head n="h1" xml:id="KR3ed101_jc_000-d39h1">
+          <seg xml:id="KR3ed101_jc_000-d39.h1s1">三五、妊身胎墮血不止方</seg>
+        </head>
+        <p xml:id="KR3ed101_jc_000-d39p2">
+          <seg xml:id="KR3ed101_jc_000-d39.p2s1">病源論云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d39.p2s2">此由墮胎之時<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d39.p2s3">余血不盡<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d39.p2s4">故令腹痛<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d39p4">
+          <seg xml:id="KR3ed101_jc_000-d39.p4s1">葛氏方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d39.p4s2">艾半斤<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d39.p4s3">酒四升<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d39.p4s4">煮取一升<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d39.p4s5">頓服之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d39p6">
+          <seg xml:id="KR3ed101_jc_000-d39.p6s1">撰集要方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d39.p6s2">烏翼毛燒<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d39.p6s3">三指撮著酒服之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d39p8">
+          <seg xml:id="KR3ed101_jc_000-d39.p8s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d39.p8s2">燒雞毛<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d39.p8s3">服亦佳<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d39p10">
+          <seg xml:id="KR3ed101_jc_000-d39.p10s1">僧深方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d39.p10s2">丹參十二兩<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d39.p10s3">酒五升<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d39.p10s4">取煮三升<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d39.p10s5">分三服即愈<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ed101_jc_000-d40">
+        <head n="h1" xml:id="KR3ed101_jc_000-d40h1">
+          <seg xml:id="KR3ed101_jc_000-d40.h1s1">三六、令易產方</seg>
+        </head>
+        <p xml:id="KR3ed101_jc_000-d40p2">
+          <seg xml:id="KR3ed101_jc_000-d40.p2s1">產經云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d40.p2s2">妊身垂七月<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d40.p2s3">常可服丹參膏<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d40.p2s4">坐臥之間<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d40.p2s5">不覺忽生也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d40.p2s6">以溫酒服<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d40.p2s7">如棗核<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d40.p2s8">日三<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d40p4">
+          <seg xml:id="KR3ed101_jc_000-d40.p4s1">小品方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d40.p4s2">馬銜一枚<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d40.p4s3">覺痛時<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d40.p4s4">左手持之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d40p6">
+          <seg xml:id="KR3ed101_jc_000-d40.p6s1">子母秘錄云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d40.p6s2">帶獺皮吉<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ed101_jc_000-d41">
+        <head n="h1" xml:id="KR3ed101_jc_000-d41h1">
+          <seg xml:id="KR3ed101_jc_000-d41.h1s1">三七、產難方</seg>
+        </head>
+        <p xml:id="KR3ed101_jc_000-d41p2">
+          <seg xml:id="KR3ed101_jc_000-d41.p2s1">病源論云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d41.p2s2">產難者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d41.p2s3">凡有數種<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d41.p2s4">或先漏胞去血<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d41.p2s5">子藏乾燥<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d41.p2s6">或子宮宿挾疾病<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d41.p2s7">或觸犯禁忌<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d41.p2s8">或產時未至<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d41.p2s9">便即驚動<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d41.p2s10">穢露早下<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d41.p2s11">子道乾澀<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d41.p2s12">婦力瘦弱<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d41.p2s13">皆令產難<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d41.p2s14">凡腹痛腰未痛者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d41.p2s15">未產<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d41.p2s16">腹腰連痛者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d41.p2s17">即產也<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d41p4">
+          <seg xml:id="KR3ed101_jc_000-d41.p4s1">產經云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d41.p4s2">產難時皆開門戶窗瓷瓶釜一切有蓋之類大效<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d41p6">
+          <seg xml:id="KR3ed101_jc_000-d41.p6s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d41.p6s2">取真當歸<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d41.p6s3">使產者左右手持之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d41.p6s4">即生<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d41.p6s5">一云用槐子<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d41p8">
+          <seg xml:id="KR3ed101_jc_000-d41.p8s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d41.p8s2">以大麻子二七枚<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d41.p8s3">吞之立生<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d41p10">
+          <seg xml:id="KR3ed101_jc_000-d41.p10s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d41.p10s2">取弓弩弦<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d41.p10s3">令帶產者腰中良<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d41p12">
+          <seg xml:id="KR3ed101_jc_000-d41.p12s1">葛氏方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d41.p12s2">吞大豆三枚<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d41.p12s3">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d41.p12s4">吞槐子三枚<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d41p14">
+          <seg xml:id="KR3ed101_jc_000-d41.p14s1">錄驗方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d41.p14s2">破大豆<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d41.p14s3">以夫名字書豆中<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d41.p14s4">合吞之即生<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d41p16">
+          <seg xml:id="KR3ed101_jc_000-d41.p16s1">新錄方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d41.p16s2">葵子二七枚<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d41.p16s3">服之<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ed101_jc_000-d42">
+        <head n="h1" xml:id="KR3ed101_jc_000-d42h1">
+          <seg xml:id="KR3ed101_jc_000-d42.h1s1">三八、逆生方</seg>
+        </head>
+        <p xml:id="KR3ed101_jc_000-d42p2">
+          <seg xml:id="KR3ed101_jc_000-d42.p2s1">病源論云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d42.p2s2">逆產猶初覺腹痛<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d42.p2s3">產時未到<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d42.p2s4">驚動復早<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d42.p2s5">兒轉未竟<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d42.p2s6">便用力產<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d42.p2s7">則令逆也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d42.p2s8">或觸犯禁忌所為<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d42p4">
+          <seg xml:id="KR3ed101_jc_000-d42.p4s1">集驗方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d42.p4s2">逆生橫生不出<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d42.p4s3">手足先見<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d42.p4s4">方其父名書兒足下即順<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d42p6">
+          <seg xml:id="KR3ed101_jc_000-d42.p6s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d42.p6s2">以鹽塗兒足底<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d42.p6s3">又可忽搔爪之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d42p8">
+          <seg xml:id="KR3ed101_jc_000-d42.p8s1">又云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d42.p8s2">逆生手足先出者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d42.p8s3">方取三家飯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d42.p8s4">置兒手內即順<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d42p10">
+          <seg xml:id="KR3ed101_jc_000-d42.p10s1">新錄方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d42.p10s2">取三家水<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d42.p10s3">服並洗手即順生<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d42p12">
+          <seg xml:id="KR3ed101_jc_000-d42.p12s1">僧深方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d42.p12s2">熬葵子令黃<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d42.p12s3">三指撮酒服之<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ed101_jc_000-d43">
+        <head n="h1" xml:id="KR3ed101_jc_000-d43h1">
+          <seg xml:id="KR3ed101_jc_000-d43.h1s1">三九、橫產方</seg>
+        </head>
+        <p xml:id="KR3ed101_jc_000-d43p2">
+          <seg xml:id="KR3ed101_jc_000-d43.p2s1">病源論云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d43.p2s2">橫生者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d43.p2s3">產時未到<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d43.p2s4">始覺腹痛<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d43.p2s5">驚動損<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d43.p2s6">
+            <c n="（"/>簡案損<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d43.p2s7">病源作傷早二字<c n="。"/>
+            <c n="）"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d43.p2s8">兒轉未竟<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d43.p2s9">便用力產之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d43.p2s10">故令橫生<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d43p4">
+          <seg xml:id="KR3ed101_jc_000-d43.p4s1">產經云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d43.p4s2">取舂杵頭糠刮如彈丸<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d43.p4s3">酒服之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d43.p4s4">即順生<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d43p6">
+          <seg xml:id="KR3ed101_jc_000-d43.p6s1">小品方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d43.p6s2">栝蔞實中子一枚<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d43.p6s3">削去尖者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d43.p6s4">以水漿吞之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d43.p6s5">立產<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d43p8">
+          <seg xml:id="KR3ed101_jc_000-d43.p8s1">葛氏方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d43.p8s2">服水銀如大豆二枚<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d43p10">
+          <seg xml:id="KR3ed101_jc_000-d43.p10s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d43.p10s2">取梁上塵<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d43.p10s3">三指撮服<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d43p12">
+          <seg xml:id="KR3ed101_jc_000-d43.p12s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d43.p12s2">燒鐵杵令赤<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d43.p12s3">內酒中飲之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d43p14">
+          <seg xml:id="KR3ed101_jc_000-d43.p14s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d43.p14s2">燒斧如上<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d43p16">
+          <seg xml:id="KR3ed101_jc_000-d43.p16s1">集驗方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d43.p16s2">菟絲子酒<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d43.p16s3">若米汁<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d43.p16s4">服方寸匕<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d43.p16s5">即出<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d43p18">
+          <seg xml:id="KR3ed101_jc_000-d43.p18s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d43.p18s2">車前子服之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d43.p18s3">如上法<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ed101_jc_000-d44">
+        <head n="h1" xml:id="KR3ed101_jc_000-d44h1">
+          <seg xml:id="KR3ed101_jc_000-d44.h1s1">四○、子死腹中方</seg>
+        </head>
+        <p xml:id="KR3ed101_jc_000-d44p2">
+          <seg xml:id="KR3ed101_jc_000-d44.p2s1">病源論云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d44.p2s2">此或因驚動倒僕<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d44.p2s3">或染溫疫傷寒<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d44.p2s4">取毒入於胞藏<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d44.p2s5">致令胎死<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d44.p2s6">其候當胎處冷<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d44.p2s7">為胎已死也<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d44.p2s8">
+            <c n="（"/>簡案此論<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d44.p2s9">與今本病源大異<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d44.p2s10">千金外臺亦無所考<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d44.p2s11">疑是他書之文<c n="。"/>
+            <c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d44p4">
+          <seg xml:id="KR3ed101_jc_000-d44.p4s1">小品方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d44.p4s2">吞水銀一兩<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d44.p4s3">急出<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d44p6">
+          <seg xml:id="KR3ed101_jc_000-d44.p6s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d44.p6s2">搗芎藭酒服方寸匕<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d44.p6s3">神良<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d44p8">
+          <seg xml:id="KR3ed101_jc_000-d44.p8s1">僧深方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d44.p8s2">取牛膝根兩株<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d44.p8s3">拍破以沸湯汳</seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d44.p8s4">
+            <c n="（"/>簡案醫心方作沷字<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d44.p8s5">書沷灌也<c n="。"/>
+            <c n="）"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d44.p8s6">之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d44.p8s7">飲汁<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d44.p8s8">兒立出<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d44p10">
+          <seg xml:id="KR3ed101_jc_000-d44.p10s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d44.p10s2">好書墨三寸末<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d44.p10s3">一頓飲之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d44.p10s4">即下<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d44p12">
+          <seg xml:id="KR3ed101_jc_000-d44.p12s1">葛氏方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d44.p12s2">以苦酒煮大豆<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d44.p12s3">令濃漉取汁<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d44.p12s4">服三升<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d44.p12s5">死胎即下<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d44p14">
+          <seg xml:id="KR3ed101_jc_000-d44.p14s1">龍門方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d44.p14s2">桃根者<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d44.p14s3">
+            <c n="（"/>簡案疑是煮字<c n="。"/>
+            <c n="）"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d44.p14s4">濃用浴膝下<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d44.p14s5">立出<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d44p16">
+          <seg xml:id="KR3ed101_jc_000-d44.p16s1">千金方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d44.p16s2">以牛屎塗□□上立出<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d44p18">
+          <seg xml:id="KR3ed101_jc_000-d44.p18s1">產經云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d44.p18s2">取瞿麥一把<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d44.p18s3">煮二三沸<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d44.p18s4">飲其汁立出<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d44.p18s5">一方治</seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d44.p18s6">
+            <c n="（"/>簡案醫心方引小品作篩<c n="。"/>
+            <c n="）"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d44.p18s7">下服方寸匕<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ed101_jc_000-d45">
+        <head n="h1" xml:id="KR3ed101_jc_000-d45h1">
+          <seg xml:id="KR3ed101_jc_000-d45.h1s1">四一、胞衣不出方</seg>
+        </head>
+        <p xml:id="KR3ed101_jc_000-d45p2">
+          <seg xml:id="KR3ed101_jc_000-d45.p2s1">病源論云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d45.p2s2">有產兒出<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d45.p2s3">而胞不落者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d45.p2s4">世謂之息胞<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d45.p2s5">由產出而體疲<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d45.p2s6">不能更用氣<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d45.p2s7">
+            <c n="（"/>簡案病源氣下有產字<c n="。"/>
+            <c n="）"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d45.p2s8">胞經停之間<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d45.p2s9">外冷氣乘之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d45.p2s10">則血道澀<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d45.p2s11">故胞不出<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d45.p2s12">若挽其胞系斷者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d45.p2s13">其胞上則斃人<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d45p4">
+          <seg xml:id="KR3ed101_jc_000-d45.p4s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d45.p4s2">多服豬肪<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d45.p4s3">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d45.p4s4">以水煮弓弦飲之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d45.p4s5">一升許<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d45.p4s6">
+            <c n="（"/>
+            <c n="「"/>原注<c n="」"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d45.p4s7">小品方同之<c n="。"/>
+            <c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d45p6">
+          <seg xml:id="KR3ed101_jc_000-d45.p6s1">陶宏景本草注云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d45.p6s2">吞胡麻油少少<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d45.p6s3">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d45.p6s4">取弓弩弦縛腰<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d45p8">
+          <seg xml:id="KR3ed101_jc_000-d45.p8s1">葛氏方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d45.p8s2">月水布燒末<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d45.p8s3">以服少少<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d45p10">
+          <seg xml:id="KR3ed101_jc_000-d45.p10s1">僧深方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d45.p10s2">水銀服如大豆二枚<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d45.p10s3">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d45.p10s4">取夫單衣若巾<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d45.p10s5">覆井立出<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d45p12">
+          <seg xml:id="KR3ed101_jc_000-d45.p12s1">小品方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d45.p12s2">小麥小豆合煮汁<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d45.p12s3">飲立出<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d45p14">
+          <seg xml:id="KR3ed101_jc_000-d45.p14s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d45.p14s2">井中土如梧子大<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d45.p14s3">吞之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d45p16">
+          <seg xml:id="KR3ed101_jc_000-d45.p16s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d45.p16s2">男吞小豆七枚<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d45.p16s3">女吞十四枚<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d45.p16s4">
+            <c n="（"/>
+            <c n="「"/>原注<c n="」"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d45.p16s5">集驗方同之<c n="。"/>
+            <c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d45p18">
+          <seg xml:id="KR3ed101_jc_000-d45.p18s1">龍門方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d45.p18s2">取灶中黃土末<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d45.p18s3">著臍中<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d45.p18s4">
+            <c n="（"/>
+            <c n="「"/>原注<c n="」"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d45.p18s5">廣濟方三指撮水服之<c n="。"/>
+            <c n="）"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ed101_jc_000-d46">
+        <head n="h1" xml:id="KR3ed101_jc_000-d46h1">
+          <seg xml:id="KR3ed101_jc_000-d46.h1s1">四二、小兒斷臍方</seg>
+        </head>
+        <p xml:id="KR3ed101_jc_000-d46p2">
+          <seg xml:id="KR3ed101_jc_000-d46.p2s1">產經云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d46.p2s2">凡兒斷臍法<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d46.p2s3">以銅刀斷之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d46.p2s4">或以竹刀斷之吉<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d46.p2s5">臍當令長六寸<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d46.p2s6">長則傷肌<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d46.p2s7">短則傷藏<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d46p4">
+          <seg xml:id="KR3ed101_jc_000-d46.p4s1">又古人云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d46.p4s2">小兒臍結落<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d46.p4s3">若其膚爛有膿氣者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d46.p4s4">一日不令沐浴例也<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d46p6">
+          <seg xml:id="KR3ed101_jc_000-d46.p6s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d46.p6s2">胞衣如和布裹兒放取更斷臍云云<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d46.p6s3">
+            <c n="（"/>簡案以上二條<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d46.p6s4">醫心方不載<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d46.p6s5">文義難通<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d46.p6s6">所稱古人<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d46.p6s7">蓋本朝之人<c n="。"/>
+            <c n="）"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ed101_jc_000-d47">
+        <head n="h1" xml:id="KR3ed101_jc_000-d47h1">
+          <seg xml:id="KR3ed101_jc_000-d47.h1s1">四三、小兒乳付次第</seg>
+        </head>
+        <p xml:id="KR3ed101_jc_000-d47p2">
+          <seg xml:id="KR3ed101_jc_000-d47.p2s1">產經云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d47.p2s2">兒初生時<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d47.p2s3">先去口中舌上銜血<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d47.p2s4">即不去<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d47.p2s5">須臾凝吞入<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d47.p2s6">令兒成腹中百病<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d47.p2s7">
+            <c n="（"/>
+            <c n="「"/>原注<c n="」"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d47.p2s8">以綿纏手指頭<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d47.p2s9">以拭去之<c n="。"/>
+            <c n="）"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d47.p2s10">更次取甘草<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d47.p2s11">如手中指一節許<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d47.p2s12">打研<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d47.p2s13">
+            <c n="（"/>簡案醫心方作碎<c n="。"/>
+            <c n="）"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d47.p2s14">以水二合<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d47.p2s15">煮取一合<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d47.p2s16">與之令吮也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d47.p2s17">口傳云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d47.p2s18">以無名指塗之云云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d47.p2s19">次與朱蜜<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d47.p2s20">產經云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d47.p2s21">三日可與<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d47.p2s22">令兒鎮精神魂魄<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d47.p2s23">真朱精練研者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d47.p2s24">加大豆<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d47.p2s25">多以赤蜜一𧖙<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d47.p2s26">
+            <c n="（"/>簡案醫心方有谷字<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d47.p2s27">和名類聚抄<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d47.p2s28">引文字集略<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d47.p2s29">蜆音顯<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d47.p2s30">亦作𧖙<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d47.p2s31">字典引集韻<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d47.p2s32">𧖙蜆同<c n="。"/>
+            <c n="）"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d47.p2s33">和之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d47.p2s34">次與牛黃<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d47.p2s35">益肝膽<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d47.p2s36">除熱定驚<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d47.p2s37">辟惡氣也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d47.p2s38">次與人乳<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ed101_jc_000-d48">
+        <head n="h1" xml:id="KR3ed101_jc_000-d48h1">
+          <seg xml:id="KR3ed101_jc_000-d48.h1s1">四四、小兒丹瘡方</seg>
+        </head>
+        <p xml:id="KR3ed101_jc_000-d48p2">
+          <seg xml:id="KR3ed101_jc_000-d48.p2s1">病源論云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d48.p2s2">風熱毒客在腠理<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d48.p2s3">熱毒搏於血<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d48.p2s4">蒸發於外皮<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d48.p2s5">上熱而赤<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d48.p2s6">如塗丹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d48.p2s7">故謂之丹也<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d48p4">
+          <seg xml:id="KR3ed101_jc_000-d48.p4s1">產經云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d48.p4s2">夫丹者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d48.p4s3">惡毒之氣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d48.p4s4">五色無常<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d48.p4s5">赤小豆<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d48.p4s6">作屑以甘草湯塗之<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d48.p4s7">
+            <c n="（"/>
+            <c n="「"/>原注<c n="」"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d48.p4s8">今案錄驗方<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d48.p4s9">和麻油途之<c n="。"/>
+            <c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d48p6">
+          <seg xml:id="KR3ed101_jc_000-d48.p6s1">錄驗方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d48.p6s2">取甘松根薄之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d48.p6s3">亦宜服少許汁<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d48p8">
+          <seg xml:id="KR3ed101_jc_000-d48.p8s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d48.p8s2">搗慎火草<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d48.p8s3">薄之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d48p10">
+          <seg xml:id="KR3ed101_jc_000-d48.p10s1">千金方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d48.p10s2">牛矢塗之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d48p12">
+          <seg xml:id="KR3ed101_jc_000-d48.p12s1">小品方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d48.p12s2">水中苔傅之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d48p14">
+          <seg xml:id="KR3ed101_jc_000-d48.p14s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d48.p14s2">芒硝內湯中取汁<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d48.p14s3">拭上<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d48p16">
+          <seg xml:id="KR3ed101_jc_000-d48.p16s1">新錄方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d48.p16s2">水若油研支子人<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d48.p16s3">
+            <c n="（"/>簡案支梔通<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d48.p16s4">太平御覽引本草經<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d48.p16s5">梔子作支子<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d48.p16s6">本草和名作枝子<c n="。"/>
+            <c n="）"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d48.p16s7">採汁洗之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d48p18">
+          <seg xml:id="KR3ed101_jc_000-d48.p18s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d48.p18s2">生藍汁塗之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d48p20">
+          <seg xml:id="KR3ed101_jc_000-d48.p20s1">範汪方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d48.p20s2">以生魚血塗之<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d48.p20s3">
+            <c n="（"/>
+            <c n="「"/>原注<c n="」"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d48.p20s4">蘇敬本草<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d48.p20s5">注鯉血良<c n="。"/>
+            <c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d48p22">
+          <seg xml:id="KR3ed101_jc_000-d48.p22s1">本草拾遺云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d48.p22s2">鯽魚鱠<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d48.p22s3">主小兒大人丹毒<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ed101_jc_000-d49">
+        <head n="h1" xml:id="KR3ed101_jc_000-d49h1">
+          <seg xml:id="KR3ed101_jc_000-d49.h1s1">四五、治小兒霍亂方</seg>
+        </head>
+        <p xml:id="KR3ed101_jc_000-d49p2">
+          <seg xml:id="KR3ed101_jc_000-d49.p2s1">病源論云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d49.p2s2">小兒腸胃嫩弱<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d49.p2s3">因解脫逢風冷<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d49.p2s4">乳哺不消<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d49.p2s5">而變吐利也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d49.p2s6">或乳母觸冒風冷<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d49.p2s7">食生冷物<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d49.p2s8">皆冷氣流入乳飲之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d49.p2s9">亦成霍亂<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d49p4">
+          <seg xml:id="KR3ed101_jc_000-d49.p4s1">錄驗方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d49.p4s2">煮厚朴服之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d49.p4s3">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d49.p4s4">煮梨葉服之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d49p6">
+          <seg xml:id="KR3ed101_jc_000-d49.p6s1">千金方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d49.p6s2">牛涎灌口中<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d49.p6s3">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d49.p6s4">熱牛矢<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d49.p6s5">汁含之<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ed101_jc_000-d50">
+        <head n="h1" xml:id="KR3ed101_jc_000-d50h1">
+          <seg xml:id="KR3ed101_jc_000-d50.h1s1">四六、小兒月食瘡方</seg>
+        </head>
+        <p xml:id="KR3ed101_jc_000-d50p2">
+          <seg xml:id="KR3ed101_jc_000-d50.p2s1">病源論云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d50.p2s2">耳鼻口間生創<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d50.p2s3">謂之月食創<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d50.p2s4">其瘡隨月生死<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d50.p2s5">因以為名<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d50.p2s6">世云<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d50p4">
+          <seg xml:id="KR3ed101_jc_000-d50.p4s1">小兒見月初生以手指指之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d50.p4s2">則令耳下生創<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d50.p4s3">呼為月食瘡<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d50p6">
+          <seg xml:id="KR3ed101_jc_000-d50.p6s1">千金方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d50.p6s2">蘇</seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d50.p6s3">
+            <c n="（"/>簡案千金作酥<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d50.p6s4">酥蘇古通<c n="。"/>
+            <c n="）"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d50.p6s5">和胡粉塗之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d50.p6s6">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d50.p6s7">燒蚯蚓矢<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d50.p6s8">和膏傅之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d50p8">
+          <seg xml:id="KR3ed101_jc_000-d50.p8s1">葛氏方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d50.p8s2">以五月五日<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d50.p8s3">蝦蟆屑<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d50.p8s4">和膏傅<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d50p10">
+          <seg xml:id="KR3ed101_jc_000-d50.p10s1">產經云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d50.p10s2">取羅摩草汁<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d50.p10s3">塗上<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d50.p10s4">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d50.p10s5">銼槐枝煮取汁<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d50.p10s6">洗之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d50p12">
+          <seg xml:id="KR3ed101_jc_000-d50.p12s1">龍門方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d50.p12s2">豬脂和杏仁傅付之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d50p14">
+          <seg xml:id="KR3ed101_jc_000-d50.p14s1">徐之才方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d50.p14s2">小蘗皮<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d50.p14s3">搗為末<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d50.p14s4">傅之<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ed101_jc_000-d51">
+        <head n="h1" xml:id="KR3ed101_jc_000-d51h1">
+          <seg xml:id="KR3ed101_jc_000-d51.h1s1">四七、小兒食草芥哽方</seg>
+        </head>
+        <p xml:id="KR3ed101_jc_000-d51p2">
+          <seg xml:id="KR3ed101_jc_000-d51.p2s1">產經云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d51.p2s2">好蜜<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d51.p2s3">少少飲之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d51p4">
+          <seg xml:id="KR3ed101_jc_000-d51.p4s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d51.p4s2">末瞿麥<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d51.p4s3">服方寸匕<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d51p6">
+          <seg xml:id="KR3ed101_jc_000-d51.p6s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d51.p6s2">豬膏和雞子吞之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d51.p6s3">不去<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d51.p6s4">復吞兩三過良<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ed101_jc_000-d52">
+        <head n="h1" xml:id="KR3ed101_jc_000-d52h1">
+          <seg xml:id="KR3ed101_jc_000-d52.h1s1">四八、小兒誤吞針方</seg>
+        </head>
+        <p xml:id="KR3ed101_jc_000-d52p2">
+          <seg xml:id="KR3ed101_jc_000-d52.p2s1">千金方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d52.p2s2">吞慈石棗大<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d52.p2s3">立出<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d52.p2s4">
+            <c n="（"/>
+            <c n="「"/>原注<c n="」"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d52.p2s5">今案產經末少少服之<c n="。"/>
+            <c n="）"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ed101_jc_000-d53">
+        <head n="h1" xml:id="KR3ed101_jc_000-d53h1">
+          <seg xml:id="KR3ed101_jc_000-d53.h1s1">四九、小兒食魚骨哽方</seg>
+        </head>
+        <p xml:id="KR3ed101_jc_000-d53p2">
+          <seg xml:id="KR3ed101_jc_000-d53.p2s1">產經云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d53.p2s2">以大刀鐶摩喉<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d53.p2s3">二七過良<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d53p4">
+          <seg xml:id="KR3ed101_jc_000-d53.p4s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d53.p4s2">燒魚骨末<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d53.p4s3">水飲良<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed101_jc_000-d53p6">
+          <seg xml:id="KR3ed101_jc_000-d53.p6s1">又方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d53.p6s2">燒鸕鷀羽末<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d53.p6s3">水服之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d53.p6s4">即出<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ed101_jc_000-d54">
+        <head n="h1" xml:id="KR3ed101_jc_000-d54h1">
+          <seg xml:id="KR3ed101_jc_000-d54.h1s1">五○、小兒飲梅李輩哽方</seg>
+        </head>
+        <p xml:id="KR3ed101_jc_000-d54p2">
+          <seg xml:id="KR3ed101_jc_000-d54.p2s1">產經云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d54.p2s2">以水灌兒頭上<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d54.p2s3">承取汁<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d54.p2s4">
+            <c n="（"/>簡案外臺引肘後<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d54.p2s5">作其水<c n="。"/>
+            <c n="）"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d54.p2s6">與飲之良<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d54.p2s7">
+            <c n="（"/>
+            <c n="「"/>原注<c n="」"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d54.p2s8">葛氏方同之<c n="。"/>
+            <c n="）"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ed101_jc_000-d55">
+        <head n="h1" xml:id="KR3ed101_jc_000-d55h1">
+          <seg xml:id="KR3ed101_jc_000-d55.h1s1">五一、落水死方</seg>
+        </head>
+        <p xml:id="KR3ed101_jc_000-d55p2">
+          <seg xml:id="KR3ed101_jc_000-d55.p2s1">應急靈妙藥方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d55.p2s2">急解去死人衣帶<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d55.p2s3">灸臍中即治<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed101_jc_000-d55.p2s4">
+            <c n="（"/>簡案拾芥抄作活<c n="。"/>
+            <c n="）"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ed101_jc_000-d56">
+        <head n="h1" xml:id="KR3ed101_jc_000-d56h1">
+          <seg xml:id="KR3ed101_jc_000-d56.h1s1">五二、鼠咬方</seg>
+        </head>
+        <p xml:id="KR3ed101_jc_000-d56p2">
+          <seg xml:id="KR3ed101_jc_000-d56.p2s1">同妙藥方云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d56.p2s2">麝香塗帛上<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed101_jc_000-d56.p2s3">系咬處<c n="。"/>
+          </seg>
+        </p>
+</div>
+    </body>
+  </text>
+</TEI>

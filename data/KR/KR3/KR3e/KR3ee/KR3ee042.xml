@@ -1,0 +1,2445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KR3ee042">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>針學通論</title>
+        <author>日本· 佐藤利信</author>
+      </titleStmt>
+      <extent>
+        <measure unit="char" quantity="5571"/>
+        <date when-iso="2024-02-21T13:40:49.864+09:00"/>
+      </extent>
+      <publicationStmt>
+        <p>Originally published at <ref target="https://jicheng.tw/tcm/book/index.html">中醫笈成:針學通論</ref>. Checkout from https://gitlab.com/jicheng/jc.data, commit aab40201, 2022-12-28.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>收錄於《<ref target="../../help/reference.html#other">皇漢醫學叢書</ref>》第十冊，上海中醫學院出版社據1936年世界書局鉛印本校勘翻印，1993年。</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+      </creation>
+      <textClass>
+        <catRef scheme="#kr-categories" target="#KR3ee"/>
+      </textClass>
+    </profileDesc>
+    <encodingDesc>
+      <p>Quality: </p>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+
+<div n="h1" xml:id="KR3ee042_jc_000-d2">
+        <head n="h1" xml:id="KR3ee042_jc_000-d2h1">
+          <seg xml:id="KR3ee042_jc_000-d2.h1s1">凡例</seg>
+        </head>
+        <p xml:id="KR3ee042_jc_000-d2p2">
+          <seg xml:id="KR3ee042_jc_000-d2.p2s1">
+            <c n="—"/>此書<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d2.p2s2">本欲使瞽者就針術之學<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d2.p2s3">故要字句簡略<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d2.p2s4">若文字深艱<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d2.p2s5">學者恐難以記憶也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d2.p2s6">蓋所以誘導瞽者學於針科者也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d2.p2s7">天降生民<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d2.p2s8">精神各有等差焉<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d2.p2s9">容貌亦有好醜焉<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d2.p2s10">人之愚者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d2.p2s11">因教而為有知識<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d2.p2s12">然天賦之畸形<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d2.p2s13">雖神醫亦不能奈之何<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d2.p2s14">就中如瞽者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d2.p2s15">則為不幸極端<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d2.p2s16">誠可憫憐者也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d2.p2s17">惟尚有辨明遠近之區別<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d2.p2s18">及萬物之外貌者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d2.p2s19">喑啞<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d2.p2s20">聾跛之類是也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d2.p2s21">獨瞽者反之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d2.p2s22">不能判斷色澤紋理<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d2.p2s23">不能諦認道途遠近<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d2.p2s24">故授業於彼<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d2.p2s25">亦舍針術而他無好機焉<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d2.p2s26">因而所以施余之婆心<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d2.p2s27">於彼輩亦不過之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ee042_jc_000-d2p4">
+          <seg xml:id="KR3ee042_jc_000-d2.p4s1">
+            <c n="—"/>古來指示刺針之訣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d2.p4s2">所謂俞穴<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d2.p4s3">然此書現今因所行於世解剖者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d2.p4s4">而定其針局<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d2.p4s5">故盡改俞穴<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d2.p4s6">稱局名<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ee042_jc_000-d2p6">
+          <seg xml:id="KR3ee042_jc_000-d2.p6s1">
+            <c n="—"/>書中偶有插入洋語<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d2.p6s2">蓋洋語者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d2.p6s3">所用泰西醫學之原語<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d2.p6s4">襲用之也<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ee042_jc_000-d2p8">
+          <seg xml:id="KR3ee042_jc_000-d2.p8s1">一書中所以不採針局之名稱於漢法者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d2.p8s2">方今當萬國交通之際<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d2.p8s3">殆如不適時態<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d2.p8s4">故悉除之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d2.p8s5">但限緊要之個所<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d2.p8s6">則記漢名<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d2.p8s7">又代漢名<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d2.p8s8">由解剖而定名稱<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d2.p8s9">如謂施針頭於何筋之起始<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d2.p8s10">何仙蔑篤兒<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d2.p8s11">然予固不敏<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d2.p8s12">學亦陋淺<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d2.p8s13">有何為焉<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d2.p8s14">故待後之訂正者也<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ee042_jc_000-d3">
+        <head n="h1" xml:id="KR3ee042_jc_000-d3h1">
+          <seg xml:id="KR3ee042_jc_000-d3.h1s1">第一章　定形</seg>
+        </head>
+        <figure>
+<figure>
+            <graphic data-orig-src="urn:270:07136.jpg" url="" rend="第一圖　第二圖"/>
+          </figure>
+</figure>
+<p xml:id="KR3ee042_jc_000-d3p4">
+          <seg xml:id="KR3ee042_jc_000-d3.p4s1">森羅萬象固是無形<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p4s2">自然成焉<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p4s3">唯為其形也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p4s4">有圓<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p4s5">有扁<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p4s6">有角<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p4s7">有長短<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p4s8">或有大小厚薄<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p4s9">故定形之法<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p4s10">宜從尺度<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p4s11">然尺度<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p4s12">亦各國其制不同<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p4s13">獨用佛國之蔑篤兒尺<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p4s14">則謂無大等差矣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p4s15">蓋一蔑篤兒者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p4s16">概當我三尺強矣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p4s17">但尺者寸十倍之稱<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p4s18">然謂寸<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p4s19">謂尺<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p4s20">亦其根據創於大極<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p4s21">大極者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p4s22">謂斥象無形之點<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p4s23">譬以針頭沖物體<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p4s24">則如第一圖<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p4s25">更謂如呈一個之點者也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p4s26">又一點之傍<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p4s27">加一點倍增<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p4s28">加而橫連列之點<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p4s29">則為一文字之形<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p4s30">名曰地平線<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p4s31">恰如橫針之象<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p4s32">如第二圖<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p4s33">又從地平線之中心<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p4s34">向上下而畫線者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p4s35">名曰鉛直線<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p4s36">如直立針<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p4s37">既縱橫二線相合<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p4s38">則為十字形<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p4s39">又加十字形之間<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p4s40">漸次追間隙<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p4s41">以作十字形<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p4s42">又施點於各線末端之間<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p4s43">點連作環<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p4s44">然後假除去十字形<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p4s45">則如第三圖<c n="。"/>
+          </seg>
+        </p>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:07137.jpg" url="" rend="第三圖　第四圖"/>
+          </figure>
+</figure>
+<p xml:id="KR3ee042_jc_000-d3p8">
+          <seg xml:id="KR3ee042_jc_000-d3.p8s1">唯殘一輪<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p8s2">名曰圓<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p8s3">譬猶針干之橫斷面<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p8s4">蓋圓輪之內畫十字形<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p8s5">且從十字形之中心<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p8s6">一方之橫線<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p8s7">與縱線相對<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p8s8">則所謂為九十度之角<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p8s9">譬猶人身直立橫開上肢<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p8s10">則如第四圖顯腋下角度是也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p8s11">故圓輪之角度<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p8s12">成於三百六十<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p8s13">而一個之其角悉銳<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p8s14">譬第五圖如烏嘴<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p8s15">反九十度之角鈍矣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p8s16">又半割圓輪者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p8s17">名曰孤線<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p8s18">譬擬眼窩緣如第六圖<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p8s19">又象九十度自橫線之極端<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p8s20">縱線與並行<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p8s21">而更覆割孤線<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p8s22">畫鉛直線<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p8s23">且當二個縱線之末端<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p8s24">引橫線則所謂為角<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p8s25">第七圖是也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p8s26">譬欲象用四個之針<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p8s27">則先置一個針於縱線<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p8s28">又一個針者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p8s29">以針長之距離<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p8s30">令並行<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p8s31">而殘針二個者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p8s32">橫並行縱針之上下<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p8s33">則所謂為角<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p8s34">又從角之一隅<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p8s35">對他隅而更引斜線<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p8s36">則得二個三角形<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p8s37">三角形者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p8s38">人身直立<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p8s39">而開足於左右<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p8s40">則顯股間<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d3.p8s41">如第八圖是也<c n="。"/>
+          </seg>
+        </p>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:07138.jpg" url="" rend="第五圖"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:07139.jpg" url="" rend="第六圖　第七圖　第八圖"/>
+          </figure>
+</figure>
+
+</div>
+      <div n="h1" xml:id="KR3ee042_jc_000-d4">
+        <head n="h1" xml:id="KR3ee042_jc_000-d4h1">
+          <seg xml:id="KR3ee042_jc_000-d4.h1s1">第二章　古今針之種類</seg>
+        </head>
+        <figure>
+<figure>
+            <graphic data-orig-src="urn:270:07140.jpg" url="" rend="第九圖　第十圖"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:07141.jpg" url="" rend="第十一圖　第十二圖"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:07142.jpg" url="" rend="第十三圖"/>
+          </figure>
+</figure>
+<p xml:id="KR3ee042_jc_000-d4p8">
+          <seg xml:id="KR3ee042_jc_000-d4.p8s1">古有制九針法<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s2">如第九圖<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s3">第十圖<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s4">第十一圖是也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s5">內經曰<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s6">虛實之要<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s7">九針最妙者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s8">為其各有所宜也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s9">注曰<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s10">熱在頭身<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s11">宜鑱針<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s12">分肉氣滿<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s13">宜圓針<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s14">脈氣虛少<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s15">宜鍉針<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s16">瀉熱出血<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s17">發泄<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s18">痼病<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s19">宜鋒針<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s20">破癰腫<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s21">出膿血<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s22">宜鈹針<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s23">調陰陽<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s24">去暴痹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s25">宜圓利針<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s26">治經絡中痛痹宜毫針<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s27">痹深居骨解腰脊<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s28">節腠之間者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s29">宜長針<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s30">虛風<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s31">舍於骨解皮膚之間者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s32">宜大針<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s33">此之謂各有所宜也<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ee042_jc_000-d4.p8s34">
+            <c n="（"/>以下略<c n="）"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s35">然而<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s36">所用治療之針者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s37">近世雖有如第十二圖柳葉針<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s38">或如第十三圖三稜針等<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s39">若千種類<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s40">各是<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s41">所用瀉血法之針<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s42">而所謂屬外科的器具也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s43">是以適針術者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s44">無勝毫針<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s45">又針者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s46">以金屬製之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s47">蓋金屬之通性<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s48">除水銀<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s49">他金屬在常溫<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s50">則悉屬固形體<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s51">又存一種礦輝<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s52">又其色<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s53">各礦色不同<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s54">有淡白<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s55">有青色<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s56">有灰白色<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s57">但在黃金及銅則具固有之色<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s58">又金屬者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s59">各雖不透明獨如黃金者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s60">槌為箔則通光線<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s61">又金屬者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s62">溫且電氣之好導體也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s63">故銀自銅易導<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s64">銅自黃金易導矣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s65">又遇適應之溫<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s66">則雖得熔融<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s67">多是得結晶者也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s68">又金屬者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s69">堅軟各異之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s70">又所以有用工業<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s71">無他<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s72">易展延<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s73">由難摧折<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s74">又輕金屬<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s75">大氣之酸素與親和力<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s76">甚強<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s77">氣中速酸化<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s78">雖失光澤<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s79">又金屬親和力<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s80">弱故永遠<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s81">可得保光澤<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s82">又金屬與水素無化合之性<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s83">又白金及黃金<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s84">投沸騰硫酸<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s85">亦敢不熔解<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s86">銀及他金屬<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s87">能可熔解硝酸<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s88">又如銀及黃金者其分子<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s89">凝聚至緻密<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d4.p8s90">故制之宜作毫針<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ee042_jc_000-d5">
+        <head n="h1" xml:id="KR3ee042_jc_000-d5h1">
+          <seg xml:id="KR3ee042_jc_000-d5.h1s1">第三章　銀針及金針之性質</seg>
+        </head>
+        <div n="h2" xml:id="KR3ee042_jc_000-d5d2">
+          <head n="h2" xml:id="KR3ee042_jc_000-d5.d2h1">
+            <seg xml:id="KR3ee042_jc_000-d5.d2.h1s1">第一款　銀</seg>
+          </head>
+          <p xml:id="KR3ee042_jc_000-d5.d2p2">
+            <seg xml:id="KR3ee042_jc_000-d5.d2.p2s1">
+              <c n="("/>所在<c n=")"/>有純銀<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d2.p2s2">又為硫化銀礦<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d2.p2s3">又硫黃及砒素<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d2.p2s4">或有使安質母尼化合<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d2.p2s5">總他金屬混<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d2.p2s6">化合物現出矣<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d2.p2s7">偶其小量混硫化鉛<c n="。"/>
+            </seg>
+          </p>
+<p xml:id="KR3ee042_jc_000-d5.d2p4">
+            <seg xml:id="KR3ee042_jc_000-d5.d2.p4s1">
+              <c n="("/>製法<c n=")"/>不混合他金屬<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d2.p4s2">則製法<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d2.p4s3">亦簡易<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d2.p4s4">其遊離者於爐中熔融<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d2.p4s5">而除去不潔物<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d2.p4s6">如硫化銀礦者<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d2.p4s7">於爐中加高度之熱<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d2.p4s8">而熔融<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d2.p4s9">則全得銀<c n="。"/>
+            </seg>
+          </p>
+<p xml:id="KR3ee042_jc_000-d5.d2p6">
+            <seg xml:id="KR3ee042_jc_000-d5.d2.p6s1">
+              <c n="("/>性狀<c n=")"/>銀者<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d2.p6s2">白色金屬<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d2.p6s3">而能無變化氣中<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d2.p6s4">其比重一○五也<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d2.p6s5">煅至千度<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d2.p6s6">則為熔融<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d2.p6s7">又遇爆鳴瓦斯火焰熱<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d2.p6s8">則蒸餾<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d2.p6s9">又使易溫熱及電氣導<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d2.p6s10">又捶則為箔片<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d2.p6s11">又牽延<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d2.p6s12">則為細微線<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d2.p6s13">又銀者<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d2.p6s14">不論熱高低<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d2.p6s15">均無酸素與化合<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d2.p6s16">雖然<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d2.p6s17">熱之熔融之際<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d2.p6s18">能使自溶二十倍酸素<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d2.p6s19">攝收<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d2.p6s20">將冷卻<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d2.p6s21">還固形<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d2.p6s22">當此期<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d2.p6s23">復放離之<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d2.p6s24">其放離際發特異之音<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d2.p6s25">謂名之銀沸迸<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d2.p6s26">銀者含有硫化水素<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d2.p6s27">故觸大氣<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d2.p6s28">則被黑色鏽衣<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d2.p6s29">是由化生其硫化銀<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d2.p6s30">又有格魯兒<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d2.p6s31">貌魯繆母<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d2.p6s32">及沃度<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d2.p6s33">與親和力甚盛<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d2.p6s34">而直與之化合性<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d2.p6s35">又遇鹽酸<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d2.p6s36">亦不論溫度之高低<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d2.p6s37">渾雖無侵<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d2.p6s38">遇濃厚熱硫酸溶液<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d2.p6s39">則使硫酸銀化成<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d2.p6s40">且溶解於其中<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d2.p6s41">又常溫於硝酸能使銀溶解<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d2.p6s42">終以硝酸銀化生焉<c n="。"/>
+            </seg>
+          </p>
+
+</div>
+        <div n="h2" xml:id="KR3ee042_jc_000-d5d3">
+          <head n="h2" xml:id="KR3ee042_jc_000-d5.d3h1">
+            <seg xml:id="KR3ee042_jc_000-d5.d3.h1s1">第二款　黃金</seg>
+          </head>
+          <p xml:id="KR3ee042_jc_000-d5.d3p2">
+            <seg xml:id="KR3ee042_jc_000-d5.d3.p2s1">
+              <c n="("/>所在<c n=")"/>是能以遊離<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d3.p2s2">存在地中及河海<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d3.p2s3">雖然<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d3.p2s4">多是含礦質中銀<c n="。"/>
+            </seg>
+          </p>
+<p xml:id="KR3ee042_jc_000-d5.d3p4">
+            <seg xml:id="KR3ee042_jc_000-d5.d3.p4s1">
+              <c n="("/>製法<c n=")"/>坊間所販黃金者<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d3.p4s2">必不純精<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d3.p4s3">若不混銀<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d3.p4s4">則必混銅焉<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d3.p4s5">又欲制其純金<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d3.p4s6">則宜投礦塊於硝酸<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d3.p4s7">然則其混合物中在礦塊銀等<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d3.p4s8">而悉雖可溶解<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d3.p4s9">獨黃金<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d3.p4s10">決無侵之而殘留於其溶液中<c n="。"/>
+            </seg>
+          </p>
+<p xml:id="KR3ee042_jc_000-d5.d3p6">
+            <seg xml:id="KR3ee042_jc_000-d5.d3.p6s1">
+              <c n="("/>性狀<c n=")"/>黃色光輝<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d3.p6s2">其質柔軟<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d3.p6s3">槌可為箔片<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d3.p6s4">又牽延<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d3.p6s5">則為細微線<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d3.p6s6">其比重一九三二也<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d3.p6s7">若白熾熱<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d3.p6s8">遇千百度<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d3.p6s9">則熔化為淡綠色液<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d3.p6s10">又取箔片<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d3.p6s11">透見之<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d3.p6s12">則能呈綠色於氣中<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d3.p6s13">或於酸素中<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d3.p6s14">以烈火煅之<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d3.p6s15">亦敢不酸化<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d3.p6s16">又冒濕氣不生鏽<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d3.p6s17">鹽酸<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d3.p6s18">硫酸或煮硝酸<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d3.p6s19">亦敢無侵<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d3.p6s20">唯以王水<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d3.p6s21">則溶解於化格魯兒化金<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d3.p6s22">又黃金之鹽溶液<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d3.p6s23">為諸般還元劑<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d3.p6s24">蓋遇綠礬<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d3.p6s25">亞格魯兒化錫<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d3.p6s26">蓚酸<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d3.p6s27">及諸金屬<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d3.p6s28">則為褐色粉末沉澱矣<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d3.p6s29">然而其金且其化合物<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d3.p6s30">亦皆是受高溫則分解<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d3.p6s31">以還元<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d5.d3.p6s32">生金矣<c n="。"/>
+            </seg>
+          </p>
+
+</div>
+      </div>
+      <div n="h1" xml:id="KR3ee042_jc_000-d6">
+        <head n="h1" xml:id="KR3ee042_jc_000-d6h1">
+          <seg xml:id="KR3ee042_jc_000-d6.h1s1">第四章　針之區別及名稱</seg>
+        </head>
+        <figure>
+<figure>
+            <graphic data-orig-src="urn:270:07143.jpg" url="" rend="第十四圖"/>
+          </figure>
+</figure>
+<p xml:id="KR3ee042_jc_000-d6p4">
+          <seg xml:id="KR3ee042_jc_000-d6.p4s1">夫制針者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d6.p4s2">別頭<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d6.p4s3">鋒<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d6.p4s4">腳<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d6.p4s5">柄<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d6.p4s6">於四部<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d6.p4s7">針頭者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d6.p4s8">則尖端而紡錐形<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d6.p4s9">針鋒者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d6.p4s10">其體圓且長細<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d6.p4s11">但具上下二端<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d6.p4s12">上端顆粒狀<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d6.p4s13">下端存竇<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d6.p4s14">又常針<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d6.p4s15">其長概用我二寸強<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d6.p4s16">又針腳者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d6.p4s17">突入於柄之下端<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d6.p4s18">其竇中<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d6.p4s19">且柄質與密著<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d6.p4s20">其柄亦向金屬製<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d6.p4s21">而其大<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d6.p4s22">雖五倍十倍針鋒<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d6.p4s23">其長僅不過二仙<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d6.p4s24">又針頭者穿皮霄<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d6.p4s25">使組織刺入之部<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d6.p4s26">而針鋒<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d6.p4s27">與針柄者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d6.p4s28">則是依術者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d6.p4s29">被使役之部也<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ee042_jc_000-d7">
+        <head n="h1" xml:id="KR3ee042_jc_000-d7h1">
+          <seg xml:id="KR3ee042_jc_000-d7.h1s1">第五章　針洗潔法</seg>
+        </head>
+        <p xml:id="KR3ee042_jc_000-d7p2">
+          <seg xml:id="KR3ee042_jc_000-d7.p2s1">片山氏曰<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d7.p2s2">古來針家曰<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d7.p2s3">雖謂無起化膿於刺針部<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d7.p2s4">誠是攝生上不注意之至也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d7.p2s5">宜擬一定之防腐<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d7.p2s6">而不可有無其法焉<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d7.p2s7">然矣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d7.p2s8">譬猶有施刺針於傳播性之患者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d7.p2s9">直行以其針於他之患者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d7.p2s10">則恰是不異傳播性之病毒<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d7.p2s11">因彼接種法試之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d7.p2s12">是以一回所用患者之針者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d7.p2s13">悉投於盛五十倍之石炭酸水<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d7.p2s14">平缽之陶器<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d7.p2s15">宜洗滌針鋒及針尖<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d7.p2s16">洗滌後拭之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d7.p2s17">可用花綿布<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d7.p2s18">而全至無針鋒之微濕<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d7.p2s19">後更以柔軟制鹿皮<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d7.p2s20">叮嚀反復<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d7.p2s21">拭淨其針鋒<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d7.p2s22">而可藏針函<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ee042_jc_000-d8">
+        <head n="h1" xml:id="KR3ee042_jc_000-d8h1">
+          <seg xml:id="KR3ee042_jc_000-d8.h1s1">第六章　針貯藏法</seg>
+        </head>
+        <figure>
+<figure>
+            <graphic data-orig-src="urn:270:07144.jpg" url="" rend="第十五圖"/>
+          </figure>
+</figure>
+<p xml:id="KR3ee042_jc_000-d8p4">
+          <seg xml:id="KR3ee042_jc_000-d8.p4s1">凡所貯藏制針之函<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d8.p4s2">雖由各自之嗜好者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d8.p4s3">恐莫優鱉甲制者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d8.p4s4">是由⿰扌神原氏等之經驗<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d8.p4s5">亦然矣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d8.p4s6">漆工制<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d8.p4s7">木製次之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d8.p4s8">蓋針函<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d8.p4s9">則先函底內面<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d8.p4s10">更鋪平磨銅板<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d8.p4s11">且堆積版面以棉花<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d8.p4s12">又包絡綿花<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d8.p4s13">以赤色絹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d8.p4s14">或緋縮緬悉覆之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d8.p4s15">而日常欲安置針<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d8.p4s16">則斜針鋒<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d8.p4s17">或為地平線<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d8.p4s18">但其針頭聊令穿絹面<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d8.p4s19">徐徐進針鋒於綿花之堆積中<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d8.p4s20">漸至以柄之下端而止矣<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ee042_jc_000-d9">
+        <head n="h1" xml:id="KR3ee042_jc_000-d9h1">
+          <seg xml:id="KR3ee042_jc_000-d9.h1s1">第七章　針頭硎磨法</seg>
+        </head>
+        <p xml:id="KR3ee042_jc_000-d9p2">
+          <seg xml:id="KR3ee042_jc_000-d9.p2s1">凡針頭尖銳甚<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d9.p2s2">則當臨穿表皮<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d9.p2s3">患者有感惡痛<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d9.p2s4">然若紡錐形<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d9.p2s5">則其針頭進入組織之中<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d9.p2s6">亦患者不訴惡痛者也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d9.p2s7">是以甲硎法有損治術<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d9.p2s8">乙磨法知有益<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d9.p2s9">雖然<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d9.p2s10">是大有關係術者之巧拙者也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d9.p2s11">諺曰莫邪之劍因持手<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d9.p2s12">有味哉<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d9.p2s13">又欲知硎磨之精練者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d9.p2s14">則先用面積緻密白色楮紙<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d9.p2s15">可以試之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d9.p2s16">其式左手取紙<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d9.p2s17">右手持針<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d9.p2s18">徐徐刺衡紙面<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d9.p2s19">亦敢莫聞幽音<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d9.p2s20">況且其紙面快以貫通為可者也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d9.p2s21">反而如呈微音者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d9.p2s22">惟其針之硎磨<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d9.p2s23">不至精良<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ee042_jc_000-d10">
+        <head n="h1" xml:id="KR3ee042_jc_000-d10h1">
+          <seg xml:id="KR3ee042_jc_000-d10.h1s1">第八章　制針番數之理由</seg>
+        </head>
+        <figure>
+<figure>
+            <graphic data-orig-src="urn:270:07145.jpg" url="" rend="第十六圖　第十七圖"/>
+          </figure>
+</figure>
+<p xml:id="KR3ee042_jc_000-d10p4">
+          <seg xml:id="KR3ee042_jc_000-d10.p4s1">凡制針者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d10.p4s2">自一番至七番<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d10.p4s3">而尋常所用之針者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d10.p4s4">三番乃至四番<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d10.p4s5">是也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d10.p4s6">將五番以上之針者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d10.p4s7">多是用最急性之患者也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d10.p4s8">仮令<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d10.p4s9">如施卒倒<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d10.p4s10">或眩暈症之類<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d10.p4s11">而自一番至二番<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d10.p4s12">則用彼小兒<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d10.p4s13">或老叟等之體質軟弱者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d10.p4s14">蓋一番之針鋒<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d10.p4s15">比較其直徑於蚊嘴<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d10.p4s16">自二番以上以順<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d10.p4s17">令針鋒之實質為增積之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d10.p4s18">殆至七番<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d10.p4s19">則擬似蜂劍<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d10.p4s20">是以<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d10.p4s21">三番<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d10.p4s22">四番<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d10.p4s23">位於其中間者也<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ee042_jc_000-d11">
+        <head n="h1" xml:id="KR3ee042_jc_000-d11h1">
+          <seg xml:id="KR3ee042_jc_000-d11.h1s1">第九章　記號配點</seg>
+        </head>
+        <figure>
+<figure>
+            <graphic data-orig-src="urn:270:07146.jpg" url="" rend="第十八圖　第十九圖"/>
+          </figure>
+</figure>
+<p xml:id="KR3ee042_jc_000-d11p4">
+          <seg xml:id="KR3ee042_jc_000-d11.p4s1">假所以配置記號於手部各處者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d11.p4s2">無他<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d11.p4s3">當行針術<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d11.p4s4">大欲使術者得便利者也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d11.p4s5">則名左手拇指腹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d11.p4s6">為A點<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d11.p4s7">名同食指腹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d11.p4s8">為B點<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d11.p4s9">名同中指腹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d11.p4s10">為C點<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d11.p4s11">名同副指腹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d11.p4s12">為D點<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d11.p4s13">名同小指腹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d11.p4s14">為E點<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d11.p4s15">名同掌心<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d11.p4s16">為F點<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d11.p4s17">名同手掌外側緣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d11.p4s18">為G點<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d11.p4s19">又名右手拇指腹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d11.p4s20">為H點<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d11.p4s21">名同食指腹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d11.p4s22">為L點<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d11.p4s23">名同中指腹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d11.p4s24">為M點<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d11.p4s25">名同副指腹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d11.p4s26">為N點<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d11.p4s27">名同小指腹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d11.p4s28">為O點<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d11.p4s29">名同掌心<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d11.p4s30">為P點<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d11.p4s31">名同掌外側緣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d11.p4s32">為Q點<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ee042_jc_000-d12">
+        <head n="h1" xml:id="KR3ee042_jc_000-d12h1">
+          <seg xml:id="KR3ee042_jc_000-d12.h1s1">第十章　刺針一般</seg>
+        </head>
+        <figure>
+<figure>
+            <graphic data-orig-src="urn:270:07147.jpg" url="" rend="第二十圖　第二十一圖　第二十二圖"/>
+          </figure>
+</figure>
+<p xml:id="KR3ee042_jc_000-d12p4">
+          <seg xml:id="KR3ee042_jc_000-d12.p4s1">既診斷了後<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s2">患者衣服厚<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s3">則適宜取除之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s4">沉意正形<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s5">而開針函<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s6">容所出之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s7">針柄上端<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s8">於杉山氏管之下口<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s9">此際管之上口斜於下方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s10">下口向於上方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s11">更反轉管之下口<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s12">使針局密接<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s13">且其接端者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s14">以A<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s15">B暫時押之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s16">且顯其管之上端打針柄<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s17">以L捷手二三回<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s18">此際極力則患者訴痛<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s19">不用力<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s20">亦不能使針頭穿皮膚<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s21">況且各人之皮膚堅軟異之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s22">宜注意矣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s23">蓋針頭<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s24">全知穿皮膚<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s25">則以H<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s26">L摘管之上端<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s27">徐徐拔去其管<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s28">此時以A<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s29">B近針頭插鋒<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s30">則此是A<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s31">B二點<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s32">所謂為押手<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s33">又以H<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s34">L為副手夫押手者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s35">常可翦置下端<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s36">又當進入針鋒皮膚<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s37">宜酌量患者之強弱與感應<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s38">若察患者之愉快<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s39">則可知應針頭分子之波動虛<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s40">反之而患者訴疼痛<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s41">則可知分子之波動實<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s42">內經曰<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s43">刺虛者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s44">段其實<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s45">解云刺實須其虛者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s46">為針陰氣隆<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s47">至針下寒<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s48">乃去針也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s49">刺虛須其實者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s50">為針陽氣隆<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s51">至針下熱<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s52">乃去針也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s53">注曰<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s54">要以氣至<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s55">而有效也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s56">○總而主針之掌面者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s57">左右相共空洞之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s58">形仮令如擁雞卵<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s59">抑亦欲下氣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s60">則針鋒副B點<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s61">而捻<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s62">欲上氣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s63">則針鋒副A點<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s64">而捻<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s65">或以順有行<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s66">或由逆有施<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s67">難經曰<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s68">氣滑則針出疾<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s69">氣澀則針出遲<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s70">氣隆則針小而入淺<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s71">氣澀則針大而入深<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s72">深則欲留<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s73">淺則欲疾<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s74">
+            <c n="("/>中略<c n=")"/>以刺針者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s75">永留則神經之感應<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s76">亦反有不屢無效已<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s77">令患者疲勞<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s78">故淺深遲疾<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s79">響波<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s80">稽留<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s81">臨機行之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s82">蓋施術之後<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s83">三十分乃至五十分時間<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d12.p4s84">可命安臥患者<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ee042_jc_000-d13">
+        <head n="h1" xml:id="KR3ee042_jc_000-d13h1">
+          <seg xml:id="KR3ee042_jc_000-d13.h1s1">第十一章　正式及變式</seg>
+        </head>
+        <figure>
+<figure>
+            <graphic data-orig-src="urn:270:07148.jpg" url="" rend="第二十三圖"/>
+          </figure>
+</figure>
+<p xml:id="KR3ee042_jc_000-d13p4">
+          <seg xml:id="KR3ee042_jc_000-d13.p4s1">凡刺針之法者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d13.p4s2">宜由正式及變式治療之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d13.p4s3">術者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d13.p4s4">宜斟酌患者之急慢<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d13.p4s5">與肥瘠<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d13.p4s6">內經曰<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d13.p4s7">上工守神<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d13.p4s8">神乎神客有門<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d13.p4s9">未睹其疾<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d13.p4s10">惡知其源<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d13.p4s11">刺之微<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d13.p4s12">在遲速<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d13.p4s13">櫟因曰刺針部<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d13.p4s14">宗氣聚來<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d13.p4s15">則將欲逐邪氣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d13.p4s16">所謂經氣至是也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d13.p4s17">誠然矣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d13.p4s18">其氣未至<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d13.p4s19">引針則不能逐邪氣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d13.p4s20">故無益治愈<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d13.p4s21">反之而其氣雖至<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d13.p4s22">不去針則似塞邪氣之出路<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d13.p4s23">又是無利治術<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d13.p4s24">是以氣之至速<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d13.p4s25">則刺針進<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d13.p4s26">退亦速之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d13.p4s27">氣之至遲<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d13.p4s28">則其法遲之<c n="。"/>
+          </seg>
+        </p>
+
+<div n="h2" xml:id="KR3ee042_jc_000-d13d6">
+          <head n="h2" xml:id="KR3ee042_jc_000-d13.d6h1">
+            <seg xml:id="KR3ee042_jc_000-d13.d6.h1s1">第一款　正式</seg>
+          </head>
+          <p xml:id="KR3ee042_jc_000-d13.d6p2">
+            <seg xml:id="KR3ee042_jc_000-d13.d6.p2s1">取刺針之方向<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d13.d6.p2s2">於鉛直線<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d13.d6.p2s3">溶溶然進針頭<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d13.d6.p2s4">終始相共<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d13.d6.p2s5">不失其規<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d13.d6.p2s6">而徐徐行<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d13.d6.p2s7">是謂正式<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d13.d6.p2s8">多是用正式者也<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d13.d6.p2s9">又正式有二種<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d13.d6.p2s10">其一曰<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d13.d6.p2s11">操柄針<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d13.d6.p2s12">
+              <c n="("/>圖略<c n=")"/>其二曰<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d13.d6.p2s13">揉下針<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d13.d6.p2s14">則第十八圖是也<c n="。"/>
+            </seg>
+          </p>
+
+</div>
+        <div n="h2" xml:id="KR3ee042_jc_000-d13d7">
+          <head n="h2" xml:id="KR3ee042_jc_000-d13.d7h1">
+            <seg xml:id="KR3ee042_jc_000-d13.d7.h1s1">第二款　變式</seg>
+          </head>
+          <p xml:id="KR3ee042_jc_000-d13.d7p2">
+            <seg xml:id="KR3ee042_jc_000-d13.d7.p2s1">凡取刺針之方向<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d13.d7.p2s2">於銳角<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d13.d7.p2s3">終始間斷臨機<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d13.d7.p2s4">或稽留<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d13.d7.p2s5">凡揮發<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d13.d7.p2s6">或潑潑乎為針頭之動者<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d13.d7.p2s7">稱變式<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d13.d7.p2s8">曰斜行針<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d13.d7.p2s9">第二十圖是也<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d13.d7.p2s10">又將欲行針法<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d13.d7.p2s11">於貴要之部<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d13.d7.p2s12">則宜用此式<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d13.d7.p2s13">但變式之針法者<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d13.d7.p2s14">取地平線之方向<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d13.d7.p2s15">而進入其針局<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d13.d7.p2s16">況亙組織間道程<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d13.d7.p2s17">雖長<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d13.d7.p2s18">亦針頭至淺<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d13.d7.p2s19">故無與害患者<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d13.d7.p2s20">而舉例<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d13.d7.p2s21">則流行性感冒<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d13.d7.p2s22">謂施本式於顱頂骨與顳顬骨之間<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d13.d7.p2s23">其縫際部之類<c n="。"/>
+            </seg>
+          </p>
+
+</div>
+      </div>
+      <div n="h1" xml:id="KR3ee042_jc_000-d14">
+        <head n="h1" xml:id="KR3ee042_jc_000-d14h1">
+          <seg xml:id="KR3ee042_jc_000-d14.h1s1">第十二章　補法及瀉法</seg>
+        </head>
+        <figure>
+<figure>
+            <graphic data-orig-src="urn:270:07149.jpg" url="" rend="第二十四圖"/>
+          </figure>
+</figure>
+<p xml:id="KR3ee042_jc_000-d14p4">
+          <seg xml:id="KR3ee042_jc_000-d14.p4s1">內經曰<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d14.p4s2">補虛者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d14.p4s3">必先捫而循之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d14.p4s4">切而散之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d14.p4s5">推而按之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d14.p4s6">彈而怒之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d14.p4s7">抓而下之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d14.p4s8">通而取之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d14.p4s9">外引其門<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d14.p4s10">以閉其神<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d14.p4s11">呼盡納針<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d14.p4s12">靜而久留<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d14.p4s13">以氣至為故候<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d14.p4s14">吸引針<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d14.p4s15">氣不得出<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d14.p4s16">各在其處<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d14.p4s17">推闔其門<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d14.p4s18">命神氣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d14.p4s19">存大氣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d14.p4s20">留止<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d14.p4s21">命曰補虛瀉實者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d14.p4s22">吸則納針<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d14.p4s23">無令氣忤<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d14.p4s24">靜以久留<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d14.p4s25">無令邪布<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d14.p4s26">吸則轉針<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d14.p4s27">針以得氣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d14.p4s28">為故候<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d14.p4s29">呼引針<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d14.p4s30">呼盡乃去<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d14.p4s31">大氣皆出<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d14.p4s32">故命曰瀉<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d14.p4s33">又曰<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d14.p4s34">補者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d14.p4s35">隨經脈<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d14.p4s36">推而納之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d14.p4s37">左手閉針孔<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d14.p4s38">徐出針而疾按之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d14.p4s39">瀉者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d14.p4s40">迎經脈<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d14.p4s41">動而伸之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d14.p4s42">左手閉針孔<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d14.p4s43">疾出針<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d14.p4s44">而徐按之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d14.p4s45">隨而濟之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d14.p4s46">是謂補<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d14.p4s47">迎而奪之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d14.p4s48">是謂瀉<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d14.p4s49">又一說云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d14.p4s50">補者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d14.p4s51">刺針於呼息<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d14.p4s52">拔吸息<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d14.p4s53">而揉其針痕<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d14.p4s54">瀉者刺針於吸息<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d14.p4s55">拔呼息<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d14.p4s56">而不揉其針痕也<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ee042_jc_000-d15">
+        <head n="h1" xml:id="KR3ee042_jc_000-d15h1">
+          <seg xml:id="KR3ee042_jc_000-d15.h1s1">第十三章　被黏著牽引拔針法</seg>
+        </head>
+        <figure>
+<figure>
+            <graphic data-orig-src="urn:270:07150.jpg" url="" rend="第二十五圖"/>
+          </figure>
+</figure>
+<p xml:id="KR3ee042_jc_000-d15p4">
+          <seg xml:id="KR3ee042_jc_000-d15.p4s1">被刺針之牽引<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d15.p4s2">有不拔<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d15.p4s3">是必竟受筋肉分子之凝聚力故也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d15.p4s4">理學的曰<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d15.p4s5">凝聚力者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d15.p4s6">隨異物體中分子之位置<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d15.p4s7">自為強弱之區別<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d15.p4s8">蓋凝聚力之強弱<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d15.p4s9">隨熱度之增減而生矣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d15.p4s10">即倒比溫度<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d15.p4s11">又凝聚力者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d15.p4s12">獨不固體耳<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d15.p4s13">亦存液體<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d15.p4s14">雖然<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d15.p4s15">有液體<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d15.p4s16">則自己之重力卻而勝凝聚力<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d15.p4s17">是以使分子容易動搖<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d15.p4s18">故如彼唯不較著己<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d15.p4s19">則患者之元氣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d15.p4s20">亦欲為相逼迫也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d15.p4s21">故術者此際<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d15.p4s22">使彼我之意靜穩<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d15.p4s23">更當其下傍<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d15.p4s24">刺他針<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d15.p4s25">然而可拔初針<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d15.p4s26">或輕打不拔針柄之上端<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d15.p4s27">以俟其進入而後拔去針<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d15.p4s28">亦是可也<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ee042_jc_000-d16">
+        <head n="h1" xml:id="KR3ee042_jc_000-d16h1">
+          <seg xml:id="KR3ee042_jc_000-d16.h1s1">第十四章　不可施針症</seg>
+        </head>
+        <p xml:id="KR3ee042_jc_000-d16p2">
+          <seg xml:id="KR3ee042_jc_000-d16.p2s1">一曰格列羅<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d16.p2s2">二曰赤痢<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d16.p2s3">三曰腸窒扶斯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d16.p2s4">四曰發疹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d16.p2s5">窒扶斯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d16.p2s6">五曰痘瘡<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d16.p2s7">六曰實扶的里亞</seg>
+          <seg type="comm" xml:id="KR3ee042_jc_000-d16.p2s8">
+            <c n="（"/>以上六病者<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ee042_jc_000-d16.p2s9">猛劇之傳染病也<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ee042_jc_000-d16.p2s10">故衛生上<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ee042_jc_000-d16.p2s11">大加警戒是以所慎針家也<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ee042_jc_000-d16.p2s12">依而省之<c n="。"/>
+            <c n="）"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d16.p2s13">七曰丹毒<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d16.p2s14">八曰酒客<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d16.p2s15">九曰勞動過多<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d16.p2s16">十曰憤怒者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d16.p2s17">十一曰飽滿<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d16.p2s18">十二曰飢餓<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d16.p2s19">十三曰熱度高者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d16.p2s20">十四曰流汗<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d16.p2s21">十五曰煩渴<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d16.p2s22">十六曰衰耗<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d16.p2s23">十七曰怖驚<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d16.p2s24">十八曰下車後<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d16.p2s25">十九曰乘船後<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ee042_jc_000-d17">
+        <head n="h1" xml:id="KR3ee042_jc_000-d17h1">
+          <seg xml:id="KR3ee042_jc_000-d17.h1s1">第十五章　折針拔取法</seg>
+        </head>
+        <p xml:id="KR3ee042_jc_000-d17p2">
+          <seg xml:id="KR3ee042_jc_000-d17.p2s1">凡刺針<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d17.p2s2">在筋肉組織間<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d17.p2s3">而動則有折其鋒<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d17.p2s4">是有術者由失策<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d17.p2s5">或有針質由不煅練<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d17.p2s6">然則靜肅沉意<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d17.p2s7">必不可放押手<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d17.p2s8">尚以A<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d17.p2s9">B捷手可壓縮其皮膚<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d17.p2s10">必可得發顯折針之鋒端<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d17.p2s11">但此際不可使患者動搖<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d17.p2s12">至若患者動搖<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d17.p2s13">則彼折針<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d17.p2s14">曲行於筋肉中<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d17.p2s15">復難發顯者也<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ee042_jc_000-d17.p2s16">
+            <c n="（"/>因曰<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ee042_jc_000-d17.p2s17">患者突然發咳之際<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ee042_jc_000-d17.p2s18">有如斯者也<c n="。"/>
+            <c n="）"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ee042_jc_000-d18">
+        <head n="h1" xml:id="KR3ee042_jc_000-d18h1">
+          <seg xml:id="KR3ee042_jc_000-d18.h1s1">第十六章　刺針禁局</seg>
+        </head>
+        <p xml:id="KR3ee042_jc_000-d18p2">
+          <seg xml:id="KR3ee042_jc_000-d18.p2s1">凡針局之可禁部<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d18.p2s2">大別<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d18.p2s3">為頭首及顏面<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d18.p2s4">胸腹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d18.p2s5">脊柱<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d18.p2s6">四肢之七款<c n="。"/>
+          </seg>
+        </p>
+
+<div n="h2" xml:id="KR3ee042_jc_000-d18d4">
+          <head n="h2" xml:id="KR3ee042_jc_000-d18.d4h1">
+            <seg xml:id="KR3ee042_jc_000-d18.d4.h1s1">第一款　頭首</seg>
+          </head>
+          <p xml:id="KR3ee042_jc_000-d18.d4p2">
+            <seg xml:id="KR3ee042_jc_000-d18.d4.p2s1">對前頭縫合<space n="　" quantity="1"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d18.d4.p2s2">漢名<space n="　" quantity="1"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d18.d4.p2s3">
+              <c n="("/>神庭<c n=")"/>
+            </seg>
+          </p>
+<p xml:id="KR3ee042_jc_000-d18.d4p4">
+            <seg xml:id="KR3ee042_jc_000-d18.d4.p4s1">對前頭百會<space n="　" quantity="1"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d18.d4.p4s2">同<space n="　" quantity="1"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d18.d4.p4s3">
+              <c n="("/>囟會<c n=")"/>
+            </seg>
+          </p>
+<p xml:id="KR3ee042_jc_000-d18.d4p6">
+            <seg xml:id="KR3ee042_jc_000-d18.d4.p6s1">對耳上筋起始<space n="　" quantity="1"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d18.d4.p6s2">同<space n="　" quantity="1"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d18.d4.p6s3">
+              <c n="("/>角孫<c n=")"/>
+            </seg>
+          </p>
+<p xml:id="KR3ee042_jc_000-d18.d4p8">
+            <seg xml:id="KR3ee042_jc_000-d18.d4.p8s1">對後頭動脈孔<space n="　" quantity="1"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d18.d4.p8s2">同<space n="　" quantity="1"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d18.d4.p8s3">
+              <c n="("/>顱息<c n=")"/>
+            </seg>
+          </p>
+<p xml:id="KR3ee042_jc_000-d18.d4p10">
+            <seg xml:id="KR3ee042_jc_000-d18.d4.p10s1">對勁靜脈孔<space n="　" quantity="1"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d18.d4.p10s2">同<space n="　" quantity="1"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d18.d4.p10s3">
+              <c n="("/>玉枕<c n=")"/>
+            </seg>
+          </p>
+<p xml:id="KR3ee042_jc_000-d18.d4p12">
+            <seg xml:id="KR3ee042_jc_000-d18.d4.p12s1">對顱頂孔<space n="　" quantity="1"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d18.d4.p12s2">同<space n="　" quantity="1"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d18.d4.p12s3">
+              <c n="("/>絡郄<c n=")"/>
+            </seg>
+          </p>
+<p xml:id="KR3ee042_jc_000-d18.d4p14">
+            <seg xml:id="KR3ee042_jc_000-d18.d4.p14s1">對後頭百會<space n="　" quantity="1"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d18.d4.p14s2">同<space n="　" quantity="1"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d18.d4.p14s3">
+              <c n="("/>腦戶<c n=")"/>
+            </seg>
+          </p>
+
+</div>
+        <div n="h2" xml:id="KR3ee042_jc_000-d18d5">
+          <head n="h2" xml:id="KR3ee042_jc_000-d18.d5h1">
+            <seg xml:id="KR3ee042_jc_000-d18.d5.h1s1">第二款　顏面</seg>
+          </head>
+          <p xml:id="KR3ee042_jc_000-d18.d5p2">
+            <seg xml:id="KR3ee042_jc_000-d18.d5.p2s1">對顴骨顳顬管<space n="　" quantity="1"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d18.d5.p2s2">漢名<space n="　" quantity="1"/>
+            </seg>
+            <seg type="comm" xml:id="KR3ee042_jc_000-d18.d5.p2s3">
+              <c n="（"/>客主人<c n="）"/>
+            </seg>
+          </p>
+<p xml:id="KR3ee042_jc_000-d18.d5p4">
+            <seg xml:id="KR3ee042_jc_000-d18.d5.p4s1">對下眼窠孔<space n="　" quantity="1"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d18.d5.p4s2">同<space n="　" quantity="1"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d18.d5.p4s3">
+              <c n="("/>承泣<c n=")"/>
+            </seg>
+          </p>
+
+</div>
+        <div n="h2" xml:id="KR3ee042_jc_000-d18d6">
+          <head n="h2" xml:id="KR3ee042_jc_000-d18.d6h1">
+            <seg xml:id="KR3ee042_jc_000-d18.d6.h1s1">第三款　胸部</seg>
+          </head>
+          <p xml:id="KR3ee042_jc_000-d18.d6p2">
+            <seg xml:id="KR3ee042_jc_000-d18.d6.p2s1">對腋下動脈經路<space n="　" quantity="1"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d18.d6.p2s2">同<space n="　" quantity="1"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d18.d6.p2s3">
+              <c n="("/>雲門<c n=")"/>
+            </seg>
+          </p>
+<p xml:id="KR3ee042_jc_000-d18.d6p4">
+            <seg xml:id="KR3ee042_jc_000-d18.d6.p4s1">對胸骨劍身之中央<space n="　" quantity="1"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d18.d6.p4s2">同<space n="　" quantity="1"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d18.d6.p4s3">
+              <c n="("/>膻中<c n=")"/>
+            </seg>
+          </p>
+<p xml:id="KR3ee042_jc_000-d18.d6p6">
+            <seg xml:id="KR3ee042_jc_000-d18.d6.p6s1">對胸骨劍尖之下方<space n="　" quantity="1"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d18.d6.p6s2">同<space n="　" quantity="1"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d18.d6.p6s3">
+              <c n="("/>鳩尾<c n=")"/>
+            </seg>
+          </p>
+
+</div>
+        <div n="h2" xml:id="KR3ee042_jc_000-d18d7">
+          <head n="h2" xml:id="KR3ee042_jc_000-d18.d7h1">
+            <seg xml:id="KR3ee042_jc_000-d18.d7.h1s1">第四款　腹部</seg>
+          </head>
+          <p xml:id="KR3ee042_jc_000-d18.d7p2">
+            <seg xml:id="KR3ee042_jc_000-d18.d7.p2s1">對臍部上一應<space n="　" quantity="1"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d18.d7.p2s2">漢名<space n="　" quantity="1"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d18.d7.p2s3">
+              <c n="("/>水分<c n=")"/>
+            </seg>
+          </p>
+<p xml:id="KR3ee042_jc_000-d18.d7p4">
+            <seg xml:id="KR3ee042_jc_000-d18.d7.p4s1">對臍中窩<space n="　" quantity="1"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d18.d7.p4s2">同<space n="　" quantity="1"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d18.d7.p4s3">
+              <c n="("/>神關<c n=")"/>
+            </seg>
+          </p>
+<p xml:id="KR3ee042_jc_000-d18.d7p6">
+            <seg xml:id="KR3ee042_jc_000-d18.d7.p6s1">對臍下二應<space n="　" quantity="1"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d18.d7.p6s2">同<space n="　" quantity="1"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d18.d7.p6s3">
+              <c n="("/>石門<c n=")"/>
+            </seg>
+          </p>
+<p xml:id="KR3ee042_jc_000-d18.d7p8">
+            <seg xml:id="KR3ee042_jc_000-d18.d7.p8s1">對示丨ハルト氏韌帶<space n="　" quantity="1"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d18.d7.p8s2">同<space n="　" quantity="1"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d18.d7.p8s3">
+              <c n="("/>橫骨<c n=")"/>
+            </seg>
+          </p>
+<p xml:id="KR3ee042_jc_000-d18.d7p10">
+            <seg xml:id="KR3ee042_jc_000-d18.d7.p10s1">對會陰<space n="　" quantity="1"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d18.d7.p10s2">同<space n="　" quantity="1"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d18.d7.p10s3">
+              <c n="("/>同<space n="　" quantity="1"/>
+              <c n=")"/>
+            </seg>
+          </p>
+
+</div>
+        <div n="h2" xml:id="KR3ee042_jc_000-d18d8">
+          <head n="h2" xml:id="KR3ee042_jc_000-d18.d8h1">
+            <seg xml:id="KR3ee042_jc_000-d18.d8.h1s1">第五款　脊柱</seg>
+          </head>
+          <p xml:id="KR3ee042_jc_000-d18.d8p2">
+            <seg xml:id="KR3ee042_jc_000-d18.d8.p2s1">對胸椎第五椎下</seg>
+            <seg type="comm" xml:id="KR3ee042_jc_000-d18.d8.p2s2">
+              <c n="（"/>或外側<c n="）"/>
+              <space n="　" quantity="1"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d18.d8.p2s3">同<space n="　" quantity="1"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d18.d8.p2s4">
+              <c n="("/>神道<c n=")"/>
+            </seg>
+          </p>
+<p xml:id="KR3ee042_jc_000-d18.d8p4">
+            <seg xml:id="KR3ee042_jc_000-d18.d8.p4s1">對胸椎第六椎下<space n="　" quantity="1"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d18.d8.p4s2">同<space n="　" quantity="1"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d18.d8.p4s3">
+              <c n="("/>靈臺<c n=")"/>
+            </seg>
+          </p>
+
+</div>
+        <div n="h2" xml:id="KR3ee042_jc_000-d18d9">
+          <head n="h2" xml:id="KR3ee042_jc_000-d18.d9h1">
+            <seg xml:id="KR3ee042_jc_000-d18.d9.h1s1">第六款　上肢</seg>
+          </head>
+          <p xml:id="KR3ee042_jc_000-d18.d9p2">
+            <seg xml:id="KR3ee042_jc_000-d18.d9.p2s1">對肩胛內緣<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d18.d9.p2s2">與鎖骨中央之內陷<space n="　" quantity="1"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d18.d9.p2s3">漢名<space n="　" quantity="1"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d18.d9.p2s4">
+              <c n="("/>缺盆<c n=")"/>
+            </seg>
+          </p>
+<p xml:id="KR3ee042_jc_000-d18.d9p4">
+            <seg xml:id="KR3ee042_jc_000-d18.d9.p4s1">對三角筋<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d18.d9.p4s2">頭靜脈開口部<space n="　" quantity="1"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d18.d9.p4s3">漢名<space n="　" quantity="1"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d18.d9.p4s4">
+              <c n="("/>肩井<c n=")"/>
+            </seg>
+          </p>
+<p xml:id="KR3ee042_jc_000-d18.d9p6">
+            <seg xml:id="KR3ee042_jc_000-d18.d9.p6s1">對上膊骨內上髁上方<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d18.d9.p6s2">凡三應<c n="。"/>
+              <space n="　" quantity="1"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d18.d9.p6s3">漢名<space n="　" quantity="1"/>
+            </seg>
+            <seg type="comm" xml:id="KR3ee042_jc_000-d18.d9.p6s4">
+              <c n="（"/>五里穴<c n="）"/>
+            </seg>
+          </p>
+<p xml:id="KR3ee042_jc_000-d18.d9p8">
+            <seg xml:id="KR3ee042_jc_000-d18.d9.p8s1">對上膊骨外上髁上方<c n="。"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d18.d9.p8s2">凡一應<c n="。"/>
+              <space n="　" quantity="1"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d18.d9.p8s3">同<space n="　" quantity="1"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d18.d9.p8s4">
+              <c n="("/>青靈<c n=")"/>
+            </seg>
+          </p>
+<p xml:id="KR3ee042_jc_000-d18.d9p10">
+            <seg xml:id="KR3ee042_jc_000-d18.d9.p10s1">對內橈骨筋腱之補側<c n="。"/>
+              <space n="　" quantity="1"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d18.d9.p10s2">同<space n="　" quantity="1"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d18.d9.p10s3">
+              <c n="("/>三陽<c n=")"/>
+            </seg>
+          </p>
+<p xml:id="KR3ee042_jc_000-d18.d9p12">
+            <seg xml:id="KR3ee042_jc_000-d18.d9.p12s1">對短外轉拇筋起始部<c n="。"/>
+              <space n="　" quantity="1"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d18.d9.p12s2">同<space n="　" quantity="1"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d18.d9.p12s3">
+              <c n="("/>合谷<c n=")"/>
+            </seg>
+          </p>
+
+</div>
+        <div n="h2" xml:id="KR3ee042_jc_000-d18d10">
+          <head n="h2" xml:id="KR3ee042_jc_000-d18.d10h1">
+            <seg xml:id="KR3ee042_jc_000-d18.d10.h1s1">第七款</seg>
+          </head>
+          <p xml:id="KR3ee042_jc_000-d18.d10p2">
+            <seg xml:id="KR3ee042_jc_000-d18.d10.p2s1">對股動脈之通路<space n="　" quantity="1"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d18.d10.p2s2">同<space n="　" quantity="1"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d18.d10.p2s3">
+              <c n="("/>箕門<c n=")"/>
+            </seg>
+          </p>
+<p xml:id="KR3ee042_jc_000-d18.d10p4">
+            <seg xml:id="KR3ee042_jc_000-d18.d10.p4s1">對比目魚筋<space n="　" quantity="1"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d18.d10.p4s2">同<space n="　" quantity="1"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d18.d10.p4s3">
+              <c n="("/>承筋<c n=")"/>
+            </seg>
+          </p>
+<p xml:id="KR3ee042_jc_000-d18.d10p6">
+            <seg xml:id="KR3ee042_jc_000-d18.d10.p6s1">對脛骨之內踝<space n="　" quantity="1"/>
+            </seg>
+            <seg xml:id="KR3ee042_jc_000-d18.d10.p6s2">同<space n="　" quantity="1"/>
+            </seg>
+            <seg type="comm" xml:id="KR3ee042_jc_000-d18.d10.p6s3">
+              <c n="（"/>三陰交<c n="）"/>
+            </seg>
+          </p>
+
+</div>
+      </div>
+      <div n="h1" xml:id="KR3ee042_jc_000-d19">
+        <head n="h1" xml:id="KR3ee042_jc_000-d19h1">
+          <seg xml:id="KR3ee042_jc_000-d19.h1s1">第十七章　筋肉揉按</seg>
+        </head>
+        <p xml:id="KR3ee042_jc_000-d19p2">
+          <seg xml:id="KR3ee042_jc_000-d19.p2s1">凡筋肉者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d19.p2s2">雖有隨意不隨意之二種<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d19.p2s3">自有所其主宰<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d19.p2s4">而各使骨格圍擁<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d19.p2s5">且其筋肉者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d19.p2s6">由神經之刺劇<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d19.p2s7">而或起感覺<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d19.p2s8">或催收縮<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d19.p2s9">又如筋肉之肥瘠者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d19.p2s10">則所分布其筋肉之血管<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d19.p2s11">關係得其營養與否<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d19.p2s12">又揉按<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d19.p2s13">將使其筋肉之收縮<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d19.p2s14">或痙攣等復常形<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d19.p2s15">故揉按者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d19.p2s16">先刺針<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d19.p2s17">而有施之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d19.p2s18">又刺針後有行之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d19.p2s19">然而欲行揉按者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d19.p2s20">則先術者之手掌面<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d19.p2s21">宜拭清<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d19.p2s22">而後可接患者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d19.p2s23">況手術中<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d19.p2s24">使患者之體格<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d19.p2s25">不可動搖<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d19.p2s26">又揉按者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d19.p2s27">以手掌及指腹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d19.p2s28">叮嚀反復<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d19.p2s29">雖不如行之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d19.p2s30">或用肘角<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d19.p2s31">或手背<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d19.p2s32">或握手<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d19.p2s33">如與響音者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d19.p2s34">則有外飾<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d19.p2s35">亦卻而為之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d19.p2s36">非有效驗<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ee042_jc_000-d20">
+        <head n="h1" xml:id="KR3ee042_jc_000-d20h1">
+          <seg xml:id="KR3ee042_jc_000-d20.h1s1">第十八章　螺旋管之用法</seg>
+        </head>
+        <p xml:id="KR3ee042_jc_000-d20p2">
+          <seg xml:id="KR3ee042_jc_000-d20.p2s1">刺針之際<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d20.p2s2">寒威凜冽<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d20.p2s3">則仮令<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d20.p2s4">有雖厚患者之衣服<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d20.p2s5">難除去之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d20.p2s6">不凜冽<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d20.p2s7">亦依患者之弊<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d20.p2s8">而有絡厚衣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d20.p2s9">然則可用螺旋管<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d20.p2s10">蓋螺旋管者如杉山氏管<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d20.p2s11">圓甬管之實質中<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d20.p2s12">謂設螺旋狀之裝置管<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d20.p2s13">且其用法<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d20.p2s14">先以A<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d20.p2s15">B探察衣服之厚度<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d20.p2s16">豫定其方寸<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d20.p2s17">仮今其服之厚假定二仙<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d20.p2s18">則延長螺旋部<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d20.p2s19">亦為同等二仙<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d20.p2s20">又假定一仙亦然矣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d20.p2s21">蓋螺旋管者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d20.p2s22">伸縮適宜<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d20.p2s23">足得為術者之隨意者也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d20.p2s24">又其管質者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d20.p2s25">以銀製為善良<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d20.p2s26">又其形有八角<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d20.p2s27">或有圓甬形<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d20.p2s28">但有管口之兩緣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d20.p2s29">若不圓滑者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d20.p2s30">則當治術之際<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d20.p2s31">令患者之皮膚<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d20.p2s32">剔剝<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d20.p2s33">是以管口之緣端<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d20.p2s34">為善圓滑<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d20.p2s35">而惡粗糙且有銳角者<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ee042_jc_000-d21">
+        <head n="h1" xml:id="KR3ee042_jc_000-d21h1">
+          <seg xml:id="KR3ee042_jc_000-d21.h1s1">第十九章　針頭電氣力與導法</seg>
+        </head>
+        <p xml:id="KR3ee042_jc_000-d21p2">
+          <seg xml:id="KR3ee042_jc_000-d21.p2s1">穿進針頭<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d21.p2s2">於皮膚之組織<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d21.p2s3">則必先至所充各組織<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d21.p2s4">使分子更發生波動<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d21.p2s5">又依其分子波動<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d21.p2s6">而分布其所神經<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d21.p2s7">亦聿起感覺者也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d21.p2s8">蓋波動發興<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d21.p2s9">亦大須寒心注意焉<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d21.p2s10">凡針療<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d21.p2s11">有初試者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d21.p2s12">有數回者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d21.p2s13">有亙數月者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d21.p2s14">有一周年<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d21.p2s15">且至數歲者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d21.p2s16">譬有初試者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d21.p2s17">則概先其感極而敏<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d21.p2s18">且有呈不快<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d21.p2s19">反之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d21.p2s20">而受針療之日亙長久<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d21.p2s21">能在知針效者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d21.p2s22">則仮令雖鈍術<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d21.p2s23">敢如不介意者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d21.p2s24">故診斷之際<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d21.p2s25">憶察為其初試者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d21.p2s26">則施之制針<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d21.p2s27">亦可用二番等<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d21.p2s28">且勿可與響<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d21.p2s29">又亙針療長久者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d21.p2s30">施之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d21.p2s31">則番數稍升大<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d21.p2s32">亦刺針時間<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d21.p2s33">且可與響<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d21.p2s34">苟刺針時間無制度<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d21.p2s35">只一局耳<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d21.p2s36">久時行之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d21.p2s37">則奏效變<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d21.p2s38">有釀害理學的<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d21.p2s39">有言曰<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d21.p2s40">取活蛙<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d21.p2s41">直剝棄下肢表皮<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d21.p2s42">且從腰部橫斷之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d21.p2s43">當其縫匠筋<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d21.p2s44">以釘</seg>
+          <seg type="comm" xml:id="KR3ee042_jc_000-d21.p2s45">
+            <c n="（"/>消極及積極屬<c n="）"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d21.p2s46">尖頭令牴觸<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d21.p2s47">則大腿<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d21.p2s48">下腳<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d21.p2s49">相共能呈伸縮<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d21.p2s50">猶行之數回<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d21.p2s51">且至長時間<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d21.p2s52">則其筋麻痹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d21.p2s53">終為強直<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d21.p2s54">嗚呼萬法<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d21.p2s55">至其度則呈妙效<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d21.p2s56">過其度則卻而作害<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d21.p2s57">唯是<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d21.p2s58">以中庸為至德<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d21.p2s59">又欲導電氣力於左方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d21.p2s60">則用力<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d21.p2s61">於A之爪端外方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d21.p2s62">反之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d21.p2s63">欲施電氣力於右方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d21.p2s64">則加力於B之爪端C側方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d21.p2s65">此際患者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d21.p2s66">若發乾咳<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d21.p2s67">則全身為之受其震動<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d21.p2s68">故動則有針折鋒術者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ee042_jc_000-d21.p2s69">不可有不注意焉<c n="。"/>
+          </seg>
+        </p>
+</div>
+    </body>
+  </text>
+</TEI>

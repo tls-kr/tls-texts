@@ -1,0 +1,3779 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KR3er101">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>醫學輯要</title>
+        <author>吳燡</author>
+      </titleStmt>
+      <extent>
+        <measure unit="char" quantity="32850"/>
+        <date when-iso="2024-02-21T13:40:49.864+09:00"/>
+      </extent>
+      <publicationStmt>
+        <p>Originally published at <ref target="https://jicheng.tw/tcm/book/index.html">中醫笈成:醫學輯要</ref>. Checkout from https://gitlab.com/jicheng/jc.data, commit aab40201, 2022-12-28.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date notBefore="1854" notAfter="1854">清</date>公元1854年</creation>
+      <textClass>
+        <catRef scheme="#kr-categories" target="#KR3er"/>
+        <catRef scheme="#tls-dates" target="#dat04210"/>
+      </textClass>
+    </profileDesc>
+    <encodingDesc>
+      <p>Quality: </p>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+
+<div n="h1" xml:id="KR3er101_jc_000-d2">
+        <head n="h1" xml:id="KR3er101_jc_000-d2h1">
+          <seg xml:id="KR3er101_jc_000-d2.h1s1">序</seg>
+        </head>
+        <p xml:id="KR3er101_jc_000-d2p2">
+          <seg xml:id="KR3er101_jc_000-d2.p2s1">醫學至廣其歸不外望聞問切而已雖然四字之用世俗類能言四字之功宿學不能盡經曰上工望而知中工問而知下工脈而知嗟乎脈亦豈易易哉不知有脈何論望聞古之名醫緩視晉候疾在膏肓醫和視晉候疾如蠱扁鵲視病盡見五臟癥結而診脈特姑存其名其兄治病視神於未診而除之此真望而知之者血苟非其人姑思其次切脈或庶幾乎夫切脈之難久矣靜氣平心調鼻息之呼吸定脈至之遲數而因察其為浮為沈為滑為澀緊緩虛實之辯小大長短之分芤伏洪耎微弱動牢之殊塗促結代散疾細清濁之異候或如弦如溜如革或如毛如石如鉤乃周知其受病之所由故藏府經絡喻於不言督帶任沖審於無象此可望而知聞而知問而知乎況兒科婦科之棘手恆數倍於常人者乎今之以醫鳴者大部長於問者也人言寒即以寒治之人言熱即以熱治之其於脈也殆不啻如扁鵲之姑以診為名也取書一帙顧病者上其手斂三指經略按之態甚舒心甚暇也仍與主人縱談或寒暄或瑣事異聞不數語復顧病者下其手診如前畢不律一揮一紙飛下則脈案藥品具他一揖而退降趨而出異哉其聰明才智真會伯於古人歟抑古人望而知之言專為今之名醫者設歟<space n="　" quantity="1"/>先外祖小珊吳公博涉經史旁通醫學慮汎試者罔知取材簡陋者囿於膚受也著輯要四卷精采名論加以折衷且論形質神色看證諸則望而知之之法也其論聲氣諸則聞而知之之法也惟於切脈猶詳明而深究之以是知公之不與世為浮沈也脈候既審乃可對證發藥故繼之以方祖以是知公之不以病為嘗試他綜要領以暢其旨綴雜錄以博共趣則又公之約而明簡而該也雖醫學不盡於此就果家有是編以醫行世者固可備印證之資即不業醫者亦不致迷於祈向其有益於世豈淺鮮哉梓州方匯枝分轉會刊於海陵歲久漫漶重校付梓以廣其傳不揣□鄙謹敘其緣起云咸豐四年歲在關逢攝提格七月上瀚外孫陳照謹撰</seg>
+        </p>
+
+</div>
+      <div type="juan" n="1" xml:id="KR3er101_jc_000-d3">
+        <head n="h1" xml:id="KR3er101_jc_001-d3h1">
+          <seg xml:id="KR3er101_jc_001-d3.h1s1">卷一</seg>
+        </head>
+        <p xml:id="KR3er101_jc_001-d3p2">
+          <seg xml:id="KR3er101_jc_001-d3.p2s1">醫學</seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p4">
+          <seg xml:id="KR3er101_jc_001-d3.p4s1">望</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p4s2">
+            <c n="（"/>謂觀其氣之盛衰色之深淺也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p4s3">聞</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p4s4">
+            <c n="（"/>謂聽其聲之重輕以徵氣之強弱之也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p4s5">問</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p4s6">
+            <c n="（"/>謂詢其情之苦欲病之相因也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p4s7">脈</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p4s8">
+            <c n="（"/>即診脈也謂診其脈之陰陽合乎形色也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p6">
+          <seg xml:id="KR3er101_jc_001-d3.p6s1">經曰上工望而知之</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p6s2">
+            <c n="（"/>有諸內必形諸外也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p6s3">中工問而知之下工脈而知之也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p6s4">
+            <c n="（"/>好問則裕好謀而成者也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p8">
+          <seg xml:id="KR3er101_jc_001-d3.p8s1">袁大宣先生云病猶寇也藥猶兵也醫猶將也用藥以驅病即用兵以逐寇是在為將者運用何如耳不必株守夫常格拘滯乎成見棄取不必隨人輕重</seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p10">
+          <seg xml:id="KR3er101_jc_001-d3.p10s1">總歸自忖用藥必獲一藥之效而變通之以盡其致立一方必合群藥之力而參互之以奏厥功苟非藥性嫺熟而深究其微又鳥能變化隨心哉<c n="("/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p12">
+          <seg xml:id="KR3er101_jc_001-d3.p12s1">業患不能精行成於思也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p14">
+          <seg xml:id="KR3er101_jc_001-d3.p14s1">形質論</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p14s2">
+            <c n="（"/>張石頭先生<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p16">
+          <seg xml:id="KR3er101_jc_001-d3.p16s1">肌之滑澀徵津液之盛衰也</seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p18">
+          <seg xml:id="KR3er101_jc_001-d3.p18s1">事之疏密微營衛之弱強也</seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p20">
+          <seg xml:id="KR3er101_jc_001-d3.p20s1">肉之耎堅徵胃氣之虛實也</seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p22">
+          <seg xml:id="KR3er101_jc_001-d3.p22s1">筋之枯澤徵肝血之充餒也</seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p24">
+          <seg xml:id="KR3er101_jc_001-d3.p24s1">骨之大小徵腎氣之勇怯也</seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p26">
+          <seg xml:id="KR3er101_jc_001-d3.p26s1">瓜之剛柔徵膽液之淳清也</seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p28">
+          <seg xml:id="KR3er101_jc_001-d3.p28s1">指之肥瘦徵經氣之榮枯也</seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p30">
+          <seg xml:id="KR3er101_jc_001-d3.p30s1">掌之厚薄徵氣之豐歉也</seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p32">
+          <seg xml:id="KR3er101_jc_001-d3.p32s1">皮之寒熱徵里之陰陽也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p32s2">
+            <c n="（"/>皮膚熱甚脈盛躁者溫病也其脈盛而滑者病且</seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p34">
+          <seg xml:id="KR3er101_jc_001-d3.p34s1">出也皮膚寒其脈小者或泄而少氣也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p36">
+          <seg xml:id="KR3er101_jc_001-d3.p36s1">神色論</seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p38">
+          <seg xml:id="KR3er101_jc_001-d3.p38s1">面色青黑黯慘無論病之新久終屬陽氣不振也</seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p40">
+          <seg xml:id="KR3er101_jc_001-d3.p40s1">黃色現於面目而不索澤者病向愈之候也</seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p42">
+          <seg xml:id="KR3er101_jc_001-d3.p42s1">眼胞上下如煙煤者寒痰也</seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p44">
+          <seg xml:id="KR3er101_jc_001-d3.p44s1">眼黑頰赤者熱痰也</seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p46">
+          <seg xml:id="KR3er101_jc_001-d3.p46s1">眼黑而行步艱難呻吟者痰飲入骨也</seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p48">
+          <seg xml:id="KR3er101_jc_001-d3.p48s1">眼黑而面帶土色四肢痿痹屈伸不便者風痰也</seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p50">
+          <seg xml:id="KR3er101_jc_001-d3.p50s1">病人見黃色光澤者為有胃氣不死也</seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p52">
+          <seg xml:id="KR3er101_jc_001-d3.p52s1">病人面色干黃者為津液枯槁多凶也</seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p54">
+          <seg xml:id="KR3er101_jc_001-d3.p54s1">目睛黃者非癉即衄也</seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p56">
+          <seg xml:id="KR3er101_jc_001-d3.p56s1">目黃大煩為病進也</seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p58">
+          <seg xml:id="KR3er101_jc_001-d3.p58s1">平人口鼻耳目黑氣現者危也</seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p60">
+          <seg xml:id="KR3er101_jc_001-d3.p60s1">赤色見於兩顴黑氣現於神庭乃大氣人於心腎暴亡之兆也</seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p62">
+          <seg xml:id="KR3er101_jc_001-d3.p62s1">聲氣論</seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p64">
+          <seg xml:id="KR3er101_jc_001-d3.p64s1">病劇而聲音清朗如常者形病氣不病也</seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p66">
+          <seg xml:id="KR3er101_jc_001-d3.p66s1">初病即氣壅聲濁者邪干清道也</seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p68">
+          <seg xml:id="KR3er101_jc_001-d3.p68s1">病未久而語聲不續者其人中氣本虛也</seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p70">
+          <seg xml:id="KR3er101_jc_001-d3.p70s1">言遲者風也行遲者表強也</seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p72">
+          <seg xml:id="KR3er101_jc_001-d3.p72s1">多言者火之用事也</seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p74">
+          <seg xml:id="KR3er101_jc_001-d3.p74s1">聲如從室中言者中氣之濕也</seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p76">
+          <seg xml:id="KR3er101_jc_001-d3.p76s1">言而微終日乃復言者正氣之奪也</seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p78">
+          <seg xml:id="KR3er101_jc_001-d3.p78s1">衣被不敝言語善惡不避親疏者神明之亂也</seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p80">
+          <seg xml:id="KR3er101_jc_001-d3.p80s1">出言嫩怯先重後輕者內傷元氣也</seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p82">
+          <seg xml:id="KR3er101_jc_001-d3.p82s1">出言壯厲光輕後重者外感客邪也</seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p84">
+          <seg xml:id="KR3er101_jc_001-d3.p84s1">攢眉呻吟者頭痛也</seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p86">
+          <seg xml:id="KR3er101_jc_001-d3.p86s1">噫</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p86s2">
+            <c n="（"/>於介切<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p86s3">氣以手撫心者中脘痛也</seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p88">
+          <seg xml:id="KR3er101_jc_001-d3.p88s1">搖頭以手捫腮者齒頰痛也</seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p90">
+          <seg xml:id="KR3er101_jc_001-d3.p90s1">呻吟不能轉身坐而下一腳者腰痛也坐而伏者短氣也呻吟不能行步者腰</seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p92">
+          <seg xml:id="KR3er101_jc_001-d3.p92s1">腳痛也</seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p94">
+          <seg xml:id="KR3er101_jc_001-d3.p94s1">診時吁氣者鬱結也</seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p96">
+          <seg xml:id="KR3er101_jc_001-d3.p96s1">搖頭言者里痛也護腹知懷卵者心痛也</seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p98">
+          <seg xml:id="KR3er101_jc_001-d3.p98s1">形羸聲啞者勞療咽中有肺花瘡也</seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p100">
+          <seg xml:id="KR3er101_jc_001-d3.p100s1">暴啞者此風痰伏火或怒喊哀號所致也</seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p102">
+          <seg xml:id="KR3er101_jc_001-d3.p102s1">語言蹇澀者風痰也</seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p104">
+          <seg xml:id="KR3er101_jc_001-d3.p104s1">診時獨言獨語不知首尾者思慮傷神也</seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p106">
+          <seg xml:id="KR3er101_jc_001-d3.p106s1">診時呻者痛也欠者無病也</seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p108">
+          <seg xml:id="KR3er101_jc_001-d3.p108s1">傷寒壞病唇口有瘡者狐惑也</seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p110">
+          <seg xml:id="KR3er101_jc_001-d3.p110s1">平人無寒熱短氣不足以息者痰火也</seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p112">
+          <seg xml:id="KR3er101_jc_001-d3.p112s1">看診訣</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p112s2">
+            <c n="（"/>程鍾齡先生<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p114">
+          <seg xml:id="KR3er101_jc_001-d3.p114s1">日鼻氣粗疾出疾入者外感也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p114s2">
+            <c n="（"/>邪氣有餘<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p116">
+          <seg xml:id="KR3er101_jc_001-d3.p116s1">鼻氣微徐出徐入者內傷也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p116s2">
+            <c n="（"/>正氣不足<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p118">
+          <seg xml:id="KR3er101_jc_001-d3.p118s1">發熱而靜默者邪在表也</seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p120">
+          <seg xml:id="KR3er101_jc_001-d3.p120s1">發熱而動躁者邪者里也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p120s2">
+            <c n="（"/>里證有陰陽之異喜向內睡者陰也喜向外睡者陽也喜仰面臥者多熱也喜覆身臥者多寒也喜伸腳睡者為熱喜踡腳睡者為寒也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p122">
+          <seg xml:id="KR3er101_jc_001-d3.p122s1">病人衣被全覆手腳不露者身必惡寒也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p122s2">
+            <c n="（"/>非表證即直中證矣<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p124">
+          <seg xml:id="KR3er101_jc_001-d3.p124s1">病人揚手露腳者身必惡熱邪入府也</seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p126">
+          <seg xml:id="KR3er101_jc_001-d3.p126s1">衣被全覆昏昏而睡者真熱假寒陽極似陰也</seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p128">
+          <seg xml:id="KR3er101_jc_001-d3.p128s1">假渴煩躁欲坐臥泥水中者真寒假熱陰極似陽也</seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p130">
+          <seg xml:id="KR3er101_jc_001-d3.p130s1">闕庭光澤傷於風也闕庭暗晦傷於寒也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p130s2">
+            <c n="（"/>黃色明潤者吉黑色枯槁者凶<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p132">
+          <seg xml:id="KR3er101_jc_001-d3.p132s1">面色青黑者為寒為直中陰證也</seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p134">
+          <seg xml:id="KR3er101_jc_001-d3.p134s1">面色紫赤者為熱為傳經里證也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p134s2">
+            <c n="（"/>若已發汗後面赤色盛此表邪出不徹也當重表之<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p136">
+          <seg xml:id="KR3er101_jc_001-d3.p136s1">閣面赤色者乃陰盛格陽是為戴陽之候也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p136s2">
+            <c n="（"/>宜急溫之以通陽氣不可誤作熱證治也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p138">
+          <seg xml:id="KR3er101_jc_001-d3.p138s1">面色黃者雖惡證尚可療也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p138s2">
+            <c n="（"/>黃欲如羅里雄黃忌如黃土色<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p138s3">赤白者次之</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p138s4">
+            <c n="（"/>赤欲如帛里朱忌如赭色白欲如鵝羽忌如鹽色也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p138s5">青黑者凶多吉少矣</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p138s6">
+            <c n="（"/>青欲如蒼璧之澤忌如藍色黑欲如重漆之光忌地蒼色一五色須以明潤為主不宜枯槁然五色精華盡現者其壽亦不能久也</seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p140">
+          <seg xml:id="KR3er101_jc_001-d3.p140s1">鼻頭</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p140s2">
+            <c n="（"/>即明堂也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p140s3">色青者腹中痛也色微黑者痰飲也色黃者濕熱也色白者氣虛也色赤者肺熱也傷寒鼻孔乾燥者乃邪熱在陽明肌肉之中久之必衄血也病人慾嚏而不能者塞也鼻塞流濁涕者風熱也鼻塞流清涕者風寒也病人睡而鼾者</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p140s4">
+            <c n="（"/>臥而有鼻息也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p140s5">風溫也鼻孔乾燥黑如煙煤者</seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p142">
+          <seg xml:id="KR3er101_jc_001-d3.p142s1">陽毒熱甚也鼻孔出冷氣滑而黑者陰毒冷極孤鼻孔<c n="＊"/>張者為肺氣將絕也產婦昂起黑氣或鼻鈕者為胃敗肺絕之危候也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p142s2">
+            <c n="（"/>古方用Jd嘰參蘇飲加附子救之多有得生者<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p142s3">唇乾而焦者邪在肌肉也焦而紅者病易愈也漾而黑者為難治也赤而腫者肌肉熱甚也色青黑者冷極也上唇有瘡蟲食其臟也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p142s4">
+            <c n="（"/>為之狐證<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p142s5">下唇有瘡蟲食其肛也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p142s6">
+            <c n="（"/>為之惑證<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p142s7">病中若見唇卷唇青唇黑唇顫者皆死證也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p142s8">
+            <c n="（"/>頻進參附或百中一生也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p142s9">日苦者膽熱也口甜者脾熱也日酸者肝熱也日辛者肺熱也日蛾者腎熱也日淡者胃熱也口滴者肝邪逆於肺也日燥咽乾而渴者熱邪褥入腎經真水不能上往於華池也一須急下之以救腎家將澗之水日不煥咽不乾頻欲飲熱湯者腎氣虛寒也一小灑之色必自<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p142s10">日<c n="＊"/>尿赤者邪入膀胱濕熱相聚也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p142s11">
+            <c n="（"/>自汁脈浮者宜滲利之無汗脈緊者忌滲利也<space n="　" quantity="1"/>口噤難言者或為痙病</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p142s12">
+            <c n="（"/>頭搖口噤背反張者太陽化口噤胸滿臥不著席腳攣急大便閉結不通必齘齒胃腑之實熱也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p142s13">或為寒中</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p142s14">
+            <c n="（"/>猝然口鼻氣冷手足厥冷或腹痛下利清穀或身體強硬四肢戰搖<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p142s15">或為痰迷心竅</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p142s16">
+            <c n="（"/>六脈沈細痰壅喉響<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p142s17">各不相等也環口黧黑口張氣直或如魚口或乍出不返皆難治也耳輪紅潤者病易愈也耳輪枯槁者凶多吉少也耳輪薄而白薄而黑薄而青或焦如炭色者皆為腎敗死期近也耳聾及耳中痛者乃邪在半表半裡屬於少陽和解之可已也耳聾而兼舌搖唇青者死證也</seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p144">
+          <seg xml:id="KR3er101_jc_001-d3.p144s1">目開欲見人者陽證也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p144s2">
+            <c n="（"/>病而如常瞭然者邪未傳裡也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p144s3">目赤目黃者邪已入里也目閉不欲見人者陰證也目昏暗不明者邪熱在內消灼腎水也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p144s4">
+            <c n="（"/>腎水枯竭故目不明宜急用大承氣湯下之蓋寒則目清未有寒甚而目不見者<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p144s5">目瞑</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p144s6">
+            <c n="（"/>翕目也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p144s7">者將衄血也目睛黃者濕熱壅遏所致將發黃癉也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p144s8">
+            <c n="（"/>黃有濕熱寒濕之別色如橘子柏皮因火氣而光彩此名陽黃濕熱也色暗而不明或手足厥冷脈沈細此名陰黃乃寒濕也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p144s9">目反上視橫目斜視瞪目直視及眼胞忽然陷下者乃五臟絕也雜病忽然雙目不明者此氣虛而脫也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p144s10">
+            <c n="（"/>用人參膏生之<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p144s11">脫臉目瞀者此血脫也邪熱則下之虛則補之然此已危險之極也</seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p146">
+          <seg xml:id="KR3er101_jc_001-d3.p146s1">舌黑津潤不破裂乾燥者直中寒證也舌津液如常邪在表而未傳裡也舌胎白而滑者邪在少陽半表半裡舌胎黃而乾燥者邪已入里也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p146s2">
+            <c n="（"/>胃熱甚宜下之<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p146s3">舌胎黑而有芒刺破裂乾枯者邪熱盛極也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p146s4">
+            <c n="（"/>腎水枯涸至重之候應急下之<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p146s5">寒證舌黑者本色也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p146s6">
+            <c n="（"/>溫之即瘥<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p146s7">熱證反赤為黃反黃為黑者乃熱極反兼水化至卮之候也舌腫脹或重舌或木舌或舌胎黃</seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p148">
+          <seg xml:id="KR3er101_jc_001-d3.p148s1">而生芒刺皆熱甚也至若舌鞭舌強舌短縮舌卷神氣昏亂語言不清者皆危險之極也陰陽易病舌脹大出口外者危惡甚也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p148s2">
+            <c n="（"/>用紙捻蘸芘麻油燒煙燻之可收然病愈不易易也張誕先先生傷寒舌鑑一百二十圖甚為明瞭宜細玩也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p150">
+          <seg xml:id="KR3er101_jc_001-d3.p150s1">身輕自能轉動者病易愈也身體沈重轉側須人者病深也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p150s2">
+            <c n="（"/>身重須以兼證辨之不可以概論也加骨節煩疼不嘔不渴脈虛浮而澀不能自轉側者此表寒風濕相搏也宜桂附湯如四肢沈重疼痛腹痛下利不能自轉側者此裡寒少陰病也宜真武湯發汗已身猶灼熱脈浮汗出多眠鼻鼾不能自轉側者此表寒束其裡熱風溫也宜萎蕤湯腹滿面垢口不仁自汗出譫語遺尿不能自轉側者此表裡皆熱三陽合病也宜白虎湯少腹裡急少氣氣上衝胸眼中生花不能自側轉者此裡虛且寒陰陽易病也附子理中湯<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p150s3">身重厥冷蜷臥無熟惡寒閉目不欲嚮明不欲見人者陰證也身痛如被杖身重如山而不能轉側者陰毒也手足抽搐角弓反張者痙也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p150s4">
+            <c n="（"/>痙有三陽經絡之殊有胃腑實熱所致有三陰中寒所發有內傷氣血虛弱而發宜辨別按證而施治也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p150s5">身痛如繩束者太陽表證也</seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p152">
+          <seg xml:id="KR3er101_jc_001-d3.p152s1">頭重視身者天柱骨倒而元氣敗也頭搖不止髮直如妝及頭上攛者皆絕證也頭痛連腦及項脊者太陽表證也頭痛連額及面目者陽明證也頭痛連耳前後並額角者少陽證也頭痛而口渴便閉尿赤短數者陽明腑熱熏蒸也頭痛惡寒發熱者外感風寒也三陰本無頭痛其有之者必直中而兼外感也至厥陰頭痛脈浮者乃傷寒傳經至此而然是里邪欲達於表宜微汗之也頭痛筋脈抽搐或鼻流濁涕而塞者風寒也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p152s2">
+            <c n="（"/>宜清空膏<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p152s3">頭痛連眼角畫輕夜重者血虛也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p152s4">
+            <c n="（"/>宜逍遙散<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p152s5">頭痛而起核塊或頭中嗚者雷頭風也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p152s6">
+            <c n="（"/>多屬痰火宜清震湯<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p152s7">頭痛連腦及齒手足厥冷口鼻氣冷者客寒犯腦也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p152s8">
+            <c n="（"/>宜羌活附子湯<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p152s9">頭痛日渴欽冷頭筋扛起脈洪大者胃火上衝也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p152s10">
+            <c n="（"/>宜加味升麻湯<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p152s11">頭痛胸膈煩滿動則眩最者痰厥也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p152s12">
+            <c n="（"/>宜半夏白朮天痂湯<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p152s13">頭痛而重足浮腰痠膝耎者腎厥也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p152s14">腎有真水真火須分別之水虛者脈必數而無力宜用六味丸火虛者脈必大而無力宜用八昧丸<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p152s15">頭腫大甚如斗者乃火鬱也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p152s16">
+            <c n="（"/>即大頭天行也其感之輕者則腫在耳前後名日發頤宜用普濟消毒飲<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p152s17">頭痛手足青至節者乃陽氣大虛腦受邪侵真頭痛也<c n="）"/>
+          </seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p152s18">
+            <c n="（"/>證甚危險速用補中益氣湯加川芎附子蔓荊於兼進八味丸或有得生者不可輕忽也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p152s19">破腦傷風者風從破處而入其證多發搐搦也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p152s20">
+            <c n="（"/>宜防風散<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p152s21">眉稜骨痛或眼眶痛者肝經病也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p152s22">
+            <c n="（"/>血虛者見光則痛宜逍遙散風熱者痛不可開宜清空膏<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p154">
+          <seg xml:id="KR3er101_jc_001-d3.p154s1">胸痛者邪氣初傳人里而未深入也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p154s2">
+            <c n="（"/>宜用柴胡湯加枳殼或本方對小陷胸湯<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p154s3">胸痛滿而氣喘者風寒在肺也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p154s4">宜甘桔湯加理氣散風藥<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p154s5">傷寒胸不痛滿者邪氣在表也胸痛脹滿未經下過者半表半裡之證也若已下過而痛甚者恐成結胸也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p154s6">
+            <c n="（"/>邪之傳與不傳以此可消息矣<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p154s7">尋常胸中脹滿多由飲食填塞吐之即已也</seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p156">
+          <seg xml:id="KR3er101_jc_001-d3.p156s1">腹痛乍作乍止脈洪有力者熱也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p156s2">
+            <c n="（"/>芍藥甘草湯加黃連<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p156s3">如腹痛噯腐吞酸飽悶膨脹腹中有一條扛起者食積也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p156s4">
+            <c n="（"/>宜保和丸<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p156s5">消之而痛不止便閉不行而拒按者</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p156s6">
+            <c n="（"/>宜三黃枳朮丸下之<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p156s7">下後以手按仍痛者積未盡也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p156s8">仍用平藥以再消之<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p156s9">消導攻下之後遂至惡冷喜熱者漸變寒中也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p156s10">
+            <c n="（"/>須易溫中之劑<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p156s11">腹痛綿綿不巳脈遲無力者寒也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p156s12">
+            <c n="（"/>宜香砂理中湯<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p156s13">如腹痛咖兼飽悶脹病是有食櫝不便驟補</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p156s14">
+            <c n="（"/>宜用香砂二陳湯加薑桂查樸穀芽溫而消之</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p156s15">
+            <c n="（"/>消之而痛不止大便反閉名曰陰結<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p156s16">宜木香丸熱藥下之<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p156s17">下後仍用溫劑和之可也腹痛走注無定者濁氣壅塞也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p156s18">
+            <c n="（"/>宜木香調氣散<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p156s19">腹痛騃板不移者瘀血積聚也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p156s20">
+            <c n="（"/>宜澤蘭湯行之<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p156s21">腹痛而唇有斑點飢時更甚者蟲齒也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p156s22">
+            <c n="（"/>用化蟲丸<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p156s23">腹痛而吐瀉者傷暑霍亂也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p156s24">
+            <c n="（"/>宜四味香需飲<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p156s25">腹痛欲吐不得吐欲瀉不得瀉變在須失者乾霍亂也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p156s26">
+            <c n="（"/>俗名曰攪腸沙<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p156s27">更有偏體紫黑者鳥沙鵬也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p156s28">
+            <c n="（"/>此二證勢極凶險刻不可待急用刀頭燒鹽和陰陽水吐之或用四陳湯服之外用武侯平安散點左右大眼角蔗幾十中生一也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p156s29">腹痛當臍中轉側作水聲小便如淋者腹內癰也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p156s30">宜用牡丹皮散<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p156s31">傷寒以手按腹若不痛脹者邪夫人里也按之而腹滿痛嗌乾口燥脈沈實者少陽之邪傳入太陰經肝木乘脾也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p156s32">宜小柴胡湯去參加芍藥和之<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p156s33">和之而腹脹不減痛不止者裡實之證也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p156s34">
+            <c n="（"/>宜大樂胡湯下之如自利去大黃易黃連<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p156s35">太陽證為醫誤下因而腹滿痛者此內陷之邪也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p156s36">
+            <c n="（"/>宜用桂枝倍芍藥其大實痛者宜加大黃<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p156s37">若腹脹時滅痛則綿綿者此里證未實但可清之不可攻也至直中腹痛則不由陽經傳來其證必腹滿而吐食不下自利氣冷脈必沈遲也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p156s38">
+            <c n="（"/>宜理中湯<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p158">
+          <seg xml:id="KR3er101_jc_001-d3.p158s1">小腹硬痛者傷寒邪熱傳至厥陰經也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p158s2">
+            <c n="（"/>濁陰凝聚宜急下之小腹硬痛而小便自利大便黑色者蓄血證也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p158s3">宜桃仁承氣湯攻之<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p158s4">小腹脹滿而小便不通大便如常者膀胱蓄水也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p158s5">
+            <c n="（"/>口渴者熱在上焦氣分也宜四苓散加梔芩不渴者熱在下焦血分也宜滋腎丸滋化原<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p158s6">小腹繞臍硬痛小便數而短赤者燥糞證也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p158s7">
+            <c n="（"/>宜大承氣湯以下之<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p158s8">小腹冷痛小便清長者寒邪直中厥陰也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p158s9">
+            <c n="（"/>宜急溫之直中證舌雖短總而潤澤傳邪證舌必焦燥津枯寒熱天淵也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p158s10">尋常小腹痛者多屬疝瘕奔豚痃癖症積帶下也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p158s11">
+            <c n="（"/>三陰急為疝三陽急為瘕冷氣上衝為奔豚筋扛起如弓較為痃嗜好積聚不化成形為癖瘀血凝滯成塊不動作痛為症女子帶下皆由脾虛感濕也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p160">
+          <seg xml:id="KR3er101_jc_001-d3.p160s1">手指尖冷者寒也手指尖溫者風也指甲紫色者熱極也指甲白色者血虧也指甲黑而青者毒甚中之也手心熱者風邪也</seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p162">
+          <seg xml:id="KR3er101_jc_001-d3.p162s1">小便白而多者寒也小便黃而少者熱也小便赤者熱極也小便點滴不通者閉也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p162s2">
+            <c n="（"/>渴者熱上焦氣分也不渴者在下焦血分<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p162s3">小便不禁者脬氣不固也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p162s4">
+            <c n="（"/>肝氣熱則陰挺失職宜逍遙散中氣虛則不能統攝宜十補湯<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p162s5">小便自遺者腎敗也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p162s6">
+            <c n="（"/>急用附子理中湯頻灌之或可救得十中之一二<space n="　" quantity="1"/>
+            <c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_001-d3p164">
+          <seg xml:id="KR3er101_jc_001-d3.p164s1">大便不通燥渴譫語者陽明胃熱實閉也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p164s2">
+            <c n="（"/>宜用小承氣湯<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p164s3">老人精血不足產婦氣血兩虛以致大便不潤者虛閉也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p164s4">
+            <c n="（"/>血不足用四物湯加潤藥氣虛血兩虧則宜用八珍湯<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p164s5">大便不通口燥唇焦舌胎黃小便赤喜冷惡熱者陽結也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p164s6">
+            <c n="（"/>宜三黃枳朮丸<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p164s7">大便不通唇淡口和舌胎白小便清喜熱惡冷者陰結也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p164s8">
+            <c n="（"/>宜用理中湯加歸芍<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p164s9">陽結者脈浮而數能食十七日當劇陰結者脈沈而遲不能食身體重十四日當劇劇者裡急下重且滿且痛不可再待時日宜早圖而下之凡病後津液傷甚者多見此證也大便前出小便後出者交腸證也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p164s10">
+            <c n="（"/>宜五苓散<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p164s11">大便小便俱由前出者</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p164s12">
+            <c n="（"/>乃血液枯涸氣血衰敗也多服大劑八珍湯或可稍延歲月耳<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p164s13">不治之證也大便溏者受寒也大便欲解不解者血少也大便不實口渴尿赤下瀉腹垢者濕熱也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p164s14">
+            <c n="（"/>神朮散加速翹<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p164s15">大便不實下瀉清穀者濕寒也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p164s16">神朮散加炮姜木香其證必尿清而口和<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p164s17">大便不實胸滿痞悶噯腐吞酸瀉下臭穢者食積也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p164s18">
+            <c n="（"/>神朮散加楂牙神麯治瀉須利小便點必食積既消方可利之不宜草率<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p164s19">大便不實食少瀉頻面色皎白者脾虛也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p164s20">
+            <c n="（"/>宜用香砂六君子湯兼寒者加薑桂附子<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p164s21">大便不實五更天明依時而泄者腎虛也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_001-d3.p164s22">
+            <c n="（"/>宜加味七神丸<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_001-d3.p164s23">凡病中循衣摸床兩手撮空者此神去而魂亂也至於大肉盡脫九侯雖調終亦必亡也</seg>
+        </p>
+
+</div>
+      <div type="juan" n="2" xml:id="KR3er101_jc_000-d4">
+        <head n="h1" xml:id="KR3er101_jc_002-d4h1">
+          <seg xml:id="KR3er101_jc_002-d4.h1s1">卷二</seg>
+        </head>
+        <p xml:id="KR3er101_jc_002-d4p2">
+          <seg xml:id="KR3er101_jc_002-d4.p2s1">診脈訣</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p2s2">
+            <c n="（"/>沈云將先生<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p4">
+          <seg xml:id="KR3er101_jc_002-d4.p4s1">脈分三部</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p4s2">
+            <c n="（"/>有左有右<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p4s3">上部曰寸為陽</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p4s4">
+            <c n="（"/>長六分始自魚際即大指下節與小臀骨相交處也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p4s5">中部曰關為半陽半陰</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p4s6">
+            <c n="（"/>長六分居小高骨之內其前三分通乎寸為陽敵陽數九也後三分通乎尺為陰故陰數十也所謂半陽半陰由是故耳<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p4s7">下部曰尺為陰</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p4s8">
+            <c n="（"/>長七分居於關之後<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p4s9">統攝三部者曰寸口</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p4s10">
+            <c n="（"/>左為人迎右為氣口<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p4s11">部各三候曰浮</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p4s12">
+            <c n="（"/>主皮膚以候表<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p4s13">曰中</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p4s14">
+            <c n="（"/>主肌肉以候胃氣也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p4s15">曰沈</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p4s16">
+            <c n="（"/>主筋骨以候里<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p4s17">所謂三部九候者指一手而言也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p4s18">
+            <c n="（"/>長人脈長疏排指取短人脈短密排指取老人脈耎浮取肥人脈細重取小兄脈緩瘦人脈大皆宜輕取至於反開脈開脈三部俱在臂側魚際脈在寸口之上大小脈兩手不同六陰脈皆沈六陽脈皆浮其有兩手清微無脈者乃貴重之人更有六脈平和者非仙即怪必須細心推究不可概論也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p4s19">人之體躬有陰有陽陰曰營</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p4s20">
+            <c n="（"/>統血而行脈中寒則瘍營<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p4s21">陽日衛</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p4s22">
+            <c n="（"/>統氣而行脈外風則傷衛<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p6">
+          <seg xml:id="KR3er101_jc_002-d4.p6s1">脈之至數定於呼吸</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p6s2">
+            <c n="（"/>呼者氣之出脈之來也吸者氣之入脈之去也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p6s3">呼一吸為之息一息而脈四動</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p6s4">
+            <c n="（"/>閏以太息故五動亦為和<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p6s5">無疾病者也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p6s6">
+            <c n="（"/>三動為遲陽氣衰也二動為敗陽氣衰甚也一息一動危殆極矣六動為數陰氣衰也七動為極陰氣衰甚也八動為脫氣血兩虧也九動為死矣遲敗數極四者其脈中候有力則為有神沈候有力則為有根而兩尺之沈候又為根中之根他脈訣云寸關雖無尺猶未絕如此之流何憂殞滅洵非虛語儻根蒂已壞節逢長桑君亦無所施伎矣至於一息而脈十動以外與夫兩息而脈一動者此則散而為變也遲敗二者寒也數極二者熱也一</seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p8">
+          <seg xml:id="KR3er101_jc_002-d4.p8s1">脈分來</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p8s2">
+            <c n="（"/>氣之出也陽也自骨肉之分而上於皮膚之際乃氣之升故以候表<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p8s3">去</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p8s4">
+            <c n="（"/>氣之入也陰也自皮膚之際而下於筋骨之閒乃氣之降故以候里<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p8s5">疾</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p8s6">
+            <c n="（"/>氣有餘也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p8s7">遲</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p8s8">
+            <c n="（"/>氣不足也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p8s9">反</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p8s10">
+            <c n="（"/>病在裡也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p8s11">覆</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p8s12">
+            <c n="（"/>病在表也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p8s13">以徵內外虛實表裡盛衰也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p8s14">
+            <c n="（"/>來疾去遲內虛外實也來遲去疾內實外虛也來小去大為之反病在裡陰盛也來大去小為之覆病在表陽盛也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p10">
+          <seg xml:id="KR3er101_jc_002-d4.p10s1">寸口</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p10s2">
+            <c n="（"/>通指寸關尺而言也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p10s3">之管衛所以則脈之盛衰候人之強弱也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p10s4">
+            <c n="（"/>衛主氣為陽以候表脈隨指有力衛氣盛也調之高高者長也脈隨指無力衛氣弱也謂之惵惵者恍惚也衛氣和平曰緩緩者胃氣有餘也胃氣有餘則顏色聲音毛髮鮮澤矣螢主血為陰以候里脈隨指有力營血盛也謂之章章者明也脈隨指無力營血弱也謂之卑卑者縮下也營血和平曰遲遲者脾陰充足也脾陰充足則骨髓肌肉豐滿堅固矣營衛兩盛謂之綱有餘總攪之意也營衛不足謂之捐有消縮之意也營衛剛柔相得和緩之脈同見則謂之強強者即顏色之鮮麗而血肉豐盈其人之壯健可知也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p12">
+          <seg xml:id="KR3er101_jc_002-d4.p12s1">浮中沈三候分主皮脈肉筋骨以應五臟之診法也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p12s2">
+            <c n="（"/>肺浮主於皮毛心浮主於血脈脾在浮沈之間而主乎肌肉故以候中肝沈主於筋力腎沈主於骨隨也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p12s3">下指有輕重差等以侯五藏之氣也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p12s4">
+            <c n="（"/>與皮毛相得者肺也下指宜如三豆重以候之與血脈相得者心也下指宜如六豆重以候之與肌肉相等者脾也宜如九豆重以候之與筋相平者肝也宜如十二豆重以候之按之至骨舉之來疾者腎也各隨所主之部以候藏氣也豆之調者約略輕重而譬之不必拘執以為繩尺也至於左右兩手亦各有寸關尺所主分位須應照此三候取之以分表裡也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p14">
+          <seg xml:id="KR3er101_jc_002-d4.p14s1">寸口脈</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p14s2">
+            <c n="（"/>通指三部言也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p14s3">有浮沈遲數以候表裡藏府之診法也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p14s4">
+            <c n="（"/>脈浮病在表脈沈病在裡脈數病在府脈遲病在藏浮者皮膚取而得之沈者筋骨取而得之數者一息脈六動為陽故在府遲者一息脈三動為陰故在藏張石頭先生曰此節全重於遲為在藏一句設脈見浮遲雖有表證只應以小廷中和之非麻黃青龍所宜以藏氣本虛也至於諸陽雖皆屬府諸陰雖皆屬藏然傷寒中之傳變亦有數而入藏遲而入府者非可執此概論也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p16">
+          <seg xml:id="KR3er101_jc_002-d4.p16s1">緩脈有二羲須分而言之也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p16s2">
+            <c n="（"/>陽脈浮大而耎陰脈浮大而耎調浮中沈三候陰陽同等也名曰緩此和緩之義以脈至數無多寡而言也若脈來一息四動按之大而慢似遲而實非遲亦謂之緩此寬緩之義以脈之急慢而言也張石頑先生曰脈雖浮大而耎按之不絕者為緩如按之即無者是虛脈按之而一息不及四至者是遲脈皆非緩脈也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p18">
+          <seg xml:id="KR3er101_jc_002-d4.p18s1">兩手十二經脈系乎五藏六府有里有表各應其當王之時而然也遇克則死可期矣</seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p20">
+          <seg xml:id="KR3er101_jc_002-d4.p20s1">左寸裡為手少陰心經火藏也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p20s2">
+            <c n="（"/>立夏心脈當王火盛故其脈洪也然洪之中須有長大和緩之意始謂之有胃氣雖病易愈也若洪而少長大和緩者謂之洪多胃少是心病脈也者但得洪而全無長大和緩意者謂之無胃是心死脈也設非夏令而心脈洪則為邪盛矣夏而心脈沈至冬當死<space n="　" quantity="1"/>
+            <c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p22">
+          <seg xml:id="KR3er101_jc_002-d4.p22s1">左寸表為手太陽小腸經心之府也</seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p24">
+          <seg xml:id="KR3er101_jc_002-d4.p24s1">左關裡為足厥陰肝經木藏也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p24s2">
+            <c n="（"/>立春肝脈當王木盛故其脈略弦也然略眩之中須有弱耎而長之意始謂之有胃氣雖病易愈也若略弦而少耎弱與長者謂之弦多胃少是肝病脈也若但得略弦而全無耎弱而長者謂之無胃是肝死脈也至於肝脈純弦即值春令已如樹木之將枯枝幹之乾硬不能久延況非其時又安有所希望耶春而肝脈得毛浮者至秋當死<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p26">
+          <seg xml:id="KR3er101_jc_002-d4.p26s1">左關表為足少陽膽經肝之府也</seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p28">
+          <seg xml:id="KR3er101_jc_002-d4.p28s1">左尺裡為足少陰腎經水藏也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p28s2">
+            <c n="（"/>立冬腎脈當王水盛故其脈沈也然沈之中須有滑耎之意始謂之有胃氣雖病易愈也若沈滑而少耎和者謂之沈多胃少是腎病脈也若但得沈而全無滑耎意者謂之無胃是腎死脈也非冬令而腎脈沈者則為陰寒八里也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p30">
+          <seg xml:id="KR3er101_jc_002-d4.p30s1">左尺表為足太陽膀胱</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p30s2">
+            <c n="（"/>亦謂之脬<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p30s3">經腎之府也右寸裡為手太陰肺經金藏也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p30s4">
+            <c n="（"/>立秋肺脈脈當王金盛故其脈毛浮也然毛浮之中須有緩遲之意始謂之有胃氣雖病易愈也若毛浮而少緩遲者謂之浮多胃少是肺病脈也若但得毛浮而全無緩遲意者謂之無胃是肺死脈也若毛浮而數則為病劇蓋數為火是金逢火化當發癰腫而難治之也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p32">
+          <seg xml:id="KR3er101_jc_002-d4.p32s1">右寸表為手陽明大腸經肺之府也</seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p34">
+          <seg xml:id="KR3er101_jc_002-d4.p34s1">右關裡為足至太陰脾經土藏也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p34s2">
+            <c n="（"/>脾為坤土性主厚重王於四季其脈與陽寸陰尺同等浮大而耎無有偏勝緩而和勻不浮不沈不疾不徐不微不弱者即為胃氣也杜光庭先生云欲知死期何以取古賢推定五般土陽土須知不過陰陰土遇陰當細□陰上者脾土也程鍾齡先生云脈有耍訣胃神根三字而已春弦夏洪秋毛冬石應乎四時而其中必雞有和緩悠揚之意乃為胃氣有則生少則病無則死也神者中候他浮中沈之中也如六數七極熱也中候有力則有神矣清之而熱即退如三遲二敗寒也中候有力則有神矣溫之而寒即除若寒偏熱勝中侯無神情溫之劑將何所恃耶根者沈候應指是也三部九候以沈分為根而兩尺又為根中之根也夫胃氣者如桃率核中之仁兩片相接處之一線也所賴以生生之機者此也所賴以化化之妙者此也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p36">
+          <seg xml:id="KR3er101_jc_002-d4.p36s1">右關表為足陽明唇經脾之府也</seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p38">
+          <seg xml:id="KR3er101_jc_002-d4.p38s1">右尺裡命門也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p38s2">
+            <c n="（"/>亦日神門為真火之源所主精氣鼎峙兩腎之間附脊第十四椎為水中之火既濟陰陽男以精氣為主故右尺為命門女以精血為主故以左尺為命門以尺為六脈之根也越人云人之有尺譬如樹之有根水為天一之元先天之命根也若腎脈獨敗是無根矣如虛浮無根是有表無里孤陽豈能獨存乎若重按無根不獨先天腎水之絕亦為後天不足之徵仲景所謂營氣不足血少故也其經脈具詳於左尺矣<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p38s3">半表半裡為手厥陰經心包絡他</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p38s4">
+            <c n="（"/>諸邪之干心者皆心包絡受之也諸脈雖屬於心而行於手太陰肺經然脈之運動皆由心包總之火故又以心包絡為主也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p40">
+          <seg xml:id="KR3er101_jc_002-d4.p40s1">右尺表為手少陽經三焦也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p40s2">上焦如霧中焦如瀝下焦如僧有象無質即上中下三部藏府空處是也岐伯曰寸以射上焦關以射中焦尺以射下集些言三焦之脈位也射者自下而射於上其脈即分屬寸關尺凡鼓動之機莫不本諸三焦則知六部之中部部不離三焦之氣也越人謂其有名無形者以火即氣本無形非如精津血液之各有其質也靈樞本藏云腎應骨三焦膀胱厚者密理厚皮薄者粗理薄皮急者腠理疏直者毫毛美而粗結者毫毛稀也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p42">
+          <seg xml:id="KR3er101_jc_002-d4.p42s1">脈有相乘繼橫逆順以徵病之重輕也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p42s2">
+            <c n="（"/>五行肝木心火脾土肺金腎水此相屬也木乘上火乘金土乘水金乘木水乘火是相剋也名曰縱則病甚也木乘金火乘水土乘木金乘火水乘土是反侮他名曰橫則病微也木乘水火乘本上乘火金乘土水乘金是倒施也名曰逆則病虛也木乘火火乘土土乘金金乘水水乘木是相生也名曰順則病實也非其時而得之則相乘縱橫為患最重逆順則猶無大害他<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p42s3">乘府乘藏宜各就脈證錯綜以參之也</seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p44">
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p44s1">
+            <c n="（"/>府陽也浮數陽脈他以浮數之脈而見於府謂之陽乘陽藏陰也遲澀陰脈也以遲澀之脈而見於藏謂之陰乘陰如浮數之脈而見於藏謂之陽乘陰又謂之府乘藏如遲澀之脈而見於府謂之陰乘陽又謂之藏乘府凡陽乘陽與夫陰乘陰者即為獨陽不生獨陰不生也其陽乘陰者病雖重亦可療陰乘陽者病即輕縱難愈所調陰病見陽脈者生陽病見陰脈者死是也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p44s2">陰陽相乘之脈須辨往來盛虛也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p44s3">
+            <c n="（"/>陽不足以勝陰而與陰俱化則惡寒陰不足以勝陽而從陽之化則發熱陰陽之氣更盛更虛陰並則寒陽並則熱凡瘧與往來寒熱之脈皆然也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p46">
+          <seg xml:id="KR3er101_jc_002-d4.p46s1">營衡耎弱所以別陰陽之不足也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p46s2">
+            <c n="（"/>營者統血而行於脈中陰也弱者脈沈而無力也陰脈弱則營微血虛而發熱甚則筋急也衛者統氣而行於脈外陽也耎者脈浮而無力也陽脈耎則衛衰氣虛而惡寒甚則汗流如珠也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p46s3">脈有上下以候陰陽五藏之升降而計生死之期也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p46s4">
+            <c n="（"/>寸脈居上候心肺之陽主升升極而降降不至關謂之孤陽是陽絕也尺脈居下候肝腎之陰主降降極而升升不至關謂之獨陰是陰絕他關居於中以候脾所以升降寸尺之出入者也今上下不至關是升降出入之氣不通此皆不治決死也若陰陽已離胃氣未絕倘可苟延殘息要知死期則如經所云陰勝則陽絕能夏不能冬陽勝剛陰絕能冬不能夏肝死於秋心死於冬脾死於春肺死於夏腎死於是夏之類是也推之於日時亦然<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p48">
+          <seg xml:id="KR3er101_jc_002-d4.p48s1">汗出發潤喘不休者肺先絕也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p48s2">
+            <c n="（"/>肺為津液之帥汗者人之液也在內為血在外為汗出而似汗相著不流者氣盡液也著於發而黏故發如潤此津竭也肺為氣之主喘者疾息也口張則有呼無吸故出而不休此氣脫也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p48s3">身體大熱形如煙燻直視搖頭者此心絕也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p48s4">
+            <c n="（"/>心為形之君神明之主也陰盡則孤陽外越故身大熟也色如煙燻者從火化也神散則目直視陽無依則頭搖也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p48s5">唇吻反青四肢□習者此肝絕也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p48s6">
+            <c n="（"/>吻者口唇邊也色當赤而黃乃脾之本然因被木所克故從其勝而反青也肝主筋藏血血竭則筋脈無所養而引急□者汗出貌也習者鳥數飛也言手足額動之狀若汗之不期然自出如鳥之習飛而無己時也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p48s7">環口黧黑柔汗發黃者此脾絕也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p48s8">
+            <c n="（"/>唇口應於脾色當黃且赤今轉為水侮而暗黑則土敗可知柔者耎而膩也汗者液也柔汗者乃脾之真液即俗之所謂冷汗是也黃為土之本色真液竭而真象露也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p48s9">便尿自遺狂言目反直視者此腎絕也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p48s10">
+            <c n="（"/>腎藏精志而司啟閉二便自遺者精力盡而禁約馳也志失則狂言精不上榮則瞳子不能轉而直視也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p48s11">身汗如油</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p48s12">
+            <c n="（"/>液外亡也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p48s13">喘而不休</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p48s14">
+            <c n="（"/>氣上脫也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p48s15">水漿不下</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p48s16">
+            <c n="（"/>胃氣無也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p48s17">形體不仁</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p48s18">
+            <c n="（"/>營衛離也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p48s19">乍靜乍亂</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p48s20">
+            <c n="（"/>神無主也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p48s21">六脈無根則命絕也</seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p50">
+          <seg xml:id="KR3er101_jc_002-d4.p50s1">持脈大綱輕手候之脈見於皮膚之間者心肺之應也心肺在上故其脈皆浮也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p50s2">
+            <c n="（"/>浮大而散者心也浮澀而短者肺也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p50s3">陽也府也重手按之脈附於筋骨之間者肝腎之應也肝腎在下故其脈皆沈也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p50s4">
+            <c n="（"/>弦而且長者肝也沈而耎滑者腎也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p50s5">陰也藏也不輕不重中而取之脈見於肌肉之間者脾胃之候也脾胃在陰陽相通之中故其脈緩而大也此五藏不病之脈也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p50s6">
+            <c n="（"/>若短小而見於皮膚之間者陰乘陽也若洪大而見於肌肉之下者陽乘陰也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p50s7">脈有浮沈診分輕重也左寸先以輕手得之是小腸屬表後以重手得之是心屬裡心在肺下主血脈心脈循血脈而行按至血脈而得為浮稍加力得脈道粗大為大又稍加力得脈道潤耎為敬此即上文浮大而散之謂也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p50s8">
+            <c n="（"/>若出於血脈之上見於皮膚之間是其浮也若人於血脈之下見於筋骨之分是其沈也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p50s9">右寸先以輕手得之是大陽屬表後以重手得之是肺屬裡肺居最高主皮毛肺脈循皮毛而行按至皮毛而得為浮稍加力得脈道不利為澀又稍加力脈道縮入關中上半指不動下半指微動為短此即上文浮澀而短之謂也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p50s10">
+            <c n="（"/>若出於皮毛之上見於皮膚之表是其浮也若入於血脈筋肉之分是其沈也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p50s11">在關先以輕率取之是膽屬表後以重不得之是肝屬裡肝在脾下主筋肝脈循筋而行按至筋得脈道如弓弦者為弦稍加力得脈道迢迢為長此即上文弦長之謂也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p50s12">
+            <c n="（"/>若出於筋上見於皮膚血脈之間是其浮也若入於筋下見於骨上是其沈也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p50s13">右關先以輕手得之是胃屬表後以重手取之是脾屬裡脾在心下主肌肉脾脈循肌肉而行按至肌肉得脈道如微風輕楊柳稍之狀為緩稍加力得脈道敦實者為大此即上文緩而大之謂也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p50s14">若出於肌肉之上見於皮毛之間者是其浮也若</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p50s15">
+            <c n="（"/>入於肌肉之下見於筋骨之分者是其沈也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p50s16">左尺先以輕手得之是膀胱屬表後以重手取之是腎屬裡腎在肝下主骨腎脈循骨而行按至骨上得之為沈重手按之脈道無力者為耎舉指來疾流利者為滑此即上文沈而耎滑之謂也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p50s17">若出於骨上見於皮膚血脈筋肉之間是其浮也若入而至骨是其沈也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p50s18">
+            <c n="（"/>右尺光以輕手得之是三焦為表再以稍重手得之是心包絡為半表半裡</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p50s19">
+            <c n="（"/>諸邪干心者皆心包絡受之也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p50s20">更以重手得之是命門</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p50s21">
+            <c n="（"/>兩臂居其左右<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p50s22">為里為相火與方尺之氣通也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p50s23">
+            <c n="（"/>男以右尺為命門女以左尺為命門余皆無所異也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p52">
+          <seg xml:id="KR3er101_jc_002-d4.p52s1">左手關前曰人迎以候風寒暑濕燥火六氣之外因也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p52s2">
+            <c n="（"/>浮盛則傷於風肝脈應之緊盛則傷於寒腎脈應之虛弱則傷於暑心包絡應之沈細叨傷於濕脾脈應之滯澀則傷於燥肺脈應之虛數則傷於火心脈應之火者熱也此皆外國法當表散滲泄也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p54">
+          <seg xml:id="KR3er101_jc_002-d4.p54s1">右手關前曰氣口以候喜怒憂思悲恐驚七情之內因也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p54s2">
+            <c n="（"/>喜則脈散心應之怒則脈耎肝應之憂則脈檣肺應之思則脈結脾應之悲則脈緊心包絡應之恐則脈沈腎應之驚則脈動膽應之此皆內因法常溫順以消平之也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p54s3">六脈傷損謂之不內不外因也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p54s4">
+            <c n="（"/>心脈虛澀傷於勞神役慮也肝脈虛弦傷於筋力疲極也腎脈緊傷於勞役陰陽也肺脈弱傷於叫呼損氣也脾脈緩弦傷於飢餓也脾脈滑實傷於飽食也命門脈微澀傷於房帷任意也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p56">
+          <seg xml:id="KR3er101_jc_002-d4.p56s1">脈有表裡陰陽主病之異</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p56s2">
+            <c n="（"/>表病取決於人迎為陽為府外感則人迎脈緊盛也里病取決於氣口為陰為藏內傷則氣口脈緊盛也表裡皆病則人迎氣口俱緊盛也男子之脈左大於右在關上為順寸脈常盛尺脈常弱是以不可久瀉也女子之脈右大於左在關下為順寸脈常弱尺脈當盛是以不可久吐也上部有脈下部無脈其入當吐不吐必死也上部無脈下部有脈病雖重不死何也蓋人有尺脈謂有元氣猶樹之有根也凡人左手屬陽關前琶陽諮陽為熱汗多亡陽右手屬陰關後亦屬陰諸陰為寒下多亡陰也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p58">
+          <seg xml:id="KR3er101_jc_002-d4.p58s1">脈理大耍浮沈遲數滑澀也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p58s2">
+            <c n="（"/>浮為陽主表為風為虛沈為陰主裡為濕為實遲則在藏為寒為冷為陰數則在府為熱為燥為陽滑則為血有餘氣不足也澀則為氣有餘血不足也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p58s3">諸脈主病大略</seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p60">
+          <seg xml:id="KR3er101_jc_002-d4.p60s1">浮</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p60s2">
+            <c n="（"/>不沈也如水漂木也陽也主病在表為邪襲三陽經中鼓搏脈氣於外也為風為虛為熱為痛為嘔為痞為滿為不食為喘浮而大為傷風鼻塞<space n="　" quantity="1"/>浮而滑疾為宿食浮滑為飲也左寸浮主傷風發熱頭疼目眩及風痰浮<space n="　" quantity="1"/>而虛遲為心氣不足心神不安浮而散為心氣耗虛煩浮而洪數為心經熱左關浮主腹脹浮而數風熱入於肝經浮而促為怒氣傷肝心胸逆滿浮而大為胸脅脹滿左尺浮為膀胱風熱小便赤澀浮而扎男子小便血女子崩帶浮而遲為冷疝臍下痛右寸浮為肺感風寒咳喘清涕自汗體倦浮而洪為肺熱而咳浮而遲為肺寒喘嗽作欠右關浮為脾虛中滿不食浮大而澀為宿食浮而遲為脾胃兩虛右尺浮為風邪客下焦大便秘浮而虛為元氣不足浮而數為了焦風熱大便秘凡瘦人得浮脈三部相得曰飢薄若肥人得之未有不病者也一</seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p62">
+          <seg xml:id="KR3er101_jc_002-d4.p62s1">沈</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p62s2">
+            <c n="（"/>不浮也如石在水底也陰也主病在裡為陽氣式微不能統運營氣於表也為陰逆陽郁為氣為實為熱為水為停飲為癥瘕為脅脹為厥逆為恐懼為腰痛為水泫滀洞泄沈而細為少氣沈而遲為痼冷沈而滑為宿食沈而伏為霍亂沈而數為內熱沈而遲為內寒沈而弦為心腹冷痛左寸沈為寒邪為痛為胸中寒飲脅疼左關沈為伏寒在經兩脅刺痛沈而弦為疲癖內痛左尺沈為腎藏感寒腰背冷痛小便濁而頻男為精冷女為血結沈而細為脛酸陰庠尿有餘瀝右寸沈肺冷寒痰停蓄虛喘少氣沈而緊滑為咳嗽沈細而滑為骨蒸寒熱皮毛焦乾右關沈為胃中寒積中滿吞酸沈而緊為懸飲右尺沈為病水腳連腰疼沈而細為下利為小便滑為臍下冷痛傷寒陽證兩寸沈曰難治平人兩寸沈曰無陽必艱於壽<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p64">
+          <seg xml:id="KR3er101_jc_002-d4.p64s1">遲</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p64s2">
+            <c n="（"/>一息三至也陰也為陽氣不顯營氣自和之象也為陰盛陽虧之候為寒為痛為不足浮而遲為表有寒沈而遲為里有寒兩寸沈而遲為氣不足氣寒則縮也兩尺沈而遲為血不足血寒則凝也左寸遲為心上寒精神多慘左關在為筋寒急手足冷脅下痛左尺遲為腎虛男子便濁女子不月右寸遲為肺感寒冷痰氣短右關遲為中焦寒及脾胃傷冷物不食沈而渥為積右尺遲為藏寒泄瀉為冷少腹痛腰腳重<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p66">
+          <seg xml:id="KR3er101_jc_002-d4.p66s1">數</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p66s2">
+            <c n="（"/>一息六至也陽也為陽盛陽虧熱邪流薄於經絡之象也為陰虛為熱為煩滿上為頭痛上熱中為脾熱口臭為胃煩嘔逆左為肝熱目赤腫右為小便黃赤大便秘澀浮而數為表有熱沈而數為里有熱也脈來數而牢加銀釵之股為蠱毒<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p68">
+          <seg xml:id="KR3er101_jc_002-d4.p68s1">滑</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p68s2">
+            <c n="（"/>往來流利也忽浮忽沈也多血小氣也陽中陰也為血實氣壅之候為痰為飲為嘔吐為宿食浮而滑為嘔逆沈而滑為氣結滑而數為結熱左寸滑為心熟滑而實大為心驚舌強左關滑為肝熱頭目為患左尺滑為小便淋澀為尿赤為莖中痛右寸滑為痰飲嘔逆滑而實為肺熱毛髮焦為膈壅咽乾為痰嗽為頭目昏為涕唾黏右關滑為脾熱口臭為宿食不化吐逆滑而實為胃熱右尺滑為相火炎而引飲多為臍冷腹鳴或時下利兩寸滑日痰火一手獨滑曰半身不遂<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p70">
+          <seg xml:id="KR3er101_jc_002-d4.p70s1">澀</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p70s2">
+            <c n="（"/>往來沾滯也多氣少血也陰也為血枯為精涸為盜汗為心痛為不仁浮而澀為表惡寒沈而澀為里燥涸兩寸澀甚曰液不足兩關澀甚曰血不足兩尺澀甚曰精不足必艱於嗣也左寸澀為心神虛耗不安為泠氣心疼左關澀為肝虛血散為肋脹脅滿為身痛左尺澀男子為傷精及疝女人為月事虛敗若有孕主胎漏不安右寸澀為營衛不和為上焦冷痞為氣短臂痛右關澀為睥弱不食為胃冷而嘔右尺澀為大便秘為津液不足為小腹寒為足脛逆冷<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p72">
+          <seg xml:id="KR3er101_jc_002-d4.p72s1">緊</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p72s2">
+            <c n="（"/>糾也如轉索無常按之雖實而不堅不似弦脈之端直如琴絃不似牢脈革脈之強直搏指也為諸寒收引之象亦有熱因寒東而煩熱急疼痛者也為邪風激搏於營衛之間陰陽相搏也為痛為寒為筋孿為中惡緊而洪為癰疽緊而數為中毒為寒熱緊而細為疝瘕緊而澀為寒痹緊而浮為傷寒身疼沈而緊為腹中有寒為風閒左寸緊為頭熱目痛項強緊而沈為心中氣逆冷痛左關緊為心腹滿痛脅痛肋急緊盛為傷寒渾身痛緊而實為痃癖內脹痛左尺緊為腰腳臍下痛小便難右寸緊為鼻塞膈壅緊而沈滑為肺實咳嗽右關緊為脾腹痛為吐逆緊盛為腹脹傷食右尺緊為下焦築痛<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p74">
+          <seg xml:id="KR3er101_jc_002-d4.p74s1">緩</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p74s2">
+            <c n="（"/>脈來不浮不沈不疾不徐從容和勻一息四至或五至者是無病之正脈也其脈雖一息四至舉按大而慢者亦謂之緩也陰也為不足為風為表虛為弱為疼為項強為腳弱與遲脈之不及至發者相區遠甚也浮而緩為衛氣傷沈而緩為營氣弱諾部見緩脈皆謂之不足以其不鼓也左寸緩為心氣虛為怔仲為健忘為項背急痛左關緩為風虛眩暈為腹脅氣結左尺緩為腎虛冷為小便數女人月事多右寸緩為肺氣浮言語短氣右關緩為胃弱氣虛浮而緩為脾氣虛弱右尺緩為下寒腳弱為風氣秘滯浮而緩為腸風泄瀉沈而緩為小腹感冷<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p76">
+          <seg xml:id="KR3er101_jc_002-d4.p76s1">曰虛</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p76s2">
+            <c n="（"/>不實也浮中沈三候中取重按脈皆遲大耎弱久按仍不乏根也為氣血兩虧之候也陰也為暑腸澼為陰虧為精氣不足為煩滿多汗為驚若氣口脈大而虛者為內傷於氣若虛大而時顯一澀者為內傷於血也左寸虛為驚悸左關虛為肝衰右寸虛為喘息右關虛為脾弱兩尺虛為腎怯眾澀者必艱於嗣<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p78">
+          <seg xml:id="KR3er101_jc_002-d4.p78s1">實</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p78s2">
+            <c n="（"/>不虛也浮中沈三候按之皆有力大而長也為三焦氣滿之候陰中之陽也為邪氣內盛非正氣本充之調也為熱為嘔為痛為氣塞為氣聚為食積為痢左寸實心中積熱口舌瘡為咽痛實而大為頭面風熱煩躁為體痛為面赤左關實為腹脅痛滿實而浮大為肝盛目暗赤痛左尺實為少腹痛為小便澀實而滑為淋瀝為莖痛尿赤實而大為膀胱熱尿難實而堅為腰痛右寸實為胸中熱為痰嗽為煩滿實而浮為肺熱咽喉燥痛為喘嗽氣壅右關貿為伏陽內蒸為脾虛食少為胃氣滯實而浮為脾熱消中善飢口乾為勞倦右尺實為臍下痛為大便難或時下痢<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p80">
+          <seg xml:id="KR3er101_jc_002-d4.p80s1">小</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p80s2">
+            <c n="（"/>細而顯也陰也為元氣不足若兩手三部皆小往來上下皆從此由稟質之清不在病例也若一部獨小或一手獨小為病脈也乍大乍小為邪祟則大後小為頭疼目眩前小後大為胸滿短氣六脈小而急為疝瘕在陽為陽不足在陰為陰不足若小而按之不衰久按有力乃實熱固結之象總因正氣不充不能鼓搏熱勢於外也一</seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p82">
+          <seg xml:id="KR3er101_jc_002-d4.p82s1">大</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p82s2">
+            <c n="（"/>應指滿溢倍於尋常也陽也若兩手三部皆大往來上下自如此由稟質之厚不在病例也大脈有虛實陰陽之界經云大則病進是指實大而言也仲景以大則為虛者乃盛大少力之謂也又有下痢未止脈大者是又以積滯未盡而言非大則為虛之謂也有六脈俱大者為陽有餘陰不足也有偏大於左者為邪盛於經也有偏大於右者為熱盛於內也亦有</seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p84">
+          <seg xml:id="KR3er101_jc_002-d4.p84s1">一部獨大者便以其部斷其病之虛實可也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p86">
+          <seg xml:id="KR3er101_jc_002-d4.p86s1">長</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p86s2">
+            <c n="（"/>指下迢迢過乎本位也陽也長而和緩為氣血充盈長而大為陽毒內蘊為三焦煩郁為壯熱長而耎滑為氣治長而堅搏為氣病在上主吐在中主飲在下主疝長而洪為顛狂尺寸俱長為陽明受病兩尺修長主人多壽女人左關獨長多淫欲<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p88">
+          <seg xml:id="KR3er101_jc_002-d4.p88s1">短</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p88s2">
+            <c n="（"/>指下不及本位也陰也為胃氣呃塞不能條暢百脈也為氣少為陰中伏陽為三焦氣壅為宿食不消寸不及關為陽絕尺不及關為陰絕乍短乍長為邪祟兩寸短為頭痛兩開短為宿食兩尺短為脛足冷凡過於悲哀之人則其脈多短也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p90">
+          <seg xml:id="KR3er101_jc_002-d4.p90s1">扎</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p90s2">
+            <c n="（"/>浮沈二候有力中候無力也邊有中無也陽中陰也為失血之候陰去陽存之脈也為潰精為盜汗為氣盈血虧左寸芤為吐血為衄血左關芤為脅閒血氣痛為腹中瘀血痛為吐血為目暗左尺芤為小便血女人月事為病右寸芤為胸中積血為衄為嘔右關芤為腸癰瘀血為嘔血不食右尺芤大便血<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p92">
+          <seg xml:id="KR3er101_jc_002-d4.p92s1">伏</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p92s2">
+            <c n="（"/>脈不出也重按至骨指下澀難委曲求之脈行筋下附著於骨也陰也為陰陽潛伏關格閉塞之候也為寒氣凝結為積聚為疝瘕為少氣為憂思為痛甚為霍亂為溏泄為停食為水氣為營衛氣閉而厥逆如關前得之為陽伏如關後得之為陰伏也伏而數者為熱厥亢極而兼水化也伏而遲者為寒厥陰極而氣將絕也左寸伏為心氣不足為神不守舍為深憂抑鬱左關伏為血冷為腰腳痛為脅下有寒氣左尺伏為腎寒為精虧為疝瘕寒痛右寸伏為胸中氣滯為寒痰冷積右關伏為胸中脘積塊作痛為脾胃停滯右尺伏為臍下冷痛為卞焦虛寒為腹中痼冷<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p94">
+          <seg xml:id="KR3er101_jc_002-d4.p94s1">洪</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p94s2">
+            <c n="（"/>脈來指下極盛脈去極衰也陽也為陽氣滿溢陰氣垂絕之象也為火氣亢甚之兆血氣燔灼之候也為表裡皆熱為煩為咽乾為大小便不通方寸洪為心經積熱目赤口瘡頭痛內煩左關洪為肝熱身痛為四肢浮熱方尺洪為膀胱熱小便赤澀右寸洪為肺熱毛焦為唾黏咽乾洪而緊為喘急右關洪為胃熱反胃為嘔吐日乾洪而緊為脹右尺洪為腹滿為大便難或下血洪而有力為實火洪而無力為虛火洪而急為脹滿洪而滑為熱痰洪而數為暴吐為中毒諸矢血為遺精白濁盜汗脈洪為難己傷寒汗後脈洪則死</seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p96">
+          <seg xml:id="KR3er101_jc_002-d4.p96s1">耎</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p96s2">
+            <c n="（"/>柔而無力也脈來如絮浮水面輕取乍來重取乍去為胃氣不充之象也陰也真火不足也為內傷為虛勞為泄瀉為少食為自汗為喘乏為精傷為痿弱為少氣為無血為下冷左寸耎為心虛易驚為盜汗短氣左關耎為營衛不和精神離散為體虛小力左尺耎為小便數自汗多男為傷精女為脫血右寸耎為哄熱僧寒氣乏體虛右關耎為脾弱食不化為胃虛不進飲食右尺耎為下元冷憊為腸虛紲瀉<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p98">
+          <seg xml:id="KR3er101_jc_002-d4.p98s1">弦</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p98s2">
+            <c n="（"/>脈來浮而緊端直以長如新張弓弦挺然指下按之不移也陽中陰也為氣血收斂不舒之候也偏弦者脈來弦而攲斜也為流飲作痛雙弦者脈來弦如引二線也為肝實作痛其軍弦者脈弦只一線也為經絡間凝塞滯痛為瘧為拘急為寒熱為血虛盜汗為寒凝氣結為冷痹為疝為飲為勞倦弦而數為勞瘧雙弦而數為脅急痛弦而長為積左寸弦為頭疼為心暢為勞傷盜汗乏力左關弦為脅肋痛為痃癖弦而緊為疝瘕為瘀血弦而小為寒癖左尺弦為小腹痛弦而滑為腰腳痛右寸弦為肺受寒咳嗽胸中有寒痰右關弦為肺胃傷冷宿食不化為心腹冷痛為水飲右尺弦為臍下急痛為下焦停水<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p100">
+          <seg xml:id="KR3er101_jc_002-d4.p100s1">弱</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p100s2">
+            <c n="（"/>衰敗也脈來極沈細而耎按之欲絕未絕舉之如無也陰也為氣血兩虧之候也為痼冷為攲熱為泄精為虛汗弱而滑者是有胃氣弱而澀者是謂久病凡老人及病後見之順平人及壯年見之逆也在寸弱為陽虛心悸自汗左關弱為筋痿無力婦人主產後客風面腫左尺弱為腎虛耳聾為骨肉痠痛為小便數右寸弱為身冷多寒為胸中短氣右關弱為脾胃虛食不能化右尺弱為下焦洽痛大便滑泄<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p102">
+          <seg xml:id="KR3er101_jc_002-d4.p102s1">微</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p102s2">
+            <c n="（"/>不顯也浮中沈三候極無力按之似有似無依稀輕細而模糊也陰也為陽氣微陰氣衰也為尫嬴為泄瀉為虛汗為少氣婦人為崩漏敗血不止浮而微為陽不足身惡習沈而微為陰不足主藏寒下痢左寸微為心虛憂惕營血不足為頭痛為胸痞為虛勞盜汗左關微為胸滿氣乏為脾虛泄瀉為四肢惡寒為前急左尺微為敗血不止男為傷精尿血女為崩帶右寸微為上焦寒痞為冷痰不化為中寒少氣右關微為胃寒氣脹為食木化為脾虛噫氣為心腹冷痛右尺微為藏寒泄瀉臍下冷痛<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p104">
+          <seg xml:id="KR3er101_jc_002-d4.p104s1">動</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p104s2">
+            <c n="（"/>脈來如豆粒之動搖上下<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p104s3">無頭尾尋之有舉之無不往不來不離其處也陽中陰也為陰固於內陽戰於外之候也為氣血不續為痛為驚為虛勞為崩脫為泄痢陰陽相搏謂之動陽動則汗比陰動則發熱是指人迎氣口而言然多有陰虛發熱之脈動於尺內者陽虛自汗之脈動於寸口者所謂虛者則動邪之所奏其氣必虛也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p106">
+          <seg xml:id="KR3er101_jc_002-d4.p106s1">牢</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p106s2">
+            <c n="（"/>脈沈而堅實守而不移也陰中陽也為胃氣竭絕精血遺亡而氣獨守之候也為裡實表虛胸中氣結勞作腐極男子遺精女子牛產漏下若中風而見牢脈為陰虛而風勁病濕而見牢脈為土亢而風木相乘皆謂無宵氣經曰脈不往來者死貫斯之謂也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p108">
+          <seg xml:id="KR3er101_jc_002-d4.p108s1">竺脈來數疾時忽一止也陽也為陽獨盛而陰不能和之也為氣結為癰疽為冒背痛為狂為怒為瘀血發斑為氣為血為飲為食為痰此皆陽邪內陷之象見之多難治<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p110">
+          <seg xml:id="KR3er101_jc_002-d4.p110s1">結</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p110s2">
+            <c n="（"/>脈來緩時忽一止也或二動而止或三動而止無常數也陰也為陰獨盛而陽不能入之也為癥結為寒氣為七情抑鬱浮而結為寒邪滯經沈而結為積氣在內為氣為血為飲為食為痰此皆陰邪固結之象則近死可知矣<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p112">
+          <seg xml:id="KR3er101_jc_002-d4.p112s1">代</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p112s2">
+            <c n="（"/>更替也脈來五動一止不能自還須臾復來依前五動至數有常並無增減亦有七動一止良久復來而仍如前數者皆由元氣不續故也若在病後或風家心腹痛家傷寒心悸家跌打悶亂家霍亂家娠身家而見此則未可遽謂之死候若不因病而其人羸瘦或他病而見代脈者乃一藏已經無氣故求他藏以肛續之斯則必死無疑矣<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p112s3">散</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p112s4">
+            <c n="（"/>分離也渙而不聚也有表無里至數不齊來去不明漫無根蒂為血亡</seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p114">
+          <seg xml:id="KR3er101_jc_002-d4.p114s1">而氣欲去也為腎敗為虛陽不斂為心氣不足為衛氣散漫皆非佳兆也戴同父先生云心脈浮大而散肺脈短澀而散平脈也心脈耎散為怔忡肺脈耎散為汗出肝脈耎散為溢飲脾脈耎散為脛端腫皆病脈也腎脈耎散者死其諸病脈代散交見者皆死脈也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p116">
+          <seg xml:id="KR3er101_jc_002-d4.p116s1">毛</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p116s2">
+            <c n="（"/>脈來浮澀類羽毛也病病與澀脈同<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p116s3">鉤</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p116s4">
+            <c n="（"/>脈來數大而耎按之指下委曲旁出也昔人以洪為夏脈內經以鉤為夏脈遂有鉤即是洪之說然痰食瘀積阻礙脈道關部常屈曲而出此與</seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p118">
+          <seg xml:id="KR3er101_jc_002-d4.p118s1">夏脈之微鉤者似同而實不預也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p120">
+          <seg xml:id="KR3er101_jc_002-d4.p120s1">石</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p120s2">
+            <c n="（"/>陽至而絕腎之危脈也水絕不能濟火故有此脈也張石頑先生雲實節是石愊愊如彈石狀為腎絕之兆矣<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p122">
+          <seg xml:id="KR3er101_jc_002-d4.p122s1">溜</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p122s2">
+            <c n="（"/>脈來如水之溜陰陽和平無相勝負其即滑而清之謂乎<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p122s3">疾</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p122s4">
+            <c n="（"/>呼吸之間脈七八動也有陰陽寒熱真假之異如疾而按之益堅乃亢陽無制真陰垂絕之候若疾而按之不鼓又為陰邪暴虐虛陽發露之徵然亦有熱毒入於陰分而為陰毒者脈必疾盛有力不似陰寒之毒脈雖疾而弦細乏力也疾者數之甚也或謂躁或謂駛皆熱極也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p122s5">
+            <space n="　" quantity="1"/>革</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p122s6">
+            <c n="（"/>脈眩大而數浮取強直重按中空如鼓皮之狀也嬰寧先生云革乃虛革之象雖失常度而按之中空未為真藏也仲景曰革脈為虛寒相搏男子為亡血矢精嫩人為牛產漏下脈經云三部脈革長病得之死卒病得之生時珍曰此即扎弦二脈相合故均主失血之候諸家脈書皆以為牢脈故或有革無牢有牢無草混淆不辨不知革浮牢沈革虛牢實形證迥殊出程鍾齡先生云革脈者浮而堅急為精血少也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p124">
+          <seg xml:id="KR3er101_jc_002-d4.p124s1">細</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p124s2">
+            <c n="（"/>脈小於微而常有細直而耎若絲線之應指也張石頑先生云細脈者往來如髮指下顯然不似微脈之微強模糊也為陽氣衰弱之候尺寸沈細為太陰受病沈細而數為少陰病不可發汗也素間謂之小脈經有細無小為血少氣衰凡憂勞過度及吐血衄血之人得細脈為順他病見之則逆也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p124s3">清</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p124s4">
+            <c n="（"/>脈來輕清緩滑流利有神也為氣血牛調之象在左主清貴仁慈在右主富厚安闖在寸主聰慧在尺為壽徵若寸關俱清而尺中蹇澀或偏大偏小者主晚景不佳及艱子嗣也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p126">
+          <seg xml:id="KR3er101_jc_002-d4.p126s1">濁</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p126s2">
+            <c n="（"/>脈來重濁洪盛騰湧滿指浮沈滑實有力也為稟賦昏濁之象左主汗下右主庸愚若重濁中有種滑利之象主家道富饒濁而兼得塞澀之狀或偏盛偏衰者不能享安康又主夭枉似重濁而按之和緩此濁中兼清外圓內方之應也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p126s3">死脈</seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p128">
+          <seg xml:id="KR3er101_jc_002-d4.p128s1">湧泉</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p128s2">
+            <c n="（"/>一名沸釜脈在筋骨閒加泉之湧湧而出此太陽氣予不足也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p130">
+          <seg xml:id="KR3er101_jc_002-d4.p130s1">浮合</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p130s2">
+            <c n="（"/>脈來後至者反凌乎前如浮波之臺此經氣不足也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p132">
+          <seg xml:id="KR3er101_jc_002-d4.p132s1">彈石</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p132s2">
+            <c n="（"/>脈在筋骨間辟辟然而至如石之彈指也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p134">
+          <seg xml:id="KR3er101_jc_002-d4.p134s1">雀啄</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p134s2">
+            <c n="（"/>脈連來三五下堅而且銳如鳥之啄食也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p136">
+          <seg xml:id="KR3er101_jc_002-d4.p136s1">屋漏</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p136s2">
+            <c n="（"/>脈來良久一滴濺起而無力也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p138">
+          <seg xml:id="KR3er101_jc_002-d4.p138s1">懈索</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p138s2">
+            <c n="（"/>脈來如亂繩初解之狀渙散之意也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p140">
+          <seg xml:id="KR3er101_jc_002-d4.p140s1">魚翔</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p140s2">
+            <c n="（"/>脈來浮中間忽一沈如魚之出沒也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p142">
+          <seg xml:id="KR3er101_jc_002-d4.p142s1">蝦遊</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p142s2">
+            <c n="（"/>脈來沈中間忽一浮如蝦之跳躍也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p144">
+          <seg xml:id="KR3er101_jc_002-d4.p144s1">偃刀</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p144s2">
+            <c n="（"/>一名循刃脈來一絲堅勁如循鋒刃之芒此五藏蘊郁寒熱獨並於腎也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p146">
+          <seg xml:id="KR3er101_jc_002-d4.p146s1">轉豆</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p146s2">
+            <c n="（"/>一名泥丸脈來形大且短且堅而且澀此胃精予不足也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p148">
+          <seg xml:id="KR3er101_jc_002-d4.p148s1">火新</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p148s2">
+            <c n="（"/>脈來如火之初然隨起隨滅此心精之予奪也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p150">
+          <seg xml:id="KR3er101_jc_002-d4.p150s1">散葉</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p150s2">
+            <c n="（"/>脈來如葉之散落無常此肝氣之予虛也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p152">
+          <seg xml:id="KR3er101_jc_002-d4.p152s1">省客</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p152s2">
+            <c n="（"/>脈來如省問旋去之客此腎氣予不足也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p154">
+          <seg xml:id="KR3er101_jc_002-d4.p154s1">交漆</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p154s2">
+            <c n="（"/>脈來左右旁至加絞漆之嫋嫋相交而下此太陽氣予不足也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p156">
+          <seg xml:id="KR3er101_jc_002-d4.p156s1">橫格</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p156s2">
+            <c n="（"/>脈來橫阻如木拒格於指下此膽氣予不足也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p158">
+          <seg xml:id="KR3er101_jc_002-d4.p158s1">弦縷</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p158s2">
+            <c n="（"/>亦名偃刀脈來細而直此胞精予不足也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p160">
+          <seg xml:id="KR3er101_jc_002-d4.p160s1">委土</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p160s2">
+            <c n="（"/>脈來頑而虛如委頹之土狀此肌氣予不足也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p162">
+          <seg xml:id="KR3er101_jc_002-d4.p162s1">懸癰</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p162s2">
+            <c n="（"/>脈來如懸費之癰丸丸左右相彈而棚不移此十二俞之予不足也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p164">
+          <seg xml:id="KR3er101_jc_002-d4.p164s1">如丸</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p164s2">
+            <c n="（"/>脈來滑不直手按之而不可得此大腸氣予不足也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p166">
+          <seg xml:id="KR3er101_jc_002-d4.p166s1">如春</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p166s2">
+            <c n="（"/>脈來極洪極實如杵之搗春也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p168">
+          <seg xml:id="KR3er101_jc_002-d4.p168s1">如喘</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p168s2">
+            <c n="（"/>脈來如喘人之息有出而無入此腎氣不能下守也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p170">
+          <seg xml:id="KR3er101_jc_002-d4.p170s1">霹靂</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p170s2">
+            <c n="（"/>脈來靜時忽鼓指數下而去如霹靂之轟空也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p172">
+          <seg xml:id="KR3er101_jc_002-d4.p172s1">開格</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p172s2">
+            <c n="（"/>人迎四盛以上為格陽氣口阿盛以上為關陰<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p174">
+          <seg xml:id="KR3er101_jc_002-d4.p174s1">覆溢</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p174s2">
+            <c n="（"/>亦名關格脈來洪滑陷入尺中謂覆脈來沖逆上入於魚際謂溢也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p174s3">心脈</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p174s4">
+            <c n="（"/>前曲後踞如換帶鉤者死<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p176">
+          <seg xml:id="KR3er101_jc_002-d4.p176s1">肝脈</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p176s2">
+            <c n="（"/>堅勁如新張弓弦又如循刃者死<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p178">
+          <seg xml:id="KR3er101_jc_002-d4.p178s1">脾脈</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p178s2">
+            <c n="（"/>堅銳如鳥之啄如鳥之距加壓之漏如水之流介然不鼓者死<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p180">
+          <seg xml:id="KR3er101_jc_002-d4.p180s1">肺脈</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p180s2">
+            <c n="（"/>如草之浮於水面如風之吹柳絮者死<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p182">
+          <seg xml:id="KR3er101_jc_002-d4.p182s1">腎脈</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p182s2">
+            <c n="（"/>發如解索辟辟如彈石者死<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p184">
+          <seg xml:id="KR3er101_jc_002-d4.p184s1">婦人脈法</seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p186">
+          <seg xml:id="KR3er101_jc_002-d4.p186s1">婦人尺脈常盛而右手脈大皆其常也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p186s2">
+            <c n="（"/>婦人之脈常隨肝腎而行故以左尺為命門其病惟經候胎產異於男子他則無所殊也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p186s3">若腎脈微澀與浮或肝脈沈急或尺脈滑而斷續不勻皆經閉不調之候也</seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p188">
+          <seg xml:id="KR3er101_jc_002-d4.p188s1">婦人尺脈微遲為居經月事三月一下血氣不足故也</seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p190">
+          <seg xml:id="KR3er101_jc_002-d4.p190s1">婦人三部脈浮沈正等無他病而經停者孕也尺大而旺亦為好子</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p190s2">
+            <c n="（"/>左尺洪大滑實為男右尺洪大滑實為女婦人手少陰脈動甚者好子也寸為陽位若見動滑剛為血充血顯陽象左葉熊罷右應驚鳳可預卜而無疑者也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p190s3">體弱之婦尺內按之不絕便是妊子月斷病多六脈不病亦為有孕所以然者體弱而脈難顯也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p190s4">
+            <c n="（"/>脈經日三部浮沈正等按之無絕者妊娠也何嘗拘於洪滑耶<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p190s5">陰搏陽別謂之有子搏伏而鼓也陰搏者尺中之陰搏也是陰中有別陽故謂有子</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p190s6">
+            <c n="（"/>陰搏陽別者言尺內陰脈搏指與寸口陽脈迥別其中有陽也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p190s7">尺數而旺無他病而不月者亦妊子也脈平而虛者乳子也</seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p192">
+          <seg xml:id="KR3er101_jc_002-d4.p192s1">婦人初妊時寸微尺數按之散者三月也不散者五月也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p192s2">
+            <c n="（"/>脈經曰左手沈實猥生二男左右手俱浮大猥生二女也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p192s3">妊身七八月脈實牢強大者吉沈細者難產而死也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p192s4">
+            <c n="（"/>妊娠之脈宜實大有力忌沈細弦急虛澀<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p192s5">經斷有軀其脈弦者後必大下不成胎也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p192s6">
+            <c n="（"/>然有因病脈弦又當以保胎為務氣旺則弦自退矣<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p192s7">新產傷陰出血不止尺脈不能上關者死</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p192s8">
+            <c n="（"/>產後之脈宜沈小微弱忌急實洪數不調<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p192s9">新產中風熱病脈宜浮弱和緩忌小急懸絕</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p192s10">
+            <c n="（"/>手足溫則生冷則死<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p194">
+          <seg xml:id="KR3er101_jc_002-d4.p194s1">婦人陰陽俱盛曰雙軀若少陰微緊者血即凝濁經卷不周胎則偏矢其一獨死其一獨生不去其死害母失胎</seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p196">
+          <seg xml:id="KR3er101_jc_002-d4.p196s1">婦人得革脈曰半產漏下</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p196s2">
+            <c n="（"/>脈宜細小流連最忌急實斷絕不勻<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p196s3">得雕經之脈曰產期</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p196s4">
+            <c n="（"/>臨產脈宜滑數離經最忌虛遲弦細短澀<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p196s5">離經者離乎經常之脈也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p196s6">
+            <c n="（"/>胎動於中則脈亂於外勢所必然也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p196s7">脈牢革者更非所宜婦人帶下脈浮惡寒漏下者不治</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p196s8">
+            <c n="（"/>崩漏不止者脈宜細小芤遲忌虛澀數實</seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p198">
+          <seg xml:id="KR3er101_jc_002-d4.p198s1">婦人尺脈微弱而澀小腹冷而惡寒年少得之為無子年大得之為絕產</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p198s2">
+            <c n="（"/>因病而脈澀者孕多難保<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p198s3">尺脈虛大茲數者皆內崩而血下</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p198s4">
+            <c n="（"/>謂之陰虛陽搏<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p198s5">若消瘦不月者二陽之病發於心脾也</seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p200">
+          <seg xml:id="KR3er101_jc_002-d4.p200s1">好身外感風邪脈宜緩滑流利最忌虛澀躁急</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p200s2">
+            <c n="（"/>虛澀則不固躁急則熱盛傷胎多難治也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p202">
+          <seg xml:id="KR3er101_jc_002-d4.p202s1">胎前下利脈宜滑小不宜洪數</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p202s2">
+            <c n="（"/>洪數則防其胎墮墮後七日多凶治療之法攻積必死兜澀亦死急宜伏龍肝湯煎溫養脾胃藥間有得生者也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p204">
+          <seg xml:id="KR3er101_jc_002-d4.p204s1">婦人經水三月不來脈得兩寸浮大兩關滑利兩尺滑實而帶數此有胎也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p204s2">
+            <c n="（"/>若有形而不動或當臍下翕翕微動如抱甕之狀按之冰冷或兩尺乍大乍小乍有乍無或浮或沈或動或止早暮不同乃鬼胎也須診視二三日乃見宜補氣活血溫養脾胃則經水自通矣<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p204s3">若脈來疾如風雨亂點忽然而去久之復來如初者是夜又胎也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p204s4">
+            <c n="（"/>亦有左關之脈指下見兩歧而產夜又者總與尋常脈不類也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p206">
+          <seg xml:id="KR3er101_jc_002-d4.p206s1">妊娠脈弱氣血虛也須防胎墮</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p206s2">
+            <c n="（"/>急宜補氣養血<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p206s3">脈來弦急是火盛也亦須防墮</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p206s4">
+            <c n="（"/>急宜涼血<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p206s5">脈來沈細弦急僧寒壯熱唇口青黑是胎損也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p206s6">
+            <c n="（"/>當問胎動否若不動反覺上搶心悶絕按之冰冷者當作死胎治之<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p206s7">婦人崩漏胎產久病</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p206s8">
+            <c n="（"/>脈來總以遲小滑緩為順急疾數大者逆<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p208">
+          <seg xml:id="KR3er101_jc_002-d4.p208s1">婦女傷寒熱病須問經事若何</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p208s2">
+            <c n="（"/>百病皆然非止此也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p208s3">產後須問惡露多寡色淡色濃及少腹中有無結塊此大法也</seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p210">
+          <seg xml:id="KR3er101_jc_002-d4.p210s1">幼孩脈法</seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p212">
+          <seg xml:id="KR3er101_jc_002-d4.p212s1">三歲以上看虎口三關</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p212s2">
+            <c n="（"/>即宜指之三節<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p212s3">初為風關</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p212s4">
+            <c n="（"/>即近掌第一節<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p212s5">次為氣關<c n="("/>中節<c n=")"/>未為命關一指之上節即指甲內<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p212s6">男友女右為則</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p212s7">
+            <c n="（"/>紋色紫曰熱紅曰傷寒青曰驚風白曰痳淡黃淡紅曰無病黑色者危在風關為輕氣關為重命關為危三關多亂紋為內釣腹痛氣不和也紋直而細者為虛寒少氣多難愈紋粗而色顯者為邪於正氣多易治紋中有斷續如流珠者為有宿食紋自外向里者為風寒紋自內向外者為食積岐伯曰陰絡之色應其經陽絡之色變無常隨四時而行也寒多則凝位凝位則青黑熱多則淖澤淖澤則黃赤此皆常也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p214">
+          <seg xml:id="KR3er101_jc_002-d4.p214s1">三歲以上乃以一指取寸關尺三部脈常以六至為率</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p214s2">
+            <c n="（"/>七至亦不為病<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p214s3">加則為熱減則為寒皆如大人診法也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p214s4">
+            <c n="（"/>浮弦為乳癇弦緊為風癇虛澀為慢驚沈弦為腹痛弦實為氣不和牢實為便秘沈細為冷乳不消沈滑為宿食不化或小或大或沈或細皆為宿食停滯浮大為傷風伏結為物為疳勞沈數為骨蒸有熱也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p214s5">嬰兒病赤瓣餐泄脈小手足寒難已脈小手足溫易己小兒脈亂身熱汗出不食食即吐</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p214s6">
+            <c n="（"/>上層有珠狀者<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p214s7">多為變蒸</seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p216">
+          <seg xml:id="KR3er101_jc_002-d4.p216s1">小兄四未獨冷股慄惡塞面赤氣洶涕淚交至必為痘疹</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p216s2">
+            <c n="（"/>或見其顆赤目亦呵欠煩悶乍涼乍熱及耳後有紅絲紋縷脈來數盛者皆痘疹之候也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p218">
+          <seg xml:id="KR3er101_jc_002-d4.p218s1">諸病宜忌脈</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p218s2">
+            <c n="（"/>附張石頑先生諸脈順逆<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p220">
+          <seg xml:id="KR3er101_jc_002-d4.p220s1">中風一宜浮渥忌急實數大<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p222">
+          <seg xml:id="KR3er101_jc_002-d4.p222s1">中風口噤</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p222s2">
+            <c n="（"/>緩弱為順急實大數為逆<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p224">
+          <seg xml:id="KR3er101_jc_002-d4.p224s1">中風不仁痿躄不遂</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p224s2">
+            <c n="（"/>虛耎緩為順堅急疾為逆<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p226">
+          <seg xml:id="KR3er101_jc_002-d4.p226s1">中風遺尿盜汗</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p226s2">
+            <c n="（"/>緩弱為順數盛為逆<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p228">
+          <seg xml:id="KR3er101_jc_002-d4.p228s1">中風便尿阻澀</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p228s2">
+            <c n="（"/>滑實為順虛澀為逆<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p230">
+          <seg xml:id="KR3er101_jc_002-d4.p230s1">中惡</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p230s2">
+            <c n="（"/>宜浮緩忌堅數浮大<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p232">
+          <seg xml:id="KR3er101_jc_002-d4.p232s1">中惡腹滿</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p232s2">
+            <c n="（"/>緊細微滑為順虛大急數為逆<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p234">
+          <seg xml:id="KR3er101_jc_002-d4.p234s1">中毒</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p234s2">
+            <c n="（"/>宜洪大而遲忌細微浮大數疾為順微細虛澀為逆<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p236">
+          <seg xml:id="KR3er101_jc_002-d4.p236s1">傷寒未得汗</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p236s2">
+            <c n="（"/>宜陽脈忌陰脈浮大為陽易已沈小為陰難已<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p238">
+          <seg xml:id="KR3er101_jc_002-d4.p238s1">傷寒已得汗</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p238s2">
+            <c n="（"/>宜陰脈洪大宜陽脈沈細沈小安靜為順浮大躁疾為逆<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p240">
+          <seg xml:id="KR3er101_jc_002-d4.p240s1">中寒猝倒</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p240s2">
+            <c n="（"/>沈伏為順虛大為逆<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p242">
+          <seg xml:id="KR3er101_jc_002-d4.p242s1">溫病未得汗</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p242s2">
+            <c n="（"/>宜陽脈忌陰脈數盛有力為順細小無力為逆<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p242s3">溫病得汗後</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p242s4">
+            <c n="（"/>沈小安靜者生盛躁不衰者死<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p244">
+          <seg xml:id="KR3er101_jc_002-d4.p244s1">溫毒發斑言語發狂</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p244s2">
+            <c n="（"/>脈實便秘為順脈虛便滑為逆<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p246">
+          <seg xml:id="KR3er101_jc_002-d4.p246s1">溫病</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p246s2">
+            <c n="（"/>斑色紫黑如果實之靨雖便秘能食便通即逝狂妄躁渴昏不知人下後呃逆者陽去入陰者死<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p246s3">時行疫癘</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p246s4">
+            <c n="（"/>數盛滑利為順沈細虛澀為逆<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p248">
+          <seg xml:id="KR3er101_jc_002-d4.p248s1">大頭天行</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p248s2">
+            <c n="（"/>數盛滑利為順沈細虛澀為逆凡時行疫癘及大頭天行皆由濕土之邪內伏故左手脈多弦小右手脈多數盛總宜辛涼內奪為正切忌辛熱外散尤忌發表若脈陰陽俱緊頭痛身熱而下利足冷者必死<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p250">
+          <seg xml:id="KR3er101_jc_002-d4.p250s1">效嗽初起</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p250s2">
+            <c n="（"/>宜浮耎忌堅急弦小浮耎和滑為順沈細數學為逆<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p252">
+          <seg xml:id="KR3er101_jc_002-d4.p252s1">久嗽一緩弱為順弦急實大為逆<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p254">
+          <seg xml:id="KR3er101_jc_002-d4.p254s1">勞效骨蒸</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p254s2">
+            <c n="（"/>虛小緩弱為順堅大澀數為逆最忌弦細數疾<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p256">
+          <seg xml:id="KR3er101_jc_002-d4.p256s1">腹脹</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p256s2">
+            <c n="（"/>宜浮大忌沈小關部浮大耎滑為順虛小短澀為逆<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p258">
+          <seg xml:id="KR3er101_jc_002-d4.p258s1">鼓脹</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p258s2">
+            <c n="（"/>滑實流利為順虛短微澀為逆<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p260">
+          <seg xml:id="KR3er101_jc_002-d4.p260s1">下鋼初起</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p260s2">
+            <c n="（"/>宜沈細忌浮大<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p262">
+          <seg xml:id="KR3er101_jc_002-d4.p262s1">下痢發熱</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p262s2">
+            <c n="（"/>宜浮忌數<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p264">
+          <seg xml:id="KR3er101_jc_002-d4.p264s1">下痢兼積</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p264s2">
+            <c n="（"/>宜實大耎滑忌虛弱<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p266">
+          <seg xml:id="KR3er101_jc_002-d4.p266s1">久痢</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p266s2">
+            <c n="（"/>沈細和滑為順浮大眩急為逆沈小細弱按之無神者不治<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p268">
+          <seg xml:id="KR3er101_jc_002-d4.p268s1">癲疾</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p268s2">
+            <c n="（"/>宜實大忌沈細虛滑大為順澀小為逆堅急而小者不治<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p270">
+          <seg xml:id="KR3er101_jc_002-d4.p270s1">狂疾</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p270s2">
+            <c n="（"/>大實為順沈澀為逆<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p272">
+          <seg xml:id="KR3er101_jc_002-d4.p272s1">消渴</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p272s2">
+            <c n="（"/>宜數大忌虛小數大耎滑沈為順細小浮短堅實為逆<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p274">
+          <seg xml:id="KR3er101_jc_002-d4.p274s1">水腫</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p274s2">
+            <c n="（"/>宜浮大忌沈細浮大耎弱為順澀細虛小為逆沈細滑利雖危可救虛小散澀者不治<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p276">
+          <seg xml:id="KR3er101_jc_002-d4.p276s1">上氣喘咳宜伏匿忌堅強耍弱緩滑為順澀數堅大為逆堅則無胃氣也如瀉者不治<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p278">
+          <seg xml:id="KR3er101_jc_002-d4.p278s1">喘急</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p278s2">
+            <c n="（"/>宜浮滑忌短澀手足溫者為順手足冷者為逆澀則無胃氣也脈數者不治<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p280">
+          <seg xml:id="KR3er101_jc_002-d4.p280s1">霍亂</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p280s2">
+            <c n="（"/>宜浮洪忌微遲脈實病在中脈虛病在外脈澀皆所忌也霍亂脈伏為冷食停滯胃氣不行不可便斷為逆惟搏大者難治既吐且利不宜復見實大也霍亂止而脈代為元氣暴虛不能接續不可便以為逆厥冷遲微者難治陽氣本衰加以暴脫非溫補不能救也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p282">
+          <seg xml:id="KR3er101_jc_002-d4.p282s1">腹痛</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p282s2">
+            <c n="（"/>宜虛小遲忌堅大疾<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p284">
+          <seg xml:id="KR3er101_jc_002-d4.p284s1">心腹痛不得息</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p284s2">
+            <c n="（"/>宜沈細忌浮大弦長沈細遲小為順弦長堅實為逆<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p286">
+          <seg xml:id="KR3er101_jc_002-d4.p286s1">心腹積聚</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p286s2">
+            <c n="（"/>實強和滑為順虛弱沈澀為逆<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p288">
+          <seg xml:id="KR3er101_jc_002-d4.p288s1">心痛</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p288s2">
+            <c n="（"/>宜浮滑忌短澀<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p290">
+          <seg xml:id="KR3er101_jc_002-d4.p290s1">症積</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p290s2">
+            <c n="（"/>宜沈實忌虛弱<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p290s3">脫血</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p290s4">
+            <c n="（"/>宜陰脈忌陽脈程鍾齡先生云便血有腸風有藏毒有熱有寒尿血有心氣熱者有肝氣熱者俱宜詳晰分別施治不可概論<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p292">
+          <seg xml:id="KR3er101_jc_002-d4.p292s1">金創失血過多</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p292s2">
+            <c n="（"/>宜細微忌緊數虛微細小為順數盛急實為逆陰脈不能至陽者死<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p294">
+          <seg xml:id="KR3er101_jc_002-d4.p294s1">跌墮腹脹畜血</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p294s2">
+            <c n="（"/>宜堅強忌小弱弦大可攻為順沈澀為逆<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p296">
+          <seg xml:id="KR3er101_jc_002-d4.p296s1">痿痹</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p296s2">
+            <c n="（"/>宜虛耎忌緊急虛澀為順緊急為逆<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p298">
+          <seg xml:id="KR3er101_jc_002-d4.p298s1">蟲食病</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p298s2">
+            <c n="（"/>宜虛小忌緊急<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p300">
+          <seg xml:id="KR3er101_jc_002-d4.p300s1">唾血</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p300s2">
+            <c n="（"/>宜沈弱忌實大芤小而弱為順弦急實大為逆<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p302">
+          <seg xml:id="KR3er101_jc_002-d4.p302s1">鼻衄</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p302s2">
+            <c n="（"/>宜沈細忌浮大沈滑微小為順實大堅疾為逆<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p304">
+          <seg xml:id="KR3er101_jc_002-d4.p304s1">吐血</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p304s2">
+            <c n="（"/>宜沈小忌實大沈小為順堅強為逆<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p306">
+          <seg xml:id="KR3er101_jc_002-d4.p306s1">吐血咳逆上氣</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p306s2">
+            <c n="（"/>芤耎為順細數為逆眩勁者為不治陰血既亡陽無所附故脈來芤耎若細數則陰虛火炎加以身熱不得臥不久必死弦勁為胃氣之竭亦無生理也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p308">
+          <seg xml:id="KR3er101_jc_002-d4.p308s1">腸僻下膿血</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p308s2">
+            <c n="（"/>宜浮小沈澀忌數疾堅大身熱者死<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p310">
+          <seg xml:id="KR3er101_jc_002-d4.p310s1">泄瀉</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p310s2">
+            <c n="（"/>宜小忌大微小為順急疾數大為逆<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p312">
+          <seg xml:id="KR3er101_jc_002-d4.p312s1">腸僻下白沫</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p312s2">
+            <c n="（"/>脈沈則生脈浮則死初病而兼表邪常有發熱脈浮可用建中而愈與病久不同也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p314">
+          <seg xml:id="KR3er101_jc_002-d4.p314s1">破傷發熱頭痛</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p314s2">
+            <c n="（"/>浮大滑為順沈小澀為逆<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p316">
+          <seg xml:id="KR3er101_jc_002-d4.p316s1">內傷</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p316s2">
+            <c n="（"/>宜弦緊忌小弱內傷勞倦氣口虛大者為氣虛弦細而澀者為血虛若躁疾豎搏汗出發熱不止者死以裡虛不宜復見表氣之開泄也內傷飲食脈來滑盛有力者為宿食停胃澀伏模糊者為寒冷傷脾非溫消不能克應也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p318">
+          <seg xml:id="KR3er101_jc_002-d4.p318s1">中暑自汗喘乏腹滿遺尿</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p318s2">
+            <c n="（"/>虛弱為順躁疾為逆<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p320">
+          <seg xml:id="KR3er101_jc_002-d4.p320s1">中暍<c n="("/>熱也<c n=")"/>猝倒</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p320s2">
+            <c n="（"/>微弱為順散大為逆<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p322">
+          <seg xml:id="KR3er101_jc_002-d4.p322s1">氣厥食厥痰厥蚘厥</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p322s2">
+            <c n="（"/>皆以小弱為順數盛為逆凡氣食痰蚘等厥為氣道壅遏所致皆由真陽素虧而然故脈總以細小流連為順數實堅大為逆至於徽大而澀尤非所宜也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p324">
+          <seg xml:id="KR3er101_jc_002-d4.p324s1">熱病脈尚盛躁而不得汗者死</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p324s2">
+            <c n="（"/>此陽脈之極也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p324s3">脈盛躁得汗靜者生</seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p326">
+          <seg xml:id="KR3er101_jc_002-d4.p326s1">熱病已得汗脈尚盛躁者死</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p326s2">
+            <c n="（"/>此陰脈之極也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_002-d4.p326s3">得汗而脈靜者生</seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p328">
+          <seg xml:id="KR3er101_jc_002-d4.p328s1">熱病汗下後脈不衰反躁疾者死</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p328s2">
+            <c n="（"/>此名陰陽交也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p330">
+          <seg xml:id="KR3er101_jc_002-d4.p330s1">噎膈嘔吐</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p330s2">
+            <c n="（"/>咸以浮滑大便潤者為順此痰氣阻逆胃氣未艾也弦緊澀涎</seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p332">
+          <seg xml:id="KR3er101_jc_002-d4.p332s1">如雞蛋清大便燥給者為逆此氣血枯竭痰火蘊結也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p334">
+          <seg xml:id="KR3er101_jc_002-d4.p334s1">肺痿</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p334s2">
+            <c n="（"/>虛數為順短澀為逆數大而實者不治<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p336">
+          <seg xml:id="KR3er101_jc_002-d4.p336s1">肺癱初起</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p336s2">
+            <c n="（"/>微數為順洪大為逆<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p338">
+          <seg xml:id="KR3er101_jc_002-d4.p338s1">肺癰巳潰</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p338s2">
+            <c n="（"/>緩滑為順短澀為逆氣病而見短澀之脈氣血交敗安能望其生乎<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p340">
+          <seg xml:id="KR3er101_jc_002-d4.p340s1">汗出若衄</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p340s2">
+            <c n="（"/>沈滑細小為順實大堅疾為逆<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p342">
+          <seg xml:id="KR3er101_jc_002-d4.p342s1">淋閟</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p342s2">
+            <c n="（"/>滑疾者易巳澀小者難已<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p344">
+          <seg xml:id="KR3er101_jc_002-d4.p344s1">消癉病久</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p344s2">
+            <c n="（"/>實大者可治堅小者難愈<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p346">
+          <seg xml:id="KR3er101_jc_002-d4.p346s1">癰疽初起</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p346s2">
+            <c n="（"/>微數緩滑為順沈澀堅勁為逆<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p348">
+          <seg xml:id="KR3er101_jc_002-d4.p348s1">癰疽未潰</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p348s2">
+            <c n="（"/>洪大為順虛澀為逆<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p350">
+          <seg xml:id="KR3er101_jc_002-d4.p350s1">癰疽潰後</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p350s2">
+            <c n="（"/>虛遲為順數實為逆<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p352">
+          <seg xml:id="KR3er101_jc_002-d4.p352s1">腸癰</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p352s2">
+            <c n="（"/>耎滑微數為順沈細虛澀為逆凡病瘡脈弦強小急腰脊強瘛眼皆不可治漬後被風多此<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_002-d4p354">
+          <seg xml:id="KR3er101_jc_002-d4.p354s1">痙病</seg>
+          <seg type="comm" xml:id="KR3er101_jc_002-d4.p354s2">
+            <c n="（"/>浮弦為順沈緊為逆若牢細豎勁搏指者不治<c n="）"/>
+          </seg>
+        </p>
+
+</div>
+      <div type="juan" n="3" xml:id="KR3er101_jc_000-d5">
+        <head n="h1" xml:id="KR3er101_jc_003-d5h1">
+          <seg xml:id="KR3er101_jc_003-d5.h1s1">卷三</seg>
+        </head>
+        <p xml:id="KR3er101_jc_003-d5p2">
+          <seg xml:id="KR3er101_jc_003-d5.p2s1">經脈心傳</seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p4">
+          <seg xml:id="KR3er101_jc_003-d5.p4s1">肺手大陰之脈</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p4s2">
+            <c n="（"/>附脊第八稚自上陶道穴起至下腰俞穴止計二十一椎<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_003-d5.p4s3">邪在氣則病胸中脹滿而喘咳</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p4s4">
+            <c n="（"/>肺宜溫潤燥則病寒亦病效者有聲而無</seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p6">
+          <seg xml:id="KR3er101_jc_003-d5.p6s1">痰也<c n=")"/>或胸中痛或缺盆中痛甚則兩手麻木不仁</seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p8">
+          <seg xml:id="KR3er101_jc_003-d5.p8s1">邪在血則效或上氣喘渴心煩胸滿或肩臂前廉痛</seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p10">
+          <seg xml:id="KR3er101_jc_003-d5.p10s1">氣有餘則喘渴或胸盈仰息或肩背痛如風寒在表則汗出如中風則小便數而少</seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p12">
+          <seg xml:id="KR3er101_jc_003-d5.p12s1">氣不足則肩背惡寒或少氣不足以息小便色黃赤</seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p14">
+          <seg xml:id="KR3er101_jc_003-d5.p14s1">氣絕則皮毛焦瓜枯毛折</seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p16">
+          <seg xml:id="KR3er101_jc_003-d5.p16s1">肺屬金病則色白好哭喜辛流涕多慮多憂所主者氣所藏者魄所惡者燥上應於鼻外應於皮毛</seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p18">
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p18s1">
+            <c n="（"/>白而淖澤肺胃之充也肥白而按之綿耎氣虛有痰也白而消瘦瓜甲鮮赤氣虛有火也白而夭然不澤瓜甲色淡肺胃虛寒也白而微青或臂多青筋氣虛不能統血也白而爪甲色青則為陰寒之證白為氣虛之象縱有失血發熱皆為虛火斷無實熱之理也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p20">
+          <seg xml:id="KR3er101_jc_003-d5.p20s1">補藥</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p20s2">
+            <c n="（"/>人參五昧子山藥百部阿膠黃萇麥門冬紫苑茯苓<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p22">
+          <seg xml:id="KR3er101_jc_003-d5.p22s1">瀉藥</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p22s2">
+            <c n="（"/>防風桑白皮寧藶澤瀉紫蘇子枳殼<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p24">
+          <seg xml:id="KR3er101_jc_003-d5.p24s1">溫藥</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p24s2">
+            <c n="（"/>木香款冬花生薑乾薑白豆蔻<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p26">
+          <seg xml:id="KR3er101_jc_003-d5.p26s1">涼藥</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p26s2">
+            <c n="（"/>元參北沙參貝母天門冬山俑枯芩瓜簍仁桔梗馬兜鈴人尿<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p28">
+          <seg xml:id="KR3er101_jc_003-d5.p28s1">引經藥</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p28s2">
+            <c n="（"/>蔥白升麻白芷<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p30">
+          <seg xml:id="KR3er101_jc_003-d5.p30s1">大腸手陽明之脈</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p30s2">
+            <c n="（"/>上口即小腸之下口也下接肛腸為肛門穀道即後陰是也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p32">
+          <seg xml:id="KR3er101_jc_003-d5.p32s1">邪干氣則齒痛惡熱飲或頓腫邪乾血則目黃口乾或鼻衄或喉痹而能言或腹中雷鳴切痛感寒則瀉氣常沖胸或日間發瘧而渴或肩前痛食指不仁</seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p34">
+          <seg xml:id="KR3er101_jc_003-d5.p34s1">氣有餘則當脈所經之處皆熱腫</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p34s2">
+            <c n="（"/>手陽明脈起於大指次指之端出合谷兩骨之間上入兩肋之中循臂上廉入肘外廉上肩腳外前廉出肩前兩間骨之前廉上柱骨之會上下入缺盆<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_003-d5.p34s3">皮膚堅腫而不痛</seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p36">
+          <seg xml:id="KR3er101_jc_003-d5.p36s1">氣不足則寒慄不復或背肘臂外痛</seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p38">
+          <seg xml:id="KR3er101_jc_003-d5.p38s1">補藥</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p38s2">
+            <c n="（"/>牡蠣粉訶黎勒龍骨粟殼肉豆蔻五倍子蓮子<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p40">
+          <seg xml:id="KR3er101_jc_003-d5.p40s1">瀉藥</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p40s2">
+            <c n="（"/>大黃相殼桃仁石斛芒硝榕榔麻仁一</seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p42">
+          <seg xml:id="KR3er101_jc_003-d5.p42s1">溫藥</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p42s2">
+            <c n="（"/>乾薑吳茱萸肉桂<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p44">
+          <seg xml:id="KR3er101_jc_003-d5.p44s1">涼藥</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p44s2">
+            <c n="（"/>槐花條芩<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p46">
+          <seg xml:id="KR3er101_jc_003-d5.p46s1">引經藥</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p46s2">
+            <c n="（"/>葛根白芷升麻石膏<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p48">
+          <seg xml:id="KR3er101_jc_003-d5.p48s1">胃足陽明之脈</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p48s2">
+            <c n="（"/>下口即小腸上口也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p50">
+          <seg xml:id="KR3er101_jc_003-d5.p50s1">邪於氣則洒洒振寒或伸欠顏黑</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p50s2">
+            <c n="（"/>土勝水也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_003-d5.p50s3">或惡見入或惡見火</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p50s4">
+            <c n="（"/>胃實則熱熱則惡火<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_003-d5.p50s5">或聞木臂則驚</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p50s6">
+            <c n="（"/>土惡木邪故驚<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_003-d5.p50s7">或心欲動而喜閉戶塞牖獨處甚則欲上高而歌棄衣而走</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p50s8">
+            <c n="（"/>陽盛則四肢實實則能登高也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_003-d5.p50s9">或腹脹腸嗚</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p50s10">
+            <c n="（"/>火盛與水相激故激搏有聲也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_003-d5.p50s11">或詈罵不避親疏</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p50s12">
+            <c n="（"/>上熱鬱蒸於心胸故神明亂也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p52">
+          <seg xml:id="KR3er101_jc_003-d5.p52s1">邪乾血則間日發瘧而不渴或濕淫或陰痿或足廢</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p52s2">
+            <c n="（"/>沖督帶三脈皆聚陽明而陽明主潤宗筋宗筋主束骨而利機關也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_003-d5.p52s3">或汗出鼻衄或唇攢聚舌難言甚則不能言或面腫齒痛惡冷飲或口咼</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p52s4">
+            <c n="（"/>口不正也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_003-d5.p52s5">唇腫或面痛唇痛或頸腫喉痹不能言</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p52s6">
+            <c n="（"/>與手陽明能言者別<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_003-d5.p52s7">或腹大水腫或膝腹腫痛或膺窗穴乳中穴氣衝穴股骭外廉足附土皆痛或食指不用或腹肉脹胃脘當臍痛或兩脅隔塞不通飲食不下如胃中不和則不能正偃腹嗚身重難行若胃熱則宗氣喘急</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p52s8">
+            <c n="（"/>胃之大絡由虛里出左乳下其動應衣宗氣泄也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p54">
+          <seg xml:id="KR3er101_jc_003-d5.p54s1">氣有餘則身以前皆熱善飢消穀小便色黃</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p54s2">
+            <c n="（"/>此陽明實熱也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_003-d5.p54s3">氣不足則身以前皆寒慄如胃中寒則脹滿</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p54s4">
+            <c n="（"/>此陽明虛寒也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_003-d5.p54s5">補藥</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p54s6">
+            <c n="（"/>白朮蓮子芡實陳皮扁豆黃耆山藥半夏百合蒼朮<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_003-d5.p54s7">瀉藥</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p54s8">
+            <c n="（"/>大黃枳實朴硝<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p56">
+          <seg xml:id="KR3er101_jc_003-d5.p56s1">溫藥</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p56s2">
+            <c n="（"/>藿香丁香木香吳茱萸草豆蔻厚朴良薑乾薑生薑肉豆蔻白豆香附益智仁胡椒<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p58">
+          <seg xml:id="KR3er101_jc_003-d5.p58s1">涼藥</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p58s2">
+            <c n="（"/>元明粉黃連石膏葛根連翹滑石天花粉黃芩石斛升麻山梔竹茹知母<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p60">
+          <seg xml:id="KR3er101_jc_003-d5.p60s1">引經藥</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p60s2">
+            <c n="（"/>升麻白芷葛根石膏<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p62">
+          <seg xml:id="KR3er101_jc_003-d5.p62s1">脾足太陰之脈</seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p64">
+          <seg xml:id="KR3er101_jc_003-d5.p64s1">邪在氣則病舌本強食則嘔</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p64s2">
+            <c n="（"/>脾氣暖則食易消寒則不能化物故嘔嘔者有聲有物他<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_003-d5.p64s3">或胃院痛腹脹善餲</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p64s4">
+            <c n="（"/>陰盛則氣滯故食敗氣逆人也餲於戒切音□<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_003-d5.p64s5">得屁則快然如衰</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p64s6">
+            <c n="（"/>氣下泄則腹鬆動但覺倦怠耳<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_003-d5.p64s7">身體沈重</seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p66">
+          <seg xml:id="KR3er101_jc_003-d5.p66s1">邪在血則病舌痛或煩心心下急痛或寒瘧症癲或大便溏泄或水閉黃癉不能臥</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p66s2">
+            <c n="（"/>水氣逆滿則傷氣也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_003-d5.p66s3">或善飢善味或陰痿足不收行善戾<c n="("/>曲也<c n=")"/>強立股膝腫大指不用寒甚則厥腹響便溲難心痛引背不得息氣有餘則腹脹小便不利身盡痛</seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p68">
+          <seg xml:id="KR3er101_jc_003-d5.p68s1">氣不足則四肢不用五藏安安百節皆縱腹大腸嗚餐泄面黃不嗜食食則不化怠惰嗜臥九竅不通身體不能動搖當臍上下左右動氣</seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p70">
+          <seg xml:id="KR3er101_jc_003-d5.p70s1">氣絕則脈不營肌肉舌萎人中滿唇反</seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p72">
+          <seg xml:id="KR3er101_jc_003-d5.p72s1">脾屬土病則色黃好歌喜甘流涎多思多疑所主者肌肉所藏者意智所惡者濕上應於唇口外應於四肢<space n="　" quantity="1"/>
+          </seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p72s2">
+            <c n="（"/>黃而肥盛胃中有痰濕也黃而枯癯胃中有火也黃而色淡胃氣虛也黃而色黯津液久耗也黃為中央土色其虛實寒熱之機當以飲食便溺消息之也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p74">
+          <seg xml:id="KR3er101_jc_003-d5.p74s1">補藥</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p74s2">
+            <c n="（"/>人參白朮蒼朮甘草芡實黃耆山藥陳皮蓮子扁豆<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p76">
+          <seg xml:id="KR3er101_jc_003-d5.p76s1">瀉藥</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p76s2">
+            <c n="（"/>枳實青皮石膏<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p78">
+          <seg xml:id="KR3er101_jc_003-d5.p78s1">溫藥</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p78s2">
+            <c n="（"/>丁香藿香胡椒吳茱萸附子官桂良薑<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p80">
+          <seg xml:id="KR3er101_jc_003-d5.p80s1">涼藥</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p80s2">
+            <c n="（"/>石膏元明粉<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p82">
+          <seg xml:id="KR3er101_jc_003-d5.p82s1">引經藥</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p82s2">
+            <c n="（"/>升麻白芍<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p84">
+          <seg xml:id="KR3er101_jc_003-d5.p84s1">心手少陰之脈</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p84s2">
+            <c n="（"/>附脊第五稚<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p86">
+          <seg xml:id="KR3er101_jc_003-d5.p86s1">邪在氣則病嗌乾心痛渴而欲飲</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p86s2">
+            <c n="（"/>心火炎則液耗故渴而欲飲也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_003-d5.p86s3">或善笑善忘或眩僕煩心或善驚不寐</seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p88">
+          <seg xml:id="KR3er101_jc_003-d5.p88s1">邪在血則病目黃或膺背肩脅滿痛或肩胛臂內後廉痛成厥或掌中熱而腕</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p88s2">
+            <c n="（"/>之劣切義闕出難經<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_003-d5.p88s3">或浸淫瘡瘍或舌乾焦口苦或消渴舌破或心胸間汗</seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p90">
+          <seg xml:id="KR3er101_jc_003-d5.p90s1">氣有餘則笑不休</seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p92">
+          <seg xml:id="KR3er101_jc_003-d5.p92s1">氣不足則悲或胸腹大脅下與腰相引而痛</seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p94">
+          <seg xml:id="KR3er101_jc_003-d5.p94s1">氣絕則脈不通血不流髦色不澤而黑如漆</seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p96">
+          <seg xml:id="KR3er101_jc_003-d5.p96s1">心屬火病則色赤好言喜苦出汗多笑所主者血脈所藏者神所惡者熱上應於舌並神色外應於掌</seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p98">
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p98s1">
+            <c n="（"/>赤而䐃</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p98s2">
+            <c n="（"/>巨阻切音窘脂聚之貌也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_003-d5.p98s3">堅營血之充也深赤色堅素稟多火也微赤而鮮氣虛有火也赤而索澤血虛火旺也赤為火炎之色只慮津枯血竭亦無虛寒之患大抵火形之人從未有肥盛多濕者即有痰嗽亦燥氣耳<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p100">
+          <seg xml:id="KR3er101_jc_003-d5.p100s1">補藥</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p100s2">
+            <c n="（"/>棗仁遠志麥門冬山藥常歸天竺黃<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p102">
+          <seg xml:id="KR3er101_jc_003-d5.p102s1">瀉藥</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p102s2">
+            <c n="（"/>貝母元胡索木香黃連<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p104">
+          <seg xml:id="KR3er101_jc_003-d5.p104s1">溫藥</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p104s2">
+            <c n="（"/>丁香石菖蒲<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p106">
+          <seg xml:id="KR3er101_jc_003-d5.p106s1">涼藥</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p106s2">
+            <c n="（"/>竹葉牛黃硃砂連翹犀角<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p108">
+          <seg xml:id="KR3er101_jc_003-d5.p108s1">引經藥</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p108s2">
+            <c n="（"/>獨活細辛<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p110">
+          <seg xml:id="KR3er101_jc_003-d5.p110s1">小腸手太陽之脈</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p110s2">
+            <c n="（"/>下口即大腸上口也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p112">
+          <seg xml:id="KR3er101_jc_003-d5.p112s1">邪干氣則嗌痛頷腫頸測痛不可以顧肩似拔肩胛似折</seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p114">
+          <seg xml:id="KR3er101_jc_003-d5.p114s1">邪於血則耳聾目黃或頰腫鼻衄</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p114s2">
+            <c n="（"/>滴而不流<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_003-d5.p114s3">或頸頷肩胛肘臂外後廉皆痛</seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p116">
+          <seg xml:id="KR3er101_jc_003-d5.p116s1">氣不足則小腹控陰丸引腰脊上衝心而痛</seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p118">
+          <seg xml:id="KR3er101_jc_003-d5.p118s1">稱藥</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p118s2">
+            <c n="（"/>牡蠣粉釵石斛<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p120">
+          <seg xml:id="KR3er101_jc_003-d5.p120s1">瀉藥</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p120s2">
+            <c n="（"/>荔枝核紫蘇細木通蔥白<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p122">
+          <seg xml:id="KR3er101_jc_003-d5.p122s1">溫藥</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p122s2">
+            <c n="（"/>小茴香鳥藥大茴香<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p124">
+          <seg xml:id="KR3er101_jc_003-d5.p124s1">涼藥</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p124s2">
+            <c n="（"/>天花粉黃芩<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p126">
+          <seg xml:id="KR3er101_jc_003-d5.p126s1">引經藥</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p126s2">
+            <c n="（"/>藁本羌活黃柏<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p128">
+          <seg xml:id="KR3er101_jc_003-d5.p128s1">膀胱足太陽之脈</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p128s2">
+            <c n="（"/>上系小腸下聯前陰<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p130">
+          <seg xml:id="KR3er101_jc_003-d5.p130s1">邪於氣則頭痛目似脫項後痛不可俯仰或脊痛腰似折或股不可以曲膕加結踹如裂</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p130s2">
+            <c n="（"/>膕古伯切曲腳中也踹而兗切足跟也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p132">
+          <seg xml:id="KR3er101_jc_003-d5.p132s1">邪乾血虛則痔盛則瘧或狂或癲</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p132s2">
+            <c n="（"/>狂者發作剛暴詈罵不避親疏甚則登高而歌棄衣而走逾垣上屋癲者或笑或位如醉如夢言語無序穢潔不知<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_003-d5.p132s3">或頭囟項痛或目黃淚出或鼻塞流血或小腹偏腫而痛以手按之欲小便而不得胞痹小腹按之內痛若沃以湯澀於小便上為清涕膀胱不利為癃不杓為遣尿項背腰尻膕踹腳皆痛小指不用</seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p134">
+          <seg xml:id="KR3er101_jc_003-d5.p134s1">補藥</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p134s2">
+            <c n="（"/>石菖蒲龍骨續斷益智仁橘核<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p136">
+          <seg xml:id="KR3er101_jc_003-d5.p136s1">瀉藥</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p136s2">
+            <c n="（"/>管硝白澤瀉滑石車前子<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p138">
+          <seg xml:id="KR3er101_jc_003-d5.p138s1">溫藥</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p138s2">
+            <c n="（"/>茴香鳥藥<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p140">
+          <seg xml:id="KR3er101_jc_003-d5.p140s1">涼藥</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p140s2">
+            <c n="（"/>生地黃黃柏廿草稍<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p142">
+          <seg xml:id="KR3er101_jc_003-d5.p142s1">引經藥</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p142s2">
+            <c n="（"/>藁本羌活黃柏<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p144">
+          <seg xml:id="KR3er101_jc_003-d5.p144s1">腎足少陰之脈</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p144s2">
+            <c n="（"/>附脊第十四椎俞門穴之左右典前臍神闕穴平直相對左者直上入肺而循喉挾舌右者直行臍腹而上絡於心包<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p146">
+          <seg xml:id="KR3er101_jc_003-d5.p146s1">邪在氣則病飢不欲食</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p146s2">
+            <c n="（"/>陰火上乘雖飢不欲食也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_003-d5.p146s3">面如黑漆</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p146s4">
+            <c n="（"/>腎水枯也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_003-d5.p146s5">或效唾則有血</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p146s6">
+            <c n="（"/>真險虧損而延及其母也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_003-d5.p146s7">或喝喝</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p146s8">
+            <c n="（"/>於介切嘶聲也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_003-d5.p146s9">而喘</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p146s10">
+            <c n="（"/>腎水不能上通於肺故也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_003-d5.p146s11">或口乾咯血坐立不安</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p146s12">
+            <c n="（"/>陰虛陽擾不能靜也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_003-d5.p146s13">或目𥉂𥉂</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p146s14">
+            <c n="（"/>呼光切不明也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_003-d5.p146s15">如無所見</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p146s16">
+            <c n="（"/>腎虛則瞳神昏眩瞳神者骨之精也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_003-d5.p146s17">或心如懸若飢狀<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_003-d5.p146s18">心臂不交則精神離散故心如懸陰虛則內餒故常若飢狀也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p148">
+          <seg xml:id="KR3er101_jc_003-d5.p148s1">邪在血則病耳嗚或道泄口熱舌乾咽腫上氣隘干而痛</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p148s2">
+            <c n="（"/>厥氣走而不能言手足清大便自利口熱如膠<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_003-d5.p148s3">或煩心心痛引腰脊欲得嘔或黃癉額黑或腸僻</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p148s4">
+            <c n="（"/>寒則利清穀熱則便膿血蓋腎開竅於二陰也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_003-d5.p148s5">或脊痛或股內後廉痛痿厥嗜臥泄利下重足下熱痛小腹急痛腰下冷痛或自言腹脹滿而實不滿或脛腫煩擾冤熱或骨痿不能起俠脅兩旁虛耎處清</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p148s6">
+            <c n="（"/>即䏚中季脅下也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_003-d5.p148s7">或指青黑意不樂四肢不收身重寢則汗出惡風氣不足則善恐心惕惕如人將捕之</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p148s8">
+            <c n="（"/>腎藏精傷則陽氣虛衰故善恐<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p150">
+          <seg xml:id="KR3er101_jc_003-d5.p150s1">氣絕肌肉耎郤<c n="("/>退也<c n=")"/>齒長面垢發無澤</seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p152">
+          <seg xml:id="KR3er101_jc_003-d5.p152s1">腎屬水病則色黑好呻喜咸多唾多恐多驚所主者骨所藏者精與志所惡者寒上應於耳發外應於腰背</seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p154">
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p154s1">
+            <c n="（"/>黑而肥澤骨髓之充也黑而瘦削陰火內戕也蒼黑為下焦氣旺雖犯客寒亦必蘊為邪熱絕無虛寒之候也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p156">
+          <seg xml:id="KR3er101_jc_003-d5.p156s1">補藥</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p156s2">
+            <c n="（"/>芡實龍骨龜版瑣陽牡蠣桑螵蛸地黃虎骨杜仲山藥牛膝枸杞子五味子山茱萸<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p158">
+          <seg xml:id="KR3er101_jc_003-d5.p158s1">瀉藥</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p158s2">
+            <c n="（"/>澤瀉知母<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p160">
+          <seg xml:id="KR3er101_jc_003-d5.p160s1">溫藥</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p160s2">
+            <c n="（"/>附子鹿茸補骨脂肉桂沈香膃肭臍<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p162">
+          <seg xml:id="KR3er101_jc_003-d5.p162s1">涼藥</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p162s2">
+            <c n="（"/>黃柏牡丹皮知母地骨皮<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p164">
+          <seg xml:id="KR3er101_jc_003-d5.p164s1">引經藥</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p164s2">
+            <c n="（"/>獨活肉桂<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p166">
+          <seg xml:id="KR3er101_jc_003-d5.p166s1">心包絡手厥陰之脈</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p166s2">
+            <c n="（"/>男子右尺半表半裡其表即三焦里即命門也女子以左尺為心包絡與男子脈不同惟此耳<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p168">
+          <seg xml:id="KR3er101_jc_003-d5.p168s1">邪干氣則手心熱臂肘攣急腋腫甚則胸脅支滿心中憺憺</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p168s2">
+            <c n="（"/>從濫切動也</seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p170">
+          <seg xml:id="KR3er101_jc_003-d5.p170s1">
+            <c n=")"/>大動面赤目黃喜笑不休</seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p172">
+          <seg xml:id="KR3er101_jc_003-d5.p172s1">邪乾血則煩心或心痛引腋脅而欲得效掌中熱</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p172s2">
+            <c n="（"/>心系有二一則上與肺通為心包絡之系一則下絡小腸為周身血脈之總司凡諸邪之在心者皆心包絡受之蓋心為君主莫敢犯之也心包絡諸脈雖屬於心而行太陰肺部而脈之運動皆由包絡之火也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p174">
+          <seg xml:id="KR3er101_jc_003-d5.p174s1">主治俱見手少陰</seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p176">
+          <seg xml:id="KR3er101_jc_003-d5.p176s1">三焦手少陽之</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p176s2">
+            <c n="（"/>一上焦如霧在心下下鬲居胃上口主納而不出也鬲盲也在心脾之間也塞也管上下使氣典谷不相亂也中焦如漏在胃中脘不上不下主腐熱水穀者也胃之受水穀者曰脘臍上五寸為上脘臍上四寸即胃之幕為中脘臍上二寸當胃下口為下脘也下焦如瀆在膀胱上口主出而不納以傳道也三焦有象無質即上中下三部藏府空處是也乃水穀之道路氣之所終始也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p178">
+          <seg xml:id="KR3er101_jc_003-d5.p178s1">邪干氣則耳聾渾渾焞焞而痛或嗌腫喉痹</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p178s2">
+            <c n="（"/>三焦之氣通於喉喉不和則痹腫矣<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_003-d5.p178s3">往來寒熱</seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p180">
+          <seg xml:id="KR3er101_jc_003-d5.p180s1">邪乾血則汗出或目銳眥皆痛或頰痛耳嗚頸頷肩胛肘臂外皆痛小指次指</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p180s2">
+            <c n="（"/>無名指也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_003-d5.p180s3">不用或腹氣滿小腹堅不得小便溢則水留即為脹</seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p182">
+          <seg xml:id="KR3er101_jc_003-d5.p182s1">補藥</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p182s2">
+            <c n="（"/>黃耆益智仁甘草<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p184">
+          <seg xml:id="KR3er101_jc_003-d5.p184s1">瀉藥<c n="("/>澤瀉<c n=")"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p186">
+          <seg xml:id="KR3er101_jc_003-d5.p186s1">溫藥<c n="("/>附子<c n=")"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p188">
+          <seg xml:id="KR3er101_jc_003-d5.p188s1">涼藥</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p188s2">
+            <c n="（"/>煆石膏地骨皮<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p190">
+          <seg xml:id="KR3er101_jc_003-d5.p190s1">引經藥</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p190s2">
+            <c n="（"/>柴胡川芎青皮<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p192">
+          <seg xml:id="KR3er101_jc_003-d5.p192s1">膽足少陽之脈</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p192s2">
+            <c n="（"/>在肝之短葉間<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p194">
+          <seg xml:id="KR3er101_jc_003-d5.p194s1">邪干氣則口苦</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p194s2">
+            <c n="（"/>膽病則液泄故口苦<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_003-d5.p194s3">或嘔宿汁善太息</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p194s4">
+            <c n="（"/>膽鬱則氣不舒故善太息或驚惕心下憺憺恐人將捕之</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p194s5">
+            <c n="（"/>寒涎漬沃致然或嗌中介介然數唾或心脅痛不能轉側</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p194s6">
+            <c n="（"/>足少陽之別貫心循脅病則不能轉側<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_003-d5.p194s7">或耳無所聞甚則面色枯槁體無膏澤或足外反熱是為陽厥邪乾血則頭角領痛目銳眥痛或缺盆中腫痛腋下腫或馬刀挾瘻</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p194s8">
+            <c n="（"/>肉色不變為肉瘦筋脈現露為筋瘻筋脈交絡為血癭憂惱消長為氣癭堅硬不移為心癭也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_003-d5.p194s9">或汗出振寒瘧</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p194s10">
+            <c n="（"/>膽居表裡之半陰勝則振寒陽勝則汗出故瘧<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_003-d5.p194s11">或胸脅膝脛踝前諸節皆痛小指次指不用</seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p196">
+          <seg xml:id="KR3er101_jc_003-d5.p196s1">氣絕則耳聾百節盡縱目系絕</seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p198">
+          <seg xml:id="KR3er101_jc_003-d5.p198s1">補藥</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p198s2">
+            <c n="（"/>龍膽草木通<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p200">
+          <seg xml:id="KR3er101_jc_003-d5.p200s1">瀉藥</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p200s2">
+            <c n="（"/>青皮柴胡<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p202">
+          <seg xml:id="KR3er101_jc_003-d5.p202s1">溫藥</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p202s2">
+            <c n="（"/>半夏生薑陳皮川芎<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p204">
+          <seg xml:id="KR3er101_jc_003-d5.p204s1">涼藥</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p204s2">
+            <c n="（"/>黃連竹茹<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p206">
+          <seg xml:id="KR3er101_jc_003-d5.p206s1">引經藥</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p206s2">
+            <c n="（"/>川穹柴胡青皮<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p208">
+          <seg xml:id="KR3er101_jc_003-d5.p208s1">肝足厥陰之脈</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p208s2">
+            <c n="（"/>附脊第九椎左三葉右四葉<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p210">
+          <seg xml:id="KR3er101_jc_003-d5.p210s1">邪在氣則病閉目不欲見人腰痛</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p210s2">
+            <c n="（"/>痛上覺熱不可以俯仰丈夫㿗疝</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p210s3">
+            <c n="（"/>陰器連少腹急痛也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_003-d5.p210s4">婦人少腹腫甚則咽乾面塵脫色淅淅時寒熱兩脅下痛引少腹上下無常處或淋溲便難或脅痛支滿手足青而青唇黑邪在血則病胸滿嘔逆作酸或餐泄或狐疝</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p210s5">
+            <c n="（"/>臥則入腹立則出腹或遺尿或癃閉或頰腫喉痹吐濃血或吐血下血暴湧不止或瘛瘲惡風或渾身痠麻疼痛四肢滿悶筋痿不能起立或陰縮兩筋急或轉筋足逆冷或脛酸陰癢</seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p212">
+          <seg xml:id="KR3er101_jc_003-d5.p212s1">氣有餘則善怒忽忽或眩冒而巔頂痛</seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p214">
+          <seg xml:id="KR3er101_jc_003-d5.p214s1">氣逆則頭痛耳聾目赤腫痛</seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p216">
+          <seg xml:id="KR3er101_jc_003-d5.p216s1">氣不足則目□□無所見耳無所聞善恐加入將捕之</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p216s2">
+            <c n="（"/>肝虛則神魂不寧故善恐<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p218">
+          <seg xml:id="KR3er101_jc_003-d5.p218s1">氣絕則筋急引舌與卵唇青</seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p220">
+          <seg xml:id="KR3er101_jc_003-d5.p220s1">肝屬木病剛色蒼<c n="("/>青也<c n=")"/>好呼喜酸多泣多怒所主者筋所藏者血與醜所惡者風上應於眼外應於瓜甲</seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p222">
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p222s1">
+            <c n="（"/>蒼者而理粗筋骨勞勩也蒼而枯槁營血之涸也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p224">
+          <seg xml:id="KR3er101_jc_003-d5.p224s1">補藥</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p224s2">
+            <c n="（"/>木瓜薏苡仁阿膠酸棗仁<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p226">
+          <seg xml:id="KR3er101_jc_003-d5.p226s1">瀉藥</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p226s2">
+            <c n="（"/>青皮柴胡芍藥青黛<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p228">
+          <seg xml:id="KR3er101_jc_003-d5.p228s1">溫藥</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p228s2">
+            <c n="（"/>木香吳茱萸肉桂<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p230">
+          <seg xml:id="KR3er101_jc_003-d5.p230s1">涼藥</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p230s2">
+            <c n="（"/>甘菊花龍膽草車前子胡黃連<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p232">
+          <seg xml:id="KR3er101_jc_003-d5.p232s1">引經藥</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p232s2">
+            <c n="（"/>川芎柴胡青皮<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p234">
+          <seg xml:id="KR3er101_jc_003-d5.p234s1">奇經八脈</seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p236">
+          <seg xml:id="KR3er101_jc_003-d5.p236s1">督脈起於下極之俞<c n="("/>音輸<c n=")"/>並於脊裡上至風府</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p236s2">
+            <c n="（"/>頂中央之脈督脈也名曰風麻<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_003-d5.p236s3">八屬於腦陽脈之海也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p236s4">
+            <c n="（"/>下極前後兩陰之間也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p238">
+          <seg xml:id="KR3er101_jc_003-d5.p238s1">病則少腹上衝心而痛不得前後為沖疝</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p238s2">
+            <c n="（"/>氣上衝心二便不遍他<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_003-d5.p238s3">其女子不孕癃痔遺尿嗌乾猝口噤背反張瘛瘲腰背強痛不得俯仰脊強反折及痛頭重不舉大人癲疾小兒風癇其脈直上直下而中央浮或尺寸俱強直而浮者督脈也</seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p240">
+          <seg xml:id="KR3er101_jc_003-d5.p240s1">任脈起於中極之下以上毛際循腹裡上開元至咽喉上頤循麵人目絡舌陰脈之海也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p240s2">
+            <c n="（"/>中極臍下四寸也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p242">
+          <seg xml:id="KR3er101_jc_003-d5.p242s1">病則少腹繞臍引陰中切痛</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p242s2">
+            <c n="（"/>入房太過沖督任受傷多此也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_003-d5.p242s3">男子內結七疝女子帶下瘕聚月事不以時下腹皮急腹中有氣如指上搶心不得俯仰拘急</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p242s4">
+            <c n="（"/>志欲不遂陰火上乘故也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_003-d5.p242s5">其脈橫寸口邊丸丸緊細而長或弦出寸口上魚際而丸滑者任脈也</seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p244">
+          <seg xml:id="KR3er101_jc_003-d5.p244s1">衝脈起於少腹之內胞中為血之海又為諸脈經絡之海也</seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p246">
+          <seg xml:id="KR3er101_jc_003-d5.p246s1">病則逆氣裡急氣上衝咽喉不得息喘息有音不得臥腹中刺痛拘急寒氣客於衝脈則脈不通故喘動應手有寒痛痛則上引胸中也其脈直上直下而中央牢者衝脈也凡人兩手脈浮之俱有陽沈之俱有陰陰陽皆盛此沖督之脈也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p246s2">
+            <c n="（"/>沖主沈牢督主浮革<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_003-d5.p246s3">沖督為十二經之道路沖督用事則十二經不復朝於寸口其人恍惚癡狂</seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p248">
+          <seg xml:id="KR3er101_jc_003-d5.p248s1">陽維起於諸陽之會</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p248s2">
+            <c n="（"/>諸陽皆會於頭<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_003-d5.p248s3">主持衛氣也</seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p250">
+          <seg xml:id="KR3er101_jc_003-d5.p250s1">病則寒熱</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p250s2">
+            <c n="（"/>陽維為病在表故苦寒熱而足太陽少陽始終聯附故二經為病皆寒熱<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_003-d5.p250s3">腰痛痛上怫然腫又腰痛不可以咳咳則筋縮肌肉痹癢皮膚痛下部不仁汗出而寒羊癇倒僕</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p250s4">
+            <c n="（"/>多發於日<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_003-d5.p250s5">手足相引甚者不能言若陽維不能維於陽則溶溶</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p250s6">
+            <c n="（"/>緩縱貌也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_003-d5.p250s7">不能自收持其脈從尺外斜上至寸而浮者陽維也</seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p252">
+          <seg xml:id="KR3er101_jc_003-d5.p252s1">陰維起於諸陰之交</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p252s2">
+            <c n="（"/>諸陰皆交於胸<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_003-d5.p252s3">主持營血也</seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p254">
+          <seg xml:id="KR3er101_jc_003-d5.p254s1">病則心痛</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p254s2">
+            <c n="（"/>陰維為病在裡故苦心痛陰維雖交三陰實與任脈同歸故心痛腹痛多屬小陰而兼陰維任脈他<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_003-d5.p254s3">脅滿腰痛甚則悲以恐癲疾失音</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p254s4">
+            <c n="（"/>多發於夜<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_003-d5.p254s5">肌肉痹癢汗出惡風身洒洒然若陰維不能維於陰則悵然矢志其脈從尺內斜上至寸而沈實陰維也</seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p256">
+          <seg xml:id="KR3er101_jc_003-d5.p256s1">陽蹻</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p256s2">
+            <c n="（"/>苦交切<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_003-d5.p256s3">起於跟內</seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p258">
+          <seg xml:id="KR3er101_jc_003-d5.p258s1">病則緩縱不收陰緩而陽急</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p258s2">
+            <c n="（"/>陽蹻脈急當從外踝以上急內踝以上緩<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_003-d5.p258s3">腰背痛羊癇倒僕</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p258s4">
+            <c n="（"/>多發於日<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_003-d5.p258s5">惡風偏枯𤸷</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p258s6">
+            <c n="（"/>五還切手足麻木也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_003-d5.p258s7">痹體強目開不得合其脈寸口左右彈浮而細綿綿者陽蹻也</seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p260">
+          <seg xml:id="KR3er101_jc_003-d5.p260s1">陰蹻起於然谷之後</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p260s2">
+            <c n="（"/>然谷在足內踝前起大骨下之陷中<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p262">
+          <seg xml:id="KR3er101_jc_003-d5.p262s1">病則拘急不弛陽緩而陰急</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p262s2">
+            <c n="（"/>陰蹻脈急當從內踝以上急外踝以上緩<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_003-d5.p262s3">少腹痛裡急腰痛相引陰中男子陰疝女子漏下不止癲疾寒熱</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p262s4">
+            <c n="（"/>多發於夜<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_003-d5.p262s5">皮膚濕痹瘋痙瘛瘲目閉不能開其脈尺內左右彈沈而細綿綿者陰蹻也</seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p264">
+          <seg xml:id="KR3er101_jc_003-d5.p264s1">帶脈起一起脅</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p264s2">
+            <c n="（"/>即䏚中也在京門穴之下<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_003-d5.p264s3">圍身一周如束帶然</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p264s4">
+            <c n="（"/>沖督任三脈同起而異行一源而三歧皆絡於帶脈<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p266">
+          <seg xml:id="KR3er101_jc_003-d5.p266s1">病則腹滿腰溶溶若坐水中腰腹縱如囊水狀婦人腰痛少腹痛裡急愈瘲牽季脅工空耎處月事不調赤白帶下其脈中部</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p266s2">
+            <c n="（"/>即兩關坐左右</seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p268">
+          <seg xml:id="KR3er101_jc_003-d5.p268s1">彈而橫滑者帶脈也</seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p270">
+          <seg xml:id="KR3er101_jc_003-d5.p270s1">跌陽少陰脈說</seg>
+        </p>
+<p xml:id="KR3er101_jc_003-d5p272">
+          <seg xml:id="KR3er101_jc_003-d5.p272s1">跌陽一名衝陽</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p272s2">
+            <c n="（"/>在腳背上去陷量二寸脈動處乃足陽明胃經之動脈也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_003-d5.p272s3">少陰一名太谿</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p272s4">
+            <c n="（"/>在足之內踝後跟骨上脈動處乃足少陰腎經之動脈也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_003-d5.p272s5">此乃古診法不行久矣設有危急之病寸口脈不見者診此以決死生可也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_003-d5.p272s6">
+            <c n="（"/>若在平時總不如以關脈為胃氣以尺脈為根之為愈也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_003-d5.p272s7">上焦營衛之所司不能偏於輕重故言寸口兩關主乎中焦脾胃之所司宜重在右故言跌陽兩尺主乎下焦宜重在在故言少</seg>
+        </p>
+
+</div>
+      <div type="juan" n="4" xml:id="KR3er101_jc_000-d6">
+        <head n="h1" xml:id="KR3er101_jc_004-d6h1">
+          <seg xml:id="KR3er101_jc_004-d6.h1s1">卷四</seg>
+        </head>
+        <p xml:id="KR3er101_jc_004-d6p2">
+          <seg xml:id="KR3er101_jc_004-d6.p2s1">方祖</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p4">
+          <seg xml:id="KR3er101_jc_004-d6.p4s1">桂枝湯<space n="　" quantity="1"/>治風傷衛氣脈浮緩發熱自汗營衛不和</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p6">
+          <seg xml:id="KR3er101_jc_004-d6.p6s1">桂枝<c n="("/>三錢<c n=")"/>
+            <space n="　" quantity="1"/>白芍<c n="("/>三錢<c n=")"/>
+            <space n="　" quantity="1"/>甘草炙<c n="("/>二錢<c n=")"/>
+            <space n="　" quantity="1"/>生薑<c n="("/>五片<c n=")"/>
+            <space n="　" quantity="1"/>大棗</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p6s2">
+            <c n="（"/>四枚<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p6s3">擘<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p8">
+          <seg xml:id="KR3er101_jc_004-d6.p8s1">右五味水煎溫服啜熱稀粥一盞以助藥力覆暖取微汗效不汗少頃再服</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p10">
+          <seg xml:id="KR3er101_jc_004-d6.p10s1">麻黃湯<space n="　" quantity="1"/>治寒傷營氣脈浮發熱無汗而喘骨節痛</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p12">
+          <seg xml:id="KR3er101_jc_004-d6.p12s1">麻黃</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p12s2">
+            <c n="（"/>三錢<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p12s3">去節<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_004-d6.p12s4">
+            <space n="　" quantity="1"/>桂枝<c n="("/>三錢<c n=")"/>
+            <space n="　" quantity="1"/>甘草炙<c n="("/>一錢<c n=")"/>
+            <space n="　" quantity="1"/>杏仁</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p12s5">
+            <c n="（"/>二十枚<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p12s6">泡去皮尖<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p14">
+          <seg xml:id="KR3er101_jc_004-d6.p14s1">右四味水煎溫服暖覆取微汗不須啜粥以寒邪入傷營氣營氣起於中焦恐穀氣反助邪熱也</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p16">
+          <seg xml:id="KR3er101_jc_004-d6.p16s1">續命湯<space n="　" quantity="1"/>治中風痱身體不能自收並治但伏不得臥效逆上氣面目浮腫</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p18">
+          <seg xml:id="KR3er101_jc_004-d6.p18s1">麻黃<c n="("/>三錢<c n=")"/>
+            <space n="　" quantity="1"/>桂枝<c n="("/>三錢<c n=")"/>
+            <space n="　" quantity="1"/>甘草炙<c n="("/>三錢<c n=")"/>
+            <space n="　" quantity="1"/>當歸<c n="("/>三錢<c n=")"/>
+            <space n="　" quantity="1"/>人參<c n="("/>三錢<c n=")"/>
+            <space n="　" quantity="1"/>石膏<c n="("/>三錢<c n=")"/>
+            <space n="　" quantity="1"/>乾薑<c n="("/>三錢<c n=")"/>
+            <space n="　" quantity="1"/>芎藭<c n="("/>一錢<c n=")"/>
+            <space n="　" quantity="1"/>杏仁</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p18s2">
+            <c n="（"/>三十枚<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p18s3">泡去皮尖碎<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p20">
+          <seg xml:id="KR3er101_jc_004-d6.p20s1">右九味水煎溫服常薄覆脊憑几坐汗出則愈不汗更服無所禁勿當風</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p22">
+          <seg xml:id="KR3er101_jc_004-d6.p22s1">升麻湯<space n="　" quantity="1"/>治陽明經邪發熱及痘疹初起</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p24">
+          <seg xml:id="KR3er101_jc_004-d6.p24s1">升麻<c n="("/>一錢<c n=")"/>
+            <space n="　" quantity="1"/>葛根<c n="("/>錢半<c n=")"/>
+            <space n="　" quantity="1"/>白芍<c n="("/>錢半<c n=")"/>
+            <space n="　" quantity="1"/>甘草炙<c n="("/>八分<c n=")"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p26">
+          <seg xml:id="KR3er101_jc_004-d6.p26s1">右肆味水煎溫服升葛為陽明經之嚮導陽明專主肌肉恐開泄大過即以白芍斂護營血甘草調和中氣所以解利本經邪熱及時行痘膠皆為</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p28">
+          <seg xml:id="KR3er101_jc_004-d6.p28s1">專藥然在起脹後禁用<c n="("/>石頑<c n=")"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p30">
+          <seg xml:id="KR3er101_jc_004-d6.p30s1">小柴胡湯<space n="　" quantity="1"/>治少陽受邪往來寒熱脈弦脅痛而嘔</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p32">
+          <seg xml:id="KR3er101_jc_004-d6.p32s1">柴胡<c n="("/>三錢<c n=")"/>
+            <space n="　" quantity="1"/>黃芩<c n="("/>六錢<c n=")"/>
+            <space n="　" quantity="1"/>人參<c n="("/>一錢<c n=")"/>
+            <space n="　" quantity="1"/>甘草炙<c n="("/>一錢<c n=")"/>
+            <space n="　" quantity="1"/>半夏<c n="("/>二錢<c n=")"/>
+            <space n="　" quantity="1"/>生薑<c n="("/>五片<c n=")"/>
+            <space n="　" quantity="1"/>大棗</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p32s2">
+            <c n="（"/>四枚擘</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p34">
+          <seg xml:id="KR3er101_jc_004-d6.p34s1">水煎去滓溫服治傷寒有五法曰汗曰吐曰下曰溫曰和皆一定之法而少陽例中小柴胡湯專一和解表裡少陽為陰陽交界邪傳至此已漸向里故用柴胡升發其邪使從外解即以人參擋截於中不令內犯更以半夏黃芩清解在裡之熱痰生薑大棗並祛在表之邪氣又須甘草協輔參柴共襄匡正辟邪之功真不易之法無容擬議者也其方後加減乃法中之法定而不移至於邪氣犯本膽府受病而加龍骨牡蠣丸藥誤下而加芒硝屢下不解引邪人里心下急鬱郁微煩而用大柴胡為法外之法變通無定不可恩議者也獨怪世醫用小柴胡一概除夫人參且必加枳桔耗氣之品此非法之法習俗相承匿於橫議者也何怪乎道藝日卑風斯日下哉<c n="("/>石頑<c n=")"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p36">
+          <seg xml:id="KR3er101_jc_004-d6.p36s1">星香湯<space n="　" quantity="1"/>治中風痰涎潮塞不省人事服熱不得者</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p38">
+          <seg xml:id="KR3er101_jc_004-d6.p38s1">南星<c n="("/>三錢<c n=")"/>
+            <space n="　" quantity="1"/>木香<c n="("/>五分<c n=")"/>
+            <space n="　" quantity="1"/>生薑<c n="("/>十片<c n=")"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p40">
+          <seg xml:id="KR3er101_jc_004-d6.p40s1">水煎服無時</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p42">
+          <seg xml:id="KR3er101_jc_004-d6.p42s1">朮附湯<space n="　" quantity="1"/>治寒濕體痛自汗身寒</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p44">
+          <seg xml:id="KR3er101_jc_004-d6.p44s1">白朮<c n="("/>一兩<c n=")"/>
+            <space n="　" quantity="1"/>附子<c n="("/>五錢<c n=")"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p46">
+          <seg xml:id="KR3er101_jc_004-d6.p46s1">右二味水煎去滓放涼分三服</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p48">
+          <seg xml:id="KR3er101_jc_004-d6.p48s1">四逆湯<space n="　" quantity="1"/>治陰寒脈沈四肢厥冷嘔吐泄瀉</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p50">
+          <seg xml:id="KR3er101_jc_004-d6.p50s1">附子</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p50s2">
+            <c n="（"/>一枚<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p50s3">生用<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_004-d6.p50s4">
+            <space n="　" quantity="1"/>乾姜<c n="("/>五錢<c n=")"/>
+            <space n="　" quantity="1"/>甘草<c n="("/>六錢<c n=")"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p52">
+          <seg xml:id="KR3er101_jc_004-d6.p52s1">右三味水煎服分溫再服</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p54">
+          <seg xml:id="KR3er101_jc_004-d6.p54s1">理中湯<space n="　" quantity="1"/>治胸痹心胸痞氣霍亂灶瀉不渴一切脾胃虛寒嘔吐清水飲食不入完穀不化</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p56">
+          <seg xml:id="KR3er101_jc_004-d6.p56s1">乾薑</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p56s2">
+            <c n="（"/>炮<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p56s3">五分<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_004-d6.p56s4">
+            <space n="　" quantity="1"/>人參<c n="("/>一錢<c n=")"/>
+            <space n="　" quantity="1"/>白朮</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p56s5">
+            <c n="（"/>炒焦<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p56s6">一錢<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_004-d6.p56s7">
+            <space n="　" quantity="1"/>甘草炙<c n="("/>五分<c n=")"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p58">
+          <seg xml:id="KR3er101_jc_004-d6.p58s1">右四味水煎去滓溫服腸胃虛脫完穀不化者煉白蜜丸彈子大沸湯研和滓日三夜二服名理中丸</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p60">
+          <seg xml:id="KR3er101_jc_004-d6.p60s1">半夏瀉心湯<space n="　" quantity="1"/>治心下痞滿不痛</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p62">
+          <seg xml:id="KR3er101_jc_004-d6.p62s1">半夏</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p62s2">
+            <c n="（"/>五錢<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p62s3">泡<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_004-d6.p62s4">
+            <space n="　" quantity="1"/>乾薑</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p62s5">
+            <c n="（"/>三錢<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p62s6">炮<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_004-d6.p62s7">
+            <space n="　" quantity="1"/>甘草炙<c n="("/>三錢<c n=")"/>
+            <space n="　" quantity="1"/>人參<c n="("/>三錢<c n=")"/>
+            <space n="　" quantity="1"/>黃苓<c n="("/>三錢<c n=")"/>
+            <space n="　" quantity="1"/>黃連<c n="("/>一錢<c n=")"/>
+            <space n="　" quantity="1"/>大</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p64">
+          <seg xml:id="KR3er101_jc_004-d6.p64s1">棗</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p64s2">
+            <c n="（"/>四枚<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p64s3">擘<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p66">
+          <seg xml:id="KR3er101_jc_004-d6.p66s1">右七味水煎溫分三服</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p68">
+          <seg xml:id="KR3er101_jc_004-d6.p68s1">七氣湯<space n="　" quantity="1"/>治七情鬱結於中心腹絞痛服寬膈破氣藥轉劇者投此即效</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p70">
+          <seg xml:id="KR3er101_jc_004-d6.p70s1">人參<c n="("/>錢半<c n=")"/>
+            <space n="　" quantity="1"/>甘草炙<c n="("/>一錢<c n=")"/>
+            <space n="　" quantity="1"/>肉桂<c n="("/>一錢<c n=")"/>
+            <space n="　" quantity="1"/>半夏<c n="("/>一錢<c n=")"/>
+            <space n="　" quantity="1"/>生薑<c n="("/>七片<c n=")"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p72">
+          <seg xml:id="KR3er101_jc_004-d6.p72s1">右五味水煎空心服</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p74">
+          <seg xml:id="KR3er101_jc_004-d6.p74s1">崔氏八味丸<space n="　" quantity="1"/>治腎藏真陽不足火不歸源</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p76">
+          <seg xml:id="KR3er101_jc_004-d6.p76s1">熟地黃<c n="("/>八兩<c n=")"/>
+            <space n="　" quantity="1"/>山茱萸</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p76s2">
+            <c n="（"/>肉<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p76s3">四兩<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_004-d6.p76s4">
+            <space n="　" quantity="1"/>乾山藥</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p76s5">
+            <c n="（"/>微焙<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p76s6">四兩<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_004-d6.p76s7">
+            <space n="　" quantity="1"/>牡丹皮<c n="("/>三兩<c n=")"/>
+            <space n="　" quantity="1"/>白茯苓</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p76s8">
+            <c n="（"/>去皮<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p78">
+          <seg xml:id="KR3er101_jc_004-d6.p78s1">三兩<c n=")"/>
+            <space n="　" quantity="1"/>白澤瀉</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p78s2">
+            <c n="（"/>去毛<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p78s3">三兩<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_004-d6.p78s4">
+            <space n="　" quantity="1"/>附子童便</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p78s5">
+            <c n="（"/>浸煮去皮臍切<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p78s6">一兩<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_004-d6.p78s7">
+            <space n="　" quantity="1"/>肉桂</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p78s8">
+            <c n="（"/>去粗皮勿見</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p80">
+          <seg xml:id="KR3er101_jc_004-d6.p80s1">火<c n="。"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_004-d6.p80s2">一兩<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p82">
+          <seg xml:id="KR3er101_jc_004-d6.p82s1">右八味為未煉白蜜丸梧子大每服五七十丸空心淡鹽湯下臨臥時溫酒</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p84">
+          <seg xml:id="KR3er101_jc_004-d6.p84s1">下以美膳壓之本方去桂附名六味丸熟地黃用縮砂蜜八錢制治腎水真陰不足</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p86">
+          <seg xml:id="KR3er101_jc_004-d6.p86s1">根術湯治水腫心下如盤邊如旋盤</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p88">
+          <seg xml:id="KR3er101_jc_004-d6.p88s1">根實<c n="("/>十枚<c n=")"/>
+            <space n="　" quantity="1"/>白朮<c n="("/>二兩<c n=")"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p90">
+          <seg xml:id="KR3er101_jc_004-d6.p90s1">右二味水煎溫分三服腹中輕即常散也</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p92">
+          <seg xml:id="KR3er101_jc_004-d6.p92s1">平胃散<space n="　" quantity="1"/>治胃中宿食不化蔾藿人宜之</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p94">
+          <seg xml:id="KR3er101_jc_004-d6.p94s1">厚朴<c n="("/>去皮<c n=")"/>
+            <space n="　" quantity="1"/>薑汁</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p94s2">
+            <c n="（"/>炒<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p94s3">三兩<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_004-d6.p94s4">
+            <space n="　" quantity="1"/>陳皮</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p94s5">
+            <c n="（"/>泡去浮白<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p94s6">三兩<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_004-d6.p94s7">
+            <space n="　" quantity="1"/>甘草炙<c n="("/>三兩<c n=")"/>
+            <space n="　" quantity="1"/>蒼朮</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p94s8">
+            <c n="（"/>泔浸去皮<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_004-d6.p94s9">麻油</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p94s10">
+            <c n="（"/>拌炒黃<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p94s11">四兩<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p96">
+          <seg xml:id="KR3er101_jc_004-d6.p96s1">右四味為散每服五錢加生薑三片水煎溫服</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p98">
+          <seg xml:id="KR3er101_jc_004-d6.p98s1">二陳湯<space n="　" quantity="1"/>治脾胃痰濕</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p100">
+          <seg xml:id="KR3er101_jc_004-d6.p100s1">半夏</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p100s2">
+            <c n="（"/>薑製<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p100s3">二錢五分<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_004-d6.p100s4">
+            <space n="　" quantity="1"/>茯苓<c n="("/>錢半<c n=")"/>
+            <space n="　" quantity="1"/>陳皮</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p100s5">
+            <c n="（"/>略去白<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p100s6">一錢<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_004-d6.p100s7">
+            <space n="　" quantity="1"/>生薑<c n="("/>三片<c n=")"/>
+            <space n="　" quantity="1"/>甘草</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p100s8">
+            <c n="（"/>炙<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p100s9">一錢<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_004-d6.p100s10">鳥梅肉<c n="("/>半個<c n=")"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p102">
+          <seg xml:id="KR3er101_jc_004-d6.p102s1">右六味水煎空心溫服燥痰減半夏生薑加麥門冬<c n="("/>去心<c n=")"/>竹瀝郁痰干效去牛夏用蜜煎姜加川貝母<c n="("/>去心<c n=")"/>火痰加黃連竹茹老痰加蛤紹海石</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p104">
+          <seg xml:id="KR3er101_jc_004-d6.p104s1">四君子湯治胃氣虛弱飲食不思倦怠少食</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p106">
+          <seg xml:id="KR3er101_jc_004-d6.p106s1">人參<c n="("/>一錢<c n=")"/>
+            <space n="　" quantity="1"/>白朮</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p106s2">
+            <c n="（"/>炒黃<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p106s3">一錢<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_004-d6.p106s4">
+            <space n="　" quantity="1"/>茯苓<c n="("/>一錢<c n=")"/>
+            <space n="　" quantity="1"/>甘草</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p106s5">
+            <c n="（"/>炙<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p106s6">六分<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p108">
+          <seg xml:id="KR3er101_jc_004-d6.p108s1">右四味水煎空心溫服</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p110">
+          <seg xml:id="KR3er101_jc_004-d6.p110s1">四物湯<space n="　" quantity="1"/>治營血虛熱</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p112">
+          <seg xml:id="KR3er101_jc_004-d6.p112s1">熟地黃<c n="("/>二錢<c n=")"/>
+            <space n="　" quantity="1"/>歸身<c n="("/>一錢<c n=")"/>
+            <space n="　" quantity="1"/>白芍藥<c n="("/>錢半<c n=")"/>
+            <space n="　" quantity="1"/>川芎藭<c n="("/>八分<c n=")"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p114">
+          <seg xml:id="KR3er101_jc_004-d6.p114s1">右四味水煎溫服肥盛多濕痰及嘔逆少宜便溏者禁用</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p116">
+          <seg xml:id="KR3er101_jc_004-d6.p116s1">保元湯<space n="　" quantity="1"/>治營衛氣血不足</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p118">
+          <seg xml:id="KR3er101_jc_004-d6.p118s1">黃耆<c n="("/>三錢<c n=")"/>
+            <space n="　" quantity="1"/>蜜酒<c n="("/>炙<c n=")"/>
+            <space n="　" quantity="1"/>人參<c n="("/>三錢<c n=")"/>
+            <space n="　" quantity="1"/>甘草</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p118s2">
+            <c n="（"/>炙<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p118s3">一錢<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_004-d6.p118s4">水煎空心服</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p120">
+          <seg xml:id="KR3er101_jc_004-d6.p120s1">生脈散<space n="　" quantity="1"/>治熱傷肺胃虛熱喘嗽脈虛無力</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p122">
+          <seg xml:id="KR3er101_jc_004-d6.p122s1">人參<c n="("/>三錢<c n=")"/>
+            <space n="　" quantity="1"/>麥門冬</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p122s2">
+            <c n="（"/>去心<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p122s3">二錢<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_004-d6.p122s4">
+            <space n="　" quantity="1"/>五味子<c n="("/>一錢<c n=")"/>水煎不時熱服二冬膏治肺胃燥熱痰澀咳嗽</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p124">
+          <seg xml:id="KR3er101_jc_004-d6.p124s1">天門冬<c n="("/>去心<c n=")"/>
+            <space n="　" quantity="1"/>麥門冬<c n="("/>去心<c n=")"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p126">
+          <seg xml:id="KR3er101_jc_004-d6.p126s1">右二味等分熬膏煉白蜜收不時含熱咽之</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p128">
+          <seg xml:id="KR3er101_jc_004-d6.p128s1">桔梗湯<space n="　" quantity="1"/>治冬時伏邪發於少陰咽痛不瘥及風熱肺氣不清喘嗽喉中介介如梗狀肺痿肺癰初起並得服之</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p130">
+          <seg xml:id="KR3er101_jc_004-d6.p130s1">桔梗<c n="("/>三錢<c n=")"/>
+            <space n="　" quantity="1"/>甘草<c n="("/>二錢<c n=")"/>
+            <space n="　" quantity="1"/>右二味水煎緩緩服之</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p132">
+          <seg xml:id="KR3er101_jc_004-d6.p132s1">防己黃耆湯<space n="　" quantity="1"/>治風濕相搏客在皮膚關節疼痛腰巳下疼重脈浮自汗惡風</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p134">
+          <seg xml:id="KR3er101_jc_004-d6.p134s1">防已</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p134s2">
+            <c n="（"/>酒洗<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p134s3">錢半<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_004-d6.p134s4">
+            <space n="　" quantity="1"/>黃耆<c n="("/>錢半<c n=")"/>
+            <space n="　" quantity="1"/>白朮<c n="("/>一錢<c n=")"/>
+            <space n="　" quantity="1"/>生薑<c n="("/>四片<c n=")"/>大棗</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p134s5">
+            <c n="（"/>二枚<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p134s6">擘<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_004-d6.p134s7">
+            <space n="　" quantity="1"/>甘草</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p134s8">
+            <c n="（"/>炙<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p134s9">八分<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p136">
+          <seg xml:id="KR3er101_jc_004-d6.p136s1">右六味水煎熱服後當如蟲行皮中腰已下如冰後坐被上又以一被遶腰下溫令微汗差<space n="　" quantity="1"/>喘加麻黃冒氣不和加芍藥氣上衝加桂枝下有陳氣加細辛</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p136s2">
+            <c n="（"/>陳氣者久積之寒氣也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p138">
+          <seg xml:id="KR3er101_jc_004-d6.p138s1">梔子豉湯治汗下不解虛邪留於膈上心下結痛虛煩懊憤不得眠反覆顛倒臥起不安者</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p140">
+          <seg xml:id="KR3er101_jc_004-d6.p140s1">梔子</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p140s2">
+            <c n="（"/>拾四枚<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p140s3">擘<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_004-d6.p140s4">
+            <space n="　" quantity="1"/>香豉<c n="("/>四合<c n=")"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p142">
+          <seg xml:id="KR3er101_jc_004-d6.p142s1">右二味水煎分二服溫進一服得怏吐止後服</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p144">
+          <seg xml:id="KR3er101_jc_004-d6.p144s1">小承氣湯<space n="　" quantity="1"/>治少陽陽明府證</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p144s2">
+            <c n="（"/>承氣湯有八禁一表證未除二心下硬滿三合面赤色四平素食少或病中反能食五嘔多六脈遲七津液內竭八小便少<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p146">
+          <seg xml:id="KR3er101_jc_004-d6.p146s1">生大黃<c n="("/>四錢<c n=")"/>
+            <space n="　" quantity="1"/>厚朴<c n="("/>六錢<c n=")"/>
+            <space n="　" quantity="1"/>枳實</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p146s2">
+            <c n="（"/>炙<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p146s3">三枚<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p148">
+          <seg xml:id="KR3er101_jc_004-d6.p148s1">初服湯當更衣不爾者盡飲之若更衣勿服之</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p150">
+          <seg xml:id="KR3er101_jc_004-d6.p150s1">抵當湯<space n="　" quantity="1"/>治畜血小腹鞭滿小便自利</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p152">
+          <seg xml:id="KR3er101_jc_004-d6.p152s1">水蛭</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p152s2">
+            <c n="（"/>三十枚<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p152s3">熬黑如無以嬤鯉甲生漆塗炙代之<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_004-d6.p152s4">
+            <space n="　" quantity="1"/>蟲蟲</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p152s5">
+            <c n="（"/>三十枚<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p152s6">去翅足熬<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p154">
+          <seg xml:id="KR3er101_jc_004-d6.p154s1">大黃</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p154s2">
+            <c n="（"/>酒浸<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p154s3">一兩<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_004-d6.p154s4">
+            <space n="　" quantity="1"/>桃仁</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p154s5">
+            <c n="（"/>三十枚<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p154s6">去皮尖<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_004-d6.p154s7">
+            <space n="　" quantity="1"/>右四味水煎去滓取三升溫服一升不下再服</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p156">
+          <seg xml:id="KR3er101_jc_004-d6.p156s1">涼膈散<space n="　" quantity="1"/>治溫熱時行表裡實熟及心火亢盛目赤便秘胃熱發斑</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p158">
+          <seg xml:id="KR3er101_jc_004-d6.p158s1">大黃</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p158s2">
+            <c n="（"/>酒浸<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p158s3">二兩<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_004-d6.p158s4">
+            <space n="　" quantity="1"/>芒硝<c n="("/>一兩<c n=")"/>
+            <space n="　" quantity="1"/>甘草</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p158s5">
+            <c n="（"/>炙<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p158s6">六錢<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_004-d6.p158s7">
+            <space n="　" quantity="1"/>連翹一兩<space n="　" quantity="1"/>黃芩<c n="("/>一兩<c n=")"/>
+            <space n="　" quantity="1"/>山梔<c n="("/>八錢<c n=")"/>薄荷<c n="("/>七錢<c n=")"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p160">
+          <seg xml:id="KR3er101_jc_004-d6.p160s1">共為散每服四錢加竹葉十五片水煎溫日三夜二服得下熱退為度</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p162">
+          <seg xml:id="KR3er101_jc_004-d6.p162s1">備急丸<space n="　" quantity="1"/>治心腹平痛如錐刺宿食冷積脹滿</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p164">
+          <seg xml:id="KR3er101_jc_004-d6.p164s1">巴豆</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p164s2">
+            <c n="（"/>去皮心膜用霜<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p164s3">一錢<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_004-d6.p164s4">
+            <space n="　" quantity="1"/>乾薑</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p164s5">
+            <c n="（"/>生<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p164s6">二錢<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_004-d6.p164s7">
+            <space n="　" quantity="1"/>大黃<c n="("/>三錢<c n=")"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p166">
+          <seg xml:id="KR3er101_jc_004-d6.p166s1">右三味為末煉自蜜丸如小豆大溫水送下二三十丸妊娠禁用</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p168">
+          <seg xml:id="KR3er101_jc_004-d6.p168s1">伊尹三黃湯<space n="　" quantity="1"/>治三焦實熱煩躁便秘</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p170">
+          <seg xml:id="KR3er101_jc_004-d6.p170s1">黃連<c n="("/>煮<c n=")"/>
+            <space n="　" quantity="1"/>黃苓<c n="("/>酒炒<c n=")"/>
+            <space n="　" quantity="1"/>大黃<c n="("/>酒浸<c n=")"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p172">
+          <seg xml:id="KR3er101_jc_004-d6.p172s1">右三味等分麻沸湯二升漬之須臾絞去滓分溫再服麻沸湯者白水空煎鼎沸如麻也古方惟降火藥用之</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p174">
+          <seg xml:id="KR3er101_jc_004-d6.p174s1">十棗湯<space n="　" quantity="1"/>治懸飲內痛脅下有水氣脈眩數</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p176">
+          <seg xml:id="KR3er101_jc_004-d6.p176s1">芫花<c n="("/>熬<c n=")"/>
+            <space n="　" quantity="1"/>甘遂<space n="　" quantity="1"/>大戟</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p176s2">
+            <c n="（"/>泡去骨<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p178">
+          <seg xml:id="KR3er101_jc_004-d6.p178s1">右三味等分撂篩以水一升五合先煮大棗肥者十枚擘取八合去滓內藥未強人服一錢匕羸入服半錢匕平旦溫服若下少病不除者明日更服加半錢匕得快下利後糜粥自養</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p180">
+          <seg xml:id="KR3er101_jc_004-d6.p180s1">五苓散<space n="　" quantity="1"/>治傷寒表裡未解渴而小便不利</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p182">
+          <seg xml:id="KR3er101_jc_004-d6.p182s1">白朮</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p182s2">
+            <c n="（"/>生<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p182s3">二錢<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_004-d6.p182s4">
+            <space n="　" quantity="1"/>茯苓<c n="("/>二錢<c n=")"/>
+            <space n="　" quantity="1"/>豬苓<c n="("/>二錢<c n=")"/>
+            <space n="　" quantity="1"/>澤瀉<c n="("/>三錢<c n=")"/>
+            <space n="　" quantity="1"/>桂枝<c n="("/>一錢<c n=")"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p184">
+          <seg xml:id="KR3er101_jc_004-d6.p184s1">右五味為散白飲和服方寸匕日三服或生料服溫覆取微似汗</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p186">
+          <seg xml:id="KR3er101_jc_004-d6.p186s1">益元散<space n="　" quantity="1"/>治暑月小便不利</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p188">
+          <seg xml:id="KR3er101_jc_004-d6.p188s1">滑石水飛六兩甘草炙六錢生四錢</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p190">
+          <seg xml:id="KR3er101_jc_004-d6.p190s1">為散清水調服三錢發散溫病熱病加蔥白七莖香豉四臺水煎溫服老人虛人及病後傷津小便不利禁用</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p192">
+          <seg xml:id="KR3er101_jc_004-d6.p192s1">白虎湯<space n="　" quantity="1"/>治熱病壯熱煩渴及中暍煩熱而渴</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p194">
+          <seg xml:id="KR3er101_jc_004-d6.p194s1">生石膏</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p194s2">
+            <c n="（"/>碎<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p194s3">八錢<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_004-d6.p194s4">
+            <space n="　" quantity="1"/>知母<c n="("/>三錢<c n=")"/>
+            <space n="　" quantity="1"/>甘草</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p194s5">
+            <c n="（"/>炙<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p194s6">一錢<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_004-d6.p194s7">
+            <space n="　" quantity="1"/>粳米<c n="("/>半合<c n=")"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p196">
+          <seg xml:id="KR3er101_jc_004-d6.p196s1">水煎溫分二服一日盡飲之</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p196s2">
+            <c n="（"/>此方必燥渴潮熱自汗脈洪八字全者始可用之<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p198">
+          <seg xml:id="KR3er101_jc_004-d6.p198s1">駐車丸<space n="　" quantity="1"/>治陰虛下痢發熱膿血稠黏及休息痢</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p200">
+          <seg xml:id="KR3er101_jc_004-d6.p200s1">阿膠<c n="("/>三兩<c n=")"/>
+            <space n="　" quantity="1"/>黃連</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p200s2">
+            <c n="（"/>炒黑<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p200s3">兩半<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_004-d6.p200s4">
+            <space n="　" quantity="1"/>當歸<c n="("/>兩半<c n=")"/>
+            <space n="　" quantity="1"/>乾薑</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p200s5">
+            <c n="（"/>炮<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p200s6">一兩<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p202">
+          <seg xml:id="KR3er101_jc_004-d6.p202s1">右四味搗篩醋煮阿膠為丸梧子大每服四五十丸晝夜三服來飲下在金丸治肝經鬱熱吐酸綠青黃水</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p204">
+          <seg xml:id="KR3er101_jc_004-d6.p204s1">川黃連<c n="("/>六兩<c n=")"/>
+            <space n="　" quantity="1"/>吳茱萸</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p204s2">
+            <c n="（"/>揀去閉口者取淨一兩同黃連煮乾<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p206">
+          <seg xml:id="KR3er101_jc_004-d6.p206s1">為細末米飲糊丸梧子大每服四十丸空心白朮陳皮湯送服或用加味逍遙散作湯送</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p208">
+          <seg xml:id="KR3er101_jc_004-d6.p208s1">大補丸<space n="　" quantity="1"/>治陰火亢極足脛疼熱不能久立及婦人火鬱發熱</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p210">
+          <seg xml:id="KR3er101_jc_004-d6.p210s1">厚黃蘖</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p210s2">
+            <c n="（"/>鹽酒半陳米飯上蒸每蒸必攔炒黑亮加漆為度<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p212">
+          <seg xml:id="KR3er101_jc_004-d6.p212s1">煉白蜜丸梧子大每服二錢空心醇酒下如服之不應每觔加厚肉桂一兩</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p214">
+          <seg xml:id="KR3er101_jc_004-d6.p214s1">金液丹<space n="　" quantity="1"/>治陰極發躁厥冷脈伏瓜甲唇青水腫脈伏小便不通陰結畏寒<space n="　" quantity="1"/>便秘</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p216">
+          <seg xml:id="KR3er101_jc_004-d6.p216s1">明淨硫黃五兩研細水飛人煬盛罐內水調赤石脂未封口鹽泥通身固濟候乾三足釘釘於地將罐故釘上慢火燒養七晝夜再加頂火用炭十觔為度候冷取出研細每末一兩用蒸餅一兩打糊為丸梧子大每服二三寸丸溫白湯送下陰極冷甚者服百丸</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p218">
+          <seg xml:id="KR3er101_jc_004-d6.p218s1">醫學要領</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p218s2">
+            <c n="（"/>程鍾齡先生<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p220">
+          <seg xml:id="KR3er101_jc_004-d6.p220s1">內傷者氣病</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p220s2">
+            <c n="（"/>陽痙血病<c n="("/>陰虛<c n=")"/>傷食以及喜怒憂思悲恐驚是也外感者風寒暑濕燥火是也不內不外傷者跌打損傷五絕之類是也病有三因不外此矣變證百端不過寒熱虛實表裡陰陽八字論治法不過大小緩急奇偶復七方與夫宣通補瀉輕重滑澀燥濕十劑也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p220s3">
+            <c n="（"/>外感之邪自外而入宜瀉不宜補內傷之邪自內而出宜補不宜瀉然而瀉之中有補補之中有瀉此皆治法之權衡也又有似證如火似水水似火金似木木似金及虛似實實似虛不可以不辨明乎此則病無通精矣<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p222">
+          <seg xml:id="KR3er101_jc_004-d6.p222s1">實火者六淫之邪飲食之傷自外而入勢猶賊也可驅而不可留虛火者七情色欲勞役耗神自內而發勢猶子也可養而不可害人固不可認賊作子更不可認子作賊病機言火者什之八言者寒什之二耳</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p224">
+          <seg xml:id="KR3er101_jc_004-d6.p224s1">驅賊火四法</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p224s2">
+            <c n="（"/>一日發風塞壅閉火邪內郁宜升發之如升陽散火湯之類是也二日清內熱極盛宜用寒涼如黃連解毒湯之類是也三日攻火氣鬱結大便不通法當攻下此釜底抽薪之法如承氣湯之類是也四曰制熱氣拂鬱清之不去攻之不可此本來真水有虧不能制火所謂寒之不寒是無水也當滋其腎如地黃湯之類可用也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p226">
+          <seg xml:id="KR3er101_jc_004-d6.p226s1">養子火四法</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p226s2">
+            <c n="（"/>一月達肝經氣結五郁相因當順其性而升之所謂木鬱則達之如逍遙散之類是也此以一方治木鬱而諸郁皆解也二日滋虛火上炎必滋其水所謂壯水之主以鎮陽光如六味湯之類是也三日溫勞役神疲元氣受傷陰火乘其土位經日勞者溫之又曰甘溫能除大熱加補中益氣之類是也匹日引腎氣虛寒逼其無根失守之火浮游於上當以辛熱雜於壯水藥中導之下行所謂導龍人海引火歸元加入味湯之類是也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_004-d6.p226s3">然有邪盛疋虛之時宜用攻</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p228">
+          <seg xml:id="KR3er101_jc_004-d6.p228s1">補兼行之法或用滋水制火之法往往取效是知養子之法可惜為驅賊之方斷無以驅賊之法而為養子之理蓋養正則邪自除理之所有伐正而能保身理所必無也</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p230">
+          <seg xml:id="KR3er101_jc_004-d6.p230s1">熱證</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p230s2">
+            <c n="（"/>口渴而能消水飲食喜冷煩躁尿短而赤便結脈數<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p232">
+          <seg xml:id="KR3er101_jc_004-d6.p232s1">寒證</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p232s2">
+            <c n="（"/>口不渴或假渴而不能消水喜飲熱湯手足厥冷尿清長便溏脈遲<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p234">
+          <seg xml:id="KR3er101_jc_004-d6.p234s1">實證</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p234s2">
+            <c n="（"/>病中無汗胸腹脹不減痛而拒按病新得稟質厚脈實而有力<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p236">
+          <seg xml:id="KR3er101_jc_004-d6.p236s1">虛證</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p236s2">
+            <c n="（"/>病中多汗胸腹脹時減復如故痛而喜按按之則痛止病久稟弱脈虛而無力<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p238">
+          <seg xml:id="KR3er101_jc_004-d6.p238s1">里證</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p238s2">
+            <c n="（"/>潮熟惡熱腹痛口燥舌胎黃黑脈沈<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p240">
+          <seg xml:id="KR3er101_jc_004-d6.p240s1">表證</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p240s2">
+            <c n="（"/>發熱惡寒頭痛鼻塞舌上無胎脈浮<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p242">
+          <seg xml:id="KR3er101_jc_004-d6.p242s1">陽證</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p242s2">
+            <c n="（"/>為熱為實為表熱邢達表陽中之陽熱邪人里陰中之陽<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p244">
+          <seg xml:id="KR3er101_jc_004-d6.p244s1">陰證</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p244s2">
+            <c n="（"/>為寒為虛為裡寒邪人里陰中之陰寒邪客表陽中之陰<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p246">
+          <seg xml:id="KR3er101_jc_004-d6.p246s1">真陽不足</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p246s2">
+            <c n="（"/>脈大無力四肢倦怠唇淡口和肌泠便溏飲食不化<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p248">
+          <seg xml:id="KR3er101_jc_004-d6.p248s1">真陰不足</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p248s2">
+            <c n="（"/>脈數無力虛火時炎口燥唇焦內熱便結氣逆衝上<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p250">
+          <seg xml:id="KR3er101_jc_004-d6.p250s1">病有熱證而喜熱飲者同氣相求也有寒證而喜冷飲卻不能飲者假渴之象也有熱證而大便溏瀉者挾熱下利也有寒證而大便反硬者陰結也有熱證而手足厥冷者所謂熱深厥亦深熱微厥亦微是也有寒證而反煩躁欲坐臥泥水之中者陰躁也有有汗而為實證者熱邪傳裡也有無汗而為虛證者津液不足也有惡寒而為里證者直中於寒也有惡熱口渴而為表證者溫熱之病自里達表也此乃陰陽變化之理尤不可不早辨之也</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p252">
+          <seg xml:id="KR3er101_jc_004-d6.p252s1">治病汗和下消吐清溫補□法</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p254">
+          <seg xml:id="KR3er101_jc_004-d6.p254s1">汗者散也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p254s2">
+            <c n="（"/>風寒初客於人頭痛發熱惡寒鼻塞聲重體痛者香蘇散主之重則麻黃湯其有寒熱與外感風寒似同而實異者若誣汗之則變端百出矣又有他病重而略兼外感者量於本證藥中稍加表藥可也如臍間有動氣者埋中湯去朮加衰藥熱邪入里而表未解者麻黃石膏湯或苓連葛根湯太陽證脈沈細者少陰證反發熱者麻黃附子細辛湯少陽中風柴胡湯加桂枝陽虛者補中湯加表藥陰虛者芎歸湯加表藥之類也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p256">
+          <seg xml:id="KR3er101_jc_004-d6.p256s1">和者順也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p256s2">
+            <c n="（"/>病在半表牛里耳聾脅痛寒熱往來小柴胡湯主之蓋少陽證有三禁汗吐下是也如病邪在表未入少陽誤用柴胡謂之引賊入門變證多端若邪已入里僅用柴胡則病不解巧為藏拙誤人匪淺也凡病在少陽正氣虛者加入參口不渴大便如常者加半夏生薑口大渴大便漸</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p258">
+          <seg xml:id="KR3er101_jc_004-d6.p258s1">結者加花粉瓜簍兼表邪者加桂枝兼里邪者加芒硝至於三陽合病閉圓則汗面垢譫語遺尿者用白虎湯和解之和之一法變化無窮知斯意者則溫熱之治癘疫之方時行痎瘧皆從此推廣之不難應手而輒效也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p260">
+          <seg xml:id="KR3er101_jc_004-d6.p260s1">下者攻也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p260s2">
+            <c n="（"/>病邪傳入少陰經得之二三日口燥咽乾者六七日腹滿不大便者下利脈滑數不欲食按之心下硬有宿食者下利清水色純青心下痛口乾燥者目中不了了睛不筆無表證大便難者病在陽明府譫語不能食胃中有燥屎者發熱汗多煩躁口渴能消水不惡風寒反惡熱者此皆當急下之也凡應下之證痞滿燥實四者兼全可用大承氣湯痞滿而未燥實者瀉心湯痞滿兼燥而未實者小承氣湯燥實而未痞滿者調胃承氣湯太陽傷風證誤下而傳大陰以致腹痛者桂枝湯倍芍藥誤下而腹大實痛者桂枝湯加大黃邪從少陽來寒熱未除大柴胡湯結胸證項背強自胸至腹硬滿而痛手不可近者大陷胸湯丸若不按不痛者小陷胸湯寒食結胸用三白散水結胸頭汗出者小半夏加茯苓湯水停脅下痛不可忍者十棗湯結胸陰陽二證服藥罔效者活人俱用枳實理中丸鬱熱蓄甚神昏厥逆脈反滯澀有微細欲絕之象者涼膈散合解毒湯並用太陽證未罷口渴小便短澀大便如常者五苓散太陽傳本熱結膀胱其人如狂少腹硬滿而痛小便自利下焦蓄血者抵當丸如但少腹急結未至硬滿者桃仁承氣湯或用生地四物湯加酒軍傷於冷令腹痛便閉拒按者見喼丸傷於熱食者三黃枳朮丸冷熱互傷二丸酌其所傷之多寡用之實熱老痰滾痰丸水腫實證神佑丸蟲積翦紅丸血積花蕊丸或失笑丸腸癰牡丹皮散老人久病人新產婦人每多大便閉結者通幽湯或用四物湯加潤藥其有正虛邪盛羸弱之人難於措手者古人有清法潤法導法微和法先補後攻法先攻補後並行法可以斟酌取效也<c n="）"/>
+          </seg>
+          <seg xml:id="KR3er101_jc_004-d6.p260s3">消者削也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p260s4">
+            <c n="（"/>病成於五藏推之不移者積也病成於六府推之而移者聚也忽聚忽散者氣也痛有定處而不敬者血也得食則痛噯腐吞酸者食積也腹有塊按之而耎者痰也先足腫後及腹者水也先腹滿後及四肢者脹也痛引兩脅效而吐涎者停飲也效而胸痛吐膿腥臭者肺癰也當胃而痛嘔而吐膿者胃脘癱也當臍而痛小便加淋轉側作水聲者腸癰也憎寒壯熱飲食如當偏著一處者外癰也病人嗜食甘甜或異物飢時則痛唇之上下有白斑點者蟲也腹中如有物動而痛不可忍者蟲毒也病人咳嗽痰紅抑抑不樂畏見人喉瘁而咳劇者勞瘵生蟲也痃如弓弦筋病也癖則隱癖飲食有所偏好而成附骨之病也症則有塊可徵積之類也瘕則或有或無痞氣之類也少腹如湯沃小便澀者胞痹也痛引睪丸者疝也女人經水自行而腹塊漸大如懷子者腸覃也經水不行而腹塊漸大並非妊身其脈澀者石瘕也至於濕熱下墜則為陰菌陰蝕陰挺下脫陰莖腫爛之類其虛火內爍庚金則為痔瘻懸疽藏毒種種見證不一而足務在詳稽博考辨明證候按法而消之慎弗視為汎常也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p262">
+          <seg xml:id="KR3er101_jc_004-d6.p262s1">吐者出也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p262s2">
+            <c n="（"/>病在上焦胸次咽喉之地或有痰食癰膿法當吐之經所謂高畫而越之是已病人脈滑大胸膈停痰飲以二陳湯用指探喉而出之胃脘積食瓜蒂散奧橘紅淡鹽湯主之其體質虛弱者以桔梗煎湯代之寒痰閉塞厥逆昏沈者用半夏橘紅各八錢濃煎半杯和薑汁半杯頻頻灌之風邪中藏張目痰鳴聲如屯鋸便尿自遺勢將脫者參附姜夏濃煎灌之隨吐隨灌久之藥力下咽胸膈流通頻進參附可期平復風痰熱閉者以牛黃丸灌吐之頸疽內攻者以蘇合香丸灌吐之風熱不語者以解語丹灌吐之中暑不醒者以消暑丸灌吐之中惡不醒者以薑汁橘夏灌吐之夢膨不醒者以連須蔥白煎酒灌吐之自縊不醒者以肉桂煎湯灌吐之纏喉鎖喉喉閉喉風以杜牛膝搗汁和雄黃丸灌吐之牙關緊急閉塞不通者吹以搐鼻散取嚏俟牙開或痰或食照前法用二陳湯瓜蒂散分主之妊婦轉脖小便不通者補中益氣湯隨服而探吐之醋蒜吐蛇雄黃狗油同瓜蒂吐蟲韭汁吐瘀血昔仲景治胸痛不能食按之反有涎唾下利日數十行吐之則利止是以吐痰止利也由此觀之證在危疑之際古人恆以湧劑盡其神化不測之用者莫可指數矣吐法安可以不講耶至於病勢危篤老弱氣衰體質尫羸脈息虛弱房勞不慎四肢厥冷自吐不止冷汗自出諸亡血家新產婦人以及病系邪氣胸膈本無痰食者則湧吐又在所切禁也<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p264">
+          <seg xml:id="KR3er101_jc_004-d6.p264s1">清者清也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p264s2">
+            <c n="（"/>六淫之邪除中寒寒濕外皆不免於病熱經云熱者寒之是己熱氣熏蒸或見於口舌唇齒或見於口渴便尿灼知其熱而不清則斑黃狂亂厥逆吐衄諸證業生矣其勞力辛苦之人中氣大虛發熱倦怠心煩尿赤名曰虛火與外感熱證相隔霄壤又有陰虛勞瘵之證日哺潮熱者產後血虛發熱煩躁者命門火衰浮陽上汛者與夫陰盛格陽假熱之證其人面赤狂躁欲坐臥泥水中或大便數日不下或舌黑而潤或脈反洪大崢崢鼓指按之豁然空者或口渴欲得冷飲而不能咽者或因下元虛冷頻飲熱湯以自救者若誤投涼藥立見危亡矣至於風寒閉火者散而清之暑熱傷氣者補而清之濕熱者或散或滲或下而清之燥熱者潤而清之傷食積熱消而清之傷寒邪傳胃府熱勢如蒸自汗口渴飲冷而能消水者非白虎湯鮮克有濟也更有陽盛拒陰之證清藥到口即吐者以薑汁製黃連反取之所謂寒因熱用也若夫七情氣結互相感觸火從內發者以越鞠丸開六郁以逍遙散調肝氣氣虛者補其氣血虛者滋其血真陰不足而火上炎者壯水為主用六味湯真陽不足而火上炎者引火歸原用保元湯或八味丸蓋外感之火以涼為清內傷乙火以補為清也若本體素虧藏府本寒飲食素少腸胃虛滑或產後病後房勞之後雖有熱證亦只宜少少用之即有不及猶可再清儻清之太過則必寒生而將醫藥矣兒熱病清之而不去者當滋其腎腎水乃天真之水以之制外邪何邪不服何熱不除而況以治內傷乎然滋陰之藥不能開胃扶脾恢復元氣則參苓耆朮亦當酌量而用之也一</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p266">
+          <seg xml:id="KR3er101_jc_004-d6.p266s1">溫者暖也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p266s2">
+            <c n="（"/>藏府受寒必須溫劑經云寒者溫之是己天地肅殺之氣莫甚於寒其邪自表而入有曰傷寒初時即行溫散則病自除若不由表入而直中陰經者曰中寒其證惡寒厥逆口鼻氣冷或冷汗自出嘔吐瀉利或腹中急痛厥逆無脈下利清穀或寒濕浸淫四肢拘急發為痛痹此皆法當溫之者也如冬令傷寒則溫而散之冬令傷風則溫而解之寒痰壅閉則溫而開之冷食所傷則溫而消之至若中寒暴痛大便反硬溫藥不止者則以熱劑下之時當暑月納涼飲冷暴受寒侵者亦當溫之體虛挾寒者溫而補之寒客中焦主以理中湯寒客下焦主以四逆湯真虛挾寒命門火衰者必須補其真陽復有陰盛格陽之證混藥不效力則以白□湯加入尿豬膽汁反取之所謂熱因寒用也更有表裡肯寒之證始用溫藥裡寒頓除表邪未散復傳經絡以致始為寒中而後變為熱中者容或有之亦有三陰直中和無表邪溫藥太過遂令塞退熱生初終異轍在所時有若不斟酌時宜對證投劑是先以溫藥救之者繼以溫藥賊之矣夫以陽氣素虛之人一旦客寒乘之則溫劑宜重若人人平日火旺不任辛溫成曾有陰虧失血之證不能用溫藥者即中新寒亦須景減不必盡劑也且溫之與補有相兼者有不必相兼者虛而目寒則兼用之寒而不虛則專以薑桂主之時當盛夏雖溫劑宜輕若虛寒極重亦當舍時而從證然桂枝下咽陽盛則斃承氣入胃陰盛則亡安危之機禍如反掌苟非審慎明辨奚克悉底中和哉<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p268">
+          <seg xml:id="KR3er101_jc_004-d6.p268s1">補者助也</seg>
+          <seg type="comm" xml:id="KR3er101_jc_004-d6.p268s2">
+            <c n="（"/>邪之所湊且氣必虛虛者損之漸損者虛之積也初時不覺久則病成雖欲補之將何及耶大虛之證外似有餘內實不足脈浮大而澀面赤火炎身浮頭眩煩躁不安此為比汗暈脫之機更有精神浮散徹夜不寐者其禍尤速宜急用養榮湯歸脾湯加斂藥以收攝元神庶幾可救復有陰虛火亢氣逆上衝不得眠者法當滋水切忌苦寒至其人本體雖虛而客邪勢正方張若驟補上無異閉門留寇更有大實之證積熱在中酷肯虛寒者必唇焦口燥便閉尿赤與真虛相隔天淵誤投補劑病必增劇矣補氣藥用四君子湯有補火清火之別蓋少火為生氣之原丹田乃出氣之海補氣不補火者非也然而壯火食氣如傷暑之人四肢無力濕熱成痿不能舉動者又當清以為補也補血藥用四物湯亦有寒熱之異血熱之證宜補宜行而兼清血寒之證宜溫宜養而兼和如熱迫血而妄行謂之陽乘陰治用四生丸六味湯若血寒而吐謂之陰乘陽治用理中湯加當歸其有去血過多成升斗者無分寒熱皆當補益所謂血脫者益其氣乃陽生陰長之至理蓋有形之血不能速生無形之氣所當急固也然補之之法有開闔緩急如補中益氣湯用參耆必用陳皮以開之六味湯用熟地即用澤瀉以導之有補散並行者參蘇飲益氣湯是也有消補並行者枳朮丸理中丸是也有攻補並行者瀉心湯硝石丸是也有溫補並行者治中湯參附湯是也有清補並行者參連飲人參白虎湯是也更有極虛之人垂危之病非大劑湯液不能挽回者當用參附煎膏日服數兩以救陽微將脫之證並用參麥煎膏日服數兩以拯津液將枯之證無力者代之以耆朮儻病邪未盡元氣雖虛不任峻補則從容和緩相其機宜循序漸進其有體質素虛別無大寒大熱者則用平和之藥調理氣血可也難經所云損其肺者益其氣損其心者和其營衛損其脾者調其飲食適其寒溫損其肝者緩其中損其腎者益其精此正補也又肺虛者補土心虛者補木脾虛者補命門火肝虛者補水腎虛者補金此相生而補之也至於腎者先天之根本也有水有火水曰真陰火曰真陽非氣非血生身生命全賴乎此古人月六味滋水八味補火以十全大補湯兼濟水火法非不善矣然以假補真必其真者未經盡喪庶幾有效若先天之氣蕩然無存雖有靈芝亦難續命而況庶草乎至於脾者後天之根本也尤當培養不可忽視所謂安穀則昌絕谷則危又云粥漿入胃則虛者活古人制補中益氣湯歸脾湯健脾丸者良有以也然因餓致病者固多而因傷致病者亦復不少過嗜肥甘則痰生過嗜醇釀則飲積瓜果乳酥濕從內受發為腫滿瀉利五味偏啖久而增氣皆令天殃可不慎哉是知脾腎二藏皆為根本不可偏廢古人或謂補脾不如補腎者以命門之火可生脾土也或謂補腎不如補脾者以飲食之精自能下注於腎也凡脾弱而腎不虛者則補脾為亟腎弱而脾不虛者補腎為先若脾腎兩虛則並補之但藥補不如食補食補不如精補精補不如神補節飲食慎風寒惜精神用藥得宜病有不痊焉者寡矣現有人參果專治五勞七傷諸虛百損並能御外邪消飲食輕易不老郤病延年真神丹妙藥人人皆有惟不肯服食耳<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p270">
+          <seg xml:id="KR3er101_jc_004-d6.p270s1">雜錄</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p272">
+          <seg xml:id="KR3er101_jc_004-d6.p272s1">吳草廬曰脈行始於肺終於肝而復會於肺肺為出氣之門戶故名氣口而為六脈之大會以占身焉</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p274">
+          <seg xml:id="KR3er101_jc_004-d6.p274s1">李瀕湖曰兩手六部皆肺之經脈待取此以候五藏六府之氣非五藏六府所居之處也</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p276">
+          <seg xml:id="KR3er101_jc_004-d6.p276s1">張石頑曰靈樞經脈雖各有起止各有支別而實一氣相通故特藉手太陰一經之動脈以候五藏六府十二經之有餘不足其經雖屬於肺實皆胃氣所主蓋藏冊諸氣靡不本之於胃也觀五藏別論經脈別論營衛生會三假經文可以默識其微矣</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p278">
+          <seg xml:id="KR3er101_jc_004-d6.p278s1">李士材曰夫人之虛非氣即血脾為肺母肺為氣生之官故肺氣受傷者必求助於脾土也腎為肝母肝為藏血之地故肝血受傷者必藉資於腎水也補腎補脾法當並行然甘寒補腎恐妨胃氣辛溫扶脾恐耗腎水須辨緩急而為之施治或補腎而助以沈香砂仁或扶脾而雜以山藥五味機用不可不活也</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p280">
+          <seg xml:id="KR3er101_jc_004-d6.p280s1">古於醫曰三折肱曰九折臂甚哉醫道之難也海內方書奚啻汗牛充棟是非牴牾靡所適從而鹵莽子掠其淺膚輒輕試方往往不刃而殺人誠可惻然況小兒痘科更有難之又難者先外大父小珊吳公博學多材藝聚精軒岐嘗著醫學輯要一書發前賢之奧室指後學之迷津體症切而施藥當實為濟世之寶筏梓州方匯枝分轉會為刊布年久不知版之存毀叔兄默云氏藏有原本巳擬重付剞劂以廣流傳咸豐甲寅賊竄□江香亦遂矢余曩於燼餘撿拾輯要四卷雖間缺如復得他本補錄之又檢得方分轉重刊天花精言三卷惜非全豹惟大要已備每以活嬰應輒如響亟並梓行今於通州續獲精言完本乃知為烙陽袁大宣先生所編先外大父客分署時所校讎也鳴呼紅羊浩刧往籍灰飛此書輾轉全存殆天之留以保赤子歟爰取全本重校補刊又有武進莊在田先生著福幼遂生兩編伯兄怕駒氏會記述刊行以及羅浮陳飛霞先生幼幼集成皆保嬰良方合付手民裝成四冊卷帙不繁便於觀覽或可作救生之一助云爾</seg>
+        </p>
+<p xml:id="KR3er101_jc_004-d6p282">
+          <seg xml:id="KR3er101_jc_004-d6.p282s1">同治十三年甲戍猜和月鑑湖陳□季平氏跋</seg>
+        </p>
+</div>
+    </body>
+  </text>
+</TEI>

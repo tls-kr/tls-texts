@@ -1,0 +1,1105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KR3ed144">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>丹方之研究</title>
+        <author>日本· 岡西為人</author>
+      </titleStmt>
+      <extent>
+        <measure unit="char" quantity="379"/>
+        <date when-iso="2024-02-21T13:40:49.864+09:00"/>
+      </extent>
+      <publicationStmt>
+        <p>Originally published at <ref target="https://jicheng.tw/tcm/book/index.html">中醫笈成:丹方之研究</ref>. Checkout from https://gitlab.com/jicheng/jc.data, commit aab40201, 2022-12-28.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>出自《皇漢醫學叢書》第十一冊，1936年上海世界書局刊行（<ref target="https://taiwanebook.ncl.edu.tw/zh-tw/book/NTL-9900015282">國家圖書館掃描本</ref>）</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+      </creation>
+      <textClass>
+        <catRef scheme="#kr-categories" target="#KR3ed"/>
+      </textClass>
+    </profileDesc>
+    <encodingDesc>
+      <p>Quality: </p>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+
+<div n="h1" xml:id="KR3ed144_jc_000-d2">
+        <head n="h1" xml:id="KR3ed144_jc_000-d2h1">
+          <seg xml:id="KR3ed144_jc_000-d2.h1s1">一　例言</seg>
+        </head>
+        <p xml:id="KR3ed144_jc_000-d2p2">
+          <seg xml:id="KR3ed144_jc_000-d2.p2s1">一<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ed144_jc_000-d2.p2s2">滿洲醫科大學中國醫學研究室所藏之漢籍約一千六百餘種中<c n="。"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ed144_jc_000-d2.p2s3">本書仍選其記載丹方之醫書三百二十二種<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed144_jc_000-d2.p2s4">一一錄其丹方之名目<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed144_jc_000-d2.p2s5">有一方載於數書者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed144_jc_000-d2.p2s6">有數方載於一書者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed144_jc_000-d2.p2s7">按其方名之筆畫<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed144_jc_000-d2.p2s8">依辭典排列之式<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed144_jc_000-d2.p2s9">記其出處<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed144_jc_000-d2.p2s10">共得二千四百○五方<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed144_jc_000-d2p4">
+          <seg xml:id="KR3ed144_jc_000-d2.p4s1">一<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ed144_jc_000-d2.p4s2">本一覽本<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed144_jc_000-d2.p4s3">為便宜上<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed144_jc_000-d2.p4s4">專採其方名為本表之基礎<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed144_jc_000-d2p6">
+          <seg xml:id="KR3ed144_jc_000-d2.p6s1">一<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ed144_jc_000-d2.p6s2">排列處方之次序<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed144_jc_000-d2.p6s3">依辭典方式視其首字筆畫多少為定<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed144_jc_000-d2.p6s4">字畫少者置於前<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed144_jc_000-d2.p6s5">字畫多者列於後<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed144_jc_000-d2.p6s6">如逢首字相同時<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed144_jc_000-d2.p6s7">以其第二字之筆畫多寡而定之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed144_jc_000-d2p8">
+          <seg xml:id="KR3ed144_jc_000-d2.p8s1">一<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ed144_jc_000-d2.p8s2">本書一覽表之表格<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed144_jc_000-d2.p8s3">分為三欄<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed144_jc_000-d2.p8s4">第一欄乃處方番號<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed144_jc_000-d2.p8s5">第二欄乃處方名<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed144_jc_000-d2.p8s6">第三欄表其所出之處<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed144_jc_000-d2.p8s7">其下連之數字<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed144_jc_000-d2.p8s8">仍表明由同一書籍中收載丹方之番號<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed144_jc_000-d2p10">
+          <seg xml:id="KR3ed144_jc_000-d2.p10s1">一<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ed144_jc_000-d2.p10s2">引用書目之表格<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed144_jc_000-d2.p10s3">成為四欄<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed144_jc_000-d2.p10s4">第一欄乃醫書之番號<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed144_jc_000-d2.p10s5">第二欄書名<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed144_jc_000-d2.p10s6">第三欄乃引用書之<c n="「"/>中國醫學書目<c n="」"/>
+          </seg>
+          <seg xml:id="KR3ed144_jc_000-d2.p10s7">之分類番號<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed144_jc_000-d2.p10s8">第四欄乃由同書所取的丹方數<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed144_jc_000-d2.p10s9">
+            <c n="（"/>存仁按<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ed144_jc_000-d2.p10s10">第三欄因無關係故刪去<c n="。"/>
+            <c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed144_jc_000-d2p12">
+          <seg xml:id="KR3ed144_jc_000-d2.p12s1">一<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ed144_jc_000-d2.p12s2">本表中未備之處甚多<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed144_jc_000-d2.p12s3">對於活用上本擬連載卷數<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed144_jc_000-d2.p12s4">惟余近來毫無餘暇<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed144_jc_000-d2.p12s5">且余就一覽表觀之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed144_jc_000-d2.p12s6">亦未覺如何不便<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed144_jc_000-d2.p12s7">故此先付印<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed144_jc_000-d2.p12s8">後來如覺不滿<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed144_jc_000-d2.p12s9">將漸次改訂<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ed144_jc_000-d3">
+        <head n="h1" xml:id="KR3ed144_jc_000-d3h1">
+          <seg xml:id="KR3ed144_jc_000-d3.h1s1">二　引用書目</seg>
+        </head>
+        <figure>
+<figure>
+            <graphic data-orig-src="urn:270:03459.jpg" url="" rend="表1"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03460.jpg" url="" rend="表2"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03461.jpg" url="" rend="表3"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03462.jpg" url="" rend="表4"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03463.jpg" url="" rend="表5"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03464.jpg" url="" rend="表6"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03465.jpg" url="" rend="表7"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03466.jpg" url="" rend="表8"/>
+          </figure>
+</figure>
+
+</div>
+      <div n="h1" xml:id="KR3ed144_jc_000-d4">
+        <head n="h1" xml:id="KR3ed144_jc_000-d4h1">
+          <seg xml:id="KR3ed144_jc_000-d4.h1s1">三丹方一覽</seg>
+        </head>
+        <figure>
+<figure>
+            <graphic data-orig-src="urn:270:03279.jpg" url="" rend="表1"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03280.jpg" url="" rend="表2"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03281.jpg" url="" rend="表3"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03282.jpg" url="" rend="表4"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03283.jpg" url="" rend="表5"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03284.jpg" url="" rend="表6"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03285.jpg" url="" rend="表7"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03286.jpg" url="" rend="表8"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03287.jpg" url="" rend="表9"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03288.jpg" url="" rend="表10"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03289.jpg" url="" rend="表11"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03290.jpg" url="" rend="表12"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03291.jpg" url="" rend="表13"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03292.jpg" url="" rend="表14"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03293.jpg" url="" rend="表15"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03294.jpg" url="" rend="表16"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03295.jpg" url="" rend="表17"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03296.jpg" url="" rend="表18"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03297.jpg" url="" rend="表19"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03298.jpg" url="" rend="表20"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03299.jpg" url="" rend="表21"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03300.jpg" url="" rend="表22"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03301.jpg" url="" rend="表23"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03302.jpg" url="" rend="表24"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03303.jpg" url="" rend="表25"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03304.jpg" url="" rend="表26"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03305.jpg" url="" rend="表27"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03306.jpg" url="" rend="表28"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03307.jpg" url="" rend="表29"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03308.jpg" url="" rend="表30"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03309.jpg" url="" rend="表31"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03310.jpg" url="" rend="表32"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03311.jpg" url="" rend="表33"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03312.jpg" url="" rend="表34"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03313.jpg" url="" rend="表35"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03314.jpg" url="" rend="表36"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03315.jpg" url="" rend="表37"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03316.jpg" url="" rend="表38"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03317.jpg" url="" rend="表39"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03318.jpg" url="" rend="表40"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03319.jpg" url="" rend="表41"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03320.jpg" url="" rend="表42"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03321.jpg" url="" rend="表43"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03322.jpg" url="" rend="表44"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03323.jpg" url="" rend="表45"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03324.jpg" url="" rend="表46"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03325.jpg" url="" rend="表47"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03326.jpg" url="" rend="表48"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03327.jpg" url="" rend="表49"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03328.jpg" url="" rend="表50"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03329.jpg" url="" rend="表51"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03330.jpg" url="" rend="表52"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03331.jpg" url="" rend="表53"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03332.jpg" url="" rend="表54"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03333.jpg" url="" rend="表55"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03334.jpg" url="" rend="表56"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03335.jpg" url="" rend="表57"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03336.jpg" url="" rend="表58"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03337.jpg" url="" rend="表59"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03338.jpg" url="" rend="表60"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03339.jpg" url="" rend="表61"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03340.jpg" url="" rend="表62"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03341.jpg" url="" rend="表63"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03342.jpg" url="" rend="表64"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03343.jpg" url="" rend="表65"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03344.jpg" url="" rend="表66"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03345.jpg" url="" rend="表67"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03346.jpg" url="" rend="表68"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03347.jpg" url="" rend="表69"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03348.jpg" url="" rend="表70"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03349.jpg" url="" rend="表71"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03350.jpg" url="" rend="表72"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03351.jpg" url="" rend="表73"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03352.jpg" url="" rend="表74"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03353.jpg" url="" rend="表75"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03354.jpg" url="" rend="表76"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03355.jpg" url="" rend="表77"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03356.jpg" url="" rend="表78"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03357.jpg" url="" rend="表79"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03358.jpg" url="" rend="表80"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03359.jpg" url="" rend="表81"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03360.jpg" url="" rend="表82"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03361.jpg" url="" rend="表83"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03362.jpg" url="" rend="表84"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03363.jpg" url="" rend="表85"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03364.jpg" url="" rend="表86"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03365.jpg" url="" rend="表87"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03366.jpg" url="" rend="表88"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03367.jpg" url="" rend="表89"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03368.jpg" url="" rend="表90"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03369.jpg" url="" rend="表91"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03370.jpg" url="" rend="表92"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03371.jpg" url="" rend="表93"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03372.jpg" url="" rend="表94"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03373.jpg" url="" rend="表95"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03374.jpg" url="" rend="表96"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03375.jpg" url="" rend="表97"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03376.jpg" url="" rend="表98"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03377.jpg" url="" rend="表99"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03378.jpg" url="" rend="表100"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03379.jpg" url="" rend="表101"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03380.jpg" url="" rend="表102"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03381.jpg" url="" rend="表103"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03382.jpg" url="" rend="表104"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03383.jpg" url="" rend="表105"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03384.jpg" url="" rend="表106"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03385.jpg" url="" rend="表107"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03386.jpg" url="" rend="表108"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03387.jpg" url="" rend="表109"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03388.jpg" url="" rend="表110"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03389.jpg" url="" rend="表111"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03390.jpg" url="" rend="表112"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03391.jpg" url="" rend="表113"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03392.jpg" url="" rend="表114"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03393.jpg" url="" rend="表115"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03394.jpg" url="" rend="表116"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03395.jpg" url="" rend="表117"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03396.jpg" url="" rend="表118"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03397.jpg" url="" rend="表119"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03398.jpg" url="" rend="表120"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03399.jpg" url="" rend="表121"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03400.jpg" url="" rend="表122"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03401.jpg" url="" rend="表123"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03402.jpg" url="" rend="表124"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03403.jpg" url="" rend="表125"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03404.jpg" url="" rend="表126"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03405.jpg" url="" rend="表127"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03406.jpg" url="" rend="表128"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03407.jpg" url="" rend="表129"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03408.jpg" url="" rend="表130"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03409.jpg" url="" rend="表131"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03410.jpg" url="" rend="表132"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03411.jpg" url="" rend="表133"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03412.jpg" url="" rend="表134"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03413.jpg" url="" rend="表135"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03414.jpg" url="" rend="表136"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03415.jpg" url="" rend="表137"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03416.jpg" url="" rend="表138"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03417.jpg" url="" rend="表139"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03418.jpg" url="" rend="表140"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03419.jpg" url="" rend="表141"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03420.jpg" url="" rend="表142"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03421.jpg" url="" rend="表143"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03422.jpg" url="" rend="表144"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03423.jpg" url="" rend="表145"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03424.jpg" url="" rend="表146"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03425.jpg" url="" rend="表147"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03426.jpg" url="" rend="表148"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03427.jpg" url="" rend="表149"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03428.jpg" url="" rend="表150"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03429.jpg" url="" rend="表151"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03430.jpg" url="" rend="表152"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03431.jpg" url="" rend="表153"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03432.jpg" url="" rend="表154"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03433.jpg" url="" rend="表155"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03434.jpg" url="" rend="表156"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03435.jpg" url="" rend="表157"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03436.jpg" url="" rend="表158"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03437.jpg" url="" rend="表159"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03438.jpg" url="" rend="表160"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03439.jpg" url="" rend="表161"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03440.jpg" url="" rend="表162"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03441.jpg" url="" rend="表163"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03442.jpg" url="" rend="表164"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03443.jpg" url="" rend="表165"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03444.jpg" url="" rend="表166"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03445.jpg" url="" rend="表167"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03446.jpg" url="" rend="表168"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03447.jpg" url="" rend="表169"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03448.jpg" url="" rend="表170"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03449.jpg" url="" rend="表171"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03450.jpg" url="" rend="表172"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03451.jpg" url="" rend="表173"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03452.jpg" url="" rend="表174"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03453.jpg" url="" rend="表175"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03454.jpg" url="" rend="表176"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03455.jpg" url="" rend="表177"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03456.jpg" url="" rend="表178"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03457.jpg" url="" rend="表179"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:03458.jpg" url="" rend="表180"/>
+          </figure>
+</figure>
+      </div>
+    </body>
+  </text>
+</TEI>

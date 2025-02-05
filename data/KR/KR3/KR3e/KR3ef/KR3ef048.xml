@@ -1,0 +1,2549 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KR3ef048">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>傷寒鈐法</title>
+        <author>馬宗素</author>
+      </titleStmt>
+      <extent>
+        <measure unit="char" quantity="5378"/>
+        <date when-iso="2024-02-21T13:40:49.864+09:00"/>
+      </extent>
+      <publicationStmt>
+        <p>Originally published at <ref target="https://jicheng.tw/tcm/book/index.html">中醫笈成:傷寒鈐法</ref>. Checkout from https://gitlab.com/jicheng/jc.data, commit aab40201, 2022-12-28.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date notBefore="1327" notAfter="1327">元</date>公元1327年</creation>
+      <textClass>
+        <catRef scheme="#kr-categories" target="#KR3ef"/>
+        <catRef scheme="#tls-dates" target="#dat04310"/>
+      </textClass>
+    </profileDesc>
+    <encodingDesc>
+      <p>Quality: </p>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+
+<div n="h1" xml:id="KR3ef048_jc_000-d2">
+        <head n="h1" xml:id="KR3ef048_jc_000-d2h1">
+          <seg xml:id="KR3ef048_jc_000-d2.h1s1">五運歌</seg>
+        </head>
+        <p xml:id="KR3ef048_jc_000-d2p2">
+          <seg xml:id="KR3ef048_jc_000-d2.p2s1">甲己化土乙庚金<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d2.p2s2">丁壬木運盡成林<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d2.p2s3">丙辛水運分清濁<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d2.p2s4">戊癸南方火焰清<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d2p4">
+          <seg xml:id="KR3ef048_jc_000-d2.p4s1">注曰<c n="："/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d2.p4s2">此言五運之化也<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ef048_jc_000-d3">
+        <head n="h1" xml:id="KR3ef048_jc_000-d3h1">
+          <seg xml:id="KR3ef048_jc_000-d3.h1s1">納甲歌</seg>
+        </head>
+        <p xml:id="KR3ef048_jc_000-d3p2">
+          <seg xml:id="KR3ef048_jc_000-d3.p2s1">甲己還加甲<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d3.p2s2">乙庚丙作初<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d3.p2s3">丙辛生戊子<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d3.p2s4">丁壬庚子居<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d3.p2s5">戊癸生壬子<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d3.p2s6">逢龍是化途<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d3p4">
+          <seg xml:id="KR3ef048_jc_000-d3.p4s1">注曰<c n="："/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d3.p4s2">且如甲己順數到辰<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d3.p4s3">見戊辰<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d3.p4s4">是為化火<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d3.p4s5">乙庚到辰<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d3.p4s6">見庚辰<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d3.p4s7">是為化金也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d3.p4s8">其餘仿此而推之<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ef048_jc_000-d4">
+        <head n="h1" xml:id="KR3ef048_jc_000-d4h1">
+          <seg xml:id="KR3ef048_jc_000-d4.h1s1">六氣歌</seg>
+        </head>
+        <p xml:id="KR3ef048_jc_000-d4p2">
+          <seg xml:id="KR3ef048_jc_000-d4.p2s1">子午少陰君火天<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d4.p2s2">丑未太陰濕上連<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d4.p2s3">寅申少陽相火位<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d4.p2s4">卯酉陽明燥金邊<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d4.p2s5">辰戌太陽寒水是<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d4.p2s6">巳亥厥陰風木全<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d4p4">
+          <seg xml:id="KR3ef048_jc_000-d4.p4s1">注曰<c n="："/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d4.p4s2">此六氣之主也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d4.p4s3">子午屬火<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d4.p4s4">主曰心君<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d4.p4s5">丑未屬土<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d4.p4s6">脾主太陽<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d4.p4s7">少陽膽火<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d4.p4s8">乃是寅申<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d4.p4s9">陽明卯酉<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d4.p4s10">肺燥之金<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d4.p4s11">太陽辰戌<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d4.p4s12">寒水是臨<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d4.p4s13">巳為風木<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d4.p4s14">號曰厥陰<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d4.p4s15">識得鈐法<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d4.p4s16">勝萬兩金<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ef048_jc_000-d5">
+        <head n="h1" xml:id="KR3ef048_jc_000-d5h1">
+          <seg xml:id="KR3ef048_jc_000-d5.h1s1">主運歌</seg>
+        </head>
+        <p xml:id="KR3ef048_jc_000-d5p2">
+          <seg xml:id="KR3ef048_jc_000-d5.p2s1">初運逐年木主先<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d5.p2s2">二君三相火排連<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d5.p2s3">四季是土常為主<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d5.p2s4">五運金宮六水天<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ef048_jc_000-d6">
+        <head n="h1" xml:id="KR3ef048_jc_000-d6h1">
+          <seg xml:id="KR3ef048_jc_000-d6.h1s1">客運歌</seg>
+        </head>
+        <p xml:id="KR3ef048_jc_000-d6p2">
+          <seg xml:id="KR3ef048_jc_000-d6.p2s1">逐年支於是客鄉<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d6.p2s2">上臨實數下臨方<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d6.p2s3">初終六氣輪流數<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d6.p2s4">客主盛衰須見傷<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ef048_jc_000-d7">
+        <head n="h1" xml:id="KR3ef048_jc_000-d7h1">
+          <seg xml:id="KR3ef048_jc_000-d7.h1s1">十二支化歌</seg>
+        </head>
+        <p xml:id="KR3ef048_jc_000-d7p2">
+          <seg xml:id="KR3ef048_jc_000-d7.p2s1">寅巳化木<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d7.p2s2">卯醜化土<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d7.p2s3">子辰水國<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d7.p2s4">亥戌申午<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d7.p2s5">是為火宮<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d7.p2s6">未酉化金<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d7.p2s7">是曰氣六<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ef048_jc_000-d8">
+        <head n="h1" xml:id="KR3ef048_jc_000-d8h1">
+          <seg xml:id="KR3ef048_jc_000-d8.h1s1">精華錄云</seg>
+        </head>
+        <p xml:id="KR3ef048_jc_000-d8p2">
+          <seg xml:id="KR3ef048_jc_000-d8.p2s1">寅木卯土辰是水<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d8.p2s2">巳木午火未屬金<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d8.p2s3">申火酉金戌是火<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d8.p2s4">子水醜土合其真<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d8p4">
+          <seg xml:id="KR3ef048_jc_000-d8.p4s1">注曰<c n="："/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d8.p4s2">義見<c n="《"/>陰陽燭神經<c n="》"/>
+            <c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d8p6">
+          <seg xml:id="KR3ef048_jc_000-d8.p6s1">五運帝旺<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d8.p6s2">甲己未中<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d8.p6s3">乙庚酉上<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d8.p6s4">子壬丙辛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d8.p6s5">丁壬卯地<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d8.p6s6">戊癸午宮<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d8p8">
+          <seg xml:id="KR3ef048_jc_000-d8.p8s1">注曰<c n="："/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d8.p8s2">五運者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d8.p8s3">金木水火土是也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d8.p8s4">且如甲己化土<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d8.p8s5">土隨火生於卯<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d8.p8s6">旺於未也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d8.p8s7">乙庚化金<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d8.p8s8">金生巳土<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d8.p8s9">旺於酉是也<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ef048_jc_000-d9">
+        <head n="h1" xml:id="KR3ef048_jc_000-d9h1">
+          <seg xml:id="KR3ef048_jc_000-d9.h1s1">症分南北</seg>
+        </head>
+        <p xml:id="KR3ef048_jc_000-d9p2">
+          <seg xml:id="KR3ef048_jc_000-d9.p2s1">甲己年南北政有甲乙丙等干<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ef048_jc_000-d10">
+        <head n="h1" xml:id="KR3ef048_jc_000-d10h1">
+          <seg xml:id="KR3ef048_jc_000-d10.h1s1">鈐法詩云</seg>
+        </head>
+        <p xml:id="KR3ef048_jc_000-d10p2">
+          <seg xml:id="KR3ef048_jc_000-d10.p2s1">甲己之年面向南<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d10.p2s2">乙庚戊年正北方<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d10.p2s3">丙辛壬癸同歸北<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d10.p2s4">此是司天之陰陽<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ef048_jc_000-d11">
+        <head n="h1" xml:id="KR3ef048_jc_000-d11h1">
+          <seg xml:id="KR3ef048_jc_000-d11.h1s1">圖見精華指要</seg>
+        </head>
+        <p xml:id="KR3ef048_jc_000-d11p2">
+          <seg xml:id="KR3ef048_jc_000-d11.p2s1">精華運氣自古傳<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p2s2">等閒誰識就中玄<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p2s3">干璇天上陰陽柄<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p2s4">擅執人間生死權<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d11p4">
+          <seg xml:id="KR3ef048_jc_000-d11.p4s1">但向袖中分汗瘥<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p4s2">何須脈理辨鉤玄<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p4s3">醫門若得如斯法<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p4s4">萬兩黃金也不傳<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d11p6">
+          <seg xml:id="KR3ef048_jc_000-d11.p6s1">
+            <c n="〔"/>子<c n="〕"/>少陰地字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s2">
+            <c n="〔"/>子<c n="〕"/>少陰人字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s3">
+            <c n="〔"/>子<c n="〕"/>少陰地字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s4">
+            <c n="〔"/>子<c n="〕"/>少陰天字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s5">
+            <c n="〔"/>醜<c n="〕"/>太陰母字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s6">
+            <c n="〔"/>醜<c n="〕"/>太陰母字一號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s7">
+            <c n="〔"/>醜<c n="〕"/>太陰母字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s8">
+            <c n="〔"/>醜<c n="〕"/>太陰母字一號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s9">
+            <c n="〔"/>寅<c n="〕"/>少陽巳字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s10">
+            <c n="〔"/>寅<c n="〕"/>少陽巳字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s11">
+            <c n="〔"/>寅<c n="〕"/>少陽巳字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s12">
+            <c n="〔"/>寅<c n="〕"/>少陽巳字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s13">
+            <c n="〔"/>卯<c n="〕"/>陽明勞復號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s14">
+            <c n="〔"/>卯<c n="〕"/>陽明金字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s15">
+            <c n="〔"/>卯<c n="〕"/>陽明木字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s16">
+            <c n="〔"/>卯<c n="〕"/>陽明水字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s17">
+            <c n="〔"/>辰<c n="〕"/>中太陽祿字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s18">
+            <c n="〔"/>辰<c n="〕"/>中太陽貪字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s19">
+            <c n="〔"/>辰<c n="〕"/>中太陽祿字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s20">
+            <c n="〔"/>辰<c n="〕"/>下太陽離字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s21">
+            <c n="〔"/>甲巳<c n="〕"/>厥陰坤字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s22">
+            <c n="〔"/>巳<c n="〕"/>厥陰坤字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s23">
+            <c n="〔"/>酉巳<c n="〕"/>厥陰坤字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s24">
+            <c n="〔"/>巳<c n="〕"/>厥陰乾字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s25">
+            <c n="〔"/>午<c n="〕"/>少陰地字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s26">
+            <c n="〔"/>午<c n="〕"/>少陰人字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s27">
+            <c n="〔"/>午<c n="〕"/>少陰地字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s28">
+            <c n="〔"/>午<c n="〕"/>少陰天字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s29">
+            <c n="〔"/>未<c n="〕"/>太陰母字二號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s30">
+            <c n="〔"/>未<c n="〕"/>太陰母字二號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s31">
+            <c n="〔"/>未<c n="〕"/>太陰母字二號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s32">
+            <c n="〔"/>未<c n="〕"/>太陰母字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s33">
+            <c n="〔"/>申<c n="〕"/>少陽巳字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s34">
+            <c n="〔"/>申<c n="〕"/>少陽巳字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s35">
+            <c n="〔"/>申<c n="〕"/>少陽巳字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s36">
+            <c n="〔"/>申<c n="〕"/>少陽巳字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s37">
+            <c n="〔"/>酉<c n="〕"/>陽明勞復號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s38">
+            <c n="〔"/>酉<c n="〕"/>陽明金字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s39">
+            <c n="〔"/>酉<c n="〕"/>陽明木字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s40">
+            <c n="〔"/>酉<c n="〕"/>陽明水字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s41">
+            <c n="〔"/>戌<c n="〕"/>中太陽祿字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s42">
+            <c n="〔"/>戌<c n="〕"/>中太陽貪字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s43">
+            <c n="〔"/>戌<c n="〕"/>中太陽文字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s44">
+            <c n="〔"/>戌<c n="〕"/>下太陽離字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s45">
+            <c n="〔"/>亥<c n="〕"/>厥陰坤字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s46">
+            <c n="〔"/>亥<c n="〕"/>厥陰坤字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s47">
+            <c n="〔"/>亥<c n="〕"/>厥陰坤字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s48">
+            <c n="〔"/>亥<c n="〕"/>厥陰乾字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s49">
+            <c n="〔"/>子<c n="〕"/>少陰地字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s50">
+            <c n="〔"/>子<c n="〕"/>少陰人字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s51">
+            <c n="〔"/>子<c n="〕"/>少陰地字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s52">
+            <c n="〔"/>子<c n="〕"/>少陰人字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s53">
+            <c n="〔"/>醜<c n="〕"/>太陰母字三號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s54">
+            <c n="〔"/>醜<c n="〕"/>太陰母字二號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s55">
+            <c n="〔"/>醜<c n="〕"/>太陰母字三號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s56">
+            <c n="〔"/>醜<c n="〕"/>太陰母字一號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s57">
+            <c n="〔"/>寅<c n="〕"/>少陽巳字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s58">
+            <c n="〔"/>寅<c n="〕"/>少陽巳字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s59">
+            <c n="〔"/>寅<c n="〕"/>少陽巳字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s60">
+            <c n="〔"/>寅<c n="〕"/>少陽巳字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s61">
+            <c n="〔"/>卯<c n="〕"/>陽明少字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s62">
+            <c n="〔"/>卯<c n="〕"/>陽明土字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s63">
+            <c n="〔"/>卯<c n="〕"/>陽明土字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s64">
+            <c n="〔"/>卯<c n="〕"/>陽明火字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s65">
+            <c n="〔"/>辰<c n="〕"/>中太陽廉字暍症號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s66">
+            <c n="〔"/>辰<c n="〕"/>上太陽月字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s67">
+            <c n="〔"/>辰<c n="〕"/>中太陽武字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s68">
+            <c n="〔"/>辰<c n="〕"/>上太陽日字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s69">
+            <c n="〔"/>巳<c n="〕"/>厥陰乾字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s70">
+            <c n="〔"/>巳<c n="〕"/>厥陰坤字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s71">
+            <c n="〔"/>巳<c n="〕"/>厥陽乾字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s72">
+            <c n="〔"/>巳<c n="〕"/>厥陰乾字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s73">
+            <c n="〔"/>午<c n="〕"/>少陰地字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s74">
+            <c n="〔"/>午巳<c n="〕"/>少陰人字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s75">
+            <c n="〔"/>午亥<c n="〕"/>少陰地字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s76">
+            <c n="〔"/>午辰<c n="〕"/>少陰人字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s77">
+            <c n="〔"/>未<c n="〕"/>太陰母字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s78">
+            <c n="〔"/>未<c n="〕"/>太陰母字二號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s79">
+            <c n="〔"/>未<c n="〕"/>太陰母字三號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s80">
+            <c n="〔"/>未<c n="〕"/>太陰母字二號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s81">
+            <c n="〔"/>申<c n="〕"/>少陽巳字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s82">
+            <c n="〔"/>申<c n="〕"/>少陽巳字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s83">
+            <c n="〔"/>申<c n="〕"/>少陽巳字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s84">
+            <c n="〔"/>申<c n="〕"/>少陽巳字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s85">
+            <c n="〔"/>酉<c n="〕"/>陽明火字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s86">
+            <c n="〔"/>酉<c n="〕"/>陽明土字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s87">
+            <c n="〔"/>酉<c n="〕"/>陽明上字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s88">
+            <c n="〔"/>酉<c n="〕"/>陽明火字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s89">
+            <c n="〔"/>戌<c n="〕"/>中太陽暍症廉字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s90">
+            <c n="〔"/>戌<c n="〕"/>上太陽月字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s91">
+            <c n="〔"/>戌<c n="〕"/>中太陽武字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s92">
+            <c n="〔"/>戌<c n="〕"/>上太陽巳字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s93">
+            <c n="〔"/>亥<c n="〕"/>厥陰坤字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s94">
+            <c n="〔"/>亥<c n="〕"/>厥陰坤字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s95">
+            <c n="〔"/>亥<c n="〕"/>厥陰乾字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s96">
+            <c n="〔"/>亥<c n="〕"/>厥陰乾字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s97">
+            <c n="〔"/>子<c n="〕"/>少陰人字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s98">
+            <c n="〔"/>子<c n="〕"/>少陰天字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s99">
+            <c n="〔"/>子<c n="〕"/>少陰天字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s100">
+            <c n="〔"/>子<c n="〕"/>少陰天字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s101">
+            <c n="〔"/>醜<c n="〕"/>太陰母字二號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s102">
+            <c n="〔"/>醜<c n="〕"/>太陰母字一號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s103">
+            <c n="〔"/>醜<c n="〕"/>太陰母字三號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s104">
+            <c n="〔"/>醜<c n="〕"/>太陰母字一號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s105">
+            <c n="〔"/>寅<c n="〕"/>少陽巳字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s106">
+            <c n="〔"/>寅<c n="〕"/>少陽巳字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s107">
+            <c n="〔"/>寅<c n="〕"/>少陽巳字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s108">
+            <c n="〔"/>寅<c n="〕"/>少陽巳字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s109">
+            <c n="〔"/>卯<c n="〕"/>陽明水字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s110">
+            <c n="〔"/>卯<c n="〕"/>陽明火字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s111">
+            <c n="〔"/>卯<c n="〕"/>陽明金字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s112">
+            <c n="〔"/>卯<c n="〕"/>陽明霍亂<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s113">
+            <c n="〔"/>辰<c n="〕"/>中太陽貪字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s114">
+            <c n="〔"/>辰<c n="〕"/>下太陽日字痓症<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s115">
+            <c n="〔"/>辰<c n="〕"/>中太陽破字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s116">
+            <c n="〔"/>辰<c n="〕"/>下太陽兌字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s117">
+            <c n="〔"/>巳<c n="〕"/>厥陰坤字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s118">
+            <c n="〔"/>巳<c n="〕"/>厥陰乾字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s119">
+            <c n="〔"/>巳<c n="〕"/>厥陰坤字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s120">
+            <c n="〔"/>巳<c n="〕"/>厥陰乾字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s121">
+            <c n="〔"/>午未<c n="〕"/>少陰人字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s122">
+            <c n="〔"/>午<c n="〕"/>少陰人字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s123">
+            <c n="〔"/>午子<c n="〕"/>少陰天字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s124">
+            <c n="〔"/>午<c n="〕"/>少陰天字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s125">
+            <c n="〔"/>未<c n="〕"/>太陰母字二號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s126">
+            <c n="〔"/>未<c n="〕"/>太陰母字二號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s127">
+            <c n="〔"/>未<c n="〕"/>太陰母字三號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s128">
+            <c n="〔"/>未<c n="〕"/>太陰母字一號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s129">
+            <c n="〔"/>申<c n="〕"/>少陽巳字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s130">
+            <c n="〔"/>申<c n="〕"/>少陽巳字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s131">
+            <c n="〔"/>申<c n="〕"/>少陽巳字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s132">
+            <c n="〔"/>申<c n="〕"/>少陽巳字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s133">
+            <c n="〔"/>酉<c n="〕"/>陽明水字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s134">
+            <c n="〔"/>酉<c n="〕"/>陽明火字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s135">
+            <c n="〔"/>酉<c n="〕"/>陽明金字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s136">
+            <c n="〔"/>酉<c n="〕"/>陽明霍亂<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s137">
+            <c n="〔"/>戌<c n="〕"/>中太陽巨字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s138">
+            <c n="〔"/>戌<c n="〕"/>上太陽日字濕症<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s139">
+            <c n="〔"/>戌<c n="〕"/>下太陽震字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s140">
+            <c n="〔"/>戌<c n="〕"/>下太陽離字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s141">
+            <c n="〔"/>亥<c n="〕"/>厥陰坤字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s142">
+            <c n="〔"/>亥<c n="〕"/>厥陰乾字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s143">
+            <c n="〔"/>亥<c n="〕"/>厥陰乾字號<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d11.p6s144">
+            <c n="〔"/>亥<c n="〕"/>厥陰乾字號</seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ef048_jc_000-d12">
+        <head n="h1" xml:id="KR3ef048_jc_000-d12h1">
+          <seg xml:id="KR3ef048_jc_000-d12.h1s1">歸號用藥歌</seg>
+        </head>
+        <p xml:id="KR3ef048_jc_000-d12p2">
+          <seg xml:id="KR3ef048_jc_000-d12.p2s1">若論某病某號某藥上太陽症辰日巳月</seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d12p4">
+          <seg xml:id="KR3ef048_jc_000-d12.p4s1">注曰<c n="："/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d12.p4s2">上太陽十六症<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d12.p4s3">用日月二字為號也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d12.p4s4">辰宮見辰戌為日字號<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d12.p4s5">管其症有十<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d12.p4s6">巳上見辰戌為月字號<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d12.p4s7">管其症有六<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d12p6">
+          <seg xml:id="KR3ef048_jc_000-d12.p6s1">假如戊申生人<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d12.p6s2">乙巳日得病<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d12.p6s3">巳屬陰支<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d12.p6s4">前進五辰到酉<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d12.p6s5">卻將戊甲二字<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d12.p6s6">順數到巳<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d12.p6s7">見丙辰<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d12.p6s8">即上太陽<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d12.p6s9">用月字號下第三症<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d12.p6s10">白虎湯內加人參主之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d12p8">
+          <seg xml:id="KR3ef048_jc_000-d12.p8s1">假如壬子生人<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d12.p8s2">丙辰日得病<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d12.p8s3">辰屬陽支<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d12.p8s4">進三辰到午<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d12.p8s5">卻將壬子二字順行到辰<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d12.p8s6">見壬戌<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d12.p8s7">即上太陽<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d12.p8s8">日字號下第九症<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d12.p8s9">桂枝湯加附子除芍藥主之<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ef048_jc_000-d13">
+        <head n="h1" xml:id="KR3ef048_jc_000-d13h1">
+          <seg xml:id="KR3ef048_jc_000-d13.h1s1">上太陽症指掌圖日月號十六症</seg>
+        </head>
+      </div>
+      <div n="h1" xml:id="KR3ef048_jc_000-d14">
+        <head n="h1" xml:id="KR3ef048_jc_000-d14h1">
+          <seg xml:id="KR3ef048_jc_000-d14.h1s1">日字號十症</seg>
+        </head>
+        <p xml:id="KR3ef048_jc_000-d14p2">
+          <seg xml:id="KR3ef048_jc_000-d14.p2s1">甲<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d14.p2s2">陰浮陰弱熱虛惶<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d14.p2s3">陰弱陽浮汗出洋<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d14p4">
+          <seg xml:id="KR3ef048_jc_000-d14.p4s1">嗇嗇惡寒翕翕熱<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d14.p4s2">鼻鳴乾嘔桂枝湯<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d14p6">
+          <seg xml:id="KR3ef048_jc_000-d14.p6s1">乙<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d14.p6s2">太陽頭痛熱而隆<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d14.p6s3">汗出之時又惡風<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d14p8">
+          <seg xml:id="KR3ef048_jc_000-d14.p8s1">榮氣猶虛於衛氣<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d14.p8s2">桂枝湯下可宜攻<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d14p10">
+          <seg xml:id="KR3ef048_jc_000-d14.p10s1">丙<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d14.p10s2">太陽為病項背強<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d14.p10s3">汗出滋滋反惡寒<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d14p12">
+          <seg xml:id="KR3ef048_jc_000-d14.p12s1">桂枝葛根湯可主<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d14.p12s2">麻黃不餌豈良方<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d14p14">
+          <seg xml:id="KR3ef048_jc_000-d14.p14s1">丁<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d14.p14s2">太陽頭痛病當攻<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d14.p14s3">下後其人氣上衝<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d14p16">
+          <seg xml:id="KR3ef048_jc_000-d14.p16s1">可與桂枝湯療治<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d14.p16s2">更宜消息樂而通<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d14p18">
+          <seg xml:id="KR3ef048_jc_000-d14.p18s1">戊<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d14.p18s2">太陽三日已發汗<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d14.p18s3">若吐若下若溫針<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d14p20">
+          <seg xml:id="KR3ef048_jc_000-d14.p20s1">不解相將成壞症<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d14.p20s2">桂枝不可毋思尋<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d14p22">
+          <seg xml:id="KR3ef048_jc_000-d14.p22s1">己<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d14.p22s2">桂枝本為解肌藥<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d14.p22s3">酒客不喜桂枝湯<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d14p24">
+          <seg xml:id="KR3ef048_jc_000-d14.p24s1">喘家卻加樸香子<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d14.p24s2">吐者服之膿血傷<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d14p26">
+          <seg xml:id="KR3ef048_jc_000-d14.p26s1">庚<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d14.p26s2">發汗惡風漏不幹<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d14.p26s3">小便秘澀屈伸難<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d14p28">
+          <seg xml:id="KR3ef048_jc_000-d14.p28s1">桂枝附子湯煎療<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d14.p28s2">陽復經溫病即安<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d14p30">
+          <seg xml:id="KR3ef048_jc_000-d14.p30s1">辛<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d14.p30s2">下之脈促滿胸間<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d14.p30s3">煎與桂枝去芍餐<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d14p32">
+          <seg xml:id="KR3ef048_jc_000-d14.p32s1">症在太陽當解表<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d14.p32s2">邪因散去始能痊<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d14p34">
+          <seg xml:id="KR3ef048_jc_000-d14.p34s1">壬<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d14.p34s2">太陽脈促客邪干<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d14.p34s3">下早須知少惡寒<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d14p36">
+          <seg xml:id="KR3ef048_jc_000-d14.p36s1">桂枝湯內除芍藥<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d14.p36s2">卻加附子病當寬<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d14p38">
+          <seg xml:id="KR3ef048_jc_000-d14.p38s1">癸<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d14.p38s2">寒熱如虛見脈微<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d14.p38s3">惡寒吐汗下皆非<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d14p40">
+          <seg xml:id="KR3ef048_jc_000-d14.p40s1">無汗有熱渾身痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d14.p40s2">桂枝各半正相宜<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d14p42">
+          <seg xml:id="KR3ef048_jc_000-d14.p42s1">甲<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d14.p42s2">先服桂枝煩不解<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d14.p42s3">風池風府刺而安<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d14p44">
+          <seg xml:id="KR3ef048_jc_000-d14.p44s1">太陽經病風邪泄<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d14.p44s2">再與桂枝立見安<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d14p46">
+          <seg xml:id="KR3ef048_jc_000-d14.p46s1">乙<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d14.p46s2">桂枝已汗脈浮洪<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d14.p46s3">不解如前形似瘧<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d14p48">
+          <seg xml:id="KR3ef048_jc_000-d14.p48s1">桂枝湯二一麻黃<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d14.p48s2">解散寒邪良不錯<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d14p50">
+          <seg xml:id="KR3ef048_jc_000-d14.p50s1">丙<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d14.p50s2">桂枝汗沒再尋思<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d14.p50s3">大渴煩時病未除<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d14p52">
+          <seg xml:id="KR3ef048_jc_000-d14.p52s1">表熱寒邪洪大脈<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d14.p52s2">人參白虎病加祛<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d14p54">
+          <seg xml:id="KR3ef048_jc_000-d14.p54s1">丁<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d14.p54s2">熱多寒少脈弱微<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d14.p54s3">發熱惡寒應有之<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d14p56">
+          <seg xml:id="KR3ef048_jc_000-d14.p56s1">此症先陽何可汗<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d14.p56s2">桂枝越婢一湯宜<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d14p58">
+          <seg xml:id="KR3ef048_jc_000-d14.p58s1">戊<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d14.p58s2">下之頭項仍猶痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d14.p58s3">發熱便難汗又無<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d14p60">
+          <seg xml:id="KR3ef048_jc_000-d14.p60s1">桂枝去桂加苓朮<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d14.p60s2">小便若利病當除<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d14p62">
+          <seg xml:id="KR3ef048_jc_000-d14.p62s1">己<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d14.p62s2">脈浮自汗小便多<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d14.p62s3">筋急惡寒厥奈何<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d14p64">
+          <seg xml:id="KR3ef048_jc_000-d14.p64s1">煩躁咽乾並嘔逆<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d14.p64s2">乾薑甘草劑湯和<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d14p66">
+          <seg xml:id="KR3ef048_jc_000-d14.p66s1">庚<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d14.p66s2">厥愈足溫伸足脛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d14.p66s3">芍藥甘草可調和<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d14p68">
+          <seg xml:id="KR3ef048_jc_000-d14.p68s1">胃氣不和何以治<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d14.p68s2">承氣調胃不為訛<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d14p70">
+          <seg xml:id="KR3ef048_jc_000-d14.p70s1">辛<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d14.p70s2">里汗表熱浮遲脈<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d14.p70s3">發汗燒針同大過<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d14p72">
+          <seg xml:id="KR3ef048_jc_000-d14.p72s1">因而下利清穀者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d14.p72s2">四逆之功唱凱歌<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ef048_jc_000-d15">
+        <head n="h1" xml:id="KR3ef048_jc_000-d15h1">
+          <seg xml:id="KR3ef048_jc_000-d15.h1s1">中太陽症歌六十六症</seg>
+        </head>
+        <p xml:id="KR3ef048_jc_000-d15p2">
+          <seg xml:id="KR3ef048_jc_000-d15.p2s1">中太陽症<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d15.p2s2">貪午巨未<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d15.p2s3">祿申文酉<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d15.p2s4">廉居戌地<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d15.p2s5">武亥破子<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d15.p2s6">破只六位<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d15p4">
+          <seg xml:id="KR3ef048_jc_000-d15.p4s1">注曰<c n="："/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d15.p4s2">中太陽六十六症<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d15.p4s3">以七星為號也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d15.p4s4">其法從午至子<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d15.p4s5">每星管十症<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d15.p4s6">獨破軍六症<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d15p6">
+          <seg xml:id="KR3ef048_jc_000-d15.p6s1">假如戊子生人<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d15.p6s2">壬戌日得病<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d15.p6s3">戌為火<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d15.p6s4">支進三辰到子<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d15.p6s5">卻將本命戊子順行<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d15.p6s6">到戌見戊戌<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d15.p6s7">即中太陽膀胱經<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d15.p6s8">受症廉子號第五症<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d15.p6s9">四逆湯主之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d15.p6s10">其餘一例推之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d15p8">
+          <seg xml:id="KR3ef048_jc_000-d15.p8s1">
+            <c n="〔"/>申<c n="〕"/>祿<c n="〔"/>酉<c n="〕"/>文<c n="〔"/>戌<c n="〕"/>廉<c n="〔"/>亥<c n="〕"/>武</seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d15p10">
+          <seg xml:id="KR3ef048_jc_000-d15.p10s1">
+            <c n="〔"/>未<c n="〕"/>巨<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d15.p10s2">
+            <c n="〔"/>子<c n="〕"/>破六</seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d15p12">
+          <seg xml:id="KR3ef048_jc_000-d15.p12s1">
+            <c n="〔"/>午<c n="〕"/>貪<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d15.p12s2">
+            <c n="〔"/>醜<c n="〕"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d15p14">
+          <seg xml:id="KR3ef048_jc_000-d15.p14s1">
+            <c n="〔"/>巳<c n="〕"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d15.p14s2">
+            <c n="〔"/>辰<c n="〕"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d15.p14s3">
+            <c n="〔"/>卯<c n="〕"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d15.p14s4">
+            <c n="〔"/>寅<c n="〕"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d15p16">
+          <seg xml:id="KR3ef048_jc_000-d15.p16s1">中太陽指掌圖<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d15.p16s2">六十六症<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d15.p16s3">貪字為號<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d15.p16s4">詩病症治<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d15.p16s5">俱在運氣內看<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ef048_jc_000-d16">
+        <head n="h1" xml:id="KR3ef048_jc_000-d16h1">
+          <seg xml:id="KR3ef048_jc_000-d16.h1s1">下太陽歌三十九症</seg>
+        </head>
+        <p xml:id="KR3ef048_jc_000-d16p2">
+          <seg xml:id="KR3ef048_jc_000-d16.p2s1">下太陽症<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d16.p2s2">震子離醜<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d16.p2s3">兌寅坎卯<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d16.p2s4">四號實有<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d16p4">
+          <seg xml:id="KR3ef048_jc_000-d16.p4s1">注曰<c n="："/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d16.p4s2">下太陽三十九症<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d16.p4s3">以四卦為號<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d16.p4s4">卯上屬坎號<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d16.p4s5">寅上屬兌號<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d16.p4s6">醜上屬離號<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d16.p4s7">子上屬震號<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d16.p4s8">或問云<c n="："/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d16.p4s9">中太陽子上有破字號<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d16.p4s10">如何下太陽又有震字號<c n="？"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d16.p4s11">答曰<c n="："/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d16.p4s12">子上見辰<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d16.p4s13">便是中太陽破字號<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d16.p4s14">管見戌字<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d16.p4s15">便是下太陽震字號管也<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d16p6">
+          <seg xml:id="KR3ef048_jc_000-d16.p6s1">假如丙寅生人<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d16.p6s2">癸丑日得病<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d16.p6s3">醜屬陰支<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d16.p6s4">前進五辰到巳<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d16.p6s5">卻將丙寅二字<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d16.p6s6">順行到司天<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d16.p6s7">見甲戌即太陽<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d16.p6s8">小腸經受症<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d16.p6s9">離字號第一症<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d16.p6s10">小柴胡湯主之<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ef048_jc_000-d17">
+        <head n="h1" xml:id="KR3ef048_jc_000-d17h1">
+          <seg xml:id="KR3ef048_jc_000-d17.h1s1">陽明症歌四十四症</seg>
+        </head>
+        <p xml:id="KR3ef048_jc_000-d17p2">
+          <seg xml:id="KR3ef048_jc_000-d17.p2s1">陽明症號<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d17.p2s2">木火土金<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d17.p2s3">第五屬水<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d17.p2s4">從卯酉行<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d17p4">
+          <seg xml:id="KR3ef048_jc_000-d17.p4s1">注曰<c n="："/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d17.p4s2">陽明以木火土金為號<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d17.p4s3">卯酉木字號<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d17.p4s4">辰戌火字號<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d17.p4s5">巳亥土字號<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d17.p4s6">子午金子號<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d17.p4s7">丑未水字號是矣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d17.p4s8">皆四十症<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d17.p4s9">獨水字只有四症<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d17.p4s10">又有寅申二字在外<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d17.p4s11">寅為霍亂六症<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d17.p4s12">申為勞復六症是也<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d17p6">
+          <seg xml:id="KR3ef048_jc_000-d17.p6s1">假如丁未生人<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d17.p6s2">辛酉日得病<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d17.p6s3">酉為陰支<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d17.p6s4">進五辰到醜<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d17.p6s5">順行到司天酉上<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d17.p6s6">見乙卯即陽明第二症乙字號<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d17.p6s7">下大承氣湯主之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d17.p6s8">其餘一例推之<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ef048_jc_000-d18">
+        <head n="h1" xml:id="KR3ef048_jc_000-d18h1">
+          <seg xml:id="KR3ef048_jc_000-d18.h1s1">少陽症歌紀字號一症寅申</seg>
+        </head>
+        <p xml:id="KR3ef048_jc_000-d18p2">
+          <seg xml:id="KR3ef048_jc_000-d18.p2s1">少陽一症<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d18.p2s2">紀字為號<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d18.p2s3">柴胡所主<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d18.p2s4">更無別敖<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d18p4">
+          <seg xml:id="KR3ef048_jc_000-d18.p4s1">假令丙子日生人<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d18.p4s2">丁丑日得病<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d18.p4s3">醜為陰支<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d18.p4s4">前進五辰到巳<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d18.p4s5">卻將丙子二字<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d18.p4s6">順數到醜上<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d18.p4s7">見甲申<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d18.p4s8">即少陽紀字號第一症也<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ef048_jc_000-d19">
+        <head n="h1" xml:id="KR3ef048_jc_000-d19h1">
+          <seg xml:id="KR3ef048_jc_000-d19.h1s1">太陰三症母字三號</seg>
+        </head>
+        <p xml:id="KR3ef048_jc_000-d19p2">
+          <seg xml:id="KR3ef048_jc_000-d19.p2s1">太陰之症<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d19.p2s2">母字三號<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d19.p2s3">從醜至辰<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d19.p2s4">乃第一道<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d19.p2s5">巳午未甲<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d19.p2s6">第二症要<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d19.p2s7">酉戌亥子<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d19.p2s8">為三症號<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d19p4">
+          <seg xml:id="KR3ef048_jc_000-d19.p4s1">注曰<c n="："/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d19.p4s2">太陰痘有三<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d19.p4s3">皆用母字為號<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d19.p4s4">醜寅卯辰四處<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d19.p4s5">母字第三管也<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d19p6">
+          <seg xml:id="KR3ef048_jc_000-d19.p6s1">假如丁亥生人<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d19.p6s2">巳卯日得病<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d19.p6s3">卯屬陰支<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d19.p6s4">前進五辰到未<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d19.p6s5">便將丁亥二字<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d19.p6s6">順數到卯<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d19.p6s7">見乙未<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d19.p6s8">未屬太陰脾經受患<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d19.p6s9">卯字上即母字號第二症也<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d19.p6s10">四逆湯主之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d19.p6s11">其餘仿此推之<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ef048_jc_000-d20">
+        <head n="h1" xml:id="KR3ef048_jc_000-d20h1">
+          <seg xml:id="KR3ef048_jc_000-d20.h1s1">少陰之症天地人號歌二十三症從子至卯</seg>
+        </head>
+        <p xml:id="KR3ef048_jc_000-d20p2">
+          <seg xml:id="KR3ef048_jc_000-d20.p2s1">少陰之症<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d20.p2s2">號天地人<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d20p4">
+          <seg xml:id="KR3ef048_jc_000-d20.p4s1">號曰天星<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d20.p4s2">自辰到未<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d20.p4s3">乃號曰人<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d20.p4s4">申酉戌亥<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d20.p4s5">地字號而論<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d20p6">
+          <seg xml:id="KR3ef048_jc_000-d20.p6s1">注曰<c n="："/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d20.p6s2">少陰二十三症<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d20.p6s3">用天地人三字為號<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d20.p6s4">子醜寅卯十症為天字號<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d20.p6s5">辰巳午未十症為人字號<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d20.p6s6">申酉戌亥三症為地字號<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d20p8">
+          <seg xml:id="KR3ef048_jc_000-d20.p8s1">假如甲辰生人<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d20.p8s2">乙丑日得病<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d20.p8s3">乙屬陰支<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d20.p8s4">前進五辰到巳<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d20.p8s5">卻將甲辰二字<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d20.p8s6">順數到醜<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d20.p8s7">見壬子<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d20.p8s8">即少陰腎經受患<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d20.p8s9">醜上屬天字號管<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d20.p8s10">即天字號第九症<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d20.p8s11">其病主上下不利<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d20.p8s12">咽痛心煩<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d20.p8s13">豬膚湯主之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d20.p8s14">其餘一例而推之<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ef048_jc_000-d21">
+        <head n="h1" xml:id="KR3ef048_jc_000-d21h1">
+          <seg xml:id="KR3ef048_jc_000-d21.h1s1">厥陰症歌十九症乾坤為號</seg>
+        </head>
+        <p xml:id="KR3ef048_jc_000-d21p2">
+          <seg xml:id="KR3ef048_jc_000-d21.p2s1">厥陰十九症<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d21.p2s2">用乾坤二卦為號<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d21.p2s3">各有所分<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d21.p2s4">從巳到戌<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d21.p2s5">乃號為坤<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d21.p2s6">自亥到辰<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d21.p2s7">乾之所因<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d21p4">
+          <seg xml:id="KR3ef048_jc_000-d21.p4s1">注曰<c n="："/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d21.p4s2">厥陰十九症<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d21.p4s3">用乾坤二卦為號<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d21.p4s4">每字管十症<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d21p6">
+          <seg xml:id="KR3ef048_jc_000-d21.p6s1">假如巳卯生人<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d21.p6s2">丁未日得病<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d21.p6s3">未為陰支<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d21.p6s4">前進五辰到亥<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d21.p6s5">卻將巳卯二字<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d21.p6s6">順數到未<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d21.p6s7">見丁亥<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d21.p6s8">即厥陰肝經受患<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d21.p6s9">坤字號第四症<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d21.p6s10">白頭翁湯主之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d21.p6s11">余仿此<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ef048_jc_000-d22">
+        <head n="h1" xml:id="KR3ef048_jc_000-d22h1">
+          <seg xml:id="KR3ef048_jc_000-d22.h1s1">霍亂勞復症歌共十二症</seg>
+        </head>
+        <p xml:id="KR3ef048_jc_000-d22p2">
+          <seg xml:id="KR3ef048_jc_000-d22.p2s1">霍亂勞復<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d22.p2s2">只在陽明<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d22.p2s3">寅為霍亂<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d22.p2s4">勞復居申<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d22p4">
+          <seg xml:id="KR3ef048_jc_000-d22.p4s1">注曰<c n="："/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d22.p4s2">霍六亂六<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d22.p4s3">共十二症<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d22.p4s4">俱在陽明症內管也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d22.p4s5">寅申二日受症是也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d22.p4s6">若寅日得病<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d22.p4s7">便是霍亂<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d22.p4s8">申日受病<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d22.p4s9">便是勞復<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d22.p4s10">寅上見申至未<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d22.p4s11">為勞復六症<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d22.p4s12">申上見醜<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d22.p4s13">為霍亂六症也<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d22p6">
+          <seg xml:id="KR3ef048_jc_000-d22.p6s1">假如乙巳生人<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d22.p6s2">戊寅日得病<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d22.p6s3">寅為陽支<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d22.p6s4">進三辰見辰<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d22.p6s5">卻將乙巳順行到寅<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d22.p6s6">見乙卯<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d22.p6s7">即霍亂第二症也<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d22.p6s8">理中湯主之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d22p8">
+          <seg xml:id="KR3ef048_jc_000-d22.p8s1">假如乙亥生人<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d22.p8s2">丙申日得病<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d22.p8s3">申為陽支<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d22.p8s4">進三辰到戌<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d22.p8s5">卻將乙亥順行到申<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d22.p8s6">見乙酉<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d22.p8s7">即勞復第二症<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d22.p8s8">用枳實梔子豉湯等藥主治之<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ef048_jc_000-d23">
+        <head n="h1" xml:id="KR3ef048_jc_000-d23h1">
+          <seg xml:id="KR3ef048_jc_000-d23.h1s1">痓濕暍症歌共十四症（痓五濕六暍二）</seg>
+        </head>
+        <p xml:id="KR3ef048_jc_000-d23p2">
+          <seg xml:id="KR3ef048_jc_000-d23.p2s1">痓濕與暍<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d23.p2s2">卯戌兩分<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d23.p2s3">卯為痓濕<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d23.p2s4">戌為暍症<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d23.p2s5">皆在太陽<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d23.p2s6">共十四症<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d23p4">
+          <seg xml:id="KR3ef048_jc_000-d23.p4s1">注曰<c n="："/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d23.p4s2">痓五症<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d23.p4s3">卯上見辰<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d23.p4s4">為太陽症也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d23.p4s5">從辰至申<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d23.p4s6">便是痓五症<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d23.p4s7">卯上見戌<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d23.p4s8">為太陽濕症也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d23.p4s9">從卯至酉<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d23.p4s10">便是濕六症<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d23.p4s11">暍有三症<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d23.p4s12">戌上見庚辛壬三字<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d23.p4s13">便是太陽暍三症也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d23.p4s14">症見庚一辛二壬三是也<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d23p6">
+          <seg xml:id="KR3ef048_jc_000-d23.p6s1">假如丙申生人<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d23.p6s2">乙卯日得病<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d23.p6s3">卯屬陰支<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d23.p6s4">前進五辰到未<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d23.p6s5">卻將丙申二字順數到卯<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d23.p6s6">見甲辰<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d23.p6s7">系是太陽痓症第一症也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d23.p6s8">其病發熱惡寒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d23.p6s9">桂枝湯主之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d23p8">
+          <seg xml:id="KR3ef048_jc_000-d23.p8s1">假如丙寅生人<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d23.p8s2">乙卯日得病<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d23.p8s3">卯屬陰支<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d23.p8s4">前進五辰到未<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d23.p8s5">卻將丙寅二字<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d23.p8s6">順數到卯<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d23.p8s7">見甲戌<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d23.p8s8">即太陰濕症第一症也<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d23.p8s9">五苓散主之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d23.p8s10">余仿此<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d23p10">
+          <seg xml:id="KR3ef048_jc_000-d23.p10s1">假如庚午生人<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d23.p10s2">戊戌日得病<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d23.p10s3">戌屬火支<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d23.p10s4">前進三辰到子<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d23.p10s5">卻將庚午二字<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d23.p10s6">順數到戌<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d23.p10s7">見庚辰<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d23.p10s8">即太陽暍症第七病也<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d23.p10s9">白虎湯主之<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ef048_jc_000-d24">
+        <head n="h1" xml:id="KR3ef048_jc_000-d24h1">
+          <seg xml:id="KR3ef048_jc_000-d24.h1s1">論司天歌</seg>
+        </head>
+        <p xml:id="KR3ef048_jc_000-d24p2">
+          <seg xml:id="KR3ef048_jc_000-d24.p2s1">得病之日<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d24.p2s2">是名司天<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d24.p2s3">不拘男女<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d24.p2s4">都是順遷<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d24p4">
+          <seg xml:id="KR3ef048_jc_000-d24.p4s1">假如正月卯日得病<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d24.p4s2">就以卯上為司天<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d24.p4s3">卯屬陰支<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d24.p4s4">前進五辰到未<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d24.p4s5">為在泉<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d24.p4s6">申為左間氣<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d24.p4s7">午為右間氣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d24.p4s8">申與午二字夾未為司人<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d24.p4s9">申為左間氣<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d24.p4s10">午為右間氣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d24.p4s11">卻又將本命干支<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d24.p4s12">從左間氣司人處<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d24.p4s13">數到司天上是也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d24.p4s14">余皆仿此<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d24.p4s15">如遇陽支<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d24.p4s16">則加三辰起例<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d24p6">
+          <seg xml:id="KR3ef048_jc_000-d24.p6s1">與支一同<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ef048_jc_000-d25">
+        <head n="h1" xml:id="KR3ef048_jc_000-d25h1">
+          <seg xml:id="KR3ef048_jc_000-d25.h1s1">陰陰支起數歌</seg>
+        </head>
+        <p xml:id="KR3ef048_jc_000-d25p2">
+          <seg xml:id="KR3ef048_jc_000-d25.p2s1">陽支加三<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d25.p2s2">陰支加五<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d25.p2s3">卻將本命<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d25.p2s4">順行而數<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d25p4">
+          <seg xml:id="KR3ef048_jc_000-d25.p4s1">子寅辰午申戌屬陽<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d25.p4s2">醜卯巳未酉亥屬陰<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d25.p4s3">凡逢陽支加三辰<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d25.p4s4">逢陰支加五辰<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d25.p4s5">加臨之例也見前<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ef048_jc_000-d26">
+        <head n="h1" xml:id="KR3ef048_jc_000-d26h1">
+          <seg xml:id="KR3ef048_jc_000-d26.h1s1">論兩感症歌</seg>
+        </head>
+        <p xml:id="KR3ef048_jc_000-d26p2">
+          <seg xml:id="KR3ef048_jc_000-d26.p2s1">若論兩感<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d26.p2s2">起例如前<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d26.p2s3">仲居巳上<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d26.p2s4">季孟辰遷<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d26.p2s5">子不宜戌<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d26.p2s6">醜破酉嫌<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d26.p2s7">寅逢巳是<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d26.p2s8">卯愁未纏<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d26.p2s9">辰最怕午<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d26.p2s10">申憂亥占<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d26.p2s11">病逢兩感<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d26.p2s12">決主嫣嫣<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d26p4">
+          <seg xml:id="KR3ef048_jc_000-d26.p4s1">注曰<c n="："/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d26.p4s2">寅申巳亥辰戌丑未八支起辰<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d26.p4s3">子午卯酉四支日起巳<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d26p6">
+          <seg xml:id="KR3ef048_jc_000-d26.p6s1">精華指要詩曰<c n="："/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d26p8">
+          <seg xml:id="KR3ef048_jc_000-d26.p8s1">腎與膀胱兩感傷<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d26.p8s2">心與小腸表裡鄉<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d26p10">
+          <seg xml:id="KR3ef048_jc_000-d26.p10s1">胞絡三焦俱是火<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d26.p10s2">肺與大腸不為良<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d26p12">
+          <seg xml:id="KR3ef048_jc_000-d26.p12s1">肝膽同歸兩感症<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d26.p12s2">脾胃相連治應難<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d26p14">
+          <seg xml:id="KR3ef048_jc_000-d26.p14s1">又云<c n="："/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d26p16">
+          <seg xml:id="KR3ef048_jc_000-d26.p16s1">四仲傳流巳上求<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d26.p16s2">但逢季孟向龍游<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d26p18">
+          <seg xml:id="KR3ef048_jc_000-d26.p18s1">便將人命加其上<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d26.p18s2">數到司天見病由<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d26p20">
+          <seg xml:id="KR3ef048_jc_000-d26.p20s1">其法以司天之法加臨<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d26.p20s2">看是何經受患<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d26.p20s3">次將得病日支<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d26.p20s4">依前季孟之法<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d26.p20s5">順行到病人本命支上是也<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d26p22">
+          <seg xml:id="KR3ef048_jc_000-d26.p22s1">假如戊子生人<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d26.p22s2">庚辰日得病<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d26.p22s3">辰屬陽支<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d26.p22s4">前進三辰到午<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d26.p22s5">卻將戊子順行到辰<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d26.p22s6">見戊戌<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d26.p22s7">系太陽膀胱經受患<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d26p24">
+          <seg xml:id="KR3ef048_jc_000-d26.p24s1">得病日辰<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d26.p24s2">系是辰上起<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d26.p24s3">卻將得病日辰字<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d26.p24s4">從辰上順行病人本命上<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d26.p24s5">見子字<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d26.p24s6">子屬少陰君火<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d26.p24s7">腎經受症<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d26.p24s8">即腎與膀胱兩感<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d26.p24s9">並子不宜戌也<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d26p26">
+          <seg xml:id="KR3ef048_jc_000-d26.p26s1">假如丁未生人<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d26.p26s2">庚子日得病<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d26.p26s3">加臨到子<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d26.p26s4">見丁巳<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d26.p26s5">又將得病日子字<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d26.p26s6">屬仲起巳<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d26.p26s7">用子字從巳行到未<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d26.p26s8">見寅巳<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d26.p26s9">為包絡<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d26.p26s10">寅為三焦<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d26.p26s11">俱是火<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d26.p26s12">並日寅逢巳是也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d26.p26s13">其餘一例而推之<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ef048_jc_000-d27">
+        <head n="h1" xml:id="KR3ef048_jc_000-d27h1">
+          <seg xml:id="KR3ef048_jc_000-d27.h1s1">論天符歲會歌</seg>
+        </head>
+        <p xml:id="KR3ef048_jc_000-d27p2">
+          <seg xml:id="KR3ef048_jc_000-d27.p2s1">若論天符<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d27.p2s2">先觀歲氣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d27.p2s3">運氣若同<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d27.p2s4">天符難治<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d27.p2s5">與運同名<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d27.p2s6">故曰歲會<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d27p4">
+          <seg xml:id="KR3ef048_jc_000-d27.p4s1">假如甲辰日司天<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d27.p4s2">甲屬土運<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d27.p4s3">前進四辰見丁未<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d27.p4s4">未是脾土<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d27.p4s5">與運相同<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d27.p4s6">故曰歲會<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d27p6">
+          <seg xml:id="KR3ef048_jc_000-d27.p6s1">又云<c n="："/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d27.p6s2">甲既是土運<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d27.p6s3">辰又是土支<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d27.p6s4">年月日時同得病<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d27.p6s5">皆重司天<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d27.p6s6">與運同名<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d27.p6s7">天符是也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d27.p6s8">其餘一例推之<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ef048_jc_000-d28">
+        <head n="h1" xml:id="KR3ef048_jc_000-d28h1">
+          <seg xml:id="KR3ef048_jc_000-d28.h1s1">太乙天符論</seg>
+        </head>
+        <p xml:id="KR3ef048_jc_000-d28p2">
+          <seg xml:id="KR3ef048_jc_000-d28.p2s1">太乙天符<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d28.p2s2">十人九斃<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d28.p2s3">若運占方<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d28.p2s4">卻非此例<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d28p4">
+          <seg xml:id="KR3ef048_jc_000-d28.p4s1">假如戊午得病<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d28.p4s2">戊為火運<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d28.p4s3">午為火氣<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d28.p4s4">又是午支屬火<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d28.p4s5">即名曰太乙天符<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d28.p4s6">三日如逢吉運<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d28.p4s7">減一半<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d28p6">
+          <seg xml:id="KR3ef048_jc_000-d28.p6s1">假如甲子生人<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d28.p6s2">戊午日得病<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d28.p6s3">進三辰見庚申<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d28.p6s4">為司人<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d28.p6s5">加臨到午<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d28.p6s6">見戌<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d28.p6s7">即太陽膀胱水<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d28.p6s8">第一日受患<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d28.p6s9">其日犯太乙天符<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d28.p6s10">其病逆傳<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d28.p6s11">第二日巳未<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d28.p6s12">胃經受患<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d28.p6s13">巳為土運<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d28.p6s14">未為土氣<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d28.p6s15">胃又屬土<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d28.p6s16">其人必至此日丑未日死<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d28.p6s17">何則<c n="？"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d28.p6s18">丑未又是土是也<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d28.p6s19">余仿此<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d28.p6s20">不看不加臨<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ef048_jc_000-d29">
+        <head n="h1" xml:id="KR3ef048_jc_000-d29h1">
+          <seg xml:id="KR3ef048_jc_000-d29.h1s1">交天交地歌</seg>
+        </head>
+        <p xml:id="KR3ef048_jc_000-d29p2">
+          <seg xml:id="KR3ef048_jc_000-d29.p2s1">交天交地<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d29.p2s2">左右分箱<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d29.p2s3">南離北坎<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d29.p2s4">陽明症當<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d29p4">
+          <seg xml:id="KR3ef048_jc_000-d29.p4s1">詩曰<c n="："/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d29.p4s2">交天交地司天起<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d29.p4s3">兼和司地盡關連<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d29.p4s4">南症加離北加坎<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d29.p4s5">陽明到處不虛言<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d29p6">
+          <seg xml:id="KR3ef048_jc_000-d29.p6s1">其法寅申巳亥辰戌丑未八年為交逢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d29.p6s2">子午卯酉四年為反逢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d29.p6s3">三陰為之不應<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d29.p6s4">甲己為南政<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d29.p6s5">乙丙丁戊庚辛壬癸為北政<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d29p8">
+          <seg xml:id="KR3ef048_jc_000-d29.p8s1">假如乙丑南政<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d29.p8s2">司天丑未<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d29.p8s3">太陰沒一辰<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d29.p8s4">少陰左手寸口不應<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d29.p8s5">前一辰少陽右手<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d29.p8s6">交見於左<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d29.p8s7">謂之交<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d29.p8s8">見於左者為之交<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d29.p8s9">交者死<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d29.p8s10">其餘仿此<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ef048_jc_000-d30">
+        <head n="h1" xml:id="KR3ef048_jc_000-d30h1">
+          <seg xml:id="KR3ef048_jc_000-d30.h1s1">汗墓瘥法歌</seg>
+        </head>
+        <p xml:id="KR3ef048_jc_000-d30p2">
+          <seg xml:id="KR3ef048_jc_000-d30.p2s1">汗墓瘥法<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d30.p2s2">先熟鈴歌<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d30.p2s3">壬辰日病<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d30.p2s4">木水如何<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d30.p2s5">運氣合看<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d30.p2s6">切勿蹉跎<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ef048_jc_000-d31">
+        <head n="h1" xml:id="KR3ef048_jc_000-d31h1">
+          <seg xml:id="KR3ef048_jc_000-d31.h1s1">三陰三陽運氣汗瘥例</seg>
+        </head>
+        <p xml:id="KR3ef048_jc_000-d31p2">
+          <seg xml:id="KR3ef048_jc_000-d31.p2s1">假如甲午日病<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d31.p2s2">是手少陰經<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d31.p2s3">甲為土運<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d31.p2s4">午為火氣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d31.p2s5">歌云<c n="："/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d31.p2s6">土火乙庚疾大減<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d31.p2s7">乙日不愈<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d31.p2s8">庚日大愈<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d31.p2s9">乙未日病<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d31.p2s10">是手太陰經<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d31.p2s11">乙為金運<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d31.p2s12">未為金氣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d31.p2s13">歌云<c n="："/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d31.p2s14">金見丁辛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d31.p2s15">第三日小愈<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d31.p2s16">第七日大愈<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d31.p2s17">其餘一例推之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d31p4">
+          <seg xml:id="KR3ef048_jc_000-d31.p4s1">又歌云<c n="："/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d31p6">
+          <seg xml:id="KR3ef048_jc_000-d31.p6s1">金見丁辛火乙丁<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d31.p6s2">丙巳木水乙巳並<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d31.p6s3">戊壬上水火丙火<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d31.p6s4">巳水木元來號甲丁<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d31.p6s5">土水甲巳從來道<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d31.p6s6">金土丁壬汗似蒸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d31.p6s7">金水甲戊相交汗<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d31.p6s8">木火乙戊不瘥爭<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d31p8">
+          <seg xml:id="KR3ef048_jc_000-d31.p8s1">注云<c n="："/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d31.p8s2">寅申巳亥一四七<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d31.p8s3">此是病人出汗日<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d31.p8s4">子午卯酉二五八<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d31.p8s5">定是病人戰汗發<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d31.p8s6">辰戌丑未三六九<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d31.p8s7">血汗至時應血走<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ef048_jc_000-d32">
+        <head n="h1" xml:id="KR3ef048_jc_000-d32h1">
+          <seg xml:id="KR3ef048_jc_000-d32.h1s1">汗瘥定時歌</seg>
+        </head>
+        <p xml:id="KR3ef048_jc_000-d32p2">
+          <seg xml:id="KR3ef048_jc_000-d32.p2s1">少陽寅卯辰為先<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d32.p2s2">陽明申酉戌相連<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d32.p2s3">太陽巳午未汗至<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d32.p2s4">太陰亥子醜門邊<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d32.p2s5">少陰子醜寅為伴<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d32.p2s6">厥陰醜卯寅相穿<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ef048_jc_000-d33">
+        <head n="h1" xml:id="KR3ef048_jc_000-d33h1">
+          <seg xml:id="KR3ef048_jc_000-d33.h1s1">棺墓歌</seg>
+        </head>
+        <p xml:id="KR3ef048_jc_000-d33p2">
+          <seg xml:id="KR3ef048_jc_000-d33.p2s1">土為墓兮木為棺<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d33.p2s2">金為屍兮仔細看<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d33.p2s3">水為命兮火為氣<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d33.p2s4">加臨上下要精顓<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d33p4">
+          <seg xml:id="KR3ef048_jc_000-d33.p4s1">假如甲午生人<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d33.p4s2">丁丑日得病<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d33.p4s3">丁壬化木運<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d33.p4s4">木旺子卯<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d33.p4s5">卻將丁丑二字<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d33.p4s6">從卯上順行至病人命支上<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d33.p4s7">午見庚辰<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d33.p4s8">庚化金運<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d33.p4s9">辰為水氣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d33.p4s10">歌曰<c n="："/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d33.p4s11">金水屍中有命隨<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d33.p4s12">又曰金水甲戊<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d33.p4s13">言交汗出甲戊二日<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d33p6">
+          <seg xml:id="KR3ef048_jc_000-d33.p6s1">假如戊戌生人<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d33.p6s2">庚子日得病<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d33.p6s3">庚化金<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d33.p6s4">金旺於酉<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d33.p6s5">卻將庚子二字<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d33.p6s6">順行到戌命支上<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d33.p6s7">見辛丑<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d33.p6s8">辛化水運<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d33.p6s9">醜化土<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d33.p6s10">是命墓相形<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d33.p6s11">其餘仿此<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ef048_jc_000-d34">
+        <head n="h1" xml:id="KR3ef048_jc_000-d34h1">
+          <seg xml:id="KR3ef048_jc_000-d34.h1s1">又汗瘥用藥例</seg>
+        </head>
+        <p xml:id="KR3ef048_jc_000-d34p2">
+          <seg xml:id="KR3ef048_jc_000-d34.p2s1">假如甲寅生人<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d34.p2s2">丁丑日得病<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d34.p2s3">丁壬化木<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d34.p2s4">木旺在卯<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d34.p2s5">就將丁丑二字<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d34.p2s6">從卯上順行到病人本命<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d34.p2s7">寅上見戌子<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d34.p2s8">立為司天<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d34.p2s9">便斷頭疼發熱<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d34p4">
+          <seg xml:id="KR3ef048_jc_000-d34.p4s1">假如戊午生人<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d34.p4s2">丙子日得病<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d34.p4s3">加臨到子<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d34.p4s4">見戌辰<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d34.p4s5">是中太陽破字號症<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d34.p4s6">第二日到己<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d34.p4s7">三日到午<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d34.p4s8">主勝客衰<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d34.p4s9">四日到未<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d34.p4s10">小愈<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d34.p4s11">五日到申<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d34.p4s12">六日到酉<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d34.p4s13">七日到戌<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d34.p4s14">八日到亥<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d34.p4s15">九日到子<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d34.p4s16">十日到醜<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d34.p4s17">此日大愈<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d34.p4s18">汗出巳酉時<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d34p6">
+          <seg xml:id="KR3ef048_jc_000-d34.p6s1">假如丁丑生人<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d34.p6s2">壬午日得病<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d34.p6s3">加臨到司天上<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d34.p6s4">見丁亥<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d34.p6s5">系厥陰坤字號第四症也<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d34.p6s6">白頭翁湯主之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d34p8">
+          <seg xml:id="KR3ef048_jc_000-d34.p8s1">歌曰<c n="："/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d34p10">
+          <seg xml:id="KR3ef048_jc_000-d34.p10s1">木火棺中生有氣<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d34.p10s2">二日子客勝主衰<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d34.p10s3">瀉咸補苦<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d34.p10s4">桂枝湯主之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d34.p10s5">三日醜<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d34.p10s6">四日寅<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d34.p10s7">小柴胡湯主之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d34.p10s8">五日到卯<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d34.p10s9">陽明主勝客衰<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d34.p10s10">小承氣湯主之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d34.p10s11">六日到辰<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d34.p10s12">客勝主衰<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d34.p10s13">桂枝湯主之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d34.p10s14">泄咸補苦<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d34.p10s15">七日入本經平氣<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ef048_jc_000-d34p12">
+          <seg xml:id="KR3ef048_jc_000-d34.p12s1">假如戊戌生人<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d34.p12s2">壬子日得病<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d34.p12s3">加臨到司天<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d34.p12s4">見申紀字號少陽症<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d34.p12s5">第二日傳未<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d34.p12s6">太陰濕上<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d34.p12s7">為微邪<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d34.p12s8">當補心瀉脾<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d34.p12s9">三日午<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d34.p12s10">少陰火<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d34.p12s11">當解心經<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d34.p12s12">四日到巳木<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d34.p12s13">木生火<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d34.p12s14">為虛邪<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d34.p12s15">五日到辰<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d34.p12s16">太陽水火相剋戰<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d34.p12s17">其人必死<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ef048_jc_000-d35">
+        <head n="h1" xml:id="KR3ef048_jc_000-d35h1">
+          <seg xml:id="KR3ef048_jc_000-d35.h1s1">相生相剋論</seg>
+        </head>
+        <p xml:id="KR3ef048_jc_000-d35p2">
+          <seg xml:id="KR3ef048_jc_000-d35.p2s1">相生相剋<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d35.p2s2">皆論支幹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d35.p2s3">干來克支<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d35.p2s4">治不為難<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d35.p2s5">又曰<c n="："/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d35.p2s6">
+            <c n="《"/>素問<c n="》"/>運氣且須知<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d35.p2s7">上下加臨仔細推<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d35.p2s8">陽日在前左間氣<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d35.p2s9">陰日前位右間隨<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d35.p2s10">數至司天為病日<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d35.p2s11">十二支上見本基<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d35.p2s12">運克氣時終有始<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d35.p2s13">氣來克運不看醫<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d35.p2s14">此是先賢玄妙法<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d35.p2s15">醫家豈可不言知<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ef048_jc_000-d36">
+        <head n="h1" xml:id="KR3ef048_jc_000-d36h1">
+          <seg xml:id="KR3ef048_jc_000-d36.h1s1">傳經訣歌</seg>
+        </head>
+        <p xml:id="KR3ef048_jc_000-d36p2">
+          <seg xml:id="KR3ef048_jc_000-d36.p2s1">傳經妙訣<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d36.p2s2">女逆男順<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d36.p2s3">一日一宮<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d36.p2s4">便見所病<c n="；"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d36.p2s5">精華指要<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d36.p2s6">女順男逆<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d36.p2s7">與此不同<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d36.p2s8">學者詳識<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d36.p2s9">依前所言<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ef048_jc_000-d36.p2s10">故不再述<c n="。"/>
+          </seg>
+        </p>
+</div>
+    </body>
+  </text>
+</TEI>

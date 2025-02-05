@@ -1,0 +1,3910 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KR3eu062">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>奇正方</title>
+        <author>日本· 賀谷壽</author>
+      </titleStmt>
+      <extent>
+        <measure unit="char" quantity="31950"/>
+        <date when-iso="2024-02-21T13:40:49.864+09:00"/>
+      </extent>
+      <publicationStmt>
+        <p>Originally published at <ref target="https://jicheng.tw/tcm/book/index.html">中醫笈成:奇正方</ref>. Checkout from https://gitlab.com/jicheng/jc.data, commit aab40201, 2022-12-28.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>出自《皇漢醫學叢書》第十一冊，1936年上海世界書局刊行（<ref target="https://taiwanebook.ncl.edu.tw/zh-tw/book/NTL-9900015282">國家圖書館掃描本</ref>）</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+      </creation>
+      <textClass>
+        <catRef scheme="#kr-categories" target="#KR3eu"/>
+      </textClass>
+    </profileDesc>
+    <encodingDesc>
+      <p>Quality: </p>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+
+<head n="h2" xml:id="KR3eu062_jc_000-h2">
+        <seg xml:id="KR3eu062_jc_000-h2s1">序</seg>
+      </head>
+<p xml:id="KR3eu062_jc_000-p4">
+        <seg xml:id="KR3eu062_jc_000-p4s1">恬庵子奇正方脫稿將鏤板行之或聞其名詰諸其門人曰是以兵喻醫其說必陳腐門人曰因病之常變示方之奇正釋仲景氏書古來未有如此之明且切者子盍嘗讀焉詰者曰孫子云戰以正合以奇勝善出奇者無窮如天地不竭如江海夫奇者臨機制變之謂非可預示其可示者皆正耳恬庵乃欲並示正與奇不亦異乎門人不能對以質於余余曰吾不知醫又不知兵然以吾所聞想之醫方有奇正亦猶吾道有經權事之常變固不可無經權則亦何異乎方有奇正以應病之常變也今夫男女有別道之正也嫂溺手援道之奇也直道而行道之正也父子相隱道之奇也居喪哀毀而病則酒肉明哲保身而殺身成仁其於六藝也書正而詩奇禮正而樂奇春秋兼奇正以誅亂賊亦猶良醫兼奇正以治百病因此推之天下無往不正亦莫不奇矧於兵乎矧於醫乎何奇正之不可示也雖然吾道也主常兵也醫也主變主變者貴乎奇主常者貴乎正正有定而奇無窮仲景氏之論雖備矣恬庵之所示雖明且切矣豈能悉天地江海之奇乎哉舉一反三運而用之妙在其人則以詰者之意讀恬庵之書其益於醫術也必大矣恬庵聞余言喜曰然矣請題卷端遍告讀者於是乎書</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p6">
+        <seg xml:id="KR3eu062_jc_000-p6s1">文政庚寅良月小竹散人筱崎弼撰</seg>
+      </p>
+
+<head n="h2" xml:id="KR3eu062_jc_000-h8">
+        <seg xml:id="KR3eu062_jc_000-h8s1">奇正方序</seg>
+      </head>
+<p xml:id="KR3eu062_jc_000-p10">
+        <seg xml:id="KR3eu062_jc_000-p10s1">譬則一而二二即一之加一未嘗不資於二也譬則二而一一即二之省二未嘗不歸於一也則知一二之變固非一自一二自二而不相關者也故以陳虎龍之列正包奇奇承正鉤角聯絡代為應變按行其營壘為落膽嘗有人而今吾觀之於仲景方書編旨蓋編旨亦如雲遺一而執二不可遺二而執一不可一二時執而時相遺又不可必也推一於二之中括二於一之表類其異而統於同夫然後以為可明矣攻病戡亂原一揆而恬庵始發明其旨功亦偉矣抑亦不能無惑焉恬庵子原吾州武弁之族遇事擔當即其人也而今來遊茲土舊業不喧乃措諸醫意者奇正之可施於今日升平者其以為醫而已乎將鉅細一貫姑措諸所遇而已乎吾亦夙習武矣</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p12">
+        <seg xml:id="KR3eu062_jc_000-p12s1">文政庚寅仲冬阿波齋藤象武教撰於大阪梶木坊奉海老漁書屋</seg>
+      </p>
+
+<head n="h2" xml:id="KR3eu062_jc_000-h14">
+        <seg xml:id="KR3eu062_jc_000-h14s1">凡例</seg>
+      </head>
+<p xml:id="KR3eu062_jc_000-p16">
+        <seg xml:id="KR3eu062_jc_000-p16s1">凡方之治病有正有奇又有別正有別奇其正者乃如桂枝湯之治病人臟無他病<c n="("/>云云<c n=")"/>證若病常自汗出者<c n="("/>云云<c n=")"/>證及承氣湯之治腹中滿痛者抵當湯之治經水不利十棗湯之主懸飲苓桂朮甘湯之利微飲半夏瀉心湯之治嘔而腸鳴者之類是也其奇者乃如大小青龍湯之發溢飲豬苓湯之治少陰病下利<c n="("/>云云<c n=")"/>證白虎湯之治太陽中熱<c n="("/>云云<c n=")"/>證調胃承氣湯之發汗後惡寒<c n="("/>云云<c n=")"/>證及陽明病不吐不下心煩者等之類是也其別正者假令其病始出於桂枝湯之正治終入其殊途異域者乃如桂枝加芍藥湯同加大黃湯小建中湯之類是也其別奇者乃如桂枝甘草湯之於發汗過多<c n="("/>云云<c n=")"/>證桂枝甘草龍骨牡蠣湯之於火逆之類但治其一變證而不可移用於他者是也</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p18">
+        <seg xml:id="KR3eu062_jc_000-p18s1">凡醫法之隨證亦有奇正其正者乃如桂枝湯之於病人臟無他病<c n="("/>云云<c n=")"/>證及病常自汗出<c n="("/>云云<c n=")"/>等證服藥後不須歠粥溫覆但任其藥性和榮衛或大小青龍湯之於傷寒服後必溫覆以助藥力之類是也其奇者乃如桂枝湯之於中風服後必歠熱粥溫覆以助藥力或大青龍湯之於溢飲麻黃加朮湯之於濕家不須溫覆而取汗之法或承氣湯十棗湯之於傷寒一快利則止後服消息斟酌以觀後變之類是也</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p20">
+        <seg xml:id="KR3eu062_jc_000-p20s1">凡傷寒論金匱要略中之方有二類焉蓋古聖醫為治一傷寒而設之范曄所謂風寒熱病論中之遺方者仲景氏取以錄之傷寒論中麻黃柴胡白虎青龍等是一類也二者撰擇古昔治雜病之方以備傷寒正治後及誤治後不虞之變證者其方即承氣抵當十棗湯等是一類也</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p22">
+        <seg xml:id="KR3eu062_jc_000-p22s1">凡方後曰得快利止後服曰得快吐則止後服曰得小便利余勿服者單示傷寒治法而已夫傷寒之為病變化百出無有定極而非一吐一下之可愈故雖施發散之輕劑猶周時觀之以候其後變之機況於吐下之法乎故其汗之不欲流漓其下之戒大泄其吐之慎暴劇唯要臨機應變以收全效爾是仲景氏治傷寒之法而非治雜病之例也若夫治雜病不期小快而欲其病毒盡脫故下之吐之不中止以愈為限焉</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p24">
+        <seg xml:id="KR3eu062_jc_000-p24s1">凡醫事以陰陽五行司天在泉引經報使等為之說者皆妄誕也夫支那醫流自唐宋而下舍條理而騖空理其論可喜其實則戾其論作寒也以經絡為受病之地以陰陽分風寒以蕞爾之人身配當無涯之天地支離荒唐實誤後進經年之久舊染難除我皇國五七十年來唱古醫方者雖不乏其人亦唯踵支那醫風之弊而不能改其轍略作之辨而已或改太陽陽明少陽經絡附會之說以為熱毒所屯之營塞或以六經為病位之記號或以中風傷寒為病之狀態以三陽為陽氣盛微實之三名義亦皆一時之建言奇論而已獨東洞吉益氏斷然不惑其可疑者圈而不取可謂東漢以來一人矣余此編亦書中妄誕者皆圈以示學者</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p26">
+        <seg xml:id="KR3eu062_jc_000-p26s1">傷寒論中以六經分編立病之部位論邪熱之傳經者王叔和氏之妄誕也宋後數百年莫識破其妄者嗚呼何醫之乏其人獨明吳又可不憑六經別建熱病之論可謂豪傑之士也繼而興者我邦吉益東洞而已嗚呼何醫之乏其人往歲東洞氏作類聚方圈六經而刪之然世醫讀傷寒論者若斥六經則如瞽者之於文章聾者之於鐘鼓茫然不知所向故今存其名目所繫之大略如下</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p28">
+        <seg xml:id="KR3eu062_jc_000-p28s1">所謂太陽者邪毒侵入筋骨肉分當發汗者乃如桂枝湯各半湯葛根湯麻黃湯大小青龍湯等證是也所謂少陽者邪毒結著胸脅心下口苦咽乾目眩耳聾乃如大小柴胡湯柴胡薑桂湯黃連湯等證是也所謂陽明者邪毒充漲於胃中腸內乃三承氣湯白虎湯等證是也所謂太陰者乃太陽之反對而腹滿吐食或自利乃如桂枝加芍藥湯同加大黃湯及四逆輩之證是也所謂少陰者乃少陽之反對而脈微細或發熱脈沉或惡寒四肢逆冷心中煩或嗜寐或吐利或咽痛乃如黃連阿膠湯麻黃附子細辛湯附子湯真武湯豬苓湯證是也所謂厥陰者乃陽明之反對而手足厥冷心中疼熱內拘急脈沉而遲或脈微細或欲絕或下利清穀或吐蛔乃如四逆湯白通湯烏梅圓等證是也夫反對者乃變化也或因誤治而為脫陽之證或因病人氣化衰弱而精氣不能抗邪毒熱陽變化遂為寒陰之謂也</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p30">
+        <seg xml:id="KR3eu062_jc_000-p30s1">凡方後攟舉諸書所載之方證者欲以廣其方之奇而益明其正之所存也而其中往往有妄妖虛誕者大紊其真而余不肯議而圈之舉以存舊而已學者能明奇正之條理則妖怪何之害</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p32">
+        <seg xml:id="KR3eu062_jc_000-p32s1">凡證先於方者所謂正而證後於方者奇也蓋仲景氏之作傷寒論也特為治一傷寒而已故專論古方治傷寒之奇而其正乃略者間亦有焉今就外臺千金及雜書中取其可證者而補焉夫外臺千全者本稛載古代名醫面命之方論及當時民間口碑之藥方之書也故其方劑論說邪正相混雅俗相依今取其正而雅者耳</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p34">
+        <seg xml:id="KR3eu062_jc_000-p34s1">凡此編本傷寒論金匱要略之方以分其奇正然而其中多有似闕其奇正者其實非闕如也何則其似無正無奇者多是淡泊平易之藥不足以論奇正也世醫概以為傷寒金匱要略中之方藥求必合正義而後世之方劑悉皆杜撰者此我邦偽古方醫之弊也蓋傷寒金匱中之方劑其能味淡泊者不為不多雖然有物有則有輕微之病則有輕易之藥又有一方止治一證而不能泛治他病者疑是仲景氏臨時所制也</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p36">
+        <seg xml:id="KR3eu062_jc_000-p36s1">凡編中曰辨誤曰發明曰試效曰方意者是余所嘗考試辨明也其間曰說具於傷寒論系傳者亦余所嘗著述之書名也後單稱系傳者略辭也若夫方意之解概論其大略以發童蒙而已</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p38">
+        <seg xml:id="KR3eu062_jc_000-p38s1">凡附方者所嘗親試之方也若金匱要略中附外臺千金等方雖非仲景氏之舊而其利於病者豈可舍耶今更增附數方於此者欲弘先哲之意以供於今日之用非添蛇足也</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p40">
+        <seg xml:id="KR3eu062_jc_000-p40s1">凡丸散之功亦偉矣而其為用有先隨證處湯藥時兼用之以拔其毒者乃如抵當丸控涎丹滾痰丸等之類是也又有先投之以丸散殺其大勢而後與湯液者乃如瓜蒂散備急圓白散等之類是也又有嘔惡不容藥汁者換之以丸散者乃如五苓散之於水逆乾薑人參半夏丸之於惡阻之類是也又有單用之者乃如八味丸之於消渴當歸芍藥散之於妊娠牡蠣澤瀉散之於差後腫之類是也又有應病之機而丸散湯液交相用者有常服湯液時別用丸散類以拔滌病之根源者此用丸散之要法也</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p42">
+        <seg xml:id="KR3eu062_jc_000-p42s1">庚寅秋重陽日恬庵賀古壽志</seg>
+      </p>
+
+<head n="h2" xml:id="KR3eu062_jc_000-h44">
+        <seg xml:id="KR3eu062_jc_000-h44s1">奇正方</seg>
+      </head>
+<p xml:id="KR3eu062_jc_000-p46">
+        <seg xml:id="KR3eu062_jc_000-p46s1">桂枝湯<space n="　" quantity="1"/>病人臟無他病時發熱自汗出而不愈者此衛氣不和也○病常自汗出者此為榮氣和榮氣和者外不諧以衛氣不共榮氣和諧故爾</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p46s2">
+          <c n="（"/>上二章桂枝湯常候但不須歠粥溫覆求發汗者也<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p48">
+        <seg xml:id="KR3eu062_jc_000-p48s1">桂枝<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>芍藥<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>甘草<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>生薑<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>大棗</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p48s2">
+          <c n="（"/>十二枚<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p50">
+        <seg xml:id="KR3eu062_jc_000-p50s1">上五味㕮咀以水七升煮取三升去滓適寒溫服一升</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p50s2">
+          <c n="（"/>此服法之正也<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p50s3">服已須臾歠熱稀粥一升余以助藥力溫覆令一時計遍身漐漐微似有汗者益佳不可令如水流漓病必不除若一服汗出病差停後服不必盡劑若不汗更服依前法又不汗後服小促役其間半日許今三服盡若病重者一日一夜服周時觀之服一劑盡病證猶在者更作服若不汗出者乃服至二三劑禁生冷黏滑肉面五辛酒酪臭惡等物</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p50s4">
+          <c n="（"/>此活用桂枝湯於中風者乃法之奇也<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p50s5">太陽中風</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p50s6">
+          <c n="（"/>千金方作中風其脈<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p50s7">
+          <c n="「"/>陽<c n="」"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p50s8">浮而<c n="「"/>陰<c n="」"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p50s9">弱<c n="「"/>陽浮者熱自發陰弱者汗自出嗇嗇惡寒<c n="」"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p50s10">淅淅惡風翕翕發熱鼻鳴乾嘔者○太陽病頭痛發熱汗出惡風者</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p50s11">
+          <c n="（"/>桂枝湯本和解衛氣鬱結此乃常也若夫活用之於中風則歠粥助藥力溫覆求發汗此乃法之奇也又運用之於里證則和解拘攣腹痛等證乃如桂枝加芍藥湯同加大黃湯等之類所謂別正而其始出於桂枝湯之正治終入其殊途異域者是也<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p52">
+        <seg xml:id="KR3eu062_jc_000-p52s1">桂枝加桂湯</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p52s2">
+          <c n="（"/>於桂枝湯方加桂枝二兩<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p54">
+        <seg xml:id="KR3eu062_jc_000-p54s1">燒針令其汗針處被寒核起而赤者欲作奔豚氣從少腹上衝心者</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p56">
+        <seg xml:id="KR3eu062_jc_000-p56s1">桂枝加芍藥湯</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p58">
+        <seg xml:id="KR3eu062_jc_000-p58s1">本太陽病醫反下之因爾腹滿時痛者屬太陰也桂枝加芍藥湯主之大實痛者桂枝加大黃湯主之</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p58s2">
+          <c n="（"/>因誤下之變邪氣縛筋脈故腹拘急而時痛因加倍芍藥以緩之若夫大實痛者更加大黃以通之<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p60">
+        <seg xml:id="KR3eu062_jc_000-p60s1">桂枝加葛根湯</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p60s2">
+          <c n="（"/>於桂枝湯方加葛根四兩<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p62">
+        <seg xml:id="KR3eu062_jc_000-p62s1">太陽病項背強𠘧𠘧反汗出惡風者</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p62s2">
+          <c n="（"/>中風桂枝湯證而項背強𠘧𠘧者兼葛根湯證故斷曰反汗出以明桂枝湯之證也<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p64">
+        <seg xml:id="KR3eu062_jc_000-p64s1">桂枝加黃蓍湯</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p64s2">
+          <c n="（"/>於桂枝湯方加黃蓍二兩<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p66">
+        <seg xml:id="KR3eu062_jc_000-p66s1">黃汗之病兩脛自冷<c n="「"/>假令發熱此屬歷節<c n="」"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p66s2">食已汗出又身常暮盜汗出者<c n="「"/>此勞氣也若汗出已反發熱者久久其身必甲錯發熱不止者必生惡瘡若身重汗出已輒輕者久久必身潤即胸中痛<c n="」"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p66s3">又從腰以上必汗出下無汗腰髖弛痛如有物在皮中狀劇者不能食身疼重煩躁小便不利此為黃汗○發明</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p66s4">
+          <c n="（"/>此條分作三段則劇易輕重其證自分明矣<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p68">
+        <seg xml:id="KR3eu062_jc_000-p68s1">桂枝加附子湯</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p68s2">
+          <c n="（"/>於桂枝湯方加附子一枚<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p70">
+        <seg xml:id="KR3eu062_jc_000-p70s1">太陽病發汗遂漏不止其人惡風小便難四支微急難以屈伸者</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p70s2">
+          <c n="（"/>說具於傷寒論系傳<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p72">
+        <seg xml:id="KR3eu062_jc_000-p72s1">桂枝附子湯<space n="　" quantity="1"/>
+          <c n="「"/>傷寒八九日<c n="」"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p72s2">風濕相搏身體疼煩不能自轉側不嘔不渴脈浮虛而澀者<c n="「"/>若其人大便硬小便不利者去掛加朮湯主之<c n="」"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p74">
+        <seg xml:id="KR3eu062_jc_000-p74s1">桂枝<c n="("/>四兩<c n=")"/>
+          <space n="　" quantity="1"/>附子<c n="("/>三枚<c n=")"/>
+          <space n="　" quantity="1"/>生薑<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>甘草<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>大棗</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p74s2">
+          <c n="（"/>十二枚<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p76">
+        <seg xml:id="KR3eu062_jc_000-p76s1">上五味以水六升煮取二升去滓分溫三服○千金方云治婦人產後風虛汗出不止小便難四肢微急難以屈伸者</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p76s2">
+          <c n="（"/>方中有芍藥無大棗<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p76s3">○三因方術附湯治冒雨濕著肌膚與胃氣搏或腠間汗出因浴得之</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p76s4">
+          <c n="（"/>即於此方加朮苓各二兩<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p76s5">○試效</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p76s6">
+          <c n="（"/>黴毒骨疼偏枯口眼喎斜寒疝腹中冷痛者<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p78">
+        <seg xml:id="KR3eu062_jc_000-p78s1">桂枝甘草附子湯<space n="　" quantity="1"/>風濕相搏骨節疼煩掣痛不得屈伸近之則疼劇汗出短氣小便不利惡風不欲去衣或身微腫者</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p80">
+        <seg xml:id="KR3eu062_jc_000-p80s1">甘草<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>附子<c n="("/>二枚<c n=")"/>
+          <space n="　" quantity="1"/>術<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>桂枝<c n="("/>四兩<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p82">
+        <seg xml:id="KR3eu062_jc_000-p82s1">上四味以水六升煮取三升去滓溫服一升日三服○方意</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p82s2">
+          <c n="（"/>桂枝附子湯證曰身體疼煩不能自轉側桂枝甘草附子湯證曰骨節疼煩不得屈伸其曰身體曰不能自轉側較之骨節疼煩不得屈伸者則其證重故彼用附子三枚此用附子二枚</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p84">
+        <seg xml:id="KR3eu062_jc_000-p84s1">烏頭桂枝湯<space n="　" quantity="1"/>寒疝腹中逆冷手足不仁若身疼痛灸刺諸藥不能治抵當用此方</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p86">
+        <seg xml:id="KR3eu062_jc_000-p86s1">烏頭<c n="("/>五枚<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p88">
+        <seg xml:id="KR3eu062_jc_000-p88s1">上一味以蜜二斤煎減半去滓以桂枝湯五合解之得一升後初服二合不知即服三合又不知復加至五合其知者如醉狀得吐者為中病○試效</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p88s2">
+          <c n="（"/>治一切逆冷不仁痿癖等證<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p88s3">○方意</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p88s4">
+          <c n="（"/>蓋烏頭之為能運動寒固之毒和之以桂枝湯者欲令烏頭之氣順達患窠也類聚方集覽曰烏頭之得蜜猶龍之得云感應奏效如神者妄誕也夫古人以蜜煎烏頭者欲緩其剛悍之氣以令不奔逸而已<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p90">
+        <seg xml:id="KR3eu062_jc_000-p90s1">桂姜草棗黃辛附湯<space n="　" quantity="1"/>
+          <c n="「"/>氣分<c n="」"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p90s2">心下堅大如盤邊如旋杯水飲所作</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p92">
+        <seg xml:id="KR3eu062_jc_000-p92s1">桂枝<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>生薑<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>甘草<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>大棗</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p92s2">
+          <c n="（"/>十二枚<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p92s3">
+          <space n="　" quantity="1"/>麻黃<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>細辛<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>附子<c n="("/>一枚<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p94">
+        <seg xml:id="KR3eu062_jc_000-p94s1">上七味以水七升煮麻黃去上沫內諸藥煮取二升分溫三服當汗出如蟲行皮中即愈○方意</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p94s2">
+          <c n="（"/>附子細辛運寒飲余藥散之若證而惡寒劇者毒深矣宜加倍附子細辛麻黃以厚運散之力<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p96">
+        <seg xml:id="KR3eu062_jc_000-p96s1">桂枝加龍骨牡蠣湯</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p96s2">
+          <c n="（"/>於桂枝湯方加龍骨牡蠣各二兩<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p98">
+        <seg xml:id="KR3eu062_jc_000-p98s1">夫失精家少腹弦急陰頭寒目眩發落脈極虛芤遲<c n="「"/>為清穀亡血<c n="」"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p98s2">失精脈得諸芤動微緊男子失精女子夢交</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p98s3">
+          <c n="（"/>此條分作二段證自分明<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p98s4">○小品雲夢交失精諸脈浮動心悸小腹急陰處寒目眶痛頭髮落○深師云療虛勞喜夢與女邪交接精自出○醫通云虛勞夢泄惡寒發熱○方意</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p98s5">
+          <c n="（"/>蓋此方桂枝加芍藥湯變方也故證曰少腹弦急曰心悸少腹急夫失精家必驚動而氣逆加龍骨牡蠣所以鎮其悸動也<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p100">
+        <seg xml:id="KR3eu062_jc_000-p100s1">桂枝去芍藥加蜀漆龍骨牡蠣救逆湯</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p102">
+        <seg xml:id="KR3eu062_jc_000-p102s1">桂枝<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>甘草<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>生薑<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>牡蠣<c n="("/>五兩<c n=")"/>
+          <space n="　" quantity="1"/>蜀漆<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>龍骨<c n="("/>四兩<c n=")"/>
+          <space n="　" quantity="1"/>大棗</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p102s2">
+          <c n="（"/>十二枚<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p104">
+        <seg xml:id="KR3eu062_jc_000-p104s1">上為末以水一斗二升先煮蜀漆減二升內諸藥煮取三升去滓溫服一升○傷寒脈浮醫以火迫劫之<c n="("/>亡陽<c n=")"/>必驚狂起臥不安者</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p104s2">
+          <c n="（"/>驚悸最劇故起臥不安<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p104s3">○火邪者</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p104s4">
+          <c n="（"/>火邪之為證必驚躁悸動即龍骨牡蠣所主治<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p106">
+        <seg xml:id="KR3eu062_jc_000-p106s1">桂枝加芍藥生薑人參湯</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p106s2">
+          <c n="（"/>於桂枝湯方加芍藥生薑各一兩人參三兩<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p108">
+        <seg xml:id="KR3eu062_jc_000-p108s1">發汗後身疼痛脈沉遲者○方意</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p108s2">
+          <c n="（"/>因發汗過多之變氣血澀滯而身疼痛脈亦沉遲桂枝加芍藥湯以和其澀滯人參生薑鼓舞虛氣以添活潑之力蓋此方桂枝湯之變方特主汗後之變證爾他病則不與焉<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p110">
+        <seg xml:id="KR3eu062_jc_000-p110s1">桂枝麻黃各半湯<space n="　" quantity="1"/>太陽病得之八九日如瘧狀發熱惡寒熱多寒少其人不嘔清便欲自可一日二三度發<c n="「"/>脈微者為欲愈也脈微而惡寒者此陰陽俱虛不可更發汗更下更吐也面色反有熱色者未欲解也<c n="」"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p110s2">以其不能得少汗出身必癢</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p110s3">
+          <c n="（"/>癢當作痛字<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p110s4">○方意</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p110s5">
+          <c n="（"/>此其初當行桂枝湯之證而輕慢不藥歷八九日邪毒遂瀰肉分是以桂枝湯力不及麻黃湯則過矣故更取二方之半以作之<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p112">
+        <seg xml:id="KR3eu062_jc_000-p112s1">小建中湯<space n="　" quantity="1"/>虛勞裡急悸衄腹中痛夢失精四肢痠痛手足煩熱咽乾口燥○男子黃小便不利</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p112s2">
+          <c n="（"/>當有裡急證<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p112s3">○婦人腹痛</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p114">
+        <seg xml:id="KR3eu062_jc_000-p114s1">桂枝<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>甘革<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>芍藥<c n="("/>六兩<c n=")"/>
+          <space n="　" quantity="1"/>大棗</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p114s2">
+          <c n="（"/>十二枚<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p114s3">
+          <space n="　" quantity="1"/>生薑<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>膠飴<c n="("/>一升<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p116">
+        <seg xml:id="KR3eu062_jc_000-p116s1">上六味以水七升煮取三升去滓內膠飴更上微火消解溫服一升日三服○傷寒<c n="「"/>陽<c n="」"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p116s2">脈澀<c n="「"/>陰脈<c n="」"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p116s3">弦<c n="「"/>法當<c n="」"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p116s4">腹中急痛者○傷寒二三日心中悸而煩者</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p116s5">
+          <c n="（"/>上二章仲景氏活用小建中湯於傷寒之妙處說具於系傳<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p116s6">○易簡方云大治婦人血疼男子心腹㽲痛○準繩云治痢不分赤白新久但腹中大痛者神效</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p118">
+        <seg xml:id="KR3eu062_jc_000-p118s1">黃蓍建中湯</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p118s2">
+          <c n="（"/>於小建中湯方加黃蓍一兩半<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p120">
+        <seg xml:id="KR3eu062_jc_000-p120s1">虛勞裡急諸不足</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p120s2">
+          <c n="（"/>小建中湯證而自汗盜汗出者<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p120s3">○易簡方云男子婦人諸虛不足少腹急痛脅肋䐜脹臍下虛滿胸中煩悸面色萎黃唇口乾燥少力身重胸滿短氣腰背強痛骨肉痠疼行動喘乏不能飲食或因勞傷過度或因病後不復</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p122">
+        <seg xml:id="KR3eu062_jc_000-p122s1">當歸建中湯</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p122s2">
+          <c n="（"/>於小建中湯方加當歸四兩<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p124">
+        <seg xml:id="KR3eu062_jc_000-p124s1">治婦人產後虛羸不足腹中刺痛不止吸吸少氣苦少腹中急摩痛引腰不能食飲○易簡方云婦人一切血氣虛損四肢怠惰及產後勞傷虛羸不足腹中㽲痛吸吸少氣少腹虛急痛引腰背自汗出不思飲食者若產後半月每日三服令人丁壯又曰產後血虛虛羸不足腹中刺痛少腹急或感寒發熱又曰崩傷內衄不止加地黃六錢阿膠二錢○方意</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p124s2">
+          <c n="（"/>建中湯緩化氣血澀滯之毒故治裡急腹痛悸衄痠疼煩熱等證仲景氏活用之於傷寒虛狀氣血澀滯之證黃蓍建中湯當歸建中湯證皆曰虛損不足者蓋指氣血澀滯百脈弦急而自汗盜汗者<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p126">
+        <seg xml:id="KR3eu062_jc_000-p126s1">當歸四逆湯<space n="　" quantity="1"/>手足厥寒脈細欲絕者當歸四逆湯主之若其人內有久寒者加吳茱萸生薑湯主之</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p128">
+        <seg xml:id="KR3eu062_jc_000-p128s1">當歸<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>芍藥<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>桂枝<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>細辛<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>通草<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>甘草<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>大棗</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p128s2">
+          <c n="（"/>二十五個<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p130">
+        <seg xml:id="KR3eu062_jc_000-p130s1">上七味以水八升煮取三升去滓溫服一升日三服○丹溪心法云治霍亂多寒身冷脈絕</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p130s2">
+          <c n="（"/>即於當歸四逆加吳茱萸湯方去大棗加附子名通脈四逆湯<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p130s3">○辨誤</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p130s4">
+          <c n="（"/>俗醫以此方載在傷寒論厥陰篇以為治厥陰雲云證者誤也何則其證單曰手足厥寒而不曰厥陰病者蓋此方本在雜病論中而撰者眩手足厥寒四字遽移入於厥陰編者乎抑此方當歸建中湯之類方也夫當歸建中湯解血氣澀滯之證今更加木通細辛者備利寒飲而其厥寒者示血氣沉滯澀枯而且厥且寒而已非特有傷寒轉變厥陰危劇之證也故此方主治上衝下冷手足疼痹或不遂或腰腳弛痛等證<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p132">
+        <seg xml:id="KR3eu062_jc_000-p132s1">黃蓍桂枝五物湯<space n="　" quantity="1"/>
+          <c n="「"/>血痹之病從何得之師曰夫尊榮人骨弱肌膚盛重因疲勞汗出臥不時動搖加被微風遂得之但以脈自微澀在寸口關上小緊宜針引陽氣令脈和緊去則愈<c n="」"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p132s2">血痹<c n="「"/>陰陽俱微寸口關上微尺中小緊外證<c n="」"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p132s3">身體不仁如風痹狀</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p134">
+        <seg xml:id="KR3eu062_jc_000-p134s1">黃蓍<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>芍藥<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>桂枝<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>生薑<c n="("/>六兩<c n=")"/>
+          <space n="　" quantity="1"/>大棗</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p134s2">
+          <c n="（"/>十二枚<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p136">
+        <seg xml:id="KR3eu062_jc_000-p136s1">上五味以水六升煮取二升溫服七合日三服</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p138">
+        <seg xml:id="KR3eu062_jc_000-p138s1">黃蓍桂枝苦酒湯<space n="　" quantity="1"/>黃汗之為病身體腫發熱汗出而渴狀如風水汗沾衣色正黃如藥汁脈自沉</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p140">
+        <seg xml:id="KR3eu062_jc_000-p140s1">黃蓍<c n="("/>五兩<c n=")"/>
+          <space n="　" quantity="1"/>芍藥<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>桂枝<c n="("/>三兩<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p142">
+        <seg xml:id="KR3eu062_jc_000-p142s1">上三味以苦酒一升水七升相和煮取三升溫服一升當心煩服至六七日乃解若心煩不止者以苦酒阻故也</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p144">
+        <seg xml:id="KR3eu062_jc_000-p144s1">桂枝甘草湯</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p146">
+        <seg xml:id="KR3eu062_jc_000-p146s1">桂枝<c n="("/>四兩<c n=")"/>
+          <space n="　" quantity="1"/>甘草<c n="("/>二兩<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p148">
+        <seg xml:id="KR3eu062_jc_000-p148s1">上二味以水三升煮取一升去滓頓服○發汗過多其人又手自冒心心下悸欲得按者○方意</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p148s2">
+          <c n="（"/>發汗過多大亡津液虛氣急迫心下悸得按之而稍安桂枝甘草緩之此但備汗後邪去虛氣急迫之一證耳世醫以為萬病心下悸欲得按者皆主之者誤也<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p150">
+        <seg xml:id="KR3eu062_jc_000-p150s1">桂枝甘草龍骨牡蠣湯</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p152">
+        <seg xml:id="KR3eu062_jc_000-p152s1">桂枝<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>甘草<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>龍骨<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>牡蠣<c n="("/>二兩<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p154">
+        <seg xml:id="KR3eu062_jc_000-p154s1">上為末</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p154s2">
+          <c n="（"/>恐以龍骨牡蠣二味為末耳<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p154s3">以水五升煮取二升半去滓溫服八合日三服○火逆下之因燒針煩躁者</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p156">
+        <seg xml:id="KR3eu062_jc_000-p156s1">人參湯</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p156s2">
+          <c n="（"/>作丸名理中丸證治同<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p156s3">
+          <space n="　" quantity="1"/>霍亂頭痛發熱身疼痛熱多欲飲水者五苓散主之寒多不用水者理中丸主之○大病差後喜唾久不了了者○胸痹心中痞留氣結在胸胸下逆搶心枳實薤白桂枝湯主之人參湯亦主之</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p158">
+        <seg xml:id="KR3eu062_jc_000-p158s1">人參<space n="　" quantity="1"/>甘草<space n="　" quantity="1"/>術<space n="　" quantity="1"/>乾薑</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p158s2">
+          <c n="（"/>各三兩<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p160">
+        <seg xml:id="KR3eu062_jc_000-p160s1">上四味以水八升煮取三升去滓溫服一升日三服○易簡方云治為寒氣濕氣所中者理中加附子湯主之○明醫指掌云祛寒止嘔逆泄利心腹冷痛</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p160s2">
+          <c n="（"/>即附子理中湯<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p160s3">○方意</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p160s4">
+          <c n="（"/>比方理中焦不化故治諸病差後虛氣鬱滯黏液凝心胸喜唾久不止者<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p162">
+        <seg xml:id="KR3eu062_jc_000-p162s1">桂枝人參湯</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p162s2">
+          <c n="（"/>於理中湯方加桂枝四兩<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p164">
+        <seg xml:id="KR3eu062_jc_000-p164s1">太陽病外證未除而數下之遂協熱而利利下不止心下痞硬<c n="「"/>表裡不解者<c n="」"/>
+        </seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p164s2">
+          <c n="（"/>說具於系傳<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p164s3">○辨誤</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p164s4">
+          <c n="（"/>後世以人參為補綴元氣之聖藥者妄誕爾世醫用廣東人參以為補藥者愚之甚也蘭山小野氏曰廣東古昔南粵之地未聞產人參明一統志亦不記其地產人參或曰往歲廣東呂大珪者來崎陽時官吏話及廣東人參大珪答以不知矣壽竊為本草綱目三七條李時珍曰味微甘而苦頗似人參之味又名金不換其多能不換於金玉之美稱也所謂廣東人參蓋此物也此物能止澀散血產婦金瘡吐血下血用之多效故廣東人巧制其形謾命之名以欺愚人於萬里之外耳又或曰和名抄云人參和名久萬能伊此以其味之苦烈彷彿熊膽云爾其能特治心下痞硬之毒乃有以和產直根竹節等人參充之者然源順延喜年間人其時人參未來我邦何以徵其果為何物夫仲景氏所用韓參也代以偽參余不知其始於何世何人耳聞近世韓參產乏而清人責求以故來少而價騰不便貧民我邦諸國植韓參之種累年蓓蓰品味佳而有效唐山賈舶交易載還宜以充用焉<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p166">
+        <seg xml:id="KR3eu062_jc_000-p166s1">茯苓杏仁甘草湯<space n="　" quantity="1"/>胸痹心下氣塞短氣茯苓杏仁甘草湯主之橘枳薑湯亦主之</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p168">
+        <seg xml:id="KR3eu062_jc_000-p168s1">茯苓<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>杏仁</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p168s2">
+          <c n="（"/>五十個<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p168s3">
+          <space n="　" quantity="1"/>甘草<c n="("/>一兩<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p170">
+        <seg xml:id="KR3eu062_jc_000-p170s1">上三味以水一斗煮取五升溫服一升日三服不差更服○試效</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p170s2">
+          <c n="（"/>胸痛咯血或痰喘悸動短氣者以此方合小陷胸湯分量各半<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p172">
+        <seg xml:id="KR3eu062_jc_000-p172s1">茯苓乾薑白朮甘草湯<space n="　" quantity="1"/>腎著之病其人身重腰中冷如坐水中形如水狀反不渴小便自利飲食如故<c n="「"/>病屬下焦身勞汗出衣里冷濕久久得之<c n="」"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p172s2">腰以下冷痛腰重如帶五千錢</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p172s3">
+          <c n="（"/>此條為二段證治自分明<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p174">
+        <seg xml:id="KR3eu062_jc_000-p174s1">甘草<space n="　" quantity="1"/>術</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p174s2">
+          <c n="（"/>各二兩<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p174s3">
+          <space n="　" quantity="1"/>乾薑<space n="　" quantity="1"/>茯苓</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p174s4">
+          <c n="（"/>各四兩<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p176">
+        <seg xml:id="KR3eu062_jc_000-p176s1">上四味以水五升煮取三升分溫三服○婦人良方云治妊娠腰腳腫者</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p176s2">
+          <c n="（"/>方中有杏仁<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p178">
+        <seg xml:id="KR3eu062_jc_000-p178s1">茯苓桂枝白朮甘草湯<space n="　" quantity="1"/>心下有痰飲胸脅支滿○夫短氣有微飲當從小便去之苓桂朮甘湯主之腎氣丸亦主之</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p180">
+        <seg xml:id="KR3eu062_jc_000-p180s1">茯苓<c n="("/>四兩<c n=")"/>
+          <space n="　" quantity="1"/>桂枝<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>術<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>甘草<c n="("/>二兩<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p182">
+        <seg xml:id="KR3eu062_jc_000-p182s1">上四味以水六升煮取三升分溫三服○傷寒若吐若下後心下逆滿氣上衝胸起則頭眩脈沉緊者</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p182s2">
+          <c n="（"/>發汗則動經<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p182s3">身為振振搖者○辨誤</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p182s4">
+          <c n="（"/>此方載在傷寒論而方今病傷寒者不見一有如此證非可怪乎蓋因世醫之術之拙也夫仲景氏之治傷寒也專主用吐下之方苟能盡吐下之術大邪既除而後見此證者多矣故曰若吐若下後世醫乃畏吐下之藥如虎狼徒淫虛名無實之方劑不省仲景之深意以故凡傷寒以吐下之術可愈者皆以誤之宜乎今之病傷寒者殊不見有此證也<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p184">
+        <seg xml:id="KR3eu062_jc_000-p184s1">茯苓桂枝甘草大棗湯</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p186">
+        <seg xml:id="KR3eu062_jc_000-p186s1">茯苓<c n="("/>半斤<c n=")"/>
+          <space n="　" quantity="1"/>甘草<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>大棗</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p186s2">
+          <c n="（"/>十五枚<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p186s3">
+          <space n="　" quantity="1"/>桂枝<c n="("/>四兩<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p188">
+        <seg xml:id="KR3eu062_jc_000-p188s1">上四味以水一斗先煮茯苓減二升內諸藥取三升去滓溫服一升日三服○發汗後其人臍下悸者欲作奔豚</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p190">
+        <seg xml:id="KR3eu062_jc_000-p190s1">茯苓桂枝五味甘草湯</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p192">
+        <seg xml:id="KR3eu062_jc_000-p192s1">茯苓<c n="("/>四兩<c n=")"/>
+          <space n="　" quantity="1"/>桂枝<c n="("/>四兩<c n=")"/>
+          <space n="　" quantity="1"/>甘草<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>五味子<c n="("/>半升<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p194">
+        <seg xml:id="KR3eu062_jc_000-p194s1">上四味以水八升煮取三升去滓分溫三服○咳逆倚息不得臥小青龍湯主之青龍湯下已多唾口燥<c n="「"/>寸<c n="」"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p194s2">脈沉<c n="「"/>尺脈<c n="」"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p194s3">微手足厥逆氣從少腹上衝胸咽手足痹其面翕然如醉狀因復下流陰股小便難時覆冒者與苓桂五味甘草湯治其氣衝○沖氣即低而反更咳胸滿者用桂苓五味甘草湯去桂加細辛乾薑以治咳滿○咳滿即止而更復渴沖氣復發者<c n="「"/>以細辛乾薑為熱藥故也服之當遂渴而渴反止者為支飲也支飲者法<c n="」"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p194s4">當冒冒者嘔嘔者復內半夏<c n="「"/>以去其水<c n="」"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p194s5">○<c n="「"/>水去<c n="」"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p194s6">嘔止其人形腫者加杏仁<c n="("/>半斤<c n=")"/>○若面色如醉此胃熱上薰其面加大黃<c n="("/>三兩<c n=")"/>以利之</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p196">
+        <seg xml:id="KR3eu062_jc_000-p196s1">茯苓澤瀉湯<space n="　" quantity="1"/>胃反吐而渴欲飲水者</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p198">
+        <seg xml:id="KR3eu062_jc_000-p198s1">茯苓<c n="("/>半斤<c n=")"/>
+          <space n="　" quantity="1"/>澤瀉<c n="("/>四兩<c n=")"/>
+          <space n="　" quantity="1"/>甘草<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>桂枝<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>術<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>生薑<c n="("/>四兩<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p200">
+        <seg xml:id="KR3eu062_jc_000-p200s1">上六味以水一斗煮取三升溫服一升日三服○</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p200s2">
+          <c n="（"/>霍亂吐利煩躁渴欲飲水水入則吐吐則思水者<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p200s3">○方意</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p200s4">
+          <c n="（"/>此方於苓桂朮甘湯方加澤瀉生薑其分量雖稍異其主治蓄飲也而此證重於苓桂朮甘湯一等故證曰吐而渴蓋吐者飲毒逆於上也渴者已吐盡而復招新水也治唯在通利蓄水爾<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p202">
+        <seg xml:id="KR3eu062_jc_000-p202s1">澤瀉湯<space n="　" quantity="1"/>心下有支飲其人苦冒眩</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p204">
+        <seg xml:id="KR3eu062_jc_000-p204s1">澤瀉<c n="("/>五兩<c n=")"/>
+          <space n="　" quantity="1"/>白朮<c n="("/>二兩<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p206">
+        <seg xml:id="KR3eu062_jc_000-p206s1">上二味以水二升煮取一升分溫再服○方意</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p206s2">
+          <c n="（"/>苦冒眩者飲毒上行之所致澤瀉白朮泄之<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p208">
+        <seg xml:id="KR3eu062_jc_000-p208s1">豬苓湯<space n="　" quantity="1"/>發熱渴欲飲水小便不利者</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p208s2">
+          <c n="（"/>妊娠七八個月面目浮腫小便少者俗謂之子胎豬苓湯主之<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p210">
+        <seg xml:id="KR3eu062_jc_000-p210s1">豬苓<space n="　" quantity="1"/>茯苓<space n="　" quantity="1"/>阿膠<space n="　" quantity="1"/>滑石<space n="　" quantity="1"/>澤瀉</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p210s2">
+          <c n="（"/>各等分<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p212">
+        <seg xml:id="KR3eu062_jc_000-p212s1">上五味以水四升先煮四味取二升去滓內下阿膠烊消溫服七合日三服○少陰病下利六七日咳而嘔渴心煩不得眠者○試效</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p212s2">
+          <c n="（"/>尿血膿淋加海金砂大黃甘草佳<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p214">
+        <seg xml:id="KR3eu062_jc_000-p214s1">葛根湯<space n="　" quantity="1"/>太陽中風項背強𠘧𠘧無汗惡風○太陽與陽明合病者必自下利葛根湯主之不下利但嘔者葛根加半夏湯主之</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p214s2">
+          <c n="（"/>上二章說具於系傳<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p216">
+        <seg xml:id="KR3eu062_jc_000-p216s1">葛根<c n="("/>四兩<c n=")"/>
+          <space n="　" quantity="1"/>桂枝<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>麻黃<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>芍藥<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>甘草<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>生薑<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>大棗</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p216s2">
+          <c n="（"/>十二枚<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p218">
+        <seg xml:id="KR3eu062_jc_000-p218s1">上七味㕮咀以水七升先煮麻黃葛根減二升去上沫內諸藥煮取三升去滓溫服一升覆取微似汗不須歠粥余如桂枝法將息及禁忌○辨誤</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p218s2">
+          <c n="（"/>東洞氏嘗於葛根湯方加大黃治一切肌表之瘡毒俚醫雷同以為外發內泄兼解之上手段者誤矣東洞之加大黃也其分量僅僅要在使大黃附葛根湯發散之驥尾以解毒於肌表耳<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p220">
+        <seg xml:id="KR3eu062_jc_000-p220s1">葛根黃連黃芩湯</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p222">
+        <seg xml:id="KR3eu062_jc_000-p222s1">葛根<c n="("/>半斤<c n=")"/>
+          <space n="　" quantity="1"/>黃連<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>黃芩<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>甘草<c n="("/>二兩<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p224">
+        <seg xml:id="KR3eu062_jc_000-p224s1">上四味以水八升先煮葛糧減二升內諸藥煮取二升去滓分溫再服○太陽病桂枝證醫反下之利遂不止<c n="「"/>脈促者表未解也<c n="」"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p224s2">喘而汗出者</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p224s3">
+          <c n="（"/>說具於系傳<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p224s4">○發明</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p224s5">
+          <c n="（"/>世醫以此方為治協熱利者妄也又以為治項背強急而心煩心下痞者誤也蓋葛根之為能融化強急之毒故配之桂麻則治項背強𠘧𠘧者配之芩連則治熱毒內陷而胸肺強急之證曰胸中之強急何以徵之曰喘也汗也是胸肺強急之邪迫於上薰於外之兆所謂病應見於大表者是也夫葛花之解酒毒亦在治強急之毒而已蓋酒氣之瀰淪人身也氣血奔騰迸而亦蹶苟蹶則沉滯而為身體強急之證察葛花能解酒毒而葛根配諸藥之能可知矣<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p226">
+        <seg xml:id="KR3eu062_jc_000-p226s1">麻黃湯<space n="　" quantity="1"/>太陽病頭痛發熱身疼腰痛骨節疼痛惡風無汗而喘者○<c n="「"/>太陽與陽明合病<c n="」"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p226s2">喘而胸滿者○<c n="「"/>陽明病<c n="」"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p226s3">脈浮無汗而喘者發汗則愈</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p226s4">
+          <c n="（"/>上三章說具於系傳<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p228">
+        <seg xml:id="KR3eu062_jc_000-p228s1">麻黃<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>桂枝<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>甘草<c n="("/>一兩<c n=")"/>
+          <space n="　" quantity="1"/>杏仁</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p228s2">
+          <c n="（"/>七十個<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p230">
+        <seg xml:id="KR3eu062_jc_000-p230s1">上四味以水九升先煮麻黃減二升去上沫內諸藥煮取二升半去滓溫服八合覆取微似汗不須歠粥余如桂枝法將息○濕家身煩疼可與麻黃加朮湯</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p230s2">
+          <c n="（"/>於麻黃湯方加蒼朮四兩<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p230s3">○三因方云治寒濕身體疼煩無汗惡寒發熱者○方意</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p230s4">
+          <c n="（"/>千金方云麻黃通肉之藥蓋麻黃湯之為能發散肉分之邪則當覆取汗是乃正也若夫通散肉中壅滯之水濕則麻黃加朮湯之所之乃不須覆取汗是乃奇也<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p232">
+        <seg xml:id="KR3eu062_jc_000-p232s1">麻黃附子細辛湯<space n="　" quantity="1"/>少陰病始得之反發熱脈沉者</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p232s2">
+          <c n="（"/>說具於系傳<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p234">
+        <seg xml:id="KR3eu062_jc_000-p234s1">麻黃<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>細辛<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>附子<c n="("/>一枚<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p236">
+        <seg xml:id="KR3eu062_jc_000-p236s1">上三味以水一斗先煮麻黃減二升去上沫內諸藥煮取三升去滓溫服一升日三服</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p238">
+        <seg xml:id="KR3eu062_jc_000-p238s1">麻黃附子甘草湯</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p238s2">
+          <c n="（"/>於麻黃附子細辛湯方去細辛加甘草二兩<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p240">
+        <seg xml:id="KR3eu062_jc_000-p240s1">少陰病得之二三日麻黃附子甘草湯微發汗<c n="「"/>以二三日無里證故發汗也<c n="」"/>
+        </seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p240s2">
+          <c n="（"/>說具於系傳<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p242">
+        <seg xml:id="KR3eu062_jc_000-p242s1">麻黃杏仁甘草石膏湯</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p244">
+        <seg xml:id="KR3eu062_jc_000-p244s1">麻黃<c n="("/>四兩<c n=")"/>
+          <space n="　" quantity="1"/>杏仁</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p244s2">
+          <c n="（"/>五十個<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p244s3">
+          <space n="　" quantity="1"/>石膏<c n="("/>半斤<c n=")"/>
+          <space n="　" quantity="1"/>甘草<c n="("/>二兩<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p246">
+        <seg xml:id="KR3eu062_jc_000-p246s1">上四味以水七升先煮麻黃減二升去上沫內諸藥煮取二升去滓溫服一升</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p246s2">
+          <c n="（"/>諸壯熱咳逆喘促小兒熱渴喘急加蘇子桑白皮佳<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p246s3">○發汗後</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p246s4">
+          <c n="（"/>不可更行桂枝湯<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p246s5">汗出而喘無大熱者</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p246s6">
+          <c n="（"/>說具於系傳<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p248">
+        <seg xml:id="KR3eu062_jc_000-p248s1">麻黃杏仁薏苡甘草湯<space n="　" quantity="1"/>病者一身悉痛發熱日晡所劇者名風濕<c n="「"/>此病傷於汗出當風或久取冷所致也<c n="」"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p250">
+        <seg xml:id="KR3eu062_jc_000-p250s1">麻黃<c n="("/>半兩<c n=")"/>
+          <space n="　" quantity="1"/>甘草<c n="("/>一兩<c n=")"/>
+          <space n="　" quantity="1"/>薏苡<c n="("/>半兩<c n=")"/>
+          <space n="　" quantity="1"/>杏仁<c n="("/>十個<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p252">
+        <seg xml:id="KR3eu062_jc_000-p252s1">上四味以水五升煮取二升分溫再服○外臺云濕家始得病特可與薏苡麻黃湯</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p252s2">
+          <c n="（"/>即此方也<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p254">
+        <seg xml:id="KR3eu062_jc_000-p254s1">牡蠣湯<space n="　" quantity="1"/>治牡瘧</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p256">
+        <seg xml:id="KR3eu062_jc_000-p256s1">牡蠣<c n="("/>四兩<c n=")"/>
+          <space n="　" quantity="1"/>麻黃<c n="("/>四兩<c n=")"/>
+          <space n="　" quantity="1"/>甘草<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>蜀漆<c n="("/>三兩<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p258">
+        <seg xml:id="KR3eu062_jc_000-p258s1">上四味以水八升先煮蜀漆麻黃去上沫內諸藥煮取二升溫服若吐則勿更服</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p258s2">
+          <c n="（"/>凡瘧疾服常山蜀漆之類得吐則多瘧毒截斷故止服若夫吐而後仍疾不去者可更數服<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p260">
+        <seg xml:id="KR3eu062_jc_000-p260s1">小青龍湯<space n="　" quantity="1"/>傷寒表不解心下有水氣乾嘔發熱而咳或渴或利或噎或小便不利少腹滿或喘者○傷寒心下有水氣咳而微喘發熱不渴<c n="「"/>服湯已渴者此寒去欲解也<c n="」"/>
+        </seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p260s2">
+          <c n="（"/>說具於系傳<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p262">
+        <seg xml:id="KR3eu062_jc_000-p262s1">麻黃<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>芍藥<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>乾薑<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>甘草<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>桂枝<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>半夏<c n="("/>半升<c n=")"/>
+          <space n="　" quantity="1"/>細辛<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>五味子<c n="("/>半升<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p264">
+        <seg xml:id="KR3eu062_jc_000-p264s1">上八味以水一斗先煮麻黃減二升去上沫內諸藥煮取三升去滓溫服一升○病溢飲者當發其汗○咳逆倚息不得臥○肺脹咳而上氣煩躁而喘脈浮小青龍加石膏湯主之○</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p264s2">
+          <c n="（"/>此方發輸傷寒外邪內感著固有之水飲者是乃正也若夫治溢飲及咳逆上氣肺脹等證者乃奇也<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p266">
+        <seg xml:id="KR3eu062_jc_000-p266s1">大青龍湯<space n="　" quantity="1"/>太陽中風脈浮緊發熱惡寒身疼痛不汗出而煩躁者○傷寒脈浮緩身不疼但重乍有輕時</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p266s2">
+          <c n="（"/>無少陰證者<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p266s3">大青龍湯發之</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p266s4">
+          <c n="（"/>上二章說具於系傳<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p268">
+        <seg xml:id="KR3eu062_jc_000-p268s1">麻黃<c n="("/>六兩<c n=")"/>
+          <space n="　" quantity="1"/>桂枝<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>甘草<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>杏仁</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p268s2">
+          <c n="（"/>四十個<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p268s3">
+          <space n="　" quantity="1"/>生薑<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>大棗</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p268s4">
+          <c n="（"/>十二枚<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p268s5">
+          <space n="　" quantity="1"/>石膏</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p268s6">
+          <c n="（"/>雞子大<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p270">
+        <seg xml:id="KR3eu062_jc_000-p270s1">上七味以水九升先煮麻黃去上沫內諸藥煮取三升去滓溫服一升取微似汗○病溢飲者當發其汗大青龍湯主之小青龍湯亦主之</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p270s2">
+          <c n="（"/>當有面部四肢微腫咳逆喘嗽等證<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p272">
+        <seg xml:id="KR3eu062_jc_000-p272s1">越婢湯<space n="　" quantity="1"/>風水惡風一身悉浮腫不渴續自汗出無大熱者○里水一身面目黃腫其脈沉小便不利越婢加朮<c n="("/>四兩<c n=")"/>湯主之○咳而上氣此為肺脹其人喘目如脫狀脈浮大者越婢加半夏湯主之</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p274">
+        <seg xml:id="KR3eu062_jc_000-p274s1">麻黃<c n="("/>六兩<c n=")"/>
+          <space n="　" quantity="1"/>石膏<c n="("/>半升<c n=")"/>
+          <space n="　" quantity="1"/>生薑<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>大棗</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p274s2">
+          <c n="（"/>十二枚<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p274s3">
+          <space n="　" quantity="1"/>甘草<c n="("/>二兩<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p276">
+        <seg xml:id="KR3eu062_jc_000-p276s1">上五味以水六升先煮麻黃去上沫內諸藥煮取三升分溫三服○千金方云治風痹腳弱又云治妊娠腫滿喘息小便不利</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p276s2">
+          <c n="（"/>於本方內加附子一枚蒼朮四兩<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p276s3">○辨誤</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p276s4">
+          <c n="（"/>世醫每值水腫之病輒用此方兼與他丸散峻下之藥適有得愈則歸功此方惑也越婢之為能主治濕熱發越於一身而腫者耳何能悉治一切之腫滿<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p278">
+        <seg xml:id="KR3eu062_jc_000-p278s1">小柴胡湯<space n="　" quantity="1"/>傷寒六七日中風往來寒熱胸脅苦滿默默不欲飲食心煩喜嘔或胸中煩而不嘔或渴或腹中痛或胸下痞硬或心下悸小便不利或不渴身有微熱或咳者○太陽病十日已去<c n="「"/>脈浮細而嗜臥者外已解也<c n="」"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p278s2">設胸滿胸痛者小柴胡湯主之○<c n="「"/>血弱氣盡腠理開邪氣因入與正氣相搏結於胸下正邪分爭<c n="」"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p278s3">往來寒熱休作有時默默不欲飲食或嘔者○傷寒四五日身熱惡風頸項強胸下滿手足溫而渴者○傷寒五六日嘔而發熱者○陽明病發潮熱大便溏小便自可胸脅滿不去者○陽明病脅下硬滿不大便而嘔舌上白胎者</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p278s4">
+          <c n="（"/>白胎者熱未實小柴胡湯主之若黃胎熱已實則大小承氣湯主之<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p278s5">○本太陽病不解因轉入少陽胸下硬滿乾嘔不能食往來寒熱<c n="「"/>尚未吐下脈沉緊者<c n="」"/>
+        </seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p278s6">
+          <c n="（"/>以上八章說具於系傳<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p280">
+        <seg xml:id="KR3eu062_jc_000-p280s1">柴胡<c n="("/>半斤<c n=")"/>
+          <space n="　" quantity="1"/>黃芩<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>人參<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>半夏<c n="("/>半升<c n=")"/>
+          <space n="　" quantity="1"/>生薑<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>大棗</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p280s2">
+          <c n="（"/>十二枚<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p280s3">
+          <space n="　" quantity="1"/>甘草<c n="("/>三兩<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p282">
+        <seg xml:id="KR3eu062_jc_000-p282s1">上七味以水一斗二升煮取六升去滓再煎取三升溫服一升日三服○<c n="「"/>得病六七日脈遲浮弱惡風寒手足溫<c n="」"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p282s2">醫二三下之不能食而胸下滿面目及身黃頸項強小便難者與小柴胡湯○嘔而發熱者</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p282s3">
+          <c n="（"/>是泛指雜病非專為傷寒而言<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p282s4">○諸黃腹痛而嘔者○婦人在草褥自發露得風四肢苦煩熱頭痛者○瘧病發渴者柴胡去半夏加栝蔞<c n="("/>四兩<c n=")"/>湯主之○證治要訣云傷寒胸脅俱痛頭痛耳聾口苦或渴或嘔大小便或利或不利往來寒熱如瘧○蘇東坡云近歲此藥大行患傷寒不問陰陽表裡皆令服之此甚誤也此藥傷寒論雖主數十證大要其間有五證最的當服之必愈一者身熱心中逆或嘔吐者可服傷寒此證最多正當服小柴胡湯若因渴飲水而嘔者不可服身體不溫熱者不可服仍當識此二者寒熱往來者三者發潮熱可服四者心煩胸下滿或渴或不渴皆可服五者傷寒已差後更發熱者可服此五證但有一證可服○辨誤</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p282s5">
+          <c n="（"/>論曰傷寒中風有柴胡證但見一證便是不必悉具者如坡翁之說也若夫以胸脅苦滿之一證當之者妄矣<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p284">
+        <seg xml:id="KR3eu062_jc_000-p284s1">柴胡加芒硝湯</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p284s2">
+          <c n="（"/>於小柴胡湯方加芒硝六兩<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p286">
+        <seg xml:id="KR3eu062_jc_000-p286s1">傷寒十三日不解胸脅滿而嘔日哺所發潮熱</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p286s2">
+          <c n="（"/>已而微利此本柴胡證下之不得利今反利者知醫以丸藥下之非其治也<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p286s3">潮熱者實也先宜小柴胡湯以解外後以柴胡加芒硝湯主之</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p286s4">
+          <c n="（"/>○世醫以為加於大柴胡湯者誤也說具於系傳<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p288">
+        <seg xml:id="KR3eu062_jc_000-p288s1">柴胡桂枝湯<space n="　" quantity="1"/>傷寒六七日發熱微惡寒肢節煩疼微嘔心下支結<c n="「"/>外證未去者<c n="」"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p288s2">○心腹卒中痛</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p290">
+        <seg xml:id="KR3eu062_jc_000-p290s1">柴胡<c n="("/>四兩<c n=")"/>
+          <space n="　" quantity="1"/>人參<c n="("/>一兩<c n=")"/>
+          <space n="　" quantity="1"/>黃芩<c n="("/>一兩<c n=")"/>
+          <space n="　" quantity="1"/>甘草<c n="("/>一兩<c n=")"/>
+          <space n="　" quantity="1"/>半夏<c n="("/>二合<c n=")"/>
+          <space n="　" quantity="1"/>芍藥</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p290s2">
+          <c n="（"/>一兩半<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p290s3">
+          <space n="　" quantity="1"/>大棗<c n="("/>六枚<c n=")"/>
+          <space n="　" quantity="1"/>桂枝<c n="("/>一兩<c n=")"/>
+          <space n="　" quantity="1"/>生薑</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p290s4">
+          <c n="（"/>一兩半<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p292">
+        <seg xml:id="KR3eu062_jc_000-p292s1">上九味以水七升煮取三升去滓溫服一升日三服○發汗多亡陽譫語者不可下與柴胡加桂湯</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p292s2">
+          <c n="（"/>說具於系傳<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p292s3">○外臺云治寒疝腹中痛○辨誤</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p292s4">
+          <c n="（"/>世醫以此方為兼解表裡之邪氣者妄也豈有同滾同沸之藥汁一旦下咽入胃之後各自分賦於某經某臟之理乎不思之甚也說具於系傳<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p294">
+        <seg xml:id="KR3eu062_jc_000-p294s1">柴胡桂枝幹薑湯<space n="　" quantity="1"/>瘧寒多微有熱或但寒不熱者</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p294s2">
+          <c n="（"/>東洞曰當有胸動及渴證<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p296">
+        <seg xml:id="KR3eu062_jc_000-p296s1">柴胡<c n="("/>半斤<c n=")"/>
+          <space n="　" quantity="1"/>黃芩<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>桂枝<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>乾薑<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>牡蠣<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>甘草<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>栝蔞根<c n="("/>四兩<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p298">
+        <seg xml:id="KR3eu062_jc_000-p298s1">上七味以水一斗二升煮取六升去滓再煎取三升溫服一升日三服○傷寒五六日已發汗而復下之胸脅滿微結小便不利渴而不嘔但頭汗出往來寒熱心煩者</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p298s2">
+          <c n="（"/>說具於系傳<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p300">
+        <seg xml:id="KR3eu062_jc_000-p300s1">大柴胡湯<space n="　" quantity="1"/>傷寒十餘日熱結在裡復往來寒熱者○傷寒發熱汗出不解心下痞硬嘔吐而下利者當下之○按之心下滿痛者此為實也</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p302">
+        <seg xml:id="KR3eu062_jc_000-p302s1">柴胡<c n="("/>半斤<c n=")"/>
+          <space n="　" quantity="1"/>黃芩<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>芍藥<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>半夏<c n="("/>半斤<c n=")"/>
+          <space n="　" quantity="1"/>枳實<c n="("/>四枚<c n=")"/>
+          <space n="　" quantity="1"/>甘草<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>大棗</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p302s2">
+          <c n="（"/>十二枚<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p302s3">
+          <space n="　" quantity="1"/>大黃<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>生薑<c n="("/>五兩<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p304">
+        <seg xml:id="KR3eu062_jc_000-p304s1">上九味以水一斗二升煮取六升去滓再煎取三升溫服一升日三服</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p304s2">
+          <c n="（"/>方中恐脫甘草二兩四字論曰與大柴胡湯下之則愈而脫大黃二兩主藥且有脫落於甘草何怪也蓋傷寒論中柴胡劑皆有甘草其無之者唯此一方耳不可不察焉<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p304s3">○太陽病<c n="「"/>過經<c n="」"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p304s4">十餘日反二三下之後四五日柴胡證仍在者先與小柴胡湯嘔不止心下急鬱郁微煩者與大柴胡湯下之則愈○外臺云療傷寒八九日不解心腹緊滿身體疼痛內外有煩熱嘔不安○救正論云治傷寒目眩耳聾舌有黃胎煩渴索水絕食兩日少動呼胸腹脅肋皆痛大便下赤水小便赤澀脈沉緩囊未縮者○和劑云治外感風寒內傷飲食鬱結在裡身熱煩躁語言譫妄大便不通繞臍刺痛○丹溪心法附錄云治傷寒十餘日邪氣結在裡寒熱往來大便秘澀腹滿脹痛語言譫妄必中痞硬飲食不下口生白胎不大便五六日繞臍刺痛時發煩躁及汗後如瘧日晚發熱或發熱汗出脈有力者可服○試效</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p304s5">
+          <c n="（"/>痢疾壯熱臍腹絞痛或乾嘔或吐逆者又急患積聚二便不利上搶心腹脹滿害食者皆主之<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p306">
+        <seg xml:id="KR3eu062_jc_000-p306s1">柴胡加龍骨牡蠣湯</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p308">
+        <seg xml:id="KR3eu062_jc_000-p308s1">柴胡<c n="("/>四兩<c n=")"/>
+          <space n="　" quantity="1"/>半夏<c n="("/>二合<c n=")"/>
+          <space n="　" quantity="1"/>大棗<c n="("/>六枚<c n=")"/>
+          <space n="　" quantity="1"/>生薑<space n="　" quantity="1"/>人參<space n="　" quantity="1"/>龍骨<space n="　" quantity="1"/>鉛丹<space n="　" quantity="1"/>桂枝<space n="　" quantity="1"/>茯苓</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p308s2">
+          <c n="（"/>各一兩半<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p308s3">
+          <space n="　" quantity="1"/>大黃<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>牡蠣</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p308s4">
+          <c n="（"/>一兩半<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p310">
+        <seg xml:id="KR3eu062_jc_000-p310s1">上十一味以水八升煮取四升內大黃切如博棋子更煮一二沸去滓溫服一升○傷寒八九日下之胸滿煩驚小便不利譫語一身悉重不可轉側者</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p310s2">
+          <c n="（"/>說具於系傳<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p310s3">○傷寒類方云此方能下肝膽之驚疾以之療癲癇必效○經驗集錄云小兒連日壯熱實滯不去寒熱往來驚悸○方意</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p310s4">
+          <c n="（"/>此方鎮攝邪毒結滯心胸而迫於上者本草鉛丹條云治吐逆反胃驚癇癲疾又云治驚悸狂走由之求方意思過半矣<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p312">
+        <seg xml:id="KR3eu062_jc_000-p312s1">白虎湯<space n="　" quantity="1"/>
+          <c n="「"/>三陽合病<c n="」"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p312s2">腹滿身重難以轉側口不仁而面垢譫語遺尿<c n="「"/>發汗則譫語下之則額上生汗<c n="」"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p312s3">手足逆冷若自汗出者○傷寒脈滑而厥者</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p312s4">
+          <c n="（"/>上二章說具於系傳<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p314">
+        <seg xml:id="KR3eu062_jc_000-p314s1">知母<c n="("/>六兩<c n=")"/>
+          <space n="　" quantity="1"/>石膏<c n="("/>一斤<c n=")"/>
+          <space n="　" quantity="1"/>甘草<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>粳米<c n="("/>六合<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p316">
+        <seg xml:id="KR3eu062_jc_000-p316s1">上四味以水一斗煮米熟湯成去滓溫服一升日三服○宣明方云治傷風自汗桂枝證表未解半入於裡中暑自汗脈虛弱傷寒自汗脈滑數而實表裡俱實三陽合病腹滿身重口燥面垢譫語發黃厥逆自汗和解兩感解頭痛止自汗雜病時疫煩渴發斑兼治小兒疱瘡疹伏熱</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p318">
+        <seg xml:id="KR3eu062_jc_000-p318s1">白虎加桂枝湯</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p318s2">
+          <c n="（"/>於白虎湯方加桂枝三兩<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p320">
+        <seg xml:id="KR3eu062_jc_000-p320s1">溫瘧者其脈如平身無寒但熱骨節煩疼時嘔白虎加桂湯主之○聖劑總錄云治溫瘧骨節疼痛時嘔朝發暮解暮發朝解白虎加桂湯主方○明醫指掌云妊娠傷寒身自汗出煩渴唇焦○證治要訣云若初得病頭痛心熱外別有陽證至五日方發厥其人雖厥或畏熱或飲水或揚手擲足煩躁不得眠大便秘小便赤多昏憒者此熱厥也宜白虎湯</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p320s2">
+          <c n="（"/>熱厥雖手足冷而指甲暖不若寒厥並指甲俱冷此辨陰陽要法也<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p320s3">○活人書云其人傷濕因而中暑名濕溫兩脛遂冷胸滿頭目疼重妄言多汗陽脈濡而弱陰脈小而急反煩渴引飲者切不可汗之汗之必死蒼朮白虎湯主之○發明</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p320s4">
+          <c n="（"/>世醫以粳米為益氣和胃止煩止渴者誤也白虎證曰煩渴曰大煩渴曰身熱而渴曰渴欲飲水數升此伏熱之所為而石膏消解之方此時與冷粥汁亦必飲數盞何賴一匕之粳米益之和之止之之為竊按石膏性降沉煮之釜中為殷殷之聲不與水親故使粳米黏石氣以混成藥汁此古人制方之微意也<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p320s5">○試效</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p320s6">
+          <c n="（"/>白虎湯證而心煩悶亂或潮熱狂躁罵詈逾垣上屋者加黃連<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p322">
+        <seg xml:id="KR3eu062_jc_000-p322s1">白虎加人參湯</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p322s2">
+          <c n="（"/>於白虎湯方加人參三兩<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p324">
+        <seg xml:id="KR3eu062_jc_000-p324s1">傷寒無大熱口燥渴心煩背微惡寒者○傷寒脈浮發熱無汗其表不解者不可與白虎湯渴欲飲水口乾舌燥者○服桂枝湯大汗出後大煩渴不解脈洪大者白虎加人參湯主之○傷寒若吐若下後七八日不解熱結在裡表裡俱熱時時惡風舌上乾燥而渴欲飲水數升者</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p324s2">
+          <c n="（"/>東洞曰千金外臺同作白虎湯主之而曰傷寒論方今從之此說是也<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p324s3">○大陽中熱者暍是也汗出惡寒身熱而渴</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p324s4">
+          <c n="（"/>上四章說具於系傳<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p324s5">○徐同知曰治伏暑發渴嘔吐身熱脈虛自汗○辨誤</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p324s6">
+          <c n="（"/>世醫見白虎加人參湯證曰汗後吐後下後乃以為加人參補益虛陽者妄也又曰治白虎湯證而心下痞硬者亦誤也蓋人參之為能鼓舞虛氣今於白虎湯方加人參者即欲使人參佐白虎湯以鼓舞虛氣助消散伏熱之力也學者思諸<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p326">
+        <seg xml:id="KR3eu062_jc_000-p326s1">厚朴大黃湯<space n="　" quantity="1"/>支飲胸滿者</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p328">
+        <seg xml:id="KR3eu062_jc_000-p328s1">厚朴<c n="("/>一尺<c n=")"/>
+          <space n="　" quantity="1"/>大黃<c n="("/>六兩<c n=")"/>
+          <space n="　" quantity="1"/>枳實<c n="("/>四枚<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p330">
+        <seg xml:id="KR3eu062_jc_000-p330s1">上三味以水五升煮取二升分溫再服</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p332">
+        <seg xml:id="KR3eu062_jc_000-p332s1">厚朴三物湯<space n="　" quantity="1"/>痛而閉者</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p334">
+        <seg xml:id="KR3eu062_jc_000-p334s1">厚朴<c n="("/>八兩<c n=")"/>
+          <space n="　" quantity="1"/>大黃<c n="("/>四兩<c n=")"/>
+          <space n="　" quantity="1"/>枳實<c n="("/>五枚<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p336">
+        <seg xml:id="KR3eu062_jc_000-p336s1">上三味以水一斗二升先煮二味取五升內大黃煮取三升溫服一升○醫通云痛而閉塞無雷鳴嘔逆之證者當下之</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p338">
+        <seg xml:id="KR3eu062_jc_000-p338s1">厚朴七物湯<space n="　" quantity="1"/>病腹滿發熱十日脈浮而數飲食如故</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p340">
+        <seg xml:id="KR3eu062_jc_000-p340s1">厚朴<c n="("/>半斤<c n=")"/>
+          <space n="　" quantity="1"/>大黃<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>枳實<c n="("/>五枚<c n=")"/>
+          <space n="　" quantity="1"/>甘草<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>大棗</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p340s2">
+          <c n="（"/>十二枚<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p340s3">
+          <space n="　" quantity="1"/>桂枝<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>生薑<c n="("/>五兩<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p342">
+        <seg xml:id="KR3eu062_jc_000-p342s1">上七味以水一斗煮取四升溫服八合日三服○千金云治腹滿氣脹○試效</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p342s2">
+          <c n="（"/>腹滿不大便而嘔者痢疾發熱脈數或手足怠惰或腹中刺痛者加芍藥<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p342s3">○辨誤</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p342s4">
+          <c n="（"/>世醫以為發熱脈浮數者桂枝去芍藥湯之所主而腹滿者厚朴三物湯之所治故合此二方以制方者妄也蓋曰發熱十日者示病之未深也夫腹滿日淺者未至大滿而精氣仍能抗之故必發熱也若夫腹滿數十日滿脹稍大者精氣衰弱而不能抗於毒是以不復發熱飲食不如故也故舉發熱之日數以見病之淺日發病僅十日示其腹滿將漸大之機也又曰飲食如故示未至妨食道也<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p344">
+        <seg xml:id="KR3eu062_jc_000-p344s1">小承氣湯</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p346">
+        <seg xml:id="KR3eu062_jc_000-p346s1">大黃<c n="("/>四兩<c n=")"/>
+          <space n="　" quantity="1"/>厚朴<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>枳實<c n="("/>三兩<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p348">
+        <seg xml:id="KR3eu062_jc_000-p348s1">已上三味以水四升煮取一升二合去滓分溫二服○陽明病脈遲雖汗出不惡寒者其身必重短氣腹滿而喘<c n="「"/>有潮熱者此外欲解可攻裡也<c n="」"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p348s2">手足濈然汗出者此大便已硬也大承氣湯主之<c n="「"/>若汗多微發熱惡寒者外未解也<c n="」"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p348s3">其熱不潮未可與承氣湯若大便不通者可與小承氣湯微和胃氣勿令大泄下○傷寒不大便六七日頭痛有熱者與承氣湯其小便清者知不在裡仍在表也當發汗○陽明病其人汗出多以津液外出胃中燥大便必硬硬則譫語小承氣湯主之○陽明病譫語發潮熱脈滑而疾者○太陽病若吐若下若發汗微煩小便數大便因硬者○下利譫語者有燥屎也○大便不通噦數譫語</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p348s4">
+          <c n="（"/>上二章不問何病皆主之<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p348s5">○發明</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p348s6">
+          <c n="（"/>傷寒論金匱要略中有同方而三名者焉厚朴三物湯厚朴大黃湯小承氣湯是也但其分量或厚朴減於枳實或枳實減於厚朴要之皆以大黃為主若方中缺大黃則不成方或缺枳實或缺厚朴皆無損於治病苟無損於治病則無論二物之增減而可也壽按本是厚朴三物湯仲景氏當活用之於傷寒之時更命承氣之名而已夫承者順也傷寒純熱閉實於腸胃大黃厚朴枳實並盪滌之力承順其結實之氣以導之於屎道其劇者加芒硝以強藥力是仲景氏所以革三物之名更命承氣之名也學者欲知承氣湯之正宜就三方之條而求焉<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p350">
+        <seg xml:id="KR3eu062_jc_000-p350s1">大承氣湯<space n="　" quantity="1"/>病腹中滿痛者○下利三部脈皆平按之心下硬者急下之○下利瘥後至其年月日時復發者以病不盡故也當下之</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p352">
+        <seg xml:id="KR3eu062_jc_000-p352s1">大黃<c n="("/>四兩<c n=")"/>
+          <space n="　" quantity="1"/>厚朴<c n="("/>半斤<c n=")"/>
+          <space n="　" quantity="1"/>枳實<c n="("/>五枚<c n=")"/>
+          <space n="　" quantity="1"/>芒硝<c n="("/>三合<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p354">
+        <seg xml:id="KR3eu062_jc_000-p354s1">上四味以水一斗先煮二物取五升去滓內大黃煮取二升去滓內芒硝更上火微一兩沸分溫再服得下余勿服</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p354s2">
+          <c n="（"/>得下則勿服者是傷寒之治法而候下後之變者也至若治它病以瘥為度<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p354s3">○傷寒若吐若下後不解不大便五六日上至十餘日日晡所發潮熱不惡寒獨語如見鬼狀若劇者發則不知人循衣摸床惕而不安微喘直視譫語者○陽明病譫語有潮熱反不能食者有燥屎也若能食者但硬爾○汗出譫語者有燥屎須下之○<c n="「"/>二陽並病<c n="」"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p354s4">太陽證罷但發潮熱手足漐漐汗出大便難而譫語者○病人煩熱汗出則解又如瘧狀日晡所發熱脈實者○病人小便不利大便乍難乍易時有微熱喘冒不能臥者有燥屎也○傷寒五六日目中不了了睛不和大便難身微熱者急下之○陽明病發熱汗出者急下之○少陰病自利清水色純青心下必痛口乾燥者急下之○大下後六七日不大便煩不解腹滿痛者</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p354s5">
+          <c n="（"/>上十二章說具於系傳<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p354s6">○痙之為病胸滿口禁臥不著席腳攣急必齘齒○產後七八日少腹堅痛此惡露不盡不大便煩躁發熱譫語者</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p354s7">
+          <c n="（"/>少腹堅痛惡露不盡者宜桃仁承氣湯以逐血氣而今有煩躁者是胃家實也與大承氣湯以瀉其實則惡露隨而盡也<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p354s8">○必讀云治傷寒八九日以來口不能言目不能視體不能動四肢俱冷六脈皆無以手按腹兩手護之皮皺作楚趺陽脈大而有力乃腹有燥屎也遂下之得燥屎六七枚口能言體能動○醫通云病人熱甚脈未數實欲登高棄衣罵詈不避親疏蓋陽盛則四肢實四肢實則能登高也大承氣湯主之又云胃中有燥屎大熱錯譫喘滿神昏不得眠</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p354s9">
+          <c n="（"/>胃中只泛指腹臟內而言耳<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p354s10">○辨誤</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p354s11">
+          <c n="（"/>世醫以為此方特下結糞之藥者誤也夫仲景氏之論燥尿及大便硬難也蓋有故矣故於下利之證亦用大承氣湯是古方之妙境不可以不知焉若其說具於系傳<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p356">
+        <seg xml:id="KR3eu062_jc_000-p356s1">瀉心湯<space n="　" quantity="1"/>心氣不足</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p356s2">
+          <c n="（"/>一作不定<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p356s3">吐血衄血○心下痞按之濡其脈關上浮者</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p358">
+        <seg xml:id="KR3eu062_jc_000-p358s1">大黃<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>黃連<space n="　" quantity="1"/>黃芩</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p358s2">
+          <c n="（"/>各一兩<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p360">
+        <seg xml:id="KR3eu062_jc_000-p360s1">上三味以麻沸湯二升漬之須臾絞去滓分溫再服○婦人吐涎沫醫反下之心下即痞○得效方云治心受積熱譫語發狂逾牆上屋○醫方考云心火胸膈實熱面赤狂走者○試效</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p360s2">
+          <c n="（"/>卒倒昏眩不省人事或痰壅氣急小兒發驚搐搦瘛瘲者皆主之<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p362">
+        <seg xml:id="KR3eu062_jc_000-p362s1">附子瀉心湯</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p362s2">
+          <c n="（"/>於瀉心湯煎汁內和附子煎汁分溫再服<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p364">
+        <seg xml:id="KR3eu062_jc_000-p364s1">心下痞而復惡寒者</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p364s2">
+          <c n="（"/>說具於系傳<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p364s3">○辨誤</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p364s4">
+          <c n="（"/>世醫曰瀉心湯治心下痞今此證其初因汗下之變亡陽脫津故加附子補虛復津者誤也附子能運動固滯之毒加之瀉心湯者為佐瀉心之力爾凡人心下鬱結痞塞則外見惡寒振慄厥逆等之證此證曰惡寒者乃心下痞塞之劇證也夫瀉心湯本瀉心下痞塞其劇者不可不添運動之力故加附子<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p366">
+        <seg xml:id="KR3eu062_jc_000-p366s1">大黃附子湯<space n="　" quantity="1"/>胸下偏痛發熱其脈弦緊</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p368">
+        <seg xml:id="KR3eu062_jc_000-p368s1">大黃<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>附子<c n="("/>三枚<c n=")"/>
+          <space n="　" quantity="1"/>細辛<c n="("/>二兩<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p370">
+        <seg xml:id="KR3eu062_jc_000-p370s1">上三味以水五升煮取二升分溫三服○方意</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p370s2">
+          <c n="（"/>偏痛者是乃寒飲固滯胸下之應附子細辛運逐之大黃受而通之<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p372">
+        <seg xml:id="KR3eu062_jc_000-p372s1">大黃甘遂湯<space n="　" quantity="1"/>婦人少腹滿如敦狀小便微難而不渴<c n="「"/>經後者</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p372s2">
+          <c n="（"/>經舊作生是也<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p372s3">此為水與血俱結在血室也<c n="」"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p374">
+        <seg xml:id="KR3eu062_jc_000-p374s1">大黃<c n="("/>四兩<c n=")"/>
+          <space n="　" quantity="1"/>甘遂<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>阿膠<c n="("/>二兩<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p376">
+        <seg xml:id="KR3eu062_jc_000-p376s1">上三味以水三升煮取一升頓服之○</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p376s2">
+          <c n="（"/>甘遂經火煮則耗性宜末用也先煮大黃如法去滓更上火內膠烊消下火內甘遂未攪之頓服<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p378">
+        <seg xml:id="KR3eu062_jc_000-p378s1">抵當湯<space n="　" quantity="1"/>經水不利者○千金方云治月經不調或一月再來兩月三月一來或月前或月後閉塞不通</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p380">
+        <seg xml:id="KR3eu062_jc_000-p380s1">水蛭</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p380s2">
+          <c n="（"/>三十個<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p380s3">
+          <space n="　" quantity="1"/>虻蟲</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p380s4">
+          <c n="（"/>三十個<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p380s5">
+          <space n="　" quantity="1"/>大黃<c n="("/>五兩<c n=")"/>
+          <space n="　" quantity="1"/>桃仁</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p380s6">
+          <c n="（"/>二十個<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p382">
+        <seg xml:id="KR3eu062_jc_000-p382s1">上四味為末以水五升煮取三升去滓溫服○發明</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p382s2">
+          <c n="（"/>此煎法恐撰者之誤也凡藥火煮者不必末也今此干蟲微物既末且煮豈得不損性乎且以大黃桃仁同末之者亦不審其故當作上四味二味為末以水五升先煮大黃桃仁取三升內水蛭虻蟲末更上火才一二沸去滓頓服一升<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p382s3">○太陽病六七日表證仍在脈微而沉反不結胸其人發狂者以熱在下焦少腹當硬滿小便自利者下血乃愈<c n="「"/>所以然者以太陽隨經瘀熱在裡故也<c n="」"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p382s4">○太陽病身黃脈沉結少腹硬小便不利者為無血也小便自利其人如在者血證諦也○陽明病其人喜忘者必有畜血<c n="「"/>所以然者本有久瘀血故令喜忘<c n="」"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p382s5">屎雖硬大便反易其色必黑○病人無表裡證發熱七八日雖脈浮數者可下之假令已下脈數不解合熱則消穀善飢至六七日不大便者有瘀血</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p382s6">
+          <c n="（"/>說具於系傳<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p384">
+        <seg xml:id="KR3eu062_jc_000-p384s1">橘皮大黃朴硝湯<space n="　" quantity="1"/>鱠食之在心胸間不化吐復不出速除之</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p384s2">
+          <c n="（"/>諸宿食有事於心胸間者<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p386">
+        <seg xml:id="KR3eu062_jc_000-p386s1">橘皮<c n="("/>一兩<c n=")"/>
+          <space n="　" quantity="1"/>大黃<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>朴硝<c n="("/>二兩<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p388">
+        <seg xml:id="KR3eu062_jc_000-p388s1">上三味以水一大升煮至小升頓服</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p390">
+        <seg xml:id="KR3eu062_jc_000-p390s1">大黃硝石湯<space n="　" quantity="1"/>黃疸腹滿小便不利而赤自汗出</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p392">
+        <seg xml:id="KR3eu062_jc_000-p392s1">大黃<space n="　" quantity="1"/>黃蘗<space n="　" quantity="1"/>硝石</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p392s2">
+          <c n="（"/>各四兩<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p392s3">
+          <space n="　" quantity="1"/>梔子</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p392s4">
+          <c n="（"/>十五枚<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p394">
+        <seg xml:id="KR3eu062_jc_000-p394s1">上四味以水六升煮取三升去滓內硝石煮取一升頓服○試效</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p394s2">
+          <c n="（"/>黃疸身熱心煩不大便者<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p396">
+        <seg xml:id="KR3eu062_jc_000-p396s1">大黃牡丹皮湯<space n="　" quantity="1"/>腸癰者少腹腫痞按之即痛如淋小便自調時時發熱自汗出復惡寒其脈遲緊者膿未成也可下之當有血脈洪數者膿已成不可不也</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p398">
+        <seg xml:id="KR3eu062_jc_000-p398s1">大黃<c n="("/>四兩<c n=")"/>
+          <space n="　" quantity="1"/>桃仁</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p398s2">
+          <c n="（"/>五十個<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p398s3">
+          <space n="　" quantity="1"/>瓜子<c n="("/>半斤<c n=")"/>
+          <space n="　" quantity="1"/>芒硝<c n="("/>三合<c n=")"/>
+          <space n="　" quantity="1"/>牡丹皮<c n="("/>二兩<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p400">
+        <seg xml:id="KR3eu062_jc_000-p400s1">上五味以水六升煮取一升去滓內芒硝再煎沸頓服之有膿當下無膿當下血○千金方云腸癰之病少腹痞堅或在膀胱左右其色或白堅大如掌發熱小便欲調時自汗出其脈遲緊者未成膿可下之○產育云產後血暈悶絕狼狽若口禁則拗開灌之</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p402">
+        <seg xml:id="KR3eu062_jc_000-p402s1">大黃甘草湯<space n="　" quantity="1"/>食已即吐者</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p404">
+        <seg xml:id="KR3eu062_jc_000-p404s1">大黃<c n="("/>四兩<c n=")"/>
+          <space n="　" quantity="1"/>甘草<c n="("/>一兩<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p406">
+        <seg xml:id="KR3eu062_jc_000-p406s1">上二味以水三升煮取一升分溫再服○肘後云治胃反不受食食輒吐出○試效</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p406s2">
+          <c n="（"/>噁心嘈雜大便不通食積心下不快然者<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p408">
+        <seg xml:id="KR3eu062_jc_000-p408s1">調胃承氣湯<space n="　" quantity="1"/>大便不通胃氣不和者○醫通云常有熱而痛此為積熱</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p410">
+        <seg xml:id="KR3eu062_jc_000-p410s1">大黃<c n="("/>四兩<c n=")"/>
+          <space n="　" quantity="1"/>甘草<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>芒硝<c n="("/>半斤<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p412">
+        <seg xml:id="KR3eu062_jc_000-p412s1">上三味㕮咀以水三升煮取一升去滓內芒硝更上火微煮令沸少少溫服○發汗後惡寒者虛故也不惡寒但熱者實也當和胃氣○太陽病<c n="「"/>過經<c n="」"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p412s2">十餘日心下溫溫欲吐而胸中痛大便反溏腹微滿鬱郁微煩先此時自極吐下者與調胃承氣湯若不爾者不可與○陽明病不吐不下心煩者○太陽病三日發汗不解蒸蒸發熱者○傷寒吐後腹脹滿者</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p412s3">
+          <c n="（"/>上五章說具於系傳<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p414">
+        <seg xml:id="KR3eu062_jc_000-p414s1">桃仁承氣湯<space n="　" quantity="1"/>療一切宿血及損傷瘀血在腹內不問新久並婦人月經不通產後惡血</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p414s2">
+          <c n="（"/>傷寒論中舉桃仁承氣湯之奇而略其正今假千金方以示正<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p416">
+        <seg xml:id="KR3eu062_jc_000-p416s1">桂枝<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>桃仁</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p416s2">
+          <c n="（"/>五十個<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p416s3">
+          <space n="　" quantity="1"/>大黃<c n="("/>四兩<c n=")"/>
+          <space n="　" quantity="1"/>芒硝<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>甘草<c n="("/>二兩<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p418">
+        <seg xml:id="KR3eu062_jc_000-p418s1">上五味以水七升煮取二升半去滓內芒硝更上火微沸下火溫服五合日三服○太陽病不解熱結膀胱其人如狂血自下下者愈</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p418s2">
+          <c n="（"/>下血是解熱之兆故曰愈乃隨證處方<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p418s3">但少腹急結者乃可攻之</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p418s4">
+          <c n="（"/>是活用桃仁承氣湯於傷寒血熱瘀滯之證<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p418s5">○壽世云治吐血覺胸中氣塞上吐紫血○寧生傳云迫血上行為衄數升余面赤脈躁疾神恍恍如癡○傳信尤易方云治血淋○救正云治一女適因行經浣衣受寒發熱喘渴少腹脹痛脈寸關浮數兩尺沉結者此蓄血傷寒也○儒門事親云凡婦人月事沉滯數月不行肌肉漸減內經曰小腸熱已滿移熱瘕為沉沉者月事沉滯不行也故曰伏瘕○醫通云心下滿而微硬不可按其人善忘小便反利而不渴者是結血也又云當汗失汗譫語善飢漱水身黃腹滿如狂者屬瘀血也○明醫指掌云治蓄血脹滿大實大痛手不可近者</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p420">
+        <seg xml:id="KR3eu062_jc_000-p420s1">桔梗湯<space n="　" quantity="1"/>咳而胸滿振寒脈數咽乾不渴時出濁唾腥臭久久吐膿如米粥</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p422">
+        <seg xml:id="KR3eu062_jc_000-p422s1">桔梗<c n="("/>一兩<c n=")"/>
+          <space n="　" quantity="1"/>甘草<c n="("/>二兩<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p424">
+        <seg xml:id="KR3eu062_jc_000-p424s1">上二味以水三升煮取一升去滓分溫服五合日再服○少陰病二三日咽痛者可與甘草湯不差者與桔梗湯</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p424s2">
+          <c n="（"/>說具於系傳<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p426">
+        <seg xml:id="KR3eu062_jc_000-p426s1">排膿湯<space n="　" quantity="1"/>主治同前</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p428">
+        <seg xml:id="KR3eu062_jc_000-p428s1">甘草<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>桔梗<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>生薑<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>大棗</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p428s2">
+          <c n="（"/>十二枚<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p430">
+        <seg xml:id="KR3eu062_jc_000-p430s1">上四味以水三升煮取一升溫服五合日再服○</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p430s2">
+          <c n="（"/>此方與桔梗湯主治大同小異此方於桔梗湯方加薑棗且桔梗分量二倍於桔梗湯蓋桔梗湯證而毒一等深者宜用此方<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p432">
+        <seg xml:id="KR3eu062_jc_000-p432s1">芍藥甘草湯</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p434">
+        <seg xml:id="KR3eu062_jc_000-p434s1">芍藥<c n="("/>四兩<c n=")"/>
+          <space n="　" quantity="1"/>甘草<c n="("/>四兩<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p436">
+        <seg xml:id="KR3eu062_jc_000-p436s1">上㕮咀以水三升煮取一升半去滓分溫再服○傷寒脈浮自汗出小便數心煩微惡寒腳攣急</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p436s2">
+          <c n="（"/>說具於系傳<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p438">
+        <seg xml:id="KR3eu062_jc_000-p438s1">芍藥甘草附子湯</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p440">
+        <seg xml:id="KR3eu062_jc_000-p440s1">芍藥<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>甘草<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>附子<c n="("/>一枚<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p442">
+        <seg xml:id="KR3eu062_jc_000-p442s1">已上三味以水五升煮取一升五合去滓分溫服○發汗病不解反惡寒者虛故也</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p442s2">
+          <c n="（"/>說具於系傳<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p444">
+        <seg xml:id="KR3eu062_jc_000-p444s1">甘遂半夏湯<space n="　" quantity="1"/>病者脈伏其人慾自利利反快雖利心下續堅滿<c n="「"/>此為留飲欲去故也<c n="」"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p446">
+        <seg xml:id="KR3eu062_jc_000-p446s1">甘遂<c n="("/>三枚<c n=")"/>
+          <space n="　" quantity="1"/>半夏</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p446s2">
+          <c n="（"/>十二枚<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p446s3">
+          <space n="　" quantity="1"/>芍藥<c n="("/>五枚<c n=")"/>
+          <space n="　" quantity="1"/>甘草</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p446s4">
+          <c n="（"/>指大二枚<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p448">
+        <seg xml:id="KR3eu062_jc_000-p448s1">上四味以水四升煮取半升去滓以蜜半升和藥汁煎取八合頓服之○發明</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p448s2">
+          <c n="（"/>甘遂完煮損性無效當作以蜜半升和藥汁煎取八合內甘遂末攬而頓服之<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p450">
+        <seg xml:id="KR3eu062_jc_000-p450s1">甘麥大棗湯<space n="　" quantity="1"/>婦人臟躁喜悲傷欲哭象如神靈所作數欠伸</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p450s2">
+          <c n="（"/>東洞曰急迫而狂驚者<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p452">
+        <seg xml:id="KR3eu062_jc_000-p452s1">甘草<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>小麥<c n="("/>一升<c n=")"/>
+          <space n="　" quantity="1"/>大棗<c n="("/>十枚<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p454">
+        <seg xml:id="KR3eu062_jc_000-p454s1">上三味以水六升煮取二升分溫三服</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p456">
+        <seg xml:id="KR3eu062_jc_000-p456s1">甘草粉蜜湯<space n="　" quantity="1"/>蛔蟲為病令人吐涎心痛發作有時毒藥不止</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p458">
+        <seg xml:id="KR3eu062_jc_000-p458s1">甘草<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>粉<c n="("/>一兩<c n=")"/>
+          <space n="　" quantity="1"/>蜜<c n="("/>四兩<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p460">
+        <seg xml:id="KR3eu062_jc_000-p460s1">上三味以水三升先煮甘草取二升去滓內粉蜜攪令和煎如薄粥溫服一升○方意</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p460s2">
+          <c n="（"/>此方以緩急為主所謂苦急以甘緩之者是也其吐涎心痛者是急迫之所為世醫單為蛔蟲之所為者妄也<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p460s3">○辨誤</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p460s4">
+          <c n="（"/>方中粉諸說紛紛或曰胡粉或曰輕粉皆妄誕也粉米粉也而加此粉也非為治疾苦但使病人便服用爾蓋蜜甘草濃甜煎汁人不堪飲吃故加米粉再煎如薄粥以使藥味調和易飲吃也余故曰若無米粉則以小麥粉或蕎麥粉之類代之而可也<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p462">
+        <seg xml:id="KR3eu062_jc_000-p462s1">甘草乾薑湯<space n="　" quantity="1"/>肺痿吐喘沫而不咳者其人不渴必遺尿小便數</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p464">
+        <seg xml:id="KR3eu062_jc_000-p464s1">甘草<c n="("/>四兩<c n=")"/>
+          <space n="　" quantity="1"/>乾薑<c n="("/>二兩<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p466">
+        <seg xml:id="KR3eu062_jc_000-p466s1">上㕮咀以水三升煮取五合去滓分溫再服○傷寒誤治後手足厥咽中乾燥吐逆者</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p466s2">
+          <c n="（"/>說具於系傳<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p466s3">○試效</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p466s4">
+          <c n="（"/>虛氣急迫而噦逆者<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p468">
+        <seg xml:id="KR3eu062_jc_000-p468s1">四逆湯<space n="　" quantity="1"/>下利腹脹滿身體疼痛者○吐利汗出發熱惡寒四肢拘急手足厥冷者○既吐且利大便複利而大汗出下利清穀內寒外熱脈微欲絕者○下利清穀裡寒處熱汗出而厥者</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p468s2">
+          <c n="（"/>上四章四逆湯之正證苟有此證則萬病皆可服<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p470">
+        <seg xml:id="KR3eu062_jc_000-p470s1">甘草<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>乾薑</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p470s2">
+          <c n="（"/>一兩半<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p470s3">
+          <space n="　" quantity="1"/>附子<c n="("/>一枚<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p472">
+        <seg xml:id="KR3eu062_jc_000-p472s1">上三味㕮咀以水三升煮取一升二合去滓分溫再服○傷寒醫下之續得下利清穀不止身疼痛者○病發熱頭痛脈反沉若不差身體疼痛○脈浮而遲表熱裡寒下利清穀者○大汗出熱不去內拘急四肢厥又下利厥逆而惡寒者</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p474">
+        <seg xml:id="KR3eu062_jc_000-p474s1">通脈四逆湯</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p474s2">
+          <c n="（"/>於四逆湯方加倍乾薑一兩半<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p476">
+        <seg xml:id="KR3eu062_jc_000-p476s1">下利清穀裡寒外熱汗出而厥者○少陰病下利清穀裡寒外熱手足厥冷脈微欲絕身反不惡寒其人面赤色或腹痛或乾嘔或咽痛或利止脈不出者</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p478">
+        <seg xml:id="KR3eu062_jc_000-p478s1">通脈四逆加豬膽汁湯</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p478s2">
+          <c n="（"/>於通脈四逆湯方加豬膽汁半合<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p478s3">
+          <space n="　" quantity="1"/>○</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p478s4">
+          <c n="（"/>諸病四逆湯證而病一等深者主之或霍亂吐下已斷汗出云云證又通脈四逆湯證而四肢拘急其病極深者此方皆主之<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p480">
+        <seg xml:id="KR3eu062_jc_000-p480s1">四逆加人參湯<space n="　" quantity="1"/>惡寒脈微而複利<c n="「"/>利止亡血也<c n="」"/>
+        </seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p480s2">
+          <c n="（"/>上七章說具於系傳<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p480s3">○辨誤</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p480s4">
+          <c n="（"/>俗醫以四逆輩為溫脾補虛之聖劑者妄矣蓋彼意以為甘草引乾薑附子辛熱大溫之藥入於脾以溫補其虛丹溪曰附子性走而不守無補益之效可以見其妄矣<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p482">
+        <seg xml:id="KR3eu062_jc_000-p482s1">茯苓四逆湯</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p482s2">
+          <c n="（"/>此四逆湯之變方說具於系傳<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p484">
+        <seg xml:id="KR3eu062_jc_000-p484s1">茯苓<c n="("/>六兩<c n=")"/>
+          <space n="　" quantity="1"/>人參<c n="("/>一兩<c n=")"/>
+          <space n="　" quantity="1"/>甘草<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>乾薑</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p484s2">
+          <c n="（"/>一兩半<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p484s3">
+          <space n="　" quantity="1"/>附子<c n="("/>一枚<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p486">
+        <seg xml:id="KR3eu062_jc_000-p486s1">上五味以水五升煮取三升去滓溫服七合日三服○發汗若下之病仍不解煩躁者○千金方云霍亂轉筋肉冷汗出嘔啘者無茯苓名四順湯○試效</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p486s2">
+          <c n="（"/>凡病人精氣虛脫手足逆冷心悸煩躁或下利者主之<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p488">
+        <seg xml:id="KR3eu062_jc_000-p488s1">乾薑附子湯</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p490">
+        <seg xml:id="KR3eu062_jc_000-p490s1">乾薑<c n="("/>一兩<c n=")"/>
+          <space n="　" quantity="1"/>附子<c n="("/>一枚<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p492">
+        <seg xml:id="KR3eu062_jc_000-p492s1">上二味以水三升煮取一升去滓頓服○下之後復發汗晝日煩躁不得眠夜而安靜不嘔不渴<c n="「"/>無表證<c n="」"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p492s2">脈沉微身無大熱者</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p492s3">
+          <c n="（"/>說具於系傳<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p492s4">○易簡方雲中寒口禁四肢強直失音不語或卒然暈倒口吐涎沫狀如暗風手足厥冷或復煩躁兼治中脘虛寒久積痰水心腹冷痛霍亂轉筋四肢厥逆</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p494">
+        <seg xml:id="KR3eu062_jc_000-p494s1">附子粳米湯<space n="　" quantity="1"/>腹中寒氣雷鳴切痛胸脅逆滿嘔吐</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p496">
+        <seg xml:id="KR3eu062_jc_000-p496s1">附子<c n="("/>一枚<c n=")"/>
+          <space n="　" quantity="1"/>半夏<c n="("/>半升<c n=")"/>
+          <space n="　" quantity="1"/>甘草<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>大棗</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p496s2">
+          <c n="（"/>十二枚<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p496s3">
+          <space n="　" quantity="1"/>粳米<c n="("/>半升<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p498">
+        <seg xml:id="KR3eu062_jc_000-p498s1">上五味以水八升煮米熟湯成去滓溫服一升日三服○外臺云主治寒疝氣心腹如刺繞臍腹中悉痛自汗出欲絕於本方加蜀椒又療肺虛勞損腹中寒雷鳴切痛胸脅逆滿氣喘於本方加白朮乾薑○千金云霍亂四逆吐多者○方意</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p498s2">
+          <c n="（"/>附子性走而不守能運動寒固之毒此證病毒在胸脅而逆滿故以粳米黏附子走運之氣稽留胸腹間以治寒痛<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p498s3">○試效</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p498s4">
+          <c n="（"/>此證而與此方數日荏苒不愈者加良薑延胡索取驗甚多矣<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p500">
+        <seg xml:id="KR3eu062_jc_000-p500s1">大烏頭煎<space n="　" quantity="1"/>寒疝繞臍痛若發則自汗出手足厥逆其脈沉弦者</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p502">
+        <seg xml:id="KR3eu062_jc_000-p502s1">烏頭</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p502s2">
+          <c n="（"/>大者五枚<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p504">
+        <seg xml:id="KR3eu062_jc_000-p504s1">上以水三升煮取一升去滓內蜜二升煎令水氣盡取二升○試效</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p504s2">
+          <c n="（"/>久年腹痛或疝痛飲痛諸藥無效者用此方運動其固毒時用吐下之劑以拔去其毒根<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p506">
+        <seg xml:id="KR3eu062_jc_000-p506s1">烏頭湯<space n="　" quantity="1"/>病歷節不可屈伸疼痛○腳氣疼痛不可屈伸○寒疝腹中絞痛拘急不得轉側發作有時使人陰縮手足厥逆</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p508">
+        <seg xml:id="KR3eu062_jc_000-p508s1">麻黃<space n="　" quantity="1"/>芍藥<space n="　" quantity="1"/>黃蓍</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p508s2">
+          <c n="（"/>各三兩<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p508s3">
+          <space n="　" quantity="1"/>甘草<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>烏頭</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p508s4">
+          <c n="（"/>五枚㕮咀以蜜二升煎取一升即出烏頭<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p510">
+        <seg xml:id="KR3eu062_jc_000-p510s1">上五味㕮咀四味以水三升煮取一升去滓內蜜煎中更煮之服七合不知盡服之○試效</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p510s2">
+          <c n="（"/>四肢百節疼痛如虎咬者此名歷節風此方神驗又治腳氣一身悉痛或四肢痹者<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p510s3">○方意</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p510s4">
+          <c n="（"/>烏頭芍藥運和其毒麻黃黃蓍扇散之張珞玉曰烏頭以蜜煎取緩其性使之留連筋骨以利其屈伸壽按蓋烏頭得蜜奔氣沉著故仲景氏之使用烏頭也必以蜜煎之令其剛悍之氣不奔逸是古人用藥妙處<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p512">
+        <seg xml:id="KR3eu062_jc_000-p512s1">真武湯<space n="　" quantity="1"/>少陰病二三日不已至四五日腹痛小便不利四肢沉重疼痛自下利者其人或咳或小便利或下利或嘔者</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p514">
+        <seg xml:id="KR3eu062_jc_000-p514s1">茯苓<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>芍藥<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>生薑<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>白朮<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>附子<c n="("/>一枚<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p516">
+        <seg xml:id="KR3eu062_jc_000-p516s1">上五味以水八升煮取三升去滓溫服七合日三服○太陽病發汗汗出不解其人仍發熱心下悸頭眩身瞤動振振欲擗地者○易簡方云此藥不惟陰證傷寒可服若虛勞之人增寒壯熱咳嗽下利者宜服之</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p518">
+        <seg xml:id="KR3eu062_jc_000-p518s1">附子湯<space n="　" quantity="1"/>少陰病得之二三日口中和其背惡寒者○少陰病身體痛手足寒骨節疼痛脈沉者</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p518s2">
+          <c n="（"/>說具於系傳<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p520">
+        <seg xml:id="KR3eu062_jc_000-p520s1">附子<c n="("/>二枚<c n=")"/>
+          <space n="　" quantity="1"/>茯苓<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>人參<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>芍藥<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>白朮<c n="("/>四兩<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p522">
+        <seg xml:id="KR3eu062_jc_000-p522s1">上五味以水八升煮取三升去滓溫服一升日三服○千金云治濕痹緩風身體疼痛如欲折內如錐刺刀割方中有桂枝甘草又治寒濕腳氣疼痛不仁脈沉細者○易簡方云治風寒濕合痹骨節疼痛皮膚不仁肌肉重著四肢緩縱腰腳痠痛兼治疲極筋力氣虛倦怠偏體痠疼</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p524">
+        <seg xml:id="KR3eu062_jc_000-p524s1">梔子豉湯</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p526">
+        <seg xml:id="KR3eu062_jc_000-p526s1">梔子</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p526s2">
+          <c n="（"/>十四枚<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p526s3">
+          <space n="　" quantity="1"/>香豉<c n="("/>四合<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p528">
+        <seg xml:id="KR3eu062_jc_000-p528s1">上二味以水四升先煮梔子得二升半內豉煮取一升半去滓分為二服溫進一服○發汗後虛煩不得眠若劇者必反覆顛倒心中懊憹○發汗後若下之而煩熱胸中窒者○傷寒大下之後身熱不去心中結痛者○心中懊憹舌上胎者○陽明病下之其外有熱手足溫心中懊憹不能食但頭汗出者○下利後更煩按之心下濡者為虛煩也○若少氣者梔子甘草豉湯主之</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p528s2">
+          <c n="（"/>於梔子豉湯方加甘草二兩<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p528s3">○若嘔者梔子生薑豉湯主之於梔子豉湯方加生薑五枚<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p530">
+        <seg xml:id="KR3eu062_jc_000-p530s1">枳實梔子豉湯</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p530s2">
+          <c n="（"/>於梔子豉湯方加枳實三枚<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p532">
+        <seg xml:id="KR3eu062_jc_000-p532s1">大病差後勞復者○若有宿食者加大黃切如博棋子大五六枚</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p534">
+        <seg xml:id="KR3eu062_jc_000-p534s1">梔子大黃豉湯</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p534s2">
+          <c n="（"/>即枳實梔子大黃湯也<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p536">
+        <seg xml:id="KR3eu062_jc_000-p536s1">酒黃疸心中懊憹或熱痛</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p536s2">
+          <c n="（"/>以上三方梔子大黃其分量雖稍異要之亦只一途之方也<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p538">
+        <seg xml:id="KR3eu062_jc_000-p538s1">茵陳蒿湯<space n="　" quantity="1"/>寒熱不食食即頭眩心胸不安久久發黃為谷疸</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p540">
+        <seg xml:id="KR3eu062_jc_000-p540s1">茵陳蒿<c n="("/>六兩<c n=")"/>
+          <space n="　" quantity="1"/>梔子</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p540s2">
+          <c n="（"/>十四枚<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p540s3">
+          <space n="　" quantity="1"/>大黃<c n="("/>二兩<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p542">
+        <seg xml:id="KR3eu062_jc_000-p542s1">上三味以水一斗先煮茵陳減六升內二味煮取三升去滓分溫三服○陽明病發熱汗出此為熱越不能發黃也但頭汗出身無汗劑頸而還小便不利渴引水漿者此為瘀熱在裡身必發黃○傷寒七八日身黃如橘子色小便不利腹微滿者</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p542s2">
+          <c n="（"/>上三章說具於系傳<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p544">
+        <seg xml:id="KR3eu062_jc_000-p544s1">梔子蘗皮湯<space n="　" quantity="1"/>傷寒身發黃者</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p546">
+        <seg xml:id="KR3eu062_jc_000-p546s1">梔子</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p546s2">
+          <c n="（"/>一十五個<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p546s3">
+          <space n="　" quantity="1"/>甘草<c n="("/>一兩<c n=")"/>
+          <space n="　" quantity="1"/>黃蘗<c n="("/>二兩<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p548">
+        <seg xml:id="KR3eu062_jc_000-p548s1">上三味以水四升煮取一升半去滓分溫再服</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p550">
+        <seg xml:id="KR3eu062_jc_000-p550s1">梔子厚朴湯</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p552">
+        <seg xml:id="KR3eu062_jc_000-p552s1">梔子</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p552s2">
+          <c n="（"/>十四枚<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p552s3">
+          <space n="　" quantity="1"/>厚朴<c n="("/>四兩<c n=")"/>
+          <space n="　" quantity="1"/>枳實<c n="("/>四枚<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p554">
+        <seg xml:id="KR3eu062_jc_000-p554s1">已上三味以水三升半煮取一升半去滓分二服溫進一服○傷寒下後心煩腹滿臥起不安者</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p556">
+        <seg xml:id="KR3eu062_jc_000-p556s1">大陷胸湯<space n="　" quantity="1"/>心下滿而硬痛者</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p556s2">
+          <c n="（"/>凡百雜病水結而硬痛者皆可用<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p558">
+        <seg xml:id="KR3eu062_jc_000-p558s1">大黃<c n="("/>六兩<c n=")"/>
+          <space n="　" quantity="1"/>芒硝<c n="("/>一升<c n=")"/>
+          <space n="　" quantity="1"/>甘遂<c n="("/>一錢<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p560">
+        <seg xml:id="KR3eu062_jc_000-p560s1">上三味以水六升先煮大黃取二升去滓內芒硝煮一兩沸內甘遂末溫服一升得快利止後服○太陽病<c n="「"/>脈浮而動數浮則為風數則為熱動則為痛數則為虛<c n="」"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p560s2">頭痛發熱微盜汗出而反惡寒者表未解也醫反下之<c n="「"/>動數變遲<c n="」"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p560s3">膈內拒痛胃中空虛客氣動膈短氣躁煩心中懊憹陽氣內陷心下因硬則為結胸大陷胸湯主之<c n="「"/>若不結胸但頭汗出余處無汗劑頸自還小便不利身必發黃<c n="」"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p560s4">○傷寒六七日結胸熱實脈沉而緊心下痛按之石硬者○傷寒十餘日熱結在裡復往來寒熱者與大柴胡湯但結胸無大熱者此為水結在胸脅也但頭微汗出者○太陽病重發汗而復下之不大便五六日舌上燥而渴日晡所少有潮熱從心下至少腹硬滿而痛不可近者</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p560s5">
+          <c n="（"/>上四章說具於系傳<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p560s6">○方意</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p560s7">
+          <c n="（"/>此方本盪滌心下滿而硬痛之毒蓋陷胸者傷寒外邪誤治後邪熱陷入胸膈結水塊之謂也仲景氏以此古方備結胸證故更命陷胸之名者乎<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p562">
+        <seg xml:id="KR3eu062_jc_000-p562s1">小陷胸湯<space n="　" quantity="1"/>寒實結胸無熱證者</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p562s2">
+          <c n="（"/>寒實者言寒痰結滯於胸中心下也<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p564">
+        <seg xml:id="KR3eu062_jc_000-p564s1">黃連<c n="("/>一兩<c n=")"/>
+          <space n="　" quantity="1"/>半夏<c n="("/>半斤<c n=")"/>
+          <space n="　" quantity="1"/>栝蔞實</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p564s2">
+          <c n="（"/>大者一個<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p566">
+        <seg xml:id="KR3eu062_jc_000-p566s1">上三味以水六升先煮栝蔞取三升去滓內諸藥煮取二升去滓分溫三服○小結胸病正在心下按之則痛脈浮滑者○千金方云治胸中心下結積飲食不消</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p566s2">
+          <c n="（"/>方中有大黃甘草無半夏<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p568">
+        <seg xml:id="KR3eu062_jc_000-p568s1">栝蔞薤白白酒湯<space n="　" quantity="1"/>胸痹之病喘息咳唾胸肺痛短氣<c n="「"/>寸口<c n="」"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p568s2">脈沉而遲<c n="「"/>關上小緊數<c n="」"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p570">
+        <seg xml:id="KR3eu062_jc_000-p570s1">栝蔞實<c n="("/>一枚<c n=")"/>
+          <space n="　" quantity="1"/>薤白<c n="("/>半斤<c n=")"/>
+          <space n="　" quantity="1"/>白酒<c n="("/>七合<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p572">
+        <seg xml:id="KR3eu062_jc_000-p572s1">上三味同煮取二升分溫再服○胸痹不得臥心痛徹背者栝蔞薤白半夏湯主之</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p572s2">
+          <c n="（"/>於本方加半夏半升<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p574">
+        <seg xml:id="KR3eu062_jc_000-p574s1">大半夏湯<space n="　" quantity="1"/>胃反嘔吐者</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p576">
+        <seg xml:id="KR3eu062_jc_000-p576s1">半夏<c n="("/>二升<c n=")"/>
+          <space n="　" quantity="1"/>人參<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>白蜜<c n="("/>一斤<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p578">
+        <seg xml:id="KR3eu062_jc_000-p578s1">上三味以水一斗二升和蜜揚之二百四十遍煮取二升半溫服一升余分再服○千金方云胃反不受食食入則吐○外臺云治嘔心下痞硬者</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p580">
+        <seg xml:id="KR3eu062_jc_000-p580s1">小半夏湯<space n="　" quantity="1"/>嘔家本渴<c n="「"/>渴者為欲解<c n="」"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p580s2">今反不渴心下有支飲故也○諸嘔吐谷不得下者</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p580s3">
+          <c n="（"/>諸病嘔吐甚者不論寒熱虛實先與此方嘔吐定而後隨證冷之<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p582">
+        <seg xml:id="KR3eu062_jc_000-p582s1">半夏<c n="("/>一升<c n=")"/>
+          <space n="　" quantity="1"/>生薑<c n="("/>半斤<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p584">
+        <seg xml:id="KR3eu062_jc_000-p584s1">上二味以水七升煮取一升半分溫再服</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p586">
+        <seg xml:id="KR3eu062_jc_000-p586s1">生薑半夏湯<space n="　" quantity="1"/>病人胸中似喘不喘似嘔不嘔似噦不噦徹心中憒憒然無奈</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p588">
+        <seg xml:id="KR3eu062_jc_000-p588s1">半夏<c n="("/>半升<c n=")"/>
+          <space n="　" quantity="1"/>生薑汁<c n="("/>一升<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p590">
+        <seg xml:id="KR3eu062_jc_000-p590s1">上二味以水三升煮半夏取二升內生薑汁再煎取一升半少冷分四服日三夜一服嘔止停後服</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p592">
+        <seg xml:id="KR3eu062_jc_000-p592s1">小半夏加茯苓湯<space n="　" quantity="1"/>卒嘔吐心下痞胸間有水眩悸者○先渴後嘔為水停心下<c n="「"/>此屬飲家<c n="」"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p594">
+        <seg xml:id="KR3eu062_jc_000-p594s1">半夏<c n="("/>一升<c n=")"/>
+          <space n="　" quantity="1"/>生薑<c n="("/>半斤<c n=")"/>
+          <space n="　" quantity="1"/>茯苓<c n="("/>四兩<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p596">
+        <seg xml:id="KR3eu062_jc_000-p596s1">上三味以水七升煮取一升五合分溫再服</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p596s2">
+          <c n="（"/>小半夏湯以下三方水率至少或分四服者蓋令徐徐吃之以不至激嘔吐<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p596s3">○千金方云治逆氣心中煩悶氣滿嘔吐方中加桂心</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p598">
+        <seg xml:id="KR3eu062_jc_000-p598s1">半夏厚朴湯<space n="　" quantity="1"/>婦人咽中如有炙臠</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p600">
+        <seg xml:id="KR3eu062_jc_000-p600s1">半夏<c n="("/>一升<c n=")"/>
+          <space n="　" quantity="1"/>厚朴<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>茯苓<c n="("/>四兩<c n=")"/>
+          <space n="　" quantity="1"/>干蘇葉<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>生薑<c n="("/>五兩<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p602">
+        <seg xml:id="KR3eu062_jc_000-p602s1">上五味以水七升煮取四升分溫四服日三夜一○千金云胸滿心下堅咽中帖帖如有炙臠吐之不出吞之不下○易簡云治氣結成痰涎狀如破絮或如梅核在咽喉之間咯不出咽不下又云中脘痞滿氣不舒快或痰喘壅盛上氣喘急或痰飲中節嘔吐噁心</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p604">
+        <seg xml:id="KR3eu062_jc_000-p604s1">半夏瀉心湯<space n="　" quantity="1"/>嘔而腸鳴心下痞硬者</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p606">
+        <seg xml:id="KR3eu062_jc_000-p606s1">半夏<c n="("/>半升<c n=")"/>
+          <space n="　" quantity="1"/>黃芩<space n="　" quantity="1"/>乾薑<space n="　" quantity="1"/>人參</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p606s2">
+          <c n="（"/>各三兩<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p606s3">
+          <space n="　" quantity="1"/>黃連<c n="("/>一兩<c n=")"/>
+          <space n="　" quantity="1"/>大棗</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p606s4">
+          <c n="（"/>十二枚<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p606s5">
+          <space n="　" quantity="1"/>甘草<c n="("/>三兩<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p608">
+        <seg xml:id="KR3eu062_jc_000-p608s1">上七味以水一斗煮取六升去滓再煎取三升溫服一升日三服○傷寒五六日嘔而發熱者柴胡湯證具而以他藥下之柴胡證仍在者復與柴胡湯此雖已下之不為逆必蒸蒸而振卻發熱汗出解若心下滿而硬痛者此為結胸也大陷胸湯主之但滿而不痛者此為痞柴胡不中與之半夏瀉心湯主之</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p608s2">
+          <c n="（"/>說具於系傳<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p608s3">○千金方云老少下利水穀不消腸中雷鳴心下痞滿乾嘔不安者</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p610">
+        <seg xml:id="KR3eu062_jc_000-p610s1">甘草瀉心湯</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p610s2">
+          <c n="（"/>於半夏瀉心湯方加倍甘草二兩<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p612">
+        <seg xml:id="KR3eu062_jc_000-p612s1">傷寒中風醫反下之其人下利日數十行穀不化腹中雷鳴心下痞硬而滿乾嘔心煩不得安</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p612s2">
+          <c n="（"/>說具於系傳<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p612s3">○外臺云婦人霍亂嘔逆吐涎醫反下之心下痞當先治其涎沫可服小青龍湯次治其痞可與此方</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p614">
+        <seg xml:id="KR3eu062_jc_000-p614s1">生薑瀉心湯</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p614s2">
+          <c n="（"/>於半夏瀉心湯方減乾薑二兩加生薑四兩<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p616">
+        <seg xml:id="KR3eu062_jc_000-p616s1">傷寒汗出解之後胃中不和心下痞硬幹噫食臭脅下有水氣腹中雷鳴下利者○方意</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p616s2">
+          <c n="（"/>半夏瀉心湯主治心下郁痞方之正也仲景氏活用之傷寒汗下後變證此乃奇也世有區別三瀉心湯配之氣血水而作之說者穿鑿之甚也仲景氏之於三瀉心湯也無它但半夏瀉心湯證而乾嘔下利者加生薑心煩不得安者加倍甘草爾<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p618">
+        <seg xml:id="KR3eu062_jc_000-p618s1">吳茱萸湯<space n="　" quantity="1"/>乾嘔吐涎沫頭痛者○嘔而胸滿者</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p620">
+        <seg xml:id="KR3eu062_jc_000-p620s1">吳茱萸<c n="("/>一升<c n=")"/>
+          <space n="　" quantity="1"/>人參<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>生薑<c n="("/>六兩<c n=")"/>
+          <space n="　" quantity="1"/>大棗</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p620s2">
+          <c n="（"/>十二枚<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p622">
+        <seg xml:id="KR3eu062_jc_000-p622s1">上四味以水七升煮取二升去滓溫服七合日三服○食谷欲嘔者<c n="「"/>屬陽明也<c n="」"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p622s2">吳茱萸湯主之<c n="「"/>得湯劇者屬上焦也<c n="」"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p622s3">○少陰病吐利手足厥冷煩躁欲死者</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p622s4">
+          <c n="（"/>上二章說具於系傳<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p622s5">○外臺云療食訖醋咽多噫○肘後方云治噫醋及醋心○東垣曰濁陰不下厥氣上逆咽膈不通膈塞氣不得上下○千金云治久寒胸脅逆滿不能食方中加甘草小麥桂心半夏又云治胸中積冷心嘈煩滿汪汪不下飲食心胸應背痛方中有半夏桂心甘草</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p624">
+        <seg xml:id="KR3eu062_jc_000-p624s1">厚朴生薑甘草半夏人參湯</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p626">
+        <seg xml:id="KR3eu062_jc_000-p626s1">厚朴<c n="("/>半斤<c n=")"/>
+          <space n="　" quantity="1"/>生薑<c n="("/>半斤<c n=")"/>
+          <space n="　" quantity="1"/>人參<c n="("/>一兩<c n=")"/>
+          <space n="　" quantity="1"/>半夏<c n="("/>半升<c n=")"/>
+          <space n="　" quantity="1"/>甘草<c n="("/>二兩<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p628">
+        <seg xml:id="KR3eu062_jc_000-p628s1">上五味以水一斗煮取三升去滓溫服一升日三服○發汗後腹脹滿者</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p628s2">
+          <c n="（"/>說具於系傳<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p630">
+        <seg xml:id="KR3eu062_jc_000-p630s1">黃連湯<space n="　" quantity="1"/>傷寒胸中有熱胃中有邪氣腹中痛欲嘔吐者</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p632">
+        <seg xml:id="KR3eu062_jc_000-p632s1">黃連<space n="　" quantity="1"/>甘草<space n="　" quantity="1"/>乾薑<space n="　" quantity="1"/>桂枝</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p632s2">
+          <c n="（"/>各三兩<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p632s3">
+          <space n="　" quantity="1"/>人參<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>半夏<c n="("/>半升<c n=")"/>
+          <space n="　" quantity="1"/>大棗</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p632s4">
+          <c n="（"/>十二枚<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p634">
+        <seg xml:id="KR3eu062_jc_000-p634s1">上七味以水一斗煮取六升去滓溫服一升日三服夜三服○方意</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p634s2">
+          <c n="（"/>此方於半夏瀉心湯方去黃芩加桂枝而其方意大異黃連分量二倍於半夏瀉心湯說具於系傳<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p636">
+        <seg xml:id="KR3eu062_jc_000-p636s1">乾薑黃連黃芩人參湯<space n="　" quantity="1"/>治胃虛客熱痞滿</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p636s2">
+          <c n="（"/>上出玉函假以示正<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p638">
+        <seg xml:id="KR3eu062_jc_000-p638s1">乾薑<space n="　" quantity="1"/>黃連<space n="　" quantity="1"/>黃芩<space n="　" quantity="1"/>人參</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p638s2">
+          <c n="（"/>各二兩<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p640">
+        <seg xml:id="KR3eu062_jc_000-p640s1">上四味以水六升煮取二升去滓分溫再服○傷寒本自寒下醫復吐下之寒格更逆吐下若食入口即吐○試效</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p640s2">
+          <c n="（"/>心中煩悸及心下痞硬而乾嘔下利者<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p642">
+        <seg xml:id="KR3eu062_jc_000-p642s1">大建中湯<space n="　" quantity="1"/>心胸中大寒痛嘔不能飲食腹中寒上衝皮起出見有頭足上下痛而不可觸近</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p644">
+        <seg xml:id="KR3eu062_jc_000-p644s1">蜀椒<c n="("/>二分<c n=")"/>
+          <space n="　" quantity="1"/>乾薑<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>人參<c n="("/>二兩<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p646">
+        <seg xml:id="KR3eu062_jc_000-p646s1">上三味以水四升煮取二升去滓內膠飴一升微火煎取一升半分溫再服</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p648">
+        <seg xml:id="KR3eu062_jc_000-p648s1">黃連阿膠湯<space n="　" quantity="1"/>少陰病得之二三日以上心中煩不得臥</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p648s2">
+          <c n="（"/>說具於系傳<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p650">
+        <seg xml:id="KR3eu062_jc_000-p650s1">黃連<c n="("/>四兩<c n=")"/>
+          <space n="　" quantity="1"/>黃芩<c n="("/>一兩<c n=")"/>
+          <space n="　" quantity="1"/>芍藥<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>阿膠<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>雞子黃<c n="("/>二枚<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p652">
+        <seg xml:id="KR3eu062_jc_000-p652s1">上五味以水五升先煮二物取二升去滓內膠烊盡少冷內雞子黃攪令相得服七合日三服</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p654">
+        <seg xml:id="KR3eu062_jc_000-p654s1">黃芩湯<space n="　" quantity="1"/>治泄利腹痛或後重身熱久不愈脈洪疾及下利膿血稠黏<c n="("/>拔莁<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p656">
+        <seg xml:id="KR3eu062_jc_000-p656s1">黃芩<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>甘草<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>芍藥<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>大棗</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p656s2">
+          <c n="（"/>十二枚<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p658">
+        <seg xml:id="KR3eu062_jc_000-p658s1">上四味以水一斗煮取三升去滓溫服一升日再夜一服○<c n="「"/>太陽與少陽合病<c n="」"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p658s2">自下利者與黃芩湯若嘔者黃芩加半夏生薑湯主之</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p658s3">
+          <c n="（"/>於本方加半夏半斤生薑三兩○說具於系傳<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p660">
+        <seg xml:id="KR3eu062_jc_000-p660s1">白頭翁湯<space n="　" quantity="1"/>下利慾飲水者以有熱故也○熱利下重者</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p662">
+        <seg xml:id="KR3eu062_jc_000-p662s1">白頭翁<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>黃連<space n="　" quantity="1"/>黃蘗<space n="　" quantity="1"/>秦皮</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p662s2">
+          <c n="（"/>各三兩<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p664">
+        <seg xml:id="KR3eu062_jc_000-p664s1">上四味以水七升煮取二升去滓溫服一升不愈更服一升○產後下利虛極心煩不得眠白頭翁加甘草阿膠</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p664s2">
+          <c n="（"/>各二兩<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p664s3">湯主之</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p664s4">
+          <c n="（"/>煎法以水七升煮取二升半內膠消盡分溫三服<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p664s5">○明醫指掌曰協熱自利身熱脈數小便赤澀</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p666">
+        <seg xml:id="KR3eu062_jc_000-p666s1">木防己湯<space n="　" quantity="1"/>胸間支飲其人喘滿心下痞堅面色黧黑其脈沉緊得之數十日醫吐下之不愈木防己湯主之虛者即愈</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p666s2">
+          <c n="（"/>吐下之後病勢脫而精氣虛者與此方則愈<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p666s3">實者三日復發復與不愈者宜木防己去石膏加茯苓芒硝湯主之</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p668">
+        <seg xml:id="KR3eu062_jc_000-p668s1">木防己<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>石膏</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p668s2">
+          <c n="（"/>雞子大<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p668s3">
+          <space n="　" quantity="1"/>桂枝<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>人參<c n="("/>四兩<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p670">
+        <seg xml:id="KR3eu062_jc_000-p670s1">上四味以水六升煮取二升分溫再服○木防己去石膏加茯苓芒硝湯</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p670s2">
+          <c n="（"/>於本方內去石膏加茯苓四兩芒硝三合以水六升煮取二升去滓內芒硝再煎分溫再服<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p672">
+        <seg xml:id="KR3eu062_jc_000-p672s1">防己茯苓湯<space n="　" quantity="1"/>皮水為病四肢腫水氣在皮膚中聶聶動者</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p674">
+        <seg xml:id="KR3eu062_jc_000-p674s1">防己<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>黃蓍<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>桂枝<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>茯苓<c n="("/>六兩<c n=")"/>
+          <space n="　" quantity="1"/>甘草<c n="("/>二兩<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p676">
+        <seg xml:id="KR3eu062_jc_000-p676s1">上五味以水六升煮取一升分溫三服</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p678">
+        <seg xml:id="KR3eu062_jc_000-p678s1">枳朮湯<space n="　" quantity="1"/>心下堅大如盤邊如旋杯水飲所作</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p680">
+        <seg xml:id="KR3eu062_jc_000-p680s1">枳實<c n="("/>七枚<c n=")"/>
+          <space n="　" quantity="1"/>術<c n="("/>二兩<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p682">
+        <seg xml:id="KR3eu062_jc_000-p682s1">上三味以水五升煮取三升分溫三服</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p684">
+        <seg xml:id="KR3eu062_jc_000-p684s1">桂枝枳實生薑湯<space n="　" quantity="1"/>心中痞諸逆心懸痛</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p686">
+        <seg xml:id="KR3eu062_jc_000-p686s1">桂枝<space n="　" quantity="1"/>生薑</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p686s2">
+          <c n="（"/>各三兩<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p686s3">
+          <space n="　" quantity="1"/>枳實<c n="("/>五枚<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p688">
+        <seg xml:id="KR3eu062_jc_000-p688s1">上三味以水六升煮取三升分溫三服</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p690">
+        <seg xml:id="KR3eu062_jc_000-p690s1">枳實薤白桂枝湯<space n="　" quantity="1"/>胸痹心中痞留氣結在胸胸滿胸下逆搶心</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p692">
+        <seg xml:id="KR3eu062_jc_000-p692s1">枳實<c n="("/>四枚<c n=")"/>
+          <space n="　" quantity="1"/>厚朴<c n="("/>四枚<c n=")"/>
+          <space n="　" quantity="1"/>薤白<c n="("/>斤半<c n=")"/>
+          <space n="　" quantity="1"/>桂枝<c n="("/>一兩<c n=")"/>
+          <space n="　" quantity="1"/>栝蔞實<c n="("/>二枚<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p694">
+        <seg xml:id="KR3eu062_jc_000-p694s1">上五味以水五升先煮枳實厚朴取二升去滓內諸藥煮數沸分溫三服</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p696">
+        <seg xml:id="KR3eu062_jc_000-p696s1">橘皮枳實生薑湯<space n="　" quantity="1"/>胸痹氣塞短氣茯苓杏仁甘草湯主之枳實橘薑湯亦主之</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p698">
+        <seg xml:id="KR3eu062_jc_000-p698s1">橘皮<c n="("/>一斤<c n=")"/>
+          <space n="　" quantity="1"/>枳實<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>生薑<c n="("/>半斤<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p700">
+        <seg xml:id="KR3eu062_jc_000-p700s1">上三味以水五升煮取二升分溫再服○肘後方云胸痹胸中幅幅如滿噎塞習習如癢喉中澀唾燥沫</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p702">
+        <seg xml:id="KR3eu062_jc_000-p702s1">橘皮竹茹湯<space n="　" quantity="1"/>噦逆者</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p704">
+        <seg xml:id="KR3eu062_jc_000-p704s1">橘皮<c n="("/>二斤<c n=")"/>
+          <space n="　" quantity="1"/>竹茹<c n="("/>一斤<c n=")"/>
+          <space n="　" quantity="1"/>大棗</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p704s2">
+          <c n="（"/>三十枚<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p704s3">
+          <space n="　" quantity="1"/>生薑<c n="("/>半斤<c n=")"/>
+          <space n="　" quantity="1"/>甘草<c n="("/>五兩<c n=")"/>
+          <space n="　" quantity="1"/>人參<c n="("/>一兩<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p706">
+        <seg xml:id="KR3eu062_jc_000-p706s1">上六味以水一斗煮取三升溫服一升日三服○醫通雲手足厥冷乾嘔及噦而煩滿者</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p708">
+        <seg xml:id="KR3eu062_jc_000-p708s1">橘皮湯<space n="　" quantity="1"/>乾嘔噦手足厥者</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p710">
+        <seg xml:id="KR3eu062_jc_000-p710s1">橘皮<c n="("/>四兩<c n=")"/>
+          <space n="　" quantity="1"/>生薑<c n="("/>半斤<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p712">
+        <seg xml:id="KR3eu062_jc_000-p712s1">上二味以水七升煮取三升溫服一升</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p714">
+        <seg xml:id="KR3eu062_jc_000-p714s1">竹葉石膏湯</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p716">
+        <seg xml:id="KR3eu062_jc_000-p716s1">竹葉<c n="("/>二把<c n=")"/>
+          <space n="　" quantity="1"/>石膏<c n="("/>一斤<c n=")"/>
+          <space n="　" quantity="1"/>半夏<c n="("/>半升<c n=")"/>
+          <space n="　" quantity="1"/>人參<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>甘草<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>粳米<c n="("/>半斤<c n=")"/>
+          <space n="　" quantity="1"/>麥門冬<c n="("/>一升<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p718">
+        <seg xml:id="KR3eu062_jc_000-p718s1">上七味以水一斗煮取六升去滓內粳米煮米熟湯成去滓溫服一升日三服○大病差後虛羸少氣氣逆欲吐者</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p718s2">
+          <c n="（"/>說具於系傳<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p718s3">○千金云發汗後表裡虛煩不可攻者○經驗云小兒傷寒久不除瘥後復劇瘦瘠骨立者又云骨蒸唇乾口燥欲得飲水者○丹溪曰伏暑內外發熱煩躁大渴又曰傷寒時氣表裡俱虛遍身發熱心胸煩悶得汗已解內無津液虛羸少氣欲吐及諸虛煩熱與寒相似但不惡寒身不疼頭不痛不可汗下者○醫通云衄血而渴欲飲水水入即吐者先服五苓散次用此方又云差後虛煩不得眠○本草綱目雲石膏主治心下逆氣狂喘口乾舌焦不能息又云骨蒸勞病外寒內熱附骨而蒸也其根在五臟六腑中必因患後得之骨肉日消飲食無味或皮燥而無光蒸盛之時四肢漸細足趺腫氣云云</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p720">
+        <seg xml:id="KR3eu062_jc_000-p720s1">芎歸膠艾湯<space n="　" quantity="1"/>婦人有漏下者有半產後因續下血者不絕都有妊娠下血者假令妊娠腹中痛為胞疽</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p722">
+        <seg xml:id="KR3eu062_jc_000-p722s1">芎藭<space n="　" quantity="1"/>阿膠</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p722s2">
+          <c n="（"/>各二兩<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p722s3">
+          <space n="　" quantity="1"/>甘草<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>艾葉<space n="　" quantity="1"/>當歸</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p722s4">
+          <c n="（"/>各三兩<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p722s5">
+          <space n="　" quantity="1"/>芍藥<c n="("/>四兩<c n=")"/>
+          <space n="　" quantity="1"/>乾地黃<c n="("/>六兩<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p724">
+        <seg xml:id="KR3eu062_jc_000-p724s1">上七味以水五升清酒五合煮取三升去滓內膠令消盡溫服一升日三服○外臺云療頓僕失路胎動不安腹痛又治陷經下血孕婦胎漏不止○經驗云小產下血不止者○和劑云治勞傷血氣衝任虛損月水過多淋瀝不斷及妊娠調攝失宜胎氣不安或因損動漏血傷胎並宜服之</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p726">
+        <seg xml:id="KR3eu062_jc_000-p726s1">旋覆花代赭石湯</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p728">
+        <seg xml:id="KR3eu062_jc_000-p728s1">旋覆花<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>人參<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>生薑<c n="("/>五兩<c n=")"/>
+          <space n="　" quantity="1"/>半夏<c n="("/>半升<c n=")"/>
+          <space n="　" quantity="1"/>代赭石<c n="("/>一兩<c n=")"/>
+          <space n="　" quantity="1"/>大棗<c n="("/>十枚<c n=")"/>
+          <space n="　" quantity="1"/>甘草<c n="("/>三兩<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p730">
+        <seg xml:id="KR3eu062_jc_000-p730s1">上七味以水一斗煮取六升去滓再煎取三升溫服日三服○傷寒發汗若吐若下解後心下痞硬噫氣不除者○經驗云治妊娠阻病心中煩悶虛煩吐逆惡聞食臭者</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p732">
+        <seg xml:id="KR3eu062_jc_000-p732s1">赤石脂禹餘糧湯</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p734">
+        <seg xml:id="KR3eu062_jc_000-p734s1">赤石脂<c n="("/>一斤<c n=")"/>
+          <space n="　" quantity="1"/>禹餘糧<c n="("/>一斤<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p736">
+        <seg xml:id="KR3eu062_jc_000-p736s1">已上二味以水六升煮取二升去滓三服○傷寒服湯藥下之下利不止心下痞硬服瀉心湯<c n="「"/>已復以他藥下之<c n="」"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p736s2">利不止醫以理中與之利益甚理中者理中焦此利在下焦</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p738">
+        <seg xml:id="KR3eu062_jc_000-p738s1">桃花湯<space n="　" quantity="1"/>下利便膿血者</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p740">
+        <seg xml:id="KR3eu062_jc_000-p740s1">赤石脂<c n="("/>一斤<c n=")"/>
+          <space n="　" quantity="1"/>乾薑<c n="("/>一兩<c n=")"/>
+          <space n="　" quantity="1"/>粳末<c n="("/>一升<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p742">
+        <seg xml:id="KR3eu062_jc_000-p742s1">上三味以水七升煮米令熟去滓內赤石脂末方寸匕溫服七合日三服○少陰病二三日至四五日腹痛小便不利下利不止便膿血者</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p742s2">
+          <c n="（"/>說具於系傳<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p742s3">○方意</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p742s4">
+          <c n="（"/>此方及赤石脂禹餘糧湯皆主止澀裡虛而下利漏泄者<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p744">
+        <seg xml:id="KR3eu062_jc_000-p744s1">酸棗仁湯<space n="　" quantity="1"/>虛勞虛煩不得眠</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p746">
+        <seg xml:id="KR3eu062_jc_000-p746s1">酸棗仁<c n="("/>二升<c n=")"/>
+          <space n="　" quantity="1"/>甘草<c n="("/>一兩<c n=")"/>
+          <space n="　" quantity="1"/>知母<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>茯苓<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>芎藭<c n="("/>二兩<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p748">
+        <seg xml:id="KR3eu062_jc_000-p748s1">上五味以水八升煮酸棗仁得六升內諸藥煮取三升分溫三服○千金云治虛勞煩擾奔氣在胸中不得眠者方中有人參桂心生薑無芎藭</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p750">
+        <seg xml:id="KR3eu062_jc_000-p750s1">黃土湯<space n="　" quantity="1"/>下血先便後血此遠血也○主治吐血衄血</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p752">
+        <seg xml:id="KR3eu062_jc_000-p752s1">乾地黃<space n="　" quantity="1"/>甘草<space n="　" quantity="1"/>術<space n="　" quantity="1"/>附子<space n="　" quantity="1"/>阿膠<space n="　" quantity="1"/>黃芩</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p752s2">
+          <c n="（"/>各三兩<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p752s3">
+          <space n="　" quantity="1"/>灶中黃土<c n="("/>半斤<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p754">
+        <seg xml:id="KR3eu062_jc_000-p754s1">上七味以水八升煮取三升分溫二服</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p756">
+        <seg xml:id="KR3eu062_jc_000-p756s1">桂枝芍藥知母湯<space n="　" quantity="1"/>諸肢節疼痛身體尫羸腳腫如脫頭眩短氣溫溫欲吐</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p758">
+        <seg xml:id="KR3eu062_jc_000-p758s1">桂枝<space n="　" quantity="1"/>知母<space n="　" quantity="1"/>防風</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p758s2">
+          <c n="（"/>各四兩<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p758s3">
+          <space n="　" quantity="1"/>芍藥<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>甘草<space n="　" quantity="1"/>麻黃</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p758s4">
+          <c n="（"/>各二兩<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p758s5">
+          <space n="　" quantity="1"/>生薑<space n="　" quantity="1"/>白朮</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p758s6">
+          <c n="（"/>各五兩<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p758s7">
+          <space n="　" quantity="1"/>附子<c n="("/>二枚<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p760">
+        <seg xml:id="KR3eu062_jc_000-p760s1">上九味以水七升煮取二升溫服七合日三服</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p762">
+        <seg xml:id="KR3eu062_jc_000-p762s1">升麻鱉甲湯<space n="　" quantity="1"/>陽毒之為病面赤斑斑如錦文咽喉痛唾膿血</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p764">
+        <seg xml:id="KR3eu062_jc_000-p764s1">升麻<space n="　" quantity="1"/>甘草</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p764s2">
+          <c n="（"/>各二兩<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p764s3">
+          <space n="　" quantity="1"/>當歸<c n="("/>一兩<c n=")"/>
+          <space n="　" quantity="1"/>蜀椒<c n="("/>一兩<c n=")"/>
+          <space n="　" quantity="1"/>雄黃<c n="("/>半兩<c n=")"/>
+          <space n="　" quantity="1"/>鱉甲</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p764s4">
+          <c n="（"/>手掌大一片<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p766">
+        <seg xml:id="KR3eu062_jc_000-p766s1">上六味以水四升煮取一升頓服之○陰毒之為病面目赤身痛如被杖咽喉痛升麻鱉甲去雄黃蜀椒主之</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p768">
+        <seg xml:id="KR3eu062_jc_000-p768s1">射干麻黃湯<space n="　" quantity="1"/>咳而上氣喉中水雞聲</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p770">
+        <seg xml:id="KR3eu062_jc_000-p770s1">射干<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>麻黃<c n="("/>四兩<c n=")"/>
+          <space n="　" quantity="1"/>生薑<c n="("/>四兩<c n=")"/>
+          <space n="　" quantity="1"/>細辛<space n="　" quantity="1"/>紫苑<space n="　" quantity="1"/>款冬花</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p770s2">
+          <c n="（"/>各三兩<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p770s3">
+          <space n="　" quantity="1"/>五味子<c n="("/>半斤<c n=")"/>
+          <space n="　" quantity="1"/>大棗<c n="("/>七枚<c n=")"/>
+          <space n="　" quantity="1"/>半夏<c n="("/>半斤<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p772">
+        <seg xml:id="KR3eu062_jc_000-p772s1">上九味以水一斗二升先煮麻黃兩沸去上沫內諸藥煮取三升分溫三服○千金云小兒咳逆喘息如水雞聲方中無五味細辛款冬方後雲水煎去滓內蜜五合一沸溫服</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p774">
+        <seg xml:id="KR3eu062_jc_000-p774s1">厚朴麻黃湯<space n="　" quantity="1"/>咳而脈浮者</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p776">
+        <seg xml:id="KR3eu062_jc_000-p776s1">厚朴<c n="("/>五兩<c n=")"/>
+          <space n="　" quantity="1"/>麻黃<c n="("/>四兩<c n=")"/>
+          <space n="　" quantity="1"/>石膏</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p776s2">
+          <c n="（"/>雞子大<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p776s3">
+          <space n="　" quantity="1"/>杏仁<c n="("/>半升<c n=")"/>
+          <space n="　" quantity="1"/>細辛<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>小麥<c n="("/>一斤<c n=")"/>
+          <space n="　" quantity="1"/>五味子<c n="("/>半斤<c n=")"/>
+          <space n="　" quantity="1"/>半夏<c n="("/>半升<c n=")"/>
+          <space n="　" quantity="1"/>乾薑<c n="("/>二兩<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p778">
+        <seg xml:id="KR3eu062_jc_000-p778s1">上九味以水一斗二升先煮小麥熟去滓內諸藥煮取三升溫服一升日三服○千金云大逆上氣胸滿喉中不利如水雞聲其脈浮者</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p780">
+        <seg xml:id="KR3eu062_jc_000-p780s1">葦莖湯<space n="　" quantity="1"/>治咳有微熱煩滿胸中甲錯是為肺癰</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p782">
+        <seg xml:id="KR3eu062_jc_000-p782s1">葦莖<c n="("/>二斤<c n=")"/>
+          <space n="　" quantity="1"/>薏苡仁<c n="("/>半升<c n=")"/>
+          <space n="　" quantity="1"/>桃仁</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p782s2">
+          <c n="（"/>五十枚<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p782s3">
+          <space n="　" quantity="1"/>瓜瓣<c n="("/>半升<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p784">
+        <seg xml:id="KR3eu062_jc_000-p784s1">上四味以水一斗先煮葦莖得五升去滓內諸藥煮取二升服一升再服當吐如膿</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p786">
+        <seg xml:id="KR3eu062_jc_000-p786s1">炙甘草湯<space n="　" quantity="1"/>治虛勞不足汗出而悶脈結悸行動如常</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p786s2">
+          <c n="（"/>不出一百日危<c n="）"/>
+        </seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p786s3">
+          <c n="（"/>千金翼<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p788">
+        <seg xml:id="KR3eu062_jc_000-p788s1">甘草<c n="("/>四兩<c n=")"/>
+          <space n="　" quantity="1"/>桂枝<space n="　" quantity="1"/>生薑</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p788s2">
+          <c n="（"/>各三兩<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p788s3">
+          <space n="　" quantity="1"/>麻仁<c n="("/>半斤<c n=")"/>
+          <space n="　" quantity="1"/>麥門冬<c n="("/>半斤<c n=")"/>
+          <space n="　" quantity="1"/>人參<space n="　" quantity="1"/>阿臍</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p788s4">
+          <c n="（"/>各二兩<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p788s5">
+          <space n="　" quantity="1"/>大棗</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p788s6">
+          <c n="（"/>十二枚<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p788s7">
+          <space n="　" quantity="1"/>生地黃<c n="("/>一斤<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p790">
+        <seg xml:id="KR3eu062_jc_000-p790s1">上九味以酒七升水八升先煮八味取三升去滓內膠消盡溫服一升日三服○傷寒脈結代心動悸者</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p792">
+        <seg xml:id="KR3eu062_jc_000-p792s1">十棗湯<space n="　" quantity="1"/>病懸飲者○咳家其脈弦緊為有水</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p794">
+        <seg xml:id="KR3eu062_jc_000-p794s1">芫花<space n="　" quantity="1"/>甘遂<space n="　" quantity="1"/>大戟</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p794s2">
+          <c n="（"/>各等分<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p796">
+        <seg xml:id="KR3eu062_jc_000-p796s1">上三味等分各別搗為散以水一升半先煮大棗肥者十枚取八分去滓內藥末服一錢匕○太陽中風下利嘔逆表解者乃可攻也其人漐漐汗出發作有時頭痛心下痞硬滿引脅下痛乾嘔短氣汗出不惡寒者<c n="「"/>此表解里未和也<c n="」"/>
+        </seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p796s2">
+          <c n="（"/>說具於系傳<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p796s3">○千金云夫有支飲家咳煩胸中痛者不卒死至一百日一歲可與十棗湯又云咳而引胸下痛者又云懸飲者若下後不可與也凡上氣汗出而咳者為飲○外臺云療久病澼飲停痰不消在膈上液液時頭眩痛苦攣眼睛身體手足十指甲盡黃又療胸下支滿飲輒引胸下痛○三因方雲水腫喘急小便不通○李時珍云支飲令人咳唾引欽盆兩脅伏飲令人胸滿嘔吐寒熱眩暈痰飲令人腹鳴吐水胸脅支滿或作泄瀉忽肥忽瘦溢飲令人沉重注痛或作水氣跗腫蕪花大戟甘遂之性逐水泄濕能直達水飲窠囊隱僻之處但可徐徐用之取效甚捷○丹溪曰兼下水腫腹脹並酒食積腸垢積滯痃癖堅積蓄熱暴痛瘧氣久不已或表之正氣與邪熱並甚於里極熱似陰反寒戰表氣入里陽極深脈微而絕並風熱躁甚結於下焦大小便不通實熱腰痛又曰小兒熱結乳癖積熱作發驚風潮搐云云</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p798">
+        <seg xml:id="KR3eu062_jc_000-p798s1">走馬湯<space n="　" quantity="1"/>中惡心痛腹脹大便不通</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p800">
+        <seg xml:id="KR3eu062_jc_000-p800s1">巴豆<c n="("/>二枚<c n=")"/>
+          <space n="　" quantity="1"/>杏仁<c n="("/>二枚<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p802">
+        <seg xml:id="KR3eu062_jc_000-p802s1">上二味以綿纏捶令研熱湯二合捻取白汁飲之當下老少量之通治飛屍鬼擊病○外臺云卒得諸疝少腹及陰中相引絞痛自汗出欲死此名寒疝亦名陰疝走馬湯主之</seg>
+      </p>
+
+<head n="h3" xml:id="KR3eu062_jc_000-h804">
+        <seg xml:id="KR3eu062_jc_000-h804s1">附方</seg>
+      </head>
+<p xml:id="KR3eu062_jc_000-p806">
+        <seg xml:id="KR3eu062_jc_000-p806s1">茯苓飲<c n="("/>外臺<c n=")"/>
+          <space n="　" quantity="1"/>治心胸中有停痰宿水自吐出水後心胸間虛氣滿不能食消痰氣令能食</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p808">
+        <seg xml:id="KR3eu062_jc_000-p808s1">茯苓<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>人參<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>蒼朮<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>枳實<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>橘皮</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p808s2">
+          <c n="（"/>二兩半<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p808s3">
+          <space n="　" quantity="1"/>生薑<c n="("/>四兩<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p810">
+        <seg xml:id="KR3eu062_jc_000-p810s1">上六味以水六升煮取一升八合分溫三服</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p812">
+        <seg xml:id="KR3eu062_jc_000-p812s1">延年茯苓飲</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p812s2">
+          <c n="（"/>千金作茯神散<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p812s3">
+          <space n="　" quantity="1"/>療心虛不得眠多不食</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p814">
+        <seg xml:id="KR3eu062_jc_000-p814s1">茯苓</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p814s2">
+          <c n="（"/>一錢二分<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p814s3">
+          <space n="　" quantity="1"/>人參<c n="("/>五分<c n=")"/>
+          <space n="　" quantity="1"/>甘草<c n="("/>二分<c n=")"/>
+          <space n="　" quantity="1"/>生薑<c n="("/>五分<c n=")"/>
+          <space n="　" quantity="1"/>橘皮<c n="("/>六分<c n=")"/>
+          <space n="　" quantity="1"/>酸棗仁<c n="("/>八分<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p816">
+        <seg xml:id="KR3eu062_jc_000-p816s1">上六味水煎溫服</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p818">
+        <seg xml:id="KR3eu062_jc_000-p818s1">溫膽湯<c n="("/>千金<c n=")"/>
+          <space n="　" quantity="1"/>治大病後虛煩不得眠此寒膽也○心膽怯弱怔忡易驚者</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p820">
+        <seg xml:id="KR3eu062_jc_000-p820s1">半夏<space n="　" quantity="1"/>竹茹<space n="　" quantity="1"/>枳實</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p820s2">
+          <c n="（"/>各二錢<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p820s3">
+          <space n="　" quantity="1"/>生薑<c n="("/>四錢<c n=")"/>
+          <space n="　" quantity="1"/>陳皮<c n="("/>三錢<c n=")"/>
+          <space n="　" quantity="1"/>甘草<c n="("/>一錢<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p822">
+        <seg xml:id="KR3eu062_jc_000-p822s1">上水煎溫服○丹溪曰病後血氣未復精神未全多於夢寐中不覺失聲如魘此不繫譫語鄭聲宜溫膽湯○易簡云心膽虛怯觸事易驚膽懾氣鬱生涎涎與氣變諸證或短氣悸乏或復自汗或四肢浮腫飲食無味心虛煩悶坐臥不安者悉主之又大治傷寒後虛煩及一切病後虛煩夜睡不安者並宜用之</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p824">
+        <seg xml:id="KR3eu062_jc_000-p824s1">六物黃芩湯<c n="("/>外臺<c n=")"/>
+          <space n="　" quantity="1"/>乾嘔下利</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p824s2">
+          <c n="（"/>心下痞硬不能飲食者<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p826">
+        <seg xml:id="KR3eu062_jc_000-p826s1">黃芩<space n="　" quantity="1"/>人參</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p826s2">
+          <c n="（"/>各三兩<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p826s3">
+          <space n="　" quantity="1"/>乾薑<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>桂枝<c n="("/>一兩<c n=")"/>
+          <space n="　" quantity="1"/>大棗</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p826s4">
+          <c n="（"/>十二枚<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p826s5">
+          <space n="　" quantity="1"/>半夏<c n="("/>半斤<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p828">
+        <seg xml:id="KR3eu062_jc_000-p828s1">上六味以水七升煮取三升分溫三服</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p830">
+        <seg xml:id="KR3eu062_jc_000-p830s1">黃連解毒湯<c n="("/>外臺<c n=")"/>
+          <space n="　" quantity="1"/>崔氏曰前將軍督護劉車者得時疫三日已汗解因飲酒劇苦煩悶乾嘔口燥呻吟錯語不得臥余思作此方</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p832">
+        <seg xml:id="KR3eu062_jc_000-p832s1">黃連<c n="("/>八分<c n=")"/>
+          <space n="　" quantity="1"/>黃芩<c n="("/>五分<c n=")"/>
+          <space n="　" quantity="1"/>黃柏<c n="("/>三分<c n=")"/>
+          <space n="　" quantity="1"/>山梔子<c n="("/>四分<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p834">
+        <seg xml:id="KR3eu062_jc_000-p834s1">上四味水煎溫服○仲文仲云療天行若已五六日不解頭痛壯熱四肢煩疼不得飲食方中有大黃無黃芩名大黃湯○集驗云治小便淋瀝出血疼痛難忍○明醫指掌云治三焦實火內外皆熱煩渴溲赤口舌生瘡便秘脈數者○醫通云治濕熱邪毒內盛而利不止者○宣明方云治傷寒雜病熱毒煩躁乾嘔口渴喘滿陽厥極深蓄熱內甚世俗妄傳為陰毒者及汗吐下後寒涼諸藥不能退其熱勢者或加柴胡連翹○外科正宗云療疔毒入心內熱口乾煩悶恍惚脈實者加惡實連翹甘草</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p836">
+        <seg xml:id="KR3eu062_jc_000-p836s1">五蒸湯<c n="("/>外臺<c n=")"/>
+          <space n="　" quantity="1"/>療虛勞骨蒸五心煩熱手足煩疼口乾唇燥者</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p838">
+        <seg xml:id="KR3eu062_jc_000-p838s1">茯苓<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>人參<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>竹葉<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>石膏<c n="("/>半斤<c n=")"/>
+          <space n="　" quantity="1"/>粳米<c n="("/>四合<c n=")"/>
+          <space n="　" quantity="1"/>知母<c n="("/>一兩<c n=")"/>
+          <space n="　" quantity="1"/>黃芩<c n="("/>一兩<c n=")"/>
+          <space n="　" quantity="1"/>甘草<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>地黃<c n="("/>三兩<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p840">
+        <seg xml:id="KR3eu062_jc_000-p840s1">上九味以水八升煮米熟湯成去滓分三服</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p842">
+        <seg xml:id="KR3eu062_jc_000-p842s1">溫脾湯<c n="("/>外臺<c n=")"/>
+          <space n="　" quantity="1"/>脾胃中冷結實頭痛壯熱但苦下利或冷滯赤白如魚腦又云治下久赤白連年不止及霍亂脾胃冷實不消</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p844">
+        <seg xml:id="KR3eu062_jc_000-p844s1">大黃<c n="("/>四兩<c n=")"/>
+          <space n="　" quantity="1"/>人參<space n="　" quantity="1"/>甘草<space n="　" quantity="1"/>乾薑</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p844s2">
+          <c n="（"/>各一兩<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p844s3">
+          <space n="　" quantity="1"/>附子<c n="("/>一枚<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p846">
+        <seg xml:id="KR3eu062_jc_000-p846s1">上五味以水七升煮取三升分溫三服○玉函云下利至隔年日月不期而發者此為有積宜下之止用溫脾湯尤佳如難取者可佐乾薑圓</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p846s2">
+          <c n="（"/>壽曰即備急圓<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p846s3">○本事方云治冷痛在腸胃間連年腹痛泄瀉休作無時服諸熱藥不效宜先取去而調易差不可恐虛以養病也○方意</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p846s4">
+          <c n="（"/>人參附子乾薑甘草鼓舞運動冷結積滯之毒大黃泄之蓋溫字宜作運字看<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p848">
+        <seg xml:id="KR3eu062_jc_000-p848s1">檳榔湯<c n="("/>外臺<c n=")"/>
+          <space n="　" quantity="1"/>治腳氣心頭冷硬結通下氣</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p850">
+        <seg xml:id="KR3eu062_jc_000-p850s1">檳榔<c n="("/>六兩<c n=")"/>
+          <space n="　" quantity="1"/>木香<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>橘皮<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>枳實<space n="　" quantity="1"/>甘草<space n="　" quantity="1"/>生薑</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p850s2">
+          <c n="（"/>各二兩<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p850s3">
+          <space n="　" quantity="1"/>大黃<c n="("/>三兩<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p852">
+        <seg xml:id="KR3eu062_jc_000-p852s1">上七味以水六升煮取三升日三夜一服</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p854">
+        <seg xml:id="KR3eu062_jc_000-p854s1">唐侍中檳榔湯<c n="("/>外臺<c n=")"/>
+          <space n="　" quantity="1"/>療腫滿小便少者又曰療苦腳氣攻心此方散腫氣極驗</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p856">
+        <seg xml:id="KR3eu062_jc_000-p856s1">檳榔</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p856s2">
+          <c n="（"/>二錢二分<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p856s3">
+          <space n="　" quantity="1"/>生薑<c n="("/>六分<c n=")"/>
+          <space n="　" quantity="1"/>橘皮<c n="("/>五分<c n=")"/>
+          <space n="　" quantity="1"/>吳茱萸<c n="("/>四分<c n=")"/>
+          <space n="　" quantity="1"/>木瓜<c n="("/>四分<c n=")"/>
+          <space n="　" quantity="1"/>紫蘇<c n="("/>三分<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p858">
+        <seg xml:id="KR3eu062_jc_000-p858s1">上六味水煎溫服○衛生良劑方云療風濕毒氣中於足經遂為腳氣下注兩腳腫脹疼痛履地不得及內攻心腹手足脈絕悶亂煩躁不得息極有神效性全萬安方</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p860">
+        <seg xml:id="KR3eu062_jc_000-p860s1">烏頭檳榔湯<c n="("/>外臺<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p862">
+        <seg xml:id="KR3eu062_jc_000-p862s1">烏頭<c n="("/>六兩<c n=")"/>
+          <space n="　" quantity="1"/>桑白<c n="("/>一錢<c n=")"/>
+          <space n="　" quantity="1"/>檳榔<c n="("/>一錢<c n=")"/>
+          <space n="　" quantity="1"/>商陸<c n="("/>三錢<c n=")"/>
+          <space n="　" quantity="1"/>大黃<c n="("/>六分<c n=")"/>
+          <space n="　" quantity="1"/>生薑<c n="("/>七分<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p864">
+        <seg xml:id="KR3eu062_jc_000-p864s1">上六味以水三合先煮烏頭減一合去滓內諸藥煮取一合去滓服○方意</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p864s2">
+          <c n="（"/>此方運動水毒以泄之尿道烏頭再煎者蓋取緩其剛悍之性以親著病毒也<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p866">
+        <seg xml:id="KR3eu062_jc_000-p866s1">黑豆湯<c n="("/>外臺<c n=")"/>
+          <space n="　" quantity="1"/>治腳氣衝心周身洪腫者</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p868">
+        <seg xml:id="KR3eu062_jc_000-p868s1">黑豆<c n="("/>八錢<c n=")"/>
+          <space n="　" quantity="1"/>桑白皮</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p868s2">
+          <c n="（"/>一錢半<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p868s3">
+          <space n="　" quantity="1"/>郁李仁<c n="("/>一錢<c n=")"/>
+          <space n="　" quantity="1"/>檳榔</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p868s4">
+          <c n="（"/>一錢半<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p870">
+        <seg xml:id="KR3eu062_jc_000-p870s1">上四味以水四合先煮黑豆減二合去滓內諸藥煮取一合○發明</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p870s2">
+          <c n="（"/>壽曰世醫以桃花營實之類下水毒雖其應如響徒瀉浮水爾故不日後聚特郁李仁能破腸中結氣取盡水毒拔病根神驗無類<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p872">
+        <seg xml:id="KR3eu062_jc_000-p872s1">犀角吳茱萸湯<c n="("/>外臺<c n=")"/>
+          <space n="　" quantity="1"/>治腳氣冷毒心下堅背縛痛上氣欲死效能破毒氣</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p874">
+        <seg xml:id="KR3eu062_jc_000-p874s1">吳茱萸<c n="("/>六分<c n=")"/>
+          <space n="　" quantity="1"/>檳榔</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p874s2">
+          <c n="（"/>一錢二分<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p874s3">
+          <space n="　" quantity="1"/>木香<c n="("/>三分<c n=")"/>
+          <space n="　" quantity="1"/>犀角<c n="("/>五分<c n=")"/>
+          <space n="　" quantity="1"/>半夏<c n="("/>六分<c n=")"/>
+          <space n="　" quantity="1"/>生薑<c n="("/>七分<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p876">
+        <seg xml:id="KR3eu062_jc_000-p876s1">上六味水煎服</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p878">
+        <seg xml:id="KR3eu062_jc_000-p878s1">續命湯</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p878s2">
+          <c n="（"/>古今錄驗<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p878s3">
+          <space n="　" quantity="1"/>治中風痹身體不能自收口不能言冒昧不知痛處或拘急不得轉側又治但伏不得臥咳逆上氣面目浮腫</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p880">
+        <seg xml:id="KR3eu062_jc_000-p880s1">麻黃<space n="　" quantity="1"/>桂枝<space n="　" quantity="1"/>當歸<space n="　" quantity="1"/>人參<space n="　" quantity="1"/>甘草<space n="　" quantity="1"/>芎藭<space n="　" quantity="1"/>石膏</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p880s2">
+          <c n="（"/>各一兩<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p880s3">
+          <space n="　" quantity="1"/>乾薑<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>杏仁</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p880s4">
+          <c n="（"/>三十枚<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p882">
+        <seg xml:id="KR3eu062_jc_000-p882s1">上九味以水一斗煮取四升溫服一升○外臺云深師大續命湯療毒風賊風身體不能自收咽中卒不得語若拘急腰痛目眩反張恍愧恐惶上氣嘔逆面腫方中有黃芩無人參又云生治手足攣急及不隨又療中風四肢壯熱如火攣急或縱不隨氣衝胸中方中有黃芩芍藥防風名大續命湯○千金方增損續命湯條云治小兒卒中風惡毒及久風四肢角弓反張不隨並軃𤵺癖不能行步又西州續命湯條云治肉極虛熱肌膚淫淫如鼠走身上津液開泄或痹不仁四肢急痛</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p884">
+        <seg xml:id="KR3eu062_jc_000-p884s1">小續命湯<c n="("/>千金<c n=")"/>
+          <space n="　" quantity="1"/>治卒中風身體緩急口目不正舌強不語神情奄忽悶亂又治腳弱又有疹家天陰節變服之防暗風</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p886">
+        <seg xml:id="KR3eu062_jc_000-p886s1">麻黃<space n="　" quantity="1"/>防己<space n="　" quantity="1"/>人參<space n="　" quantity="1"/>黃芩<space n="　" quantity="1"/>桂枝<space n="　" quantity="1"/>芍藥<space n="　" quantity="1"/>甘草<space n="　" quantity="1"/>芎藭<space n="　" quantity="1"/>杏仁</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p886s2">
+          <c n="（"/>各二兩<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p886s3">
+          <space n="　" quantity="1"/>防風</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p886s4">
+          <c n="（"/>一兩半<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p886s5">
+          <space n="　" quantity="1"/>附子<c n="("/>一枚<c n=")"/>
+          <space n="　" quantity="1"/>生薑<c n="("/>五兩<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p888">
+        <seg xml:id="KR3eu062_jc_000-p888s1">上十二味以水一斗煮取四升溫服一升</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p890">
+        <seg xml:id="KR3eu062_jc_000-p890s1">三物黃芩湯<c n="("/>千金<c n=")"/>
+          <space n="　" quantity="1"/>婦人在草褥自發露得風四肢苦煩熱頭痛者與小柴胡湯頭不痛但煩者</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p892">
+        <seg xml:id="KR3eu062_jc_000-p892s1">黃芩<c n="("/>一兩<c n=")"/>
+          <space n="　" quantity="1"/>苦參<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>乾地黃<c n="("/>四兩<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p894">
+        <seg xml:id="KR3eu062_jc_000-p894s1">上三味以水六升煮取二升溫服一升</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p896">
+        <seg xml:id="KR3eu062_jc_000-p896s1">三黃湯<c n="("/>千金<c n=")"/>
+          <space n="　" quantity="1"/>治中風手足拘急百節疼痛煩熱心亂惡寒經日不欲飲食</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p898">
+        <seg xml:id="KR3eu062_jc_000-p898s1">麻黃<c n="("/>五錢<c n=")"/>
+          <space n="　" quantity="1"/>獨活<c n="("/>四錢<c n=")"/>
+          <space n="　" quantity="1"/>細辛<c n="("/>二錢<c n=")"/>
+          <space n="　" quantity="1"/>黃蓍<c n="("/>二錢<c n=")"/>
+          <space n="　" quantity="1"/>黃芩<c n="("/>三錢<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p900">
+        <seg xml:id="KR3eu062_jc_000-p900s1">上五味以水六升煮取二升分溫三服</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p902">
+        <seg xml:id="KR3eu062_jc_000-p902s1">木茱湯<c n="("/>千金<c n=")"/>
+          <space n="　" quantity="1"/>治腳氣入腹困悶欲死腹脹○治腳氣上衝心悶亂不知人事手足脈絕又毒氣攻心手足脈絕此難濟不得止作此湯十愈七八</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p904">
+        <seg xml:id="KR3eu062_jc_000-p904s1">吳茱萸</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p904s2">
+          <c n="（"/>一錢半<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p904s3">
+          <space n="　" quantity="1"/>木瓜</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p904s4">
+          <c n="（"/>一錢二分<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p906">
+        <seg xml:id="KR3eu062_jc_000-p906s1">上二味以水二合煮取八分</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p906s2">
+          <c n="（"/>一方加青木香犀角<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p908">
+        <seg xml:id="KR3eu062_jc_000-p908s1">三和散<c n="("/>和劑<c n=")"/>
+          <space n="　" quantity="1"/>背胸痛妨食及腳氣上攻胸腹滿悶不大便者</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p910">
+        <seg xml:id="KR3eu062_jc_000-p910s1">羌活<space n="　" quantity="1"/>紫蘇<space n="　" quantity="1"/>沉香</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p910s2">
+          <c n="（"/>各一錢<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p910s3">
+          <space n="　" quantity="1"/>木瓜<space n="　" quantity="1"/>芎藭<space n="　" quantity="1"/>大腹皮<space n="　" quantity="1"/>白朮<space n="　" quantity="1"/>橘皮<space n="　" quantity="1"/>木香<space n="　" quantity="1"/>檳榔</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p910s4">
+          <c n="（"/>各八分<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p910s5">
+          <space n="　" quantity="1"/>甘草<c n="("/>二分<c n=")"/>
+          <space n="　" quantity="1"/>生薑<c n="("/>一錢<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p912">
+        <seg xml:id="KR3eu062_jc_000-p912s1">上十二味水煎服○直指云治水蠱氣脹腹腫腎腫面浮○局方云治三焦不和心腹痞悶大便秘難及腳氣上攻腹脹○試效</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p912s2">
+          <c n="（"/>諸疝胸腹刺痛者去白朮川芎羌活加大黃其驗如神<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p914">
+        <seg xml:id="KR3eu062_jc_000-p914s1">涼膈散<c n="("/>局方<c n=")"/>
+          <space n="　" quantity="1"/>治大人小兒臟腑積熱煩躁多渴面熱頭昏唇焦咽燥口舌腫閉目赤鼻衄頷頰結硬口舌生瘡痰實不利涕唾稠黏睡臥不寧譫語狂妄腸胃燥澀便溺秘結一切風壅並宜服之</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p916">
+        <seg xml:id="KR3eu062_jc_000-p916s1">大黃<c n="("/>一錢<c n=")"/>
+          <space n="　" quantity="1"/>連翹<space n="　" quantity="1"/>梔子</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p916s2">
+          <c n="（"/>各三分<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p916s3">
+          <space n="　" quantity="1"/>薄荷<space n="　" quantity="1"/>黃芩</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p916s4">
+          <c n="（"/>各四分<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p916s5">
+          <space n="　" quantity="1"/>甘草<c n="("/>二分<c n=")"/>
+          <space n="　" quantity="1"/>芒硝</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p916s6">
+          <c n="（"/>六分或八分<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p918">
+        <seg xml:id="KR3eu062_jc_000-p918s1">上七味以水二合煮取一合去滓內芒硝上微火一二沸空心頓服○正宗云濕熱上攻致牙根腮項作腫多痛○試效</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p918s2">
+          <c n="（"/>風蟲牙痛常出血至崩落口臭者又走馬疳齒齦腐蝕或出血牙齒欲落者<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p920">
+        <seg xml:id="KR3eu062_jc_000-p920s1">升麻散<c n="("/>聖濟<c n=")"/>
+          <space n="　" quantity="1"/>治傷寒一日便成陽毒或服藥發汗吐下之後毒氣不解身重背強煩躁狂言或走或見鬼神面赤斑斑狀如錦文咽喉痛及下膿血</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p922">
+        <seg xml:id="KR3eu062_jc_000-p922s1">升麻<c n="("/>一錢<c n=")"/>
+          <space n="　" quantity="1"/>當歸<c n="("/>五分<c n=")"/>
+          <space n="　" quantity="1"/>黃芩<c n="("/>四分<c n=")"/>
+          <space n="　" quantity="1"/>犀角</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p922s2">
+          <c n="（"/>三分或五分<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p922s3">
+          <space n="　" quantity="1"/>射干<c n="("/>四分<c n=")"/>
+          <space n="　" quantity="1"/>黃連<c n="("/>三分<c n=")"/>
+          <space n="　" quantity="1"/>甘草<c n="("/>二分<c n=")"/>
+          <space n="　" quantity="1"/>地骨皮<c n="("/>三分<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p924">
+        <seg xml:id="KR3eu062_jc_000-p924s1">上八味以水二合煮取一合頓服○試效</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p924s2">
+          <c n="（"/>熱病中後吐血衄血下血及咽喉腫痛者照證服之<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p926">
+        <seg xml:id="KR3eu062_jc_000-p926s1">犀角地黃湯<c n="("/>千金<c n=")"/>
+          <space n="　" quantity="1"/>治傷寒溫病應發汗而不得汗內蓄瘀血及鼻衄吐血不盡內余瘀血大便血面黃或中脘作痛</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p928">
+        <seg xml:id="KR3eu062_jc_000-p928s1">犀角<c n="("/>五分<c n=")"/>
+          <space n="　" quantity="1"/>地黃</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p928s2">
+          <c n="（"/>一錢半<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p928s3">
+          <space n="　" quantity="1"/>芍藥<c n="("/>八分<c n=")"/>
+          <space n="　" quantity="1"/>牡丹皮</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p928s4">
+          <c n="（"/>六分或加當歸川芎<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p930">
+        <seg xml:id="KR3eu062_jc_000-p930s1">上四味以水二合煮取八勺</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p932">
+        <seg xml:id="KR3eu062_jc_000-p932s1">逍遙散<c n="("/>局方<c n=")"/>
+          <space n="　" quantity="1"/>治血虛勞健五心煩熱肢體疼痛頭目昏重心怯頰赤口乾咽燥發熱盜汗寒熱如瘧又療室女血弱榮衛不和痰嗽潮熱肌體羸瘦漸成骨蒸</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p934">
+        <seg xml:id="KR3eu062_jc_000-p934s1">茯苓<c n="("/>一錢<c n=")"/>
+          <space n="　" quantity="1"/>白朮<c n="("/>六分<c n=")"/>
+          <space n="　" quantity="1"/>當歸<c n="("/>六分<c n=")"/>
+          <space n="　" quantity="1"/>芍藥<c n="("/>八分<c n=")"/>
+          <space n="　" quantity="1"/>柴胡<c n="("/>一錢<c n=")"/>
+          <space n="　" quantity="1"/>甘草<c n="("/>二分<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p936">
+        <seg xml:id="KR3eu062_jc_000-p936s1">上六味以水二合煎取一合頓服○正宗云治減食嗜臥及血熱相搏月水不調臍腹脹滿加牡丹皮山梔子名加味逍遙散○婦人良方云治肝脾血虛有熱遍身搔扒或口乾咽燥發熱盜汗食少嗜臥小便澀滯等證又治瘰癧流注虛熱等證</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p938">
+        <seg xml:id="KR3eu062_jc_000-p938s1">浮萍湯</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p938s2">
+          <c n="（"/>儒門事親<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p938s3">
+          <space n="　" quantity="1"/>治諸風癬疥癩病</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p940">
+        <seg xml:id="KR3eu062_jc_000-p940s1">浮萍<c n="("/>八分<c n=")"/>
+          <space n="　" quantity="1"/>荊芥<c n="("/>四分<c n=")"/>
+          <space n="　" quantity="1"/>麻黃<c n="("/>六分<c n=")"/>
+          <space n="　" quantity="1"/>川芎<c n="("/>四分<c n=")"/>
+          <space n="　" quantity="1"/>甘草</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p940s2">
+          <c n="（"/>二分或加防風大黃<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p942">
+        <seg xml:id="KR3eu062_jc_000-p942s1">上五味以水二合煮取一合頓服○經驗云治小兒病風瘙癢痛如疥搔之汁出偏身㾦癗如麻豆者</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p944">
+        <seg xml:id="KR3eu062_jc_000-p944s1">透膿湯<c n="("/>正宗<c n=")"/>
+          <space n="　" quantity="1"/>治癰疽諸毒膿已成不穿破者</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p946">
+        <seg xml:id="KR3eu062_jc_000-p946s1">黃蓍<c n="("/>一錢<c n=")"/>
+          <space n="　" quantity="1"/>穿山甲<c n="("/>五分<c n=")"/>
+          <space n="　" quantity="1"/>當歸<c n="("/>七分<c n=")"/>
+          <space n="　" quantity="1"/>皂角刺<c n="("/>八分<c n=")"/>
+          <space n="　" quantity="1"/>川芎<c n="("/>五分<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p948">
+        <seg xml:id="KR3eu062_jc_000-p948s1">上五味以水二合煮取一合頓服</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p950">
+        <seg xml:id="KR3eu062_jc_000-p950s1">搜風解毒湯</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p950s2">
+          <c n="（"/>本草綱目<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p950s3">
+          <space n="　" quantity="1"/>治楊梅瘡不犯輕粉病深者月餘淺者半月即愈服輕粉藥筋骨痛癱瘓不能動履服之亦效</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p952">
+        <seg xml:id="KR3eu062_jc_000-p952s1">土茯苓<c n="("/>四錢<c n=")"/>
+          <space n="　" quantity="1"/>薏苡仁<space n="　" quantity="1"/>金銀花<space n="　" quantity="1"/>防風<space n="　" quantity="1"/>木瓜<space n="　" quantity="1"/>木通<space n="　" quantity="1"/>白蘚皮</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p952s2">
+          <c n="（"/>各五分<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p952s3">
+          <space n="　" quantity="1"/>皂莢子<c n="("/>四分<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p954">
+        <seg xml:id="KR3eu062_jc_000-p954s1">上八味以水三合煮取一合半○外科纂要云治男婦一切下疳疰疳蝕疳內疳外疳爛疳無有不效下疳日久不瘥必生楊梅瘡此方預服可使不起已發可使速愈雖是結毒並歷神效</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p956">
+        <seg xml:id="KR3eu062_jc_000-p956s1">赤小豆湯</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p956s2">
+          <c n="（"/>東洋出脅氏制方見於漫遊雜記<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p956s3">
+          <space n="　" quantity="1"/>主治諸毒內攻腫滿者</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p958">
+        <seg xml:id="KR3eu062_jc_000-p958s1">赤小豆<c n="("/>五錢<c n=")"/>
+          <space n="　" quantity="1"/>商陸<c n="("/>二錢<c n=")"/>
+          <space n="　" quantity="1"/>大黃<c n="("/>六分<c n=")"/>
+          <space n="　" quantity="1"/>麻黃<c n="("/>八分<c n=")"/>
+          <space n="　" quantity="1"/>連翹<c n="("/>四分<c n=")"/>
+          <space n="　" quantity="1"/>木通<c n="("/>六分<c n=")"/>
+          <space n="　" quantity="1"/>豬苓<c n="("/>六分<c n=")"/>
+          <space n="　" quantity="1"/>反鼻<c n="("/>三分<c n=")"/>
+          <space n="　" quantity="1"/>雞舌<c n="("/>二分<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p960">
+        <seg xml:id="KR3eu062_jc_000-p960s1">上九味以水三合先煮赤小豆減一合去滓內諸藥煮取一合○方意</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p960s2">
+          <c n="（"/>赤小豆商陸木通皆利水之藥佐之以麻黃雞舌反鼻者強通竅之力也其以大黃者厚通利之勢也此方之所發動運輸陷結之毒以奏神效也不知者乃曰此方且發且利且瀉一舉三得之良劑者妄也蓋此證毒內攻而結水氣水氣浸毒毒淫水氣於是乎毒與水混合皆毒豈有以此一方除之於三途之理哉<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p962">
+        <seg xml:id="KR3eu062_jc_000-p962s1">琥珀湯<c n="("/>同上<c n=")"/>
+          <space n="　" quantity="1"/>治產後水腫或諸毒內攻生腫</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p964">
+        <seg xml:id="KR3eu062_jc_000-p964s1">琥珀</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p964s2">
+          <c n="（"/>一錢半<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p964s3">
+          <space n="　" quantity="1"/>雞舌<c n="("/>二分<c n=")"/>
+          <space n="　" quantity="1"/>反鼻<c n="("/>三分<c n=")"/>
+          <space n="　" quantity="1"/>大黃<c n="("/>六分<c n=")"/>
+          <space n="　" quantity="1"/>豬苓<c n="("/>六分<c n=")"/>
+          <space n="　" quantity="1"/>木通<c n="("/>六分<c n=")"/>
+          <space n="　" quantity="1"/>商陸<c n="("/>二錢<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p966">
+        <seg xml:id="KR3eu062_jc_000-p966s1">上七味以水二盞煮取一盞</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p968">
+        <seg xml:id="KR3eu062_jc_000-p968s1">赤小豆煎<space n="　" quantity="1"/>腳氣疝脹產後腫滿水腫脹滿不論虛實吃之皆有驗實濟世奇劑</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p970">
+        <seg xml:id="KR3eu062_jc_000-p970s1">芫花<space n="　" quantity="1"/>大戟</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p970s2">
+          <c n="（"/>各八分<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p970s3">
+          <space n="　" quantity="1"/>桑白皮<c n="("/>一錢<c n=")"/>
+          <space n="　" quantity="1"/>葶藶子</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p970s4">
+          <c n="（"/>一錢二分<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p970s5">
+          <space n="　" quantity="1"/>商陸</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p970s6">
+          <c n="（"/>二十錢<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p970s7">
+          <space n="　" quantity="1"/>生薑<c n="("/>五錢<c n=")"/>
+          <space n="　" quantity="1"/>赤小豆<c n="("/>一合<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p972">
+        <seg xml:id="KR3eu062_jc_000-p972s1">上七味以水八合先煮六物取四合三勺去滓內赤小豆更煮合熟一日一夜吃盡○禁忌千金方云喪孝產乳音樂喧戲並一切魚肉生冷醋滑蒜黏食米豆油並須戒忌三年慎之永不復發不爾者雖愈必復發不可更治也○余友橘春庵</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p972s2">
+          <c n="（"/>阿波勝瑞村人<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p972s3">善醫特善治腫滿起死回生歲以百數余所親耳目也乃懇請受其奇方乃赤小豆煎也後周遊四方過尾州名古屋時一男子患腫滿命懸旦夕諸醫袖手余欲與往昔所受於橘氏之方以救之失其方書蓋為人所奪也深以為憾苦思終日遂作此方與之十有餘日病脫然復故爾後活幾十人皆用此方凡病水腫者吃之如法則無不有神效者若不可起者則必不能吃之也文化某年餘歸舊里偶會春庵言及此話質以此方則與其所傳大同小異後數旬書報曰以兄方試諸數十人十舉十全比之舊方效最速矣</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p974">
+        <seg xml:id="KR3eu062_jc_000-p974s1">抵當丸<space n="　" quantity="1"/>婦人經水不利</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p976">
+        <seg xml:id="KR3eu062_jc_000-p976s1">水蛭</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p976s2">
+          <c n="（"/>二十個<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p976s3">
+          <space n="　" quantity="1"/>虻蟲</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p976s4">
+          <c n="（"/>二十五個<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p976s5">
+          <space n="　" quantity="1"/>桃仁</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p976s6">
+          <c n="（"/>二十個<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p976s7">
+          <space n="　" quantity="1"/>大黃<c n="("/>三兩<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p978">
+        <seg xml:id="KR3eu062_jc_000-p978s1">上四味杵分為四丸○傷寒有熱少腹滿應小便不利今反利者為有血也當下之不可余藥</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p978s2">
+          <c n="（"/>壽曰抵當湯證而緩者主之本有煎法今不取<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p980">
+        <seg xml:id="KR3eu062_jc_000-p980s1">大陷胸丸<space n="　" quantity="1"/>結胸者項亦強如柔痙狀下之則和</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p980s2">
+          <c n="（"/>說具於系傳<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p982">
+        <seg xml:id="KR3eu062_jc_000-p982s1">大黃<c n="("/>半斤<c n=")"/>
+          <space n="　" quantity="1"/>葶藶<c n="("/>半升<c n=")"/>
+          <space n="　" quantity="1"/>芒硝<c n="("/>半斤<c n=")"/>
+          <space n="　" quantity="1"/>杏仁<c n="("/>半升<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p984">
+        <seg xml:id="KR3eu062_jc_000-p984s1">上四味搗篩二味內杏仁芒硝合研如脂和散取如彈丸一枚別搗甘遂末一錢匕煉蜜丸</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p986">
+        <seg xml:id="KR3eu062_jc_000-p986s1">麻子仁丸<space n="　" quantity="1"/>大便堅其脾為約</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p988">
+        <seg xml:id="KR3eu062_jc_000-p988s1">麻子仁<c n="("/>二升<c n=")"/>
+          <space n="　" quantity="1"/>芍藥<c n="("/>半斤<c n=")"/>
+          <space n="　" quantity="1"/>枳實<c n="("/>一斤<c n=")"/>
+          <space n="　" quantity="1"/>大黃<c n="("/>一斤<c n=")"/>
+          <space n="　" quantity="1"/>厚朴<c n="("/>一尺<c n=")"/>
+          <space n="　" quantity="1"/>杏仁<c n="("/>一升<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p990">
+        <seg xml:id="KR3eu062_jc_000-p990s1">上六味末之煉蜜和丸梧子大飲服十丸日三○試效</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p990s2">
+          <c n="（"/>腸胃枯燥大便不通者<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p992">
+        <seg xml:id="KR3eu062_jc_000-p992s1">八味丸<space n="　" quantity="1"/>腳氣上入少腹不仁○虛勞腰痛少腹拘急小便不利者○夫短氣有微飲當從小便去之苓桂朮甘湯主之腎氣丸亦主之○男子消渴小便不利以飲一斗小便一斗○婦人病飲食如故煩熱不得臥而反倚息者何也曰此名轉胞不得溺也以胞系了戾故致此病但利小便則愈</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p994">
+        <seg xml:id="KR3eu062_jc_000-p994s1">乾地黃<c n="("/>八分<c n=")"/>
+          <space n="　" quantity="1"/>山茱萸<space n="　" quantity="1"/>薯蕷</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p994s2">
+          <c n="（"/>各四兩<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p994s3">
+          <space n="　" quantity="1"/>澤瀉<space n="　" quantity="1"/>茯苓</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p994s4">
+          <c n="（"/>各三兩<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p994s5">
+          <space n="　" quantity="1"/>牡丹皮<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>桂枝<space n="　" quantity="1"/>附子</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p994s6">
+          <c n="（"/>各一兩<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p996">
+        <seg xml:id="KR3eu062_jc_000-p996s1">上八味末之煉蜜和丸梧子大酒下十五丸日再服○千金方云治虛不足大渴欲飲水腰痛小腹拘急小便不利又云腎氣不足羸瘦日劇吸吸少氣體重耳聾目暗百病</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p996s2">
+          <c n="（"/>方中有半夏無附子山茱萸<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p998">
+        <seg xml:id="KR3eu062_jc_000-p998s1">栝蔞瞿麥丸<space n="　" quantity="1"/>小便不利者有水氣其人苦渴</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1000">
+        <seg xml:id="KR3eu062_jc_000-p1000s1">栝蔞根<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>茯苓<space n="　" quantity="1"/>薯蕷</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p1000s2">
+          <c n="（"/>各三兩<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p1000s3">
+          <space n="　" quantity="1"/>附子<c n="("/>一枚<c n=")"/>
+          <space n="　" quantity="1"/>瞿麥<c n="("/>一兩<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1002">
+        <seg xml:id="KR3eu062_jc_000-p1002s1">上五味末之煉蜜丸梧子大飲服三丸日三服</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1004">
+        <seg xml:id="KR3eu062_jc_000-p1004s1">赤丸<space n="　" quantity="1"/>寒氣厥逆</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1006">
+        <seg xml:id="KR3eu062_jc_000-p1006s1">茯苓<c n="("/>四兩<c n=")"/>
+          <space n="　" quantity="1"/>半夏</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p1006s2">
+          <c n="（"/>四兩一方用桂<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p1006s3">
+          <space n="　" quantity="1"/>烏頭<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>細辛<c n="("/>一兩<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1008">
+        <seg xml:id="KR3eu062_jc_000-p1008s1">上四味末之內真朱為色煉蜜丸如麻子大先食酒飲下三丸日再夜一服</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p1008s2">
+          <c n="（"/>心胸滿微痛或吐水飲或寒疝胸腹痛者皆主之<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1010">
+        <seg xml:id="KR3eu062_jc_000-p1010s1">乾薑人參半夏丸<space n="　" quantity="1"/>妊娠嘔吐不止</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p1010s2">
+          <c n="（"/>惡阻不入水藥者<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1012">
+        <seg xml:id="KR3eu062_jc_000-p1012s1">乾薑<space n="　" quantity="1"/>人參</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p1012s2">
+          <c n="（"/>各一兩<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p1012s3">
+          <space n="　" quantity="1"/>半夏<c n="("/>二兩<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1014">
+        <seg xml:id="KR3eu062_jc_000-p1014s1">上三味末之以生薑汁糊為丸如梧子大飲服十丸日三服</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1016">
+        <seg xml:id="KR3eu062_jc_000-p1016s1">桂枝茯苓丸<space n="　" quantity="1"/>婦人宿有症病經斷未及三月而得漏下不止胎動在臍上者為症痼害妊娠六月動者前三月經水利時胎下血者後斷三月不血也所以血不止者其症不去故也當下其症</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1018">
+        <seg xml:id="KR3eu062_jc_000-p1018s1">桂枝<space n="　" quantity="1"/>牡丹皮<space n="　" quantity="1"/>茯苓<space n="　" quantity="1"/>桃仁<space n="　" quantity="1"/>芍藥</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p1018s2">
+          <c n="（"/>各等分<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1020">
+        <seg xml:id="KR3eu062_jc_000-p1020s1">上五味末之煉蜜和丸如兔屎大每日食前服一丸不知加至三丸○大全良方云專療婦人小產下血至多子死腹中其人憎寒手指唇爪甲青白麵色黃黑或胎上搶心則悶絕欲死冷汗自汗喘滿不食或食毒物胎尚未投服之可安已死服之可下○萬病回春云候產母腹痛腰痛見漿水下服方○經驗云小產瘀血心腹疼痛而發熱惡寒者以上三條皆為湯液用焉</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p1020s2">
+          <c n="（"/>按曰子死腹中曰胎上衝心曰腹痛腰痛曰當下其症皆當加大黃<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1022">
+        <seg xml:id="KR3eu062_jc_000-p1022s1">大黃䗪蟲丸<space n="　" quantity="1"/>五勞虛極羸瘦腹滿不能飲食食傷憂傷飲傷房室傷飢傷勞傷經絡榮衛氣傷內有乾血肌膚甲錯面目黠黑緩中補虛</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1024">
+        <seg xml:id="KR3eu062_jc_000-p1024s1">大黃</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p1024s2">
+          <c n="（"/>十分蒸<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p1024s3">
+          <space n="　" quantity="1"/>黃芩<c n="("/>二兩<c n=")"/>
+          <space n="　" quantity="1"/>甘草<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>桃仁<c n="("/>一升<c n=")"/>
+          <space n="　" quantity="1"/>杏仁<c n="("/>一升<c n=")"/>
+          <space n="　" quantity="1"/>乾地黃<c n="("/>十兩<c n=")"/>
+          <space n="　" quantity="1"/>芍藥<c n="("/>四兩<c n=")"/>
+          <space n="　" quantity="1"/>乾漆<c n="("/>一兩<c n=")"/>
+          <space n="　" quantity="1"/>虻蟲<c n="("/>一升<c n=")"/>
+          <space n="　" quantity="1"/>水蛭<c n="("/>百枚<c n=")"/>
+          <space n="　" quantity="1"/>蠐螬<c n="("/>一升<c n=")"/>
+          <space n="　" quantity="1"/>䗪蟲<c n="("/>半升<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1026">
+        <seg xml:id="KR3eu062_jc_000-p1026s1">上十二味末之煉蜜丸小豆大酒服五丸日三服○</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p1026s2">
+          <c n="（"/>壽曰藥品多味恐非古意不如以桃仁大黃乾漆水蛭虻蟲䗪蟲六味末之蜜丸酒服取效之速也又曰所謂緩中補虛者言去幹血則腹中緩舒氣血精液漸復也<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1028">
+        <seg xml:id="KR3eu062_jc_000-p1028s1">己椒藶黃丸<space n="　" quantity="1"/>腹滿口舌乾燥此腸間有水氣</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1030">
+        <seg xml:id="KR3eu062_jc_000-p1030s1">防己<space n="　" quantity="1"/>椒目<space n="　" quantity="1"/>葶藶<space n="　" quantity="1"/>大黃</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p1030s2">
+          <c n="（"/>各一兩<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1032">
+        <seg xml:id="KR3eu062_jc_000-p1032s1">上四味末之蜜丸如梧子大先食飲服一丸日三服稍增口中有津液渴者加芒硝半兩</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1034">
+        <seg xml:id="KR3eu062_jc_000-p1034s1">備急圓<space n="　" quantity="1"/>主心腹諸卒暴百病若中惡客忤心腹滿卒如錐刺氣急口禁停死卒死者</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1036">
+        <seg xml:id="KR3eu062_jc_000-p1036s1">大黃<c n="("/>一兩<c n=")"/>
+          <space n="　" quantity="1"/>乾薑<c n="("/>一兩<c n=")"/>
+          <space n="　" quantity="1"/>巴豆<c n="("/>一兩<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1038">
+        <seg xml:id="KR3eu062_jc_000-p1038s1">上藥各須精新先搗大黃乾薑為末研巴豆內中合治一千杵用為散蜜和丸亦佳密器中貯之莫令歇氣○用法以暖水若酒服大豆許三四丸或不下捧頭起灌令下咽須臾當差如未差更與三丸當腹中鳴即吐下便差若口禁亦須折齒灌之○外臺云乾霍亂大小便不通煩冤欲死又云乾霍亂腹脹滿攪刺疼痛煩悶不可忍手足逆冷甚者流汗如水大小便不通求吐不出求下不下須臾不救便有性命之慮急與云云○錄驗云療人卒上氣呼吸氣不得下喘逆差後已為常用○肘後云治大熱行極及食熱餅竟飲冷水過多衝咽不即消仍以發氣腸內一切卒暴百病○醫通云下利差後至其年月復發者○得效方云妊婦熱而大便秘脈實死胎不知人溫水下七丸即活○宋王碩曰巴豆治垂死之病藥至病差其效如神真衛生代病之妙劑參朮雖號為善良卻能為害每見尊貴之人服藥只參朮平穩而於有瞑眩之功者不敢輒服醫雖知其當用亦深慮其相信之不篤稍有變證恐歸咎於己姑以參朮等藥迎合其意倘有不虞亦得以藉口而不知養病喪身莫不由此○方意</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p1038s2">
+          <c n="（"/>心痛大便秘或手足厥冷六脈沉伏者及赤白痢疾臍腹㽲痛多由腸胃間積滯之所致先以此丸下之又主噁心嘔吐不納食物而大便閉者又治痃癖奔豚腳氣攻刺入腹者<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1040">
+        <seg xml:id="KR3eu062_jc_000-p1040s1">礬石丸<space n="　" quantity="1"/>婦人經水閉不利藏堅僻不止中有乾血下白物</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1042">
+        <seg xml:id="KR3eu062_jc_000-p1042s1">礬石<c n="("/>三分<c n=")"/>
+          <space n="　" quantity="1"/>杏仁<c n="("/>一分<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1044">
+        <seg xml:id="KR3eu062_jc_000-p1044s1">上二味末之煉蜜和丸棗核大內藏中劇者再內之</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1046">
+        <seg xml:id="KR3eu062_jc_000-p1046s1">歸母苦參丸<space n="　" quantity="1"/>妊娠小便難飲食如故</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1048">
+        <seg xml:id="KR3eu062_jc_000-p1048s1">當歸<space n="　" quantity="1"/>貝母<space n="　" quantity="1"/>苦參</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p1048s2">
+          <c n="（"/>各四兩<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1050">
+        <seg xml:id="KR3eu062_jc_000-p1050s1">上二味末之煉蜜和丸如小豆大飲服三丸加至十丸</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1052">
+        <seg xml:id="KR3eu062_jc_000-p1052s1">紫圓<c n="("/>千金<c n=")"/>
+          <space n="　" quantity="1"/>治小兒身熱頭痛飲食不消小兒無異疾唯飲食過度不知止哺乳失節或驚悸寒熱又云紫圓無所不療雖下不虛人又云小兒變蒸發熱不解並挾傷寒濕熱汗後熱不歇及腹中有痰癖哺乳不進乳則吐哯食癇先寒後熱又云食癇當下乃愈</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1054">
+        <seg xml:id="KR3eu062_jc_000-p1054s1">巴豆<c n="("/>三錢<c n=")"/>
+          <space n="　" quantity="1"/>代赭石<space n="　" quantity="1"/>赤石脂</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p1054s2">
+          <c n="（"/>各二錢半<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p1054s3">
+          <space n="　" quantity="1"/>杏仁</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p1054s4">
+          <c n="（"/>四錢半<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1056">
+        <seg xml:id="KR3eu062_jc_000-p1056s1">上先搗代赭石赤石脂為末研巴豆杏仁內中合治糊丸○千金方芒硝紫圓條云治小兒宿食癖氣痰飲往來寒熱不欲食消瘦者又雙紫圓條云夜啼不眠是腹內不調又順流紫圓條云治心腹積聚兩脅脹滿留飲痰癖大小便不利切痛又牛黃紫圓條云治小兒結實乳食不消心腹痛又治小兒宿乳不消腹痛驚啼以上四章皆用此丸藥佳○嬰兒指要云凡有臍風撮口胎風撮口鎖肚撮口瘹腸撮口卵疝撮口皆出結鬱於腸胃閉不得通腹中滿脹肚上青筋撮口不乳最為惡候一臘內見之尤急用紫圓子利之才通疾去兒和○經驗云療纏喉風及喉脾卒然倒僕失音不語或牙關緊急不省人事</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1058">
+        <seg xml:id="KR3eu062_jc_000-p1058s1">硝石大圓<c n="("/>千金<c n=")"/>
+          <space n="　" quantity="1"/>治十二癥瘕及婦人帶下絕產無嗣</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1060">
+        <seg xml:id="KR3eu062_jc_000-p1060s1">硝石<c n="("/>七錢<c n=")"/>
+          <space n="　" quantity="1"/>大黃<c n="("/>九錢<c n=")"/>
+          <space n="　" quantity="1"/>人參<c n="("/>三錢<c n=")"/>
+          <space n="　" quantity="1"/>當歸<c n="("/>三錢<c n=")"/>
+          <space n="　" quantity="1"/>甘草<c n="("/>二錢<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1062">
+        <seg xml:id="KR3eu062_jc_000-p1062s1">上五味為末和煉蜜糊丸○試效</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p1062s2">
+          <c n="（"/>腹中有堅塊者勿論男子婦人皆用之<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1064">
+        <seg xml:id="KR3eu062_jc_000-p1064s1">平水丸<c n="("/>千金<c n=")"/>
+          <space n="　" quantity="1"/>治水腫通身洪腫或腳氣腳弱悸動升逆者</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1066">
+        <seg xml:id="KR3eu062_jc_000-p1066s1">吳茱萸<space n="　" quantity="1"/>芫花<space n="　" quantity="1"/>芒硝</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p1066s2">
+          <c n="（"/>各三錢<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p1066s3">
+          <space n="　" quantity="1"/>商陸<c n="("/>四錢<c n=")"/>
+          <space n="　" quantity="1"/>甘遂<c n="("/>二錢<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1068">
+        <seg xml:id="KR3eu062_jc_000-p1068s1">上五味為細末糊丸</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1070">
+        <seg xml:id="KR3eu062_jc_000-p1070s1">滾痰丸</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p1070s2">
+          <c n="（"/>本草附方<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p1070s3">
+          <space n="　" quantity="1"/>治痰為百病唯水瀉胎前產後不可服又云溫水吞下即臥勿動候藥逐痰滯次日先下糟粕次下痰涎</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1072">
+        <seg xml:id="KR3eu062_jc_000-p1072s1">大黃<space n="　" quantity="1"/>黃芩</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p1072s2">
+          <c n="（"/>各五錢<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p1072s3">
+          <space n="　" quantity="1"/>硝石</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p1072s4">
+          <c n="（"/>二錢半<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p1072s5">
+          <space n="　" quantity="1"/>青礞石</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p1072s6">
+          <c n="（"/>二錢燒金色為度<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p1072s7">
+          <space n="　" quantity="1"/>沉香<c n="("/>五錢<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1074">
+        <seg xml:id="KR3eu062_jc_000-p1074s1">上五味為末糊丸每服自三五分至一錢○養生主論云治濕熱痰積變生百病○試效</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p1074s2">
+          <c n="（"/>諸喘咳上氣胸心痛核梅氣痰核及諸肩背縛痛者皆主之<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p1074s3">○辨誤</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p1074s4">
+          <c n="（"/>近世醫家有去沉香加甘遂者是銳意欲奪病之弊也按此方降痰氣化黏液取之穀道去若加甘遂則藥性走而急反薄降氣化痰之能不可不察焉<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1076">
+        <seg xml:id="KR3eu062_jc_000-p1076s1">控涎丹</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p1076s2">
+          <c n="（"/>三因方<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p1076s3">
+          <space n="　" quantity="1"/>治痰留在胸膈上下變為諸病或頭項胸背腰脅手足胯蹕隱痛不可忍節骨攣引釣痛走易及皮膚麻痹似乎癱瘓又治頭痛不可舉或睡中流涎或咳唾喘息或痰迷心竅並宜此藥數服痰涎自失諸疾尋愈</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1078">
+        <seg xml:id="KR3eu062_jc_000-p1078s1">甘遂<space n="　" quantity="1"/>大戟<space n="　" quantity="1"/>白芥子</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p1078s2">
+          <c n="（"/>各等分<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1080">
+        <seg xml:id="KR3eu062_jc_000-p1080s1">上三味為末和煉蜜為丹○得效方云凡人忽患胸背手足腰胯隱痛不可忍乃是痰涎伏在心膈上宜此藥○經驗云暴喘俗傳馬脾風大小便難宜急下之又云小兒心下痞痰癖結聚腹大脹滿身體壯熱不欲哺乳者○醫通云及乎五旬內外氣血向衰漸至食少體倦或肢體煩悶嘔逆甚至上下不通者須乘初起元氣未衰急投控涎丹十餘粒不下少頃再服當此危急之時不下必死下之庶幾可生○李時珍曰痰涎之為病隨氣升降無處不到入於心則逆竅而成癲癇妄言妄見入於肺則塞竅而成咳唾稠黏喘急背冷入於肝則留伏蓄聚而成胸痛乾嘔寒熱往來入於經絡則麻痹疼痛入於骨節則頸項胸背腰脅手足攣引隱痛陳無擇三因方並以控涎丹主之殊有奇效</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1082">
+        <seg xml:id="KR3eu062_jc_000-p1082s1">左經丸</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p1082s2">
+          <c n="（"/>蘇沉良方<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p1082s3">
+          <space n="　" quantity="1"/>治筋骨諸疾手足不隨不能行步運動</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1084">
+        <seg xml:id="KR3eu062_jc_000-p1084s1">木鱉子<space n="　" quantity="1"/>草烏頭<space n="　" quantity="1"/>白膠香<space n="　" quantity="1"/>五靈子</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p1084s2">
+          <c n="（"/>各三兩<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p1084s3">
+          <space n="　" quantity="1"/>當歸<c n="("/>一兩<c n=")"/>
+          <space n="　" quantity="1"/>斑蝥</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p1084s4">
+          <c n="（"/>一百個去翅足<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1086">
+        <seg xml:id="KR3eu062_jc_000-p1086s1">上為細末用黑豆去皮生杵粉一斤醋煮糊為丸如雞實大每服一丸酒磨下筋骨疾但不曾針灸傷經絡者四五丸必效云云又曰此藥能通榮衛導經絡又曰服後小便少淋瀝乃其驗也</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1088">
+        <seg xml:id="KR3eu062_jc_000-p1088s1">十棗丸</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p1088s2">
+          <c n="（"/>丹溪心法<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p1088s3">
+          <space n="　" quantity="1"/>治水氣四肢浮腫上氣喘急大小便不利</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1090">
+        <seg xml:id="KR3eu062_jc_000-p1090s1">甘遂<space n="　" quantity="1"/>大戟<space n="　" quantity="1"/>芫花</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p1090s2">
+          <c n="（"/>各等分<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1092">
+        <seg xml:id="KR3eu062_jc_000-p1092s1">上為末煮棗肉為丸桐子大清心熱湯下二十丸</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1094">
+        <seg xml:id="KR3eu062_jc_000-p1094s1">五苓散<space n="　" quantity="1"/>霍亂頭痛發熱身疼痛熱多欲飲水者○男子消渴小便反多以飲一斗小便一斗腎氣丸主之脈浮小便不利微熱消渴者五芩散主之○假令瘦人臍下有悸吐涎沫而顛眩○渴欲飲水水入則吐者名曰水逆五苓散主之</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1096">
+        <seg xml:id="KR3eu062_jc_000-p1096s1">豬苓</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p1096s2">
+          <c n="（"/>十八銖<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p1096s3">
+          <space n="　" quantity="1"/>澤瀉</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p1096s4">
+          <c n="（"/>一兩六銖半<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p1096s5">
+          <space n="　" quantity="1"/>茯苓</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p1096s6">
+          <c n="（"/>十八銖<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p1096s7">
+          <space n="　" quantity="1"/>桂枝<c n="("/>半兩<c n=")"/>
+          <space n="　" quantity="1"/>白朮</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p1096s8">
+          <c n="（"/>十八銖<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1098">
+        <seg xml:id="KR3eu062_jc_000-p1098s1">上五味為末以白飲和服方寸匕日三服○太陽病發汗後大汗出胃中干煩躁不得眠欲得飲水者少少與飲之令胃氣和則愈若脈浮小便不利微熱消渴者○發汗已脈浮數微熱消渴者○本以下之故心下痞與瀉心湯痞不解其人渴而口燥煩小便不利者</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1100">
+        <seg xml:id="KR3eu062_jc_000-p1100s1">茵陳五苓散<space n="　" quantity="1"/>黃疸病</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p1100s2">
+          <c n="（"/>當有小便不利渴證<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1102">
+        <seg xml:id="KR3eu062_jc_000-p1102s1">茵陳蒿末<c n="("/>十分<c n=")"/>
+          <space n="　" quantity="1"/>五苓散<c n="("/>五分<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1104">
+        <seg xml:id="KR3eu062_jc_000-p1104s1">上二物和先食飲服方寸匕日三服</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1106">
+        <seg xml:id="KR3eu062_jc_000-p1106s1">豬苓散<space n="　" quantity="1"/>嘔吐而病在膈上後思水者解急與之後思水者</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1108">
+        <seg xml:id="KR3eu062_jc_000-p1108s1">豬苓<space n="　" quantity="1"/>茯苓<space n="　" quantity="1"/>白朮</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p1108s2">
+          <c n="（"/>各等分<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1110">
+        <seg xml:id="KR3eu062_jc_000-p1110s1">上三物和先食飲服方寸匕日三服</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1112">
+        <seg xml:id="KR3eu062_jc_000-p1112s1">牡蠣澤瀉散</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1114">
+        <seg xml:id="KR3eu062_jc_000-p1114s1">牡蠣<space n="　" quantity="1"/>澤瀉<space n="　" quantity="1"/>栝蔞根<space n="　" quantity="1"/>蜀漆<space n="　" quantity="1"/>葶藶<space n="　" quantity="1"/>海藻<space n="　" quantity="1"/>商陸根</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p1114s2">
+          <c n="（"/>各等分<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1116">
+        <seg xml:id="KR3eu062_jc_000-p1116s1">上七味異搗下篩為散入臼中治之白飲服方寸匕○大病差後從腰以下有水氣者</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p1116s2">
+          <c n="（"/>說具於系傳<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1118">
+        <seg xml:id="KR3eu062_jc_000-p1118s1">葵子茯苓散<space n="　" quantity="1"/>妊娠有水氣身重小便不利灑淅惡寒起即頭眩</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1120">
+        <seg xml:id="KR3eu062_jc_000-p1120s1">葵子<c n="("/>一斤<c n=")"/>
+          <space n="　" quantity="1"/>茯苓<c n="("/>三兩<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1122">
+        <seg xml:id="KR3eu062_jc_000-p1122s1">上二味杵為散飲服方寸匕日三服</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1124">
+        <seg xml:id="KR3eu062_jc_000-p1124s1">土瓜根散<space n="　" quantity="1"/>帶下經水不利少腹滿經一月再見者○陰痿腫</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p1124s2">
+          <c n="（"/>壽曰婦人陰門痿腫是瘀血所致<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1126">
+        <seg xml:id="KR3eu062_jc_000-p1126s1">土瓜根<space n="　" quantity="1"/>芍藥<space n="　" quantity="1"/>桂枝<space n="　" quantity="1"/>䗪蟲</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p1126s2">
+          <c n="（"/>各三兩<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1128">
+        <seg xml:id="KR3eu062_jc_000-p1128s1">上四味杵為散酒服方寸匕日三服</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1130">
+        <seg xml:id="KR3eu062_jc_000-p1130s1">瓜蒂散<space n="　" quantity="1"/>病如桂枝證頭不痛項不強<c n="「"/>寸<c n="」"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p1130s2">脈微浮胸中痞硬氣上衝咽喉不得息者此為胸有寒也當吐之○病人手足厥冷脈乍緊者邪結在胸中當須吐之○宿食在上脘者當吐之</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1132">
+        <seg xml:id="KR3eu062_jc_000-p1132s1">瓜蒂<c n="("/>一分<c n=")"/>
+          <space n="　" quantity="1"/>赤小豆<c n="("/>一分<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1134">
+        <seg xml:id="KR3eu062_jc_000-p1134s1">上二味各別搗篩為散已合治之取一錢匕以香豉一合用熱湯七合煮作稀糜去滓取汁和散溫頓服之不吐者少少加得快吐乃止○外臺云療急黃心下堅硬渴欲得水吃氣息喘粗但有一候相當即須服之吐則差○辨正錄云人有食河豚舌麻心悶腹脹氣難舒口關聲不出療法宜吐其肉○證治大還云痰厥者因氣逆痰壅故忽然昏迷卒倒咽中涎潮如泄鋸聲宜先以瓜蒂散吐之○儒門事親云凡婦人頭風眩暈登車乘船眼澀手足麻發脫健忘皆胸中宿痰所致又云一切沉積或有水不能食使頭目昏眩不能清利涕唾咳嗽喘滿時發潮熱○金匱鉤玄雲痰在經絡中者非吐不可出吐方中就有發散之義也又云氣實痰熱結在上者則吐又云膠回者必用吐之又云哮喘必用薄滋味專主於痰宜大吐云云亦有虛而不可吐者又云喉中有物咯不出咽不下此是老痰重者吐之又云痰壅盛者口眼喎斜者不能言者皆當吐○明醫指掌云吐痰之聖藥治在膈上○丹溪心法云小兒急慢驚風發熱口禁手心伏熱痰熱咳嗽痰喘此證類並用湧法吐之重劑瓜蒂散輕劑用苦參赤小豆末云云又云驚有二證一者痰熱主急驚當吐瀉之一者脾虛乃為慢驚所以多死云云又云用吐方必緊勒於無風之處行之○丹溪心法附錄獨聖散條云治中風痰迷心竅顛狂煩亂人事昏沉又治五癇心風</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1136">
+        <seg xml:id="KR3eu062_jc_000-p1136s1">薏苡附子敗漿散<space n="　" quantity="1"/>腸癰之為病其身甲錯腹皮急按之濡如腫狀腹無積聚身無熱脈數此為腸內有癰膿</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1138">
+        <seg xml:id="KR3eu062_jc_000-p1138s1">薏苡仁<c n="("/>十分<c n=")"/>
+          <space n="　" quantity="1"/>附子<c n="("/>二枚<c n=")"/>
+          <space n="　" quantity="1"/>敗漿<c n="("/>五分<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1140">
+        <seg xml:id="KR3eu062_jc_000-p1140s1">上三味杵為末飲服方寸匕</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p1140s2">
+          <c n="（"/>本有煎法今不取<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1142">
+        <seg xml:id="KR3eu062_jc_000-p1142s1">天雄散<space n="　" quantity="1"/>失精者</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p1142s2">
+          <c n="（"/>下部冷結沖逆而失精者<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1144">
+        <seg xml:id="KR3eu062_jc_000-p1144s1">天雄<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>術<c n="("/>八兩<c n=")"/>
+          <space n="　" quantity="1"/>桂枝<c n="("/>六兩<c n=")"/>
+          <space n="　" quantity="1"/>龍骨<c n="("/>三兩<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1146">
+        <seg xml:id="KR3eu062_jc_000-p1146s1">上二味杵為末服方寸匕日三服並主癰膿以麥汁下之</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1148">
+        <seg xml:id="KR3eu062_jc_000-p1148s1">排膿散</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p1148s2">
+          <c n="（"/>諸毒腫有膿者宜服之以排膿<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1150">
+        <seg xml:id="KR3eu062_jc_000-p1150s1">枳實</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p1150s2">
+          <c n="（"/>十六枚<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p1150s3">
+          <space n="　" quantity="1"/>芍藥<c n="("/>六分<c n=")"/>
+          <space n="　" quantity="1"/>桔梗<c n="("/>二分<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1152">
+        <seg xml:id="KR3eu062_jc_000-p1152s1">上三味杵為散取雞子黃一枚以藥散與雞子黃相等揉和令得飲和服之日三服</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1154">
+        <seg xml:id="KR3eu062_jc_000-p1154s1">當歸芍藥散<space n="　" quantity="1"/>婦人妊娠腹中㽲痛</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1156">
+        <seg xml:id="KR3eu062_jc_000-p1156s1">當歸<c n="("/>三兩<c n=")"/>
+          <space n="　" quantity="1"/>芍藥<c n="("/>一斤<c n=")"/>
+          <space n="　" quantity="1"/>茯苓<c n="("/>四兩<c n=")"/>
+          <space n="　" quantity="1"/>蒼朮<c n="("/>四兩<c n=")"/>
+          <space n="　" quantity="1"/>澤瀉<c n="("/>四兩<c n=")"/>
+          <space n="　" quantity="1"/>芎藭</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p1156s2">
+          <c n="（"/>半斤一作三兩<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1158">
+        <seg xml:id="KR3eu062_jc_000-p1158s1">上六味杵為散取方寸匕酒和三服○經驗云妊娠身體浮腫四肢脹急小便不利者又妊娠胎間有水氣而身微腫者</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1160">
+        <seg xml:id="KR3eu062_jc_000-p1160s1">蜀漆散<space n="　" quantity="1"/>瘧寒多者名曰牡瘧</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1162">
+        <seg xml:id="KR3eu062_jc_000-p1162s1">蜀漆<space n="　" quantity="1"/>雲母<space n="　" quantity="1"/>龍骨</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p1162s2">
+          <c n="（"/>各等分<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1164">
+        <seg xml:id="KR3eu062_jc_000-p1164s1">上三味搗為散末發前以漿水服半錢</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1166">
+        <seg xml:id="KR3eu062_jc_000-p1166s1">桔梗白散<space n="　" quantity="1"/>咳而胸滿振寒脈數咽乾不渴時出濁唾醒臭久久吐膿如米粥者為肺癰○寒實結胸無熱證者與三物小陷胸湯白散亦可服</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1168">
+        <seg xml:id="KR3eu062_jc_000-p1168s1">桔梗<space n="　" quantity="1"/>貝母</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p1168s2">
+          <c n="（"/>各三兩<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p1168s3">
+          <space n="　" quantity="1"/>巴豆<c n="("/>一分<c n=")"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1170">
+        <seg xml:id="KR3eu062_jc_000-p1170s1">上三味為散強人服半錢匕羸者減之病在膈上者吐膿血在膈下者瀉出若下多不止飲冷粥一杯則止</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1172">
+        <seg xml:id="KR3eu062_jc_000-p1172s1">四逆散<space n="　" quantity="1"/>少陰病四逆其人或咳或悸或小便不利或腹中痛或泄利下重者<c n="。"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1174">
+        <seg xml:id="KR3eu062_jc_000-p1174s1">柴胡<space n="　" quantity="1"/>芍藥<space n="　" quantity="1"/>枳實<space n="　" quantity="1"/>甘草</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1176">
+        <seg xml:id="KR3eu062_jc_000-p1176s1">上四味各十分搗篩白飲服方寸匕日三○</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p1176s2">
+          <c n="（"/>按此大柴胡湯方內去半夏黃芩大棗則大柴胡湯證中無結實嘔吐證者宜用之說具於系傳<c n="）"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p1176s3">○明醫指掌云寒邪變熱傳裡腹痛便秘而厥者</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1178">
+        <seg xml:id="KR3eu062_jc_000-p1178s1">消礬散<space n="　" quantity="1"/>黃家日晡所發熱而惡寒<c n="「"/>此為女勞得之<c n="」"/>
+        </seg>
+        <seg xml:id="KR3eu062_jc_000-p1178s2">胱膀急少腹滿身黃額上黑足下熱因作黑疸其腹脹如水狀大便必黑時溏<c n="「"/>此女勞之病非水也<c n="」"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1180">
+        <seg xml:id="KR3eu062_jc_000-p1180s1">滑石<space n="　" quantity="1"/>礬石</seg>
+        <seg type="comm" xml:id="KR3eu062_jc_000-p1180s2">
+          <c n="（"/>各等分<c n="）"/>
+        </seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1182">
+        <seg xml:id="KR3eu062_jc_000-p1182s1">上二味為末以大麥粥汁和服方寸匕日三服病隨大小便去小便正黃大便黑是其候也</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1184">
+        <seg xml:id="KR3eu062_jc_000-p1184s1">蛇床子散<space n="　" quantity="1"/>溫陰中坐藥</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1186">
+        <seg xml:id="KR3eu062_jc_000-p1186s1">蛇床子</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1188">
+        <seg xml:id="KR3eu062_jc_000-p1188s1">上一味末以白粉少許和令相得如大棗綿囊內之自然溫</seg>
+      </p>
+
+<head n="h2" xml:id="KR3eu062_jc_000-h1190">
+        <seg xml:id="KR3eu062_jc_000-h1190s1">刻奇正方小引</seg>
+      </head>
+<p xml:id="KR3eu062_jc_000-p1192">
+        <seg xml:id="KR3eu062_jc_000-p1192s1">公山賀古先生志存濟恤業執醫療療藥驗諸今而方書稽諸古潛研之久不覺成書數編矣已而自嘆曰著述收名以售其術世固有之吾豈尤而效之乎乃悉焚其編稿矣而易竊騰寫奇正方及傷寒論系傳二書於未焚之前巾箱珍襲先生曾不之知也有一老翁與先生相親善翁謂先生曰人生此世飽食暖衣無報天恤物之心者所謂馬牛而襟裾意者草木之微尚著華結實以供人人而徒同其腐朽可乎我齒既垂八旬室廬足以安一族餼廩足以給數口而耳不聞道義蠢蠕逸居實愧草木之不如也我聞先生有著述數編請給費以梓之亦報天濟世之一端吾倘以免馬牛襟裾之譏先生搔首曰嘗有之而今則無矣翁為之倀然易仄聞此言也乃奉向所騰寫奇正方於先生曰有有不終無也先生莞爾而笑曰著述之傳否亦有數乎翁亦聞而喜之速授工以公於世云於戲先生之無求於名也固矣而翁之忠告實有不可默默者蓋天之未喪斯文也竊寫倖免火勸刻又有人子夏子有言雖曰未學吾必謂之學矣翁之敦篤斯其人歟翁陰德不欲稍其名姓此並先生皆無求於名之舉也</seg>
+      </p>
+<p xml:id="KR3eu062_jc_000-p1194">
+        <seg xml:id="KR3eu062_jc_000-p1194s1">門人</seg>
+        <seg xml:id="KR3eu062_jc_000-p1194s2">
+          <space n="　" quantity="1"/>陳波<space n="　" quantity="1"/>春塘易楊亭謹撰</seg>
+      </p>
+
+<head n="h2" xml:id="KR3eu062_jc_000-h1196">
+        <seg xml:id="KR3eu062_jc_000-h1196s1">奇正方跋</seg>
+      </head>
+<p xml:id="KR3eu062_jc_000-p1198">
+        <seg xml:id="KR3eu062_jc_000-p1198s1">紙鳶者兒戲也當其木德顓令風塵四起也童子十數人爭放之於彼東郊也夫風勁而狂也與線而制其顛衰而慢也奪線以提其墜扶搖戾天而後已以供竟日之觀昏至乃還蓋日日然也一日忽遭檢官巡部道出於此狼狽失措托線草木而去既而反至鳶乃皆落矣於是始見醫理之寓於微物也夫紙鳶之戾天也者人之有平常也風勁而顛衰而墜也者六淫之為六疾也因而施與奪之權也者醫之應機變也以供竟日之觀日昏乃還也者人之盡天年也而昨之如彼而今之如此者豈非失與奪之權乎論至於此固信醫之有補於生而不可以一日闕也然徒握其權一錯其施則誤人之百年也必矣其責將誰歸此賀古君之所以為奇正方也賀古氏者州人也家世祿食於藩至乃祖了齋君坐事罷官乃考柳阿君白屋僻處嗜學好方遂使君從事於此君少好遊適京如尾中或在於阿今又徙居於阪其勉學不倦蓋四十年一日矣君多著書此特其小小耳而首公之世者將使知與奪之權之所在也遂使余亦贅紙鳶說於時文政庚寅冬至後一日<space n="　　　　" quantity="4"/>阿波江藝君樹撰</seg>
+      </p>
+</body>
+  </text>
+</TEI>

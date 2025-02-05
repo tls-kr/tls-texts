@@ -1,0 +1,3881 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KR3ek043">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>發背對口治訣論</title>
+        <author>謝應材</author>
+      </titleStmt>
+      <extent>
+        <measure unit="char" quantity="7135"/>
+        <date when-iso="2024-02-21T13:40:49.864+09:00"/>
+      </extent>
+      <publicationStmt>
+        <p>Originally published at <ref target="https://jicheng.tw/tcm/book/index.html">中醫笈成:發背對口治訣論</ref>. Checkout from https://gitlab.com/jicheng/jc.data, commit aab40201, 2022-12-28.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date notBefore="1840" notAfter="1840">清</date>公元1840年</creation>
+      <textClass>
+        <catRef scheme="#kr-categories" target="#KR3ek"/>
+        <catRef scheme="#tls-dates" target="#dat04210"/>
+      </textClass>
+    </profileDesc>
+    <encodingDesc>
+      <p>Quality: </p>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+
+<div n="h1" xml:id="KR3ek043_jc_000-d2">
+        <head n="h1" xml:id="KR3ek043_jc_000-d2h1">
+          <seg xml:id="KR3ek043_jc_000-d2.h1s1">謝氏《發背對口治訣論》序</seg>
+        </head>
+        <p xml:id="KR3ek043_jc_000-d2p2">
+          <seg xml:id="KR3ek043_jc_000-d2.p2s1">
+            <c n="《"/>發背對口治訣<c n="》"/>
+            <c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s2">先大父邃喬公所著也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s3">先大父性穎悟<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s4">好讀書<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s5">常以濟世為念<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s6">敦學不怠<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s7">屢困棘闈<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s8">及先伯父香伯公舉於鄉<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s9">始無意進取<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s10">惟讀書以自娛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s11">暇則講求岐黃<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s12">曰<c n="："/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s13">士不能得志<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s14">是亦濟世之一道也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s15">通內<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s16">外科<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s17">多所闡發<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s18">每視病必矜重<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s19">四方延請<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s20">雖遠必至<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s21">卻饋遺貧困者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s22">以藥助之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s23">嘗為人治發背<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s24">對口諸證<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s25">以古人之法投之多不效<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s26">沉思其故曰<c n="："/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s27">是非古人之欺我也<c n="？"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s28">特未通其變耳<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s29">夫一證之成<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s30">其受病必有偏重之處<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s31">審其所偏重而切治<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s32">則效可立見也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s33">自是<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s34">凡治此證必辨其位之左右<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s35">上下<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s36">色之赤白<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s37">深淺<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s38">脈之浮沉<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s39">遲速<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s40">以審其經絡腑臟竅穴之所繫<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s41">與夫陰陽虛實<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s42">淫郁燥濕之所歸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s43">而復參之天時<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s44">相其地宜<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s45">以制五行生剋之用<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s46">取古人之法<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s47">損益變化以通之<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s48">於是所治罔不效<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s49">既而先伯父迎養琴江署舍<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s50">多暇<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s51">乃取歷年醫案<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s52">裁定發背對口治訣幾卷<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s53">附錄經驗幾卷<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s54">及歸而授之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s55">先君曰<c n="："/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s56">此書未經人道勿輕視之<c n="！"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s57">藝雖小<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s58">亦足以濟世矣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s59">先君東環公暨先叔父東揆公亦皆以儒術通素理<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s60">先君久戰北闈未遑<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s61">展施先叔父以是道行<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s62">世善用先大父遺法<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s63">故所治多奇而中<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s64">今先君<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s65">先叔父相繼逝世矣<c n="！"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s66">為與諸弟皆材劣<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s67">不能通一藝<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s68">先人之書具在<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s69">徒使置而勿用<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s70">是先人濟世之志至為等而中絕也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s71">楊君子逸夙聞是書<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s72">勉余欹梓<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s73">余欣然從之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s74">庶幾先人遺術傳播四方<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s75">高明之士鑑而採擇焉<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s76">未必不有補於世<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s77">雖未能述先世之事<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d2.p2s78">猶不失先世之志也夫<c n="！"/>
+          </seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d2p4">
+          <seg xml:id="KR3ek043_jc_000-d2.p4s1">道光二十年仲春七日孫翼為謹序</seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ek043_jc_000-d3">
+        <head n="h1" xml:id="KR3ek043_jc_000-d3h1">
+          <seg xml:id="KR3ek043_jc_000-d3.h1s1">總論</seg>
+        </head>
+        <p xml:id="KR3ek043_jc_000-d3p2">
+          <seg xml:id="KR3ek043_jc_000-d3.p2s1">對口<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p2s2">發背不拘偏正<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p2s3">只謂形色<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p2s4">色忌晦滯<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p2s5">貴淡紅明潤<c n="；"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p2s6">形忌歪邪平塌<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p2s7">要尖圓高突<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p2s8">所以高為陽<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p2s9">下為陰<c n="；"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p2s10">紅為陽<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p2s11">白為陰<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p2s12">有肌膚受寒毒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p2s13">雖高聳而亦白者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p2s14">須用柴葛解肌<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p2s15">或時當寒甚<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p2s16">用淨蘇葉溫解<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p2s17">使之重汗<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p2s18">俾邪從汗解<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p2s19">若痛在筋骨<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p2s20">外不現形<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p2s21">肉色如故<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p2s22">兩脈或弦硬<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p2s23">細緊<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p2s24">沉伏<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p2s25">細滑<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p2s26">則為流注<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p2s27">須用蒼<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p2s28">陳<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p2s29">樸<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p2s30">草<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p2s31">蘇葉<c n="；"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p2s32">不效<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p2s33">再用麻黃<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p2s34">薑<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p2s35">桂<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p2s36">附子以解之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p2s37">麻黃不拘分量<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p2s38">數分起至二錢為止<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p2s39">有干鶴膝<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p2s40">小腿不但不腫脹<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p2s41">並其上大肉盡去<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p2s42">膝轉看得極大<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p2s43">麻黃一服即用三錢<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d3p4">
+          <seg xml:id="KR3ek043_jc_000-d3.p4s1">對口不拘左右<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p4s2">以升陽火為主<c n="："/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p4s3">右初起柴胡<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p4s4">川芎<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p4s5">可稍緩<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p4s6">即用升麻<c n="；"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p4s7">左初起升麻可稍緩<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p4s8">且先用柴葛解肌湯<c n="；"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p4s9">若自左腫之右<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p4s10">自右腫之初<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p4s11">一服升<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p4s12">柴<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p4s13">川芎並用桔梗<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p4s14">不拘左右用錢外至錢半為止<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p4s15">使之載諸藥而上浮<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p4s16">凡耳後<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p4s17">腦骨中間<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p4s18">軟堂正中必用獨活<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p4s19">以提腎毒<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p4s20">對口在頭<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p4s21">頭為諸陽之首<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p4s22">雖不高聳<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p4s23">亦不以陰論<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p4s24">止重用發散<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p4s25">間有時值嚴寒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p4s26">無汗不解<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p4s27">用麻黃三五分<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p4s28">炒黑<c n="；"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p4s29">而桂<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p4s30">附等藥不用<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p4s31">發背亦然<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p4s32">發背並不宜重用發散<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p4s33">倘至大潰之後<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p4s34">亦清補者多<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p4s35">對乳以上用桔梗<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p4s36">對乳以下不用<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p4s37">對口右升麻<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p4s38">左柴胡<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p4s39">乃其君也<c n="！"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p4s40">若火勢炎甚<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p4s41">身熱如炙<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p4s42">痛楚非常<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p4s43">川芎不用<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p4s44">經云<c n="："/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p4s45">川芎佐清陽而升<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p4s46">頭角火炎者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p4s47">宜戒火熱<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p4s48">大痛<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p4s49">極紅而老<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p4s50">倘升陽<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p4s51">散火無效<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p4s52">一面重加升麻<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p4s53">一面加大黃一二錢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p4s54">謂之將軍定痛散<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p4s55">發背若大痛楚<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p4s56">亦用定痛散<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d3p6">
+          <seg xml:id="KR3ek043_jc_000-d3.p6s1">毒有遊紅<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p6s2">嫩紅<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p6s3">散腳紅<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p6s4">紅而帶紫如豬肝色<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p6s5">重則用青皮<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p6s6">柴胡以疏肝氣<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p6s7">輕則用柴胡<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p6s8">白蒺藜<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p6s9">丹皮以平之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p6s10">遊紅系絳紅色<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p6s11">亦帶紫<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p6s12">是血分稍虧<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p6s13">陰火上發<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p6s14">輕則用玄參二三錢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p6s15">如夜加痛楚<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p6s16">發熱則用生地二三錢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p6s17">以滋陰<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p6s18">非此不可擅用<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p6s19">恐導邪入腎<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p6s20">當歸去瘀生新<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p6s21">新會皮和中補胃<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p6s22">二味人稱外科勝藥<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p6s23">病未退<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p6s24">切不可擅用<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p6s25">能導邪入胃<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p6s26">乳香<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p6s27">沒藥能和氣血<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p6s28">亦能損胃<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p6s29">胃弱者亦戒<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p6s30">至麻黃<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p6s31">薑<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p6s32">桂說之已詳<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p6s33">大寒如知<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p6s34">柏<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p6s35">芩<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p6s36">連用亦甚少<c n="："/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p6s37">非身熱不退不用黃芩<c n="；"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p6s38">非干惡<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p6s39">神情煩躁<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p6s40">身熱如爐不用黃連<c n="；"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p6s41">非口中大苦<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p6s42">舌苔焦黃而作渴<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p6s43">不用知母<c n="；"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p6s44">小便短赤<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p6s45">眼睛淚熱方用黃柏<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p6s46">鹽水炒<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d3p8">
+          <seg xml:id="KR3ek043_jc_000-d3.p8s1">脾善唇滋潤<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s2">肝善身輕便<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s3">肺善聲音響<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s4">心善精神爽<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s5">腎善水稀長<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s6">是謂五善<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s7">更有七惡<c n="："/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s8">一惡神昏憒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s9">二惡腰身強<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s10">三惡形消瘦<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s11">四惡皮膚槁<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s12">五惡成消渴<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s13">六惡身浮腫<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s14">七惡瘡倒陷<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s15">
+            <c n="《"/>外科正宗<c n="》"/>善惡論<c n="："/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s16">患處梗實<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s17">如同負重<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s18">形色晦暗<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s19">歪邪平塌<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s20">隱然有黑色在肌肉間<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s21">是毒藏於胃<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s22">不治<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s23">何則<c n="？"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s24">胃主肌肉<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s25">肺主皮毛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s26">且肺屬金<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s27">胃屬土<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s28">土為金母<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s29">煩躁而指頭不紅<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s30">肝病<c n="；"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s31">神昏<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s32">心病<c n="；"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s33">口中無味<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s34">干<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s35">吊惡而飲食不貪<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s36">脾病<c n="；"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s37">肌膚不潤<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s38">毛髮乾枯而多痰<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s39">肺病<c n="；"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s40">小水短赤<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s41">骨節疼痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s42">夜不成眠<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s43">飲食不消<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s44">大便不實<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s45">腎病<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s46">毒色如豬肝<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s47">無膿者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s48">死<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s49">潰而不爛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s50">最忌起葡桃之肉腫<c n="："/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s51">毒亦腫者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s52">佳<c n="；"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s53">肉腫<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s54">毒不腫者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s55">死<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s56">去腐生新<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s57">形如石榴子者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s58">佳<c n="；"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s59">腐肉已脫<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s60">而有紅絲絲於其上者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s61">死<c n="；"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s62">新肉如板片<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s63">不進食者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s64">死<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s65">又有毒已潰爛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s66">根腳尚不清楚<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s67">膿勢亦不湧出<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s68">飲食不貪<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s69">欲攻而毒已潰爛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s70">身軀已弱<c n="；"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s71">欲補而根腳不清<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s72">膿不湧<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s73">食不貪<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s74">肺胃邪不退<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s75">攻補兩難<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s76">經云<c n="："/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s77">攻則死<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s78">補亦亡<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s79">謂和六腑最為良<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s80">更有新肉已滿<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s81">外口亦閉<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s82">按之不實<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s83">如皮袋狀<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p8s84">不治<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d3p10">
+          <seg xml:id="KR3ek043_jc_000-d3.p10s1">凡至根腳清<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p10s2">痛減<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p10s3">膿雖未湧<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p10s4">不妨少用生耆以佐膿<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p10s5">根腳清<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p10s6">毒軟<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p10s7">痛止<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p10s8">急用炙黃耆<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p10s9">山藥合八珍湯<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p10s10">扶正卻邪<c n="；"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p10s11">有受寒<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p10s12">板痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p10s13">毒清消時<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p10s14">不消膿時<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p10s15">停</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d3.p10s16">
+            <c n="（"/>似有誤字<c n="）"/>
+            <c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p10s17">用柴<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p10s18">葛<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p10s19">白芷以解之<c n="；"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p10s20">有重用蘇葉合真人活命飲解之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p10s21">有受暑而然者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p10s22">用六一散<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p10s23">香薷合真人活命飲<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p10s24">有房欲反復<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p10s25">未潰<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p10s26">未膿用獨活合柴葛湯與活命飲<c n="；"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p10s27">既潰<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p10s28">既膿用川斷<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p10s29">制首烏<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p10s30">輕用活命飲<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p10s31">有受氣而然者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p10s32">已潰<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p10s33">未潰俱用柴胡<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p10s34">青皮<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p10s35">鬱金<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p10s36">香附<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p10s37">未潰合活命飲<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p10s38">已潰輕用<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p10s39">受風而反復名為破傷風<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p10s40">不治者頗有<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p10s41">已潰用楝冬二三錢<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p10s42">八珍兼活命飲<c n="；"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p10s43">未潰用黃芩<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p10s44">柴<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p10s45">葛與活命飲<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d3p12">
+          <seg xml:id="KR3ek043_jc_000-d3.p12s1">婦人產後不可脫去生化湯<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p12s2">胎前<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p12s3">帶下<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p12s4">黃芩<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p12s5">白朮<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p12s6">苧麻根<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p12s7">不可擅用甲片<c n="；"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p12s8">有白淋者用石羔腐炒黑為引<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p12s9">赤淋用鹽滷腐炒黑<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p12s10">或用龜板<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p12s11">或用烏羔<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p12s12">潰後用川斷<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p12s13">臺朮<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p12s14">大熟地<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p12s15">男婦兼血證<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p12s16">引加童便一大杯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p12s17">或男人遺精加蓮鬚<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p12s18">芡實<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p12s19">潰後用連皮<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p12s20">建蓮為引<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d3p14">
+          <seg xml:id="KR3ek043_jc_000-d3.p14s1">有傷魚積<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p14s2">青果一枚為引<c n="；"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p14s3">肉積<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p14s4">臘肉<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p14s5">骨灰加山杏一<c n="；"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p14s6">飯積<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p14s7">用麥芽<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p14s8">神麯元<c n="；"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p14s9">米積<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p14s10">用白酒元<c n="；"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p14s11">酒積<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p14s12">用白葛花<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p14s13">雞鉅子<c n="；"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p14s14">面積<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p14s15">用白酒元<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p14s16">厚朴<c n="；"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p14s17">芋頭積<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p14s18">用陳酒<c n="；"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p14s19">瓜果積<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p14s20">用草果<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p14s21">麝香<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p14s22">又有潰爛時受臭香感觸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p14s23">用羌活合活命飲<c n="；"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p14s24">有食冷復發<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p14s25">用半夏<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p14s26">陳皮<c n="；"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p14s27">沐浴受觸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p14s28">用柴葛<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p14s29">竟有至痰喘氣急者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p14s30">加真杜蘇子三錢<c n="("/>炒研<c n=")"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p14s31">枳殼三錢<c n="("/>炒<c n=")"/>
+            <c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d3p16">
+          <seg xml:id="KR3ek043_jc_000-d3.p16s1">毒有高聳而不紅不痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s2">是為陽中陰<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s3">宜溫解<c n="；"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s4">有平塌而極紅<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s5">極痛<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s6">腐爛者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s7">是謂陰中陽<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s8">宜清解<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s9">凡毒至<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s10">根腳清正<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s11">四面不痛不硬<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s12">患處亦軟<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s13">陽宜清補<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s14">陰宜溫補<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s15">一切未潰以實論<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s16">既潰以虛論<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s17">又有根腳鬆散<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s18">紅色甚嬌<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s19">紅腳甚嫩<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s20">如嫩肉狀<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s21">且不疼痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s22">患處雖未潰而亦軟<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s23">舌上清皎無苔<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s24">是大虛之證<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s25">發背雖在未潰<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s26">一服即用炙黃耆一兩<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s27">夫補宜循序而進<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s28">遲補傷元<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s29">誤補則加痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s30">與其誤補<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s31">毋寧遲補<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s32">如人本質不厚<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s33">因遲補而膿不速者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s34">是大約將膿未膿<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s35">可用生耆三錢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s36">漸加炙耆錢許<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s37">膿出再加炙耆後<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s38">不用生耆<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s39">大潰<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s40">大證<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s41">耆用至七八錢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s42">甚有至一兩者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s43">大潰未有不氣血兩虧<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s44">補氣用參<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s45">耆<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s46">補血用熟地<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s47">補血之陽用當歸<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s48">丹參<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s49">毒至潰後<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s50">補氣而外<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s51">未有不急補腎水<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s52">何則腎為水<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s53">水生木<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s54">木生火<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s55">火生土土生金<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s56">是水為方物之母<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s57">腎<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s58">上為命門<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s59">左為水<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s60">為水火既濟<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s61">潰後陽證清補<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s62">川斷為清補聖藥<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s63">若當溫補而用川斷<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s64">小水必蔽結<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s65">清補<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s66">至邪盡<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s67">飲食將復舊必用大熟地<c n="；"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s68">溫補至飲食復舊<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s69">亦可用熟地</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d3.p16s70">
+            <c n="（"/>必用陳酒煮爛<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d3.p16s71">每兩加砂仁五六分<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d3.p16s72">清補亦用此法制<c n="）"/>
+            <c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s73">又發背有陰陽<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s74">虛實夾雜<c n="："/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s75">如肉腫瘡不腫者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s76">即是虛實夾雜<c n="；"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s77">至形狀歪邪<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s78">根腳模糊<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s79">突起色白<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s80">藥不見效<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s81">是陰陽夾雜<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s82">初起亦用溫散<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s83">以觀動靜<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s84">然後用人參一二分<c n="("/>燉汁<c n=")"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s85">炒花粉<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s86">肉桂一二分<c n="("/>燉汁<c n=")"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s87">炒栝蔞仁<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s88">余則如常<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s89">若患處微似青色而人易生怒氣<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s90">亦用桂<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s91">制栝蔞仁<c n="；"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s92">如潰後煩怒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s93">用桂一二分<c n="("/>燉汁<c n=")"/>拌炒白芍<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s94">妙<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s95">凡毒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s96">軟為虛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s97">硬為實<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s98">更有腫脹不軟而亦不痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s99">是邪在血分<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s100">重用荊芥以疏血分之邪<c n="；"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s101">紅色過赤而老<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s102">是血分之火<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s103">用荊芥穗一二錢</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d3.p16s104">
+            <c n="（"/>鹽水炒黑<c n="）"/>
+            <c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s105">潰後<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s106">精神弱<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s107">不成寐<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s108">用遠志肉</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d3.p16s109">
+            <c n="（"/>開水泡<c n="）"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s110">白茯神<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s111">酸棗仁<c n="；"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s112">不效<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s113">再引用龍眼肉<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s114">氣血弱<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s115">潰不收<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s116">用萸肉錢外或二錢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s117">加炭白朮<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s118">白芍<c n="("/>土炒<c n=")"/>
+            <c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s119">大便不實<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s120">弱而不實色呆白<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s121">腹不痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s122">人懶倦<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s123">用升麻數分<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s124">白扁豆二三錢<c n="("/>炒焦<c n=")"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s125">厚朴<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s126">杜仲</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d3.p16s127">
+            <c n="（"/>鹽水炒<c n="）"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s128">二三錢<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s129">實而不食<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s130">心口痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s131">氣飽<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s132">用藥隨所食之物以消之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s133">若痢疾<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s134">胸氣不寬<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s135">用炒枳殼<c n="；"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s136">重則佛手<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s137">青皮加廣木香<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s138">厚朴<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s139">痢退<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s140">亦用升麻以提其陽<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s141">使之清升濁降<c n="；"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s142">用白扁豆以補其脾<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s143">再後用杜仲以佐其火<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s144">小便閉<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s145">用車前二三株或蔗漿以利之<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s146">忌食發物及生冷<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s147">洗浴<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s148">勞動<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s149">傷悲<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s150">氣憤<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s151">遇寡婦最宜解鬱<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s152">毒楚難禁<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s153">用炒整甲片<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s154">將石膏腐包好煮滾<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s155">以平其燥烈之氣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s156">治病必從其本<c n="："/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s157">食冷反復<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s158">輕則用砂仁以醒胃<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s159">重則用半夏以燥胃<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s160">病雖有萬殊<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d3.p16s161">救藥及反復總歸一本<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ek043_jc_000-d4">
+        <head n="h1" xml:id="KR3ek043_jc_000-d4h1">
+          <seg xml:id="KR3ek043_jc_000-d4.h1s1">附：謝氏外科秘法</seg>
+        </head>
+        <p xml:id="KR3ek043_jc_000-d4p2">
+          <seg xml:id="KR3ek043_jc_000-d4.p2s1">辯證</seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d4p4">
+          <seg xml:id="KR3ek043_jc_000-d4.p4s1">色紅而高腫<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p4s2">按之而即痛者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p4s3">為陽<c n="；"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p4s4">色白而平板<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p4s5">按之而不痛者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p4s6">為陰<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p4s7">色浮淡而根腳模糊為虛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p4s8">色沉著而根盤清正為實<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p4s9">色淡白青而板者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p4s10">為寒<c n="；"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p4s11">色深紅紫而痛者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p4s12">為熱<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p4s13">審而治之<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p4s14">斯為得矣<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d4p6">
+          <seg xml:id="KR3ek043_jc_000-d4.p6s1">治訣</seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d4p8">
+          <seg xml:id="KR3ek043_jc_000-d4.p8s1">補則死<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p8s2">攻則亡<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p8s3">調和六腑最為良<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d4p10">
+          <seg xml:id="KR3ek043_jc_000-d4.p10s1">治法</seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d4p12">
+          <seg xml:id="KR3ek043_jc_000-d4.p12s1">凡初起<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p12s2">但用攻發<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p12s3">消去即了<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p12s4">不必補<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p12s5">托<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p12s6">若將作膿<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p12s7">方可內托<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d4p14">
+          <seg xml:id="KR3ek043_jc_000-d4.p14s1">見證</seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d4p16">
+          <seg xml:id="KR3ek043_jc_000-d4.p16s1">伏陰證</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p16s2">
+            <c n="（"/>外軟內硬<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p16s3">按之而後痛者<c n="）"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p16s4">伏陽證</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p16s5">
+            <c n="（"/>外硬內軟<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p16s6">按之即痛者<c n="）"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p16s7">半陰半陽證</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p16s8">
+            <c n="（"/>或外軟內硬而按之即痛<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p16s9">或內軟外硬按之而反不痛<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p16s10">或形屬陽而色屬陰<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p16s11">或色屬陽而形反屬陰<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p16s12">是皆陰陽錯亂<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p16s13">治無適從<c n="）"/>
+            <c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p16s14">法宜調和臟腑<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p16s15">燮理陰陽<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p16s16">皆用制甘草為君<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p16s17">秘傳君<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p16s18">相通神</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p16s19">
+            <c n="（"/>審證之輕重<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p16s20">投劑之大小<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p16s21">慎勿誤投<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p16s22">自取背戾<c n="）"/>
+            <c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d4p18">
+          <seg xml:id="KR3ek043_jc_000-d4.p18s1">大劑<c n="："/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p18s2">大甘草一兩<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p18s3">栝蔞仁八錢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p18s4">甲片四錢<c n="；"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p18s5">中劑<c n="："/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p18s6">大甘草八錢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p18s7">栝蔞仁六錢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p18s8">甲片三錢<c n="；"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p18s9">小劑<c n="："/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p18s10">大甘草六錢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p18s11">栝蔞仁四錢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p18s12">甲片二錢<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p18s13">更重者加金銀子</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p18s14">
+            <c n="（"/>左三十五粒<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p18s15">右四十粒<c n="）"/>
+            <c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p18s16">日輕夜重者加炒黑荊芥二錢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p18s17">極痛而不大便者加炒黑大黃二錢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p18s18">肉內陷者花粉用人參制<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p18s19">色青紫者栝蔞仁用肉桂制<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p18s20">噁心者加開口椒四十九粒<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d4p20">
+          <seg xml:id="KR3ek043_jc_000-d4.p20s1">凡初起方</seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d4p22">
+          <seg xml:id="KR3ek043_jc_000-d4.p22s1">大貝<c n="("/>二錢<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p22s2">白芷<c n="("/>一錢<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p22s3">花粉<c n="("/>三錢<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p22s4">大甘草<c n="("/>六錢<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p22s5">栝蔞仁</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p22s6">
+            <c n="（"/>四錢<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p22s7">炒研<c n="）"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p22s8">甲片</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p22s9">
+            <c n="（"/>二錢<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p22s10">炒研<c n="）"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p22s11">葛根<c n="("/>一錢<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p22s12">丹參<c n="("/>一錢<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p22s13">殭蠶</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p22s14">
+            <c n="（"/>一錢<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p22s15">炒研<c n="）"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p22s16">蘇葉</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p22s17">
+            <c n="（"/>一錢五分<c n="）"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p22s18">
+            <c n="（"/>左加柴胡一錢<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p22s19">右加桔梗七分<c n="）"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p22s20">加酒</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p22s21">
+            <c n="（"/>一大杯<c n="）"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p22s22">蔥頭<c n="("/>三個<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p22s23">角針<c n="("/>三分<c n=")"/>
+          </seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d4p24">
+          <seg xml:id="KR3ek043_jc_000-d4.p24s1">伏陰證<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p24s2">純陰證</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p24s3">
+            <c n="（"/>內外板硬<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p24s4">白而不大腫<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p24s5">按而不大痛<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p24s6">覺同負重如磨<c n="）"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p24s7">是皆重證<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d4p26">
+          <seg xml:id="KR3ek043_jc_000-d4.p26s1">蘇葉<c n="("/>一錢<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p26s2">大貝</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p26s3">
+            <c n="（"/>二錢<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p26s4">研<c n="）"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p26s5">白芷</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p26s6">
+            <c n="（"/>一錢五分<c n="）"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p26s7">花粉<c n="("/>三錢<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p26s8">葛根<c n="("/>二錢<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p26s9">丹參</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p26s10">
+            <c n="（"/>一錢<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p26s11">純陰證可不用<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p26s12">要用荊芥二錢<c n="）"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p26s13">
+            <c n="（"/>左加柴胡一錢<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p26s14">右加桔梗七分<c n="）"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p26s15">大甘草<c n="("/>一兩<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p26s16">制栝蔞仁</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p26s17">
+            <c n="（"/>八錢<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p26s18">炒研<c n="）"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p26s19">甲片</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p26s20">
+            <c n="（"/>六錢<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p26s21">炒研<c n="）"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p26s22">殭蠶</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p26s23">
+            <c n="（"/>一錢<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p26s24">炒研<c n="）"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p26s25">澤蘭</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p26s26">
+            <c n="（"/>四錢<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p26s27">純陰證可不用<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p26s28">伏陰證必用<c n="）"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p26s29">角針<c n="("/>三分<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p26s30">荊芥<c n="("/>一錢<c n=")"/>
+          </seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d4p28">
+          <seg xml:id="KR3ek043_jc_000-d4.p28s1">加引同前<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d4p30">
+          <seg xml:id="KR3ek043_jc_000-d4.p30s1">伏陰證</seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d4p32">
+          <seg xml:id="KR3ek043_jc_000-d4.p32s1">大甘草<c n="("/>八錢<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p32s2">栝蔞仁<c n="("/>六錢<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p32s3">甲片<c n="("/>四錢<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p32s4">澤蘭<c n="("/>六錢<c n=")"/>
+          </seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d4p34">
+          <seg xml:id="KR3ek043_jc_000-d4.p34s1">余與前同<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d4p36">
+          <seg xml:id="KR3ek043_jc_000-d4.p36s1">半陰半陽證</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p36s2">
+            <c n="（"/>宜調和六腑<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d4p38">
+          <seg xml:id="KR3ek043_jc_000-d4.p38s1">大甘草<c n="("/>一兩<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p38s2">制栝蔞仁<c n="("/>八錢<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p38s3">甲片<c n="("/>六錢<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p38s4">澤蘭<c n="("/>八錢<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p38s5">丹參<c n="("/>三錢<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p38s6">余藥同前<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p38s7">若勢減收功<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p38s8">手按之而軟者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p38s9">加芎<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p38s10">歸<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p38s11">芍<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p38s12">地<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p38s13">苓<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p38s14">耆<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p38s15">人參<c n="；"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p38s16">若硬者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p38s17">仍帶攻發<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p38s18">宜加金銀子<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p38s19">引同前<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d4p40">
+          <seg xml:id="KR3ek043_jc_000-d4.p40s1">托膿</seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d4p42">
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p42s1">
+            <c n="（"/>左柴胡一錢<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p42s2">右桔梗七分<c n="）"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p42s3">防風<c n="("/>一錢<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p42s4">生黃耆</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p42s5">
+            <c n="（"/>一錢<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p42s6">毒甚者不可用<c n="）"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p42s7">大貝<c n="("/>二錢<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p42s8">花粉<c n="("/>三錢<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p42s9">白芷<c n="("/>一錢<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p42s10">葛根<c n="("/>二錢<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p42s11">大甘草<c n="("/>四錢<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p42s12">栝蔞仁</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p42s13">
+            <c n="（"/>二錢<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p42s14">炒<c n="）"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p42s15">甲片</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p42s16">
+            <c n="（"/>一錢<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p42s17">炒<c n="）"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p42s18">殭蠶</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p42s19">
+            <c n="（"/>一錢<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p42s20">炒<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p42s21">有膿即去<c n="）"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p42s22">丹參<c n="("/>一錢<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p42s23">澤蘭<c n="("/>三錢<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p42s24">加引同前<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p42s25">如有風寒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p42s26">加蘇葉<c n="("/>一錢<c n=")"/>
+            <c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d4p44">
+          <seg xml:id="KR3ek043_jc_000-d4.p44s1">腐肉脫後</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p44s2">
+            <c n="（"/>膿後未脫腐肉少用參<c n="、"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p44s3">耆<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p44s4">勿要攻發<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d4p46">
+          <seg xml:id="KR3ek043_jc_000-d4.p46s1">防風<c n="("/>一錢<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p46s2">花粉<c n="("/>三錢<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p46s3">大貝<c n="("/>二錢<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p46s4">丹參</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p46s5">
+            <c n="（"/>三錢<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p46s6">有人參可不用<c n="）"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p46s7">大甘草<c n="("/>六錢<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p46s8">甲片</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p46s9">
+            <c n="（"/>一錢<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p46s10">炒<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p46s11">全軟不用<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p46s12">左柴胡一錢<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p46s13">右桔梗七分<c n="）"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p46s14">栝蔞仁<c n="("/>四錢<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p46s15">黃耆</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p46s16">
+            <c n="（"/>生熟各二錢<c n="）"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p46s17">澤蘭<c n="("/>五錢<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p46s18">白茯苓<c n="("/>二錢<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p46s19">川芎<c n="("/>八分<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p46s20">當歸</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p46s21">
+            <c n="（"/>一錢<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p46s22">酒炒<c n="）"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p46s23">白芍</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p46s24">
+            <c n="（"/>一錢<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p46s25">酒炒<c n="）"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p46s26">大生地</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p46s27">
+            <c n="（"/>二錢<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p46s28">酒炒<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p46s29">腐肉未去不可用<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d4p48">
+          <seg xml:id="KR3ek043_jc_000-d4.p48s1">此藥服之若痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p48s2">即用發散藥<c n="；"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p48s3">按之而根腳硬者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p48s4">去人參<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p48s5">芎<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p48s6">歸<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p48s7">芍<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p48s8">地<c n="；"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p48s9">若不硬<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p48s10">熟地<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p48s11">黃耆逐日可加<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p48s12">甘草<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p48s13">栝蔞仁<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p48s14">甲片逐日可減<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p48s15">全要性靈心活<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p48s16">切勿呆板<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p48s17">引同<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d4p50">
+          <seg xml:id="KR3ek043_jc_000-d4.p50s1">收功</seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d4p52">
+          <seg xml:id="KR3ek043_jc_000-d4.p52s1">防風<c n="("/>一錢<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p52s2">黃耆</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p52s3">
+            <c n="（"/>四錢<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p52s4">蜜炙<c n="）"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p52s5">大貝<c n="("/>二錢<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p52s6">花粉<c n="("/>二錢<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p52s7">大熟地</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p52s8">
+            <c n="（"/>三錢<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p52s9">炙<c n="）"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p52s10">川芎<c n="("/>八分<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p52s11">當歸</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p52s12">
+            <c n="（"/>一錢<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p52s13">酒炒<c n="）"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p52s14">大甘草</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p52s15">
+            <c n="（"/>二錢<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p52s16">炙<c n="）"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p52s17">白茯苓</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p52s18">
+            <c n="（"/>三錢<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p52s19">有人參不可用<c n="）"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p52s20">白芍</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p52s21">
+            <c n="（"/>一錢<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p52s22">酒炒<c n="）"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p52s23">澤蘭<c n="("/>五錢<c n=")"/>
+          </seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d4p54">
+          <seg xml:id="KR3ek043_jc_000-d4.p54s1">外用陳玉紅膏和陳香油調勻搽引</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p54s2">
+            <c n="（"/>姜一片<c n="、"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p54s3">棗三枚<c n="；"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p54s4">否則桂圓肉五枚<c n="）"/>
+            <c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p54s5">若不思飲食<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p54s6">熟地少用<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p54s7">甘草用生<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p54s8">加砂仁<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p54s9">炒穀芽<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d4.p54s10">引用煨姜<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d4p56">
+          <seg xml:id="KR3ek043_jc_000-d4.p56s1">忌口</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p56s2">
+            <c n="（"/>除食蝦<c n="、"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p56s3">蟹<c n="、"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p56s4">鰻<c n="、"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p56s5">牛<c n="、"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p56s6">韭<c n="、"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p56s7">筍<c n="、"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p56s8">生冷及洗浴行房<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p56s9">余概勿忌<c n="）"/>
+            <c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d4p58">
+          <seg xml:id="KR3ek043_jc_000-d4.p58s1">收金銀子法</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p58s2">
+            <c n="（"/>秋分前後三日俱好<c n="）"/>
+            <c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d4p60">
+          <seg xml:id="KR3ek043_jc_000-d4.p60s1">制甘草法</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p60s2">
+            <c n="（"/>揀極大者<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p60s3">春分日<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p60s4">大河內潮水浸一晝夜<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p60s5">取出陰乾用<c n="）"/>
+            <c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d4p62">
+          <seg xml:id="KR3ek043_jc_000-d4.p62s1">制栝蔞法</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p62s2">
+            <c n="（"/>用好肉桂<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p62s3">切細<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p62s4">和水入粗瓷器內<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p62s5">煎滾<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p62s6">即入栝蔞子煎十數沸<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p62s7">取出<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p62s8">去肉桂渣<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p62s9">研用<c n="）"/>
+            <c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d4p64">
+          <seg xml:id="KR3ek043_jc_000-d4.p64s1">制花粉法</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p64s2">
+            <c n="（"/>將人參煎水<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p64s3">再入花粉同煎十數沸<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d4.p64s4">取用<c n="）"/>
+            <c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ek043_jc_000-d5">
+        <head n="h1" xml:id="KR3ek043_jc_000-d5h1">
+          <seg xml:id="KR3ek043_jc_000-d5.h1s1">附：對口方</seg>
+        </head>
+        <p xml:id="KR3ek043_jc_000-d5p2">
+          <seg xml:id="KR3ek043_jc_000-d5.p2s1">在左者<c n="："/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p2s2">柴胡</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p2s3">
+            <c n="（"/>一錢五分<c n="）"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p2s4">葛根<c n="("/>二錢<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p2s5">荊芥<c n="("/>二錢<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p2s6">升麻<c n="("/>八分<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p2s7">川芎</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p2s8">
+            <c n="（"/>一錢二分<c n="）"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p2s9">桔梗</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p2s10">
+            <c n="（"/>一錢二分<c n="）"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p2s11">花粉<c n="("/>三錢<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p2s12">甲片</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p2s13">
+            <c n="（"/>二錢<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p2s14">炒<c n="）"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p2s15">栝蔞仁</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p2s16">
+            <c n="（"/>三錢<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p2s17">炒<c n="）"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p2s18">獨活<c n="("/>一錢<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p2s19">大甘草<c n="("/>四錢<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p2s20">蘇葉<c n="("/>一錢<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p2s21">青皮<c n="("/>一錢<c n=")"/>
+          </seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d5p4">
+          <seg xml:id="KR3ek043_jc_000-d5.p4s1">加酒一杯<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p4s2">蔥頭三個<c n="("/>去須<c n=")"/>
+            <c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d5p6">
+          <seg xml:id="KR3ek043_jc_000-d5.p6s1">若在右者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p6s2">去柴胡<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p6s3">川芎<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p6s4">青皮<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p6s5">加枳殼或陳皮亦可<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d5p8">
+          <seg xml:id="KR3ek043_jc_000-d5.p8s1">引經藥</seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d5p10">
+          <seg xml:id="KR3ek043_jc_000-d5.p10s1">官桂</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s2">
+            <c n="（"/>流注用<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s3">是寒證皆宜<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s4">發背勿用<c n="）"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p10s5">殭蠶</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s6">
+            <c n="（"/>炒<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s7">消腫用<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s8">膿後不可用<c n="）"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p10s9">羌活</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s10">
+            <c n="（"/>兩太陽用<c n="）"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p10s11">獨活</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s12">
+            <c n="（"/>托腮<c n="、"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s13">後髮際<c n="、"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s14">右腰下<c n="、"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s15">兩頰皆用<c n="）"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p10s16">薄荷</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s17">
+            <c n="（"/>髮際下用<c n="）"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p10s18">白蒺藜</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s19">
+            <c n="（"/>左腰下用<c n="）"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p10s20">白芷</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s21">
+            <c n="（"/>額角用<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s22">去寒濕<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s23">消毒<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s24">止痛<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s25">辟邪<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s26">發背<c n="、"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s27">流注用<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s28">初起皆用<c n="）"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p10s29">蒼朮</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s30">
+            <c n="（"/>流注及諸般濕證皆用<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s31">發背勿用<c n="）"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p10s32">乳香</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s33">
+            <c n="（"/>對口初起用<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s34">又消一切無名腫毒並止痛<c n="）"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p10s35">沒藥</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s36">
+            <c n="（"/>功同乳香<c n="）"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p10s37">秦艽</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s38">
+            <c n="（"/>舒筋散厥陰之風<c n="）"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p10s39">藁本</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s40">
+            <c n="（"/>頭項痛<c n="）"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p10s41">乾薑</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s42">
+            <c n="（"/>流注用<c n="）"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p10s43">破故紙</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s44">
+            <c n="（"/>臍右用<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s45">熱證忌<c n="）"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p10s46">製附子</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s47">
+            <c n="（"/>流注用<c n="）"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p10s48">益智仁</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s49">
+            <c n="（"/>臍左用<c n="）"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p10s50">白芥子</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s51">
+            <c n="（"/>流注用<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s52">溫脾<c n="、"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s53">肺<c n="）"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p10s54">知母</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s55">
+            <c n="（"/>右顴用<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s56">寒肺<c n="、"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s57">胃<c n="）"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p10s58">角針</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s59">
+            <c n="（"/>能引諸藥直達瘡所<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s60">有膿即止<c n="）"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p10s61">川芎</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s62">
+            <c n="（"/>左肩<c n="、"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s63">項俱用<c n="）"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p10s64">大甘草</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s65">
+            <c n="（"/>生用調和六腑<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s66">並去大腸火毒<c n="；"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s67">收功用炙熟<c n="）"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p10s68">升麻</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s69">
+            <c n="（"/>兩肩用五分多至七分<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s70">兩項用七分多至九分<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s71">頭上用一錢<c n="）"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p10s72">甘草梢</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s73">
+            <c n="（"/>龜頭用<c n="）"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p10s74">防風</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s75">
+            <c n="（"/>四肢用<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s76">右肩<c n="、"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s77">腿皆用<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s78">發背膿後外托尤宜<c n="）"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p10s79">陳皮</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s80">
+            <c n="（"/>對口左邊可用<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s81">發背大忌<c n="）"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p10s82">人參</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s83">
+            <c n="（"/>膿後用<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s84">必須兼防風<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s85">腐肉盡脫去<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s86">可大用<c n="）"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p10s87">牛膝</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s88">
+            <c n="（"/>性善下<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s89">且舒筋<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s90">左足用<c n="）"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p10s91">鬱金<c n="("/>解鬱<c n=")"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p10s92">黃芩</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s93">
+            <c n="（"/>凡大毒慘痛者用<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s94">發背用<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s95">其寒涼傷胃也<c n="）"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p10s96">木瓜</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s97">
+            <c n="（"/>舒筋<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s98">走右足<c n="）"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p10s99">蘇葉</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s100">
+            <c n="（"/>發汗用<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s101">受寒者必用<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s102">能溫肺<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s103">用在初起<c n="）"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p10s104">苡仁米</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s105">
+            <c n="（"/>走右足<c n="）"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p10s106">花粉</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s107">
+            <c n="（"/>發背必用<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s108">若虛而內陷者<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s109">要人參水制<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s110">能消火<c n="、"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s111">消毒<c n="）"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p10s112">甲片</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s113">
+            <c n="（"/>炙研<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s114">攻利必用之聖藥<c n="）"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p10s115">槐頭<c n="("/>食指<c n=")"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p10s116">桑頭<c n="("/>大指<c n=")"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p10s117">楊頭</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s118">
+            <c n="（"/>無名指<c n="、"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s119">中指<c n="、"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s120">小指<c n="）"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p10s121">楊須<c n="("/>足指<c n=")"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p10s122">大貝</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s123">
+            <c n="（"/>拔毒必用之聖藥<c n="）"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p10s124">澤蘭葉</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s125">
+            <c n="（"/>調和氣血<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s126">膿前少用<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s127">膿後收功大用可至八錢<c n="）"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p10s128">地松根<c n="("/>兩足<c n=")"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p10s129">黃耆</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s130">
+            <c n="（"/>毒前不能輕用<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s131">托膿時用生<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s132">潰時半生半蜜炙<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s133">腐盡收功全蜜炙<c n="）"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p10s134">大黃</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s135">
+            <c n="（"/>炒黑<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s136">發背紅紫色<c n="、"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s137">痛不止而不大便者用二錢<c n="）"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p10s138">栝蔞仁</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s139">
+            <c n="（"/>必用之藥<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s140">若發背<c n="、"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s141">對口青紫者<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s142">用肉桂水制<c n="）"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p10s143">荊芥</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s144">
+            <c n="（"/>肩<c n="、"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s145">項用<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s146">炒焦用<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s147">發背<c n="、"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s148">對口日輕夜重<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s149">並治血氣下陷<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s150">溫散生用要藥<c n="）"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p10s151">葛根</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s152">
+            <c n="（"/>發背伏陰伏陽皆用<c n="）"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p10s153">開口椒</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s154">
+            <c n="（"/>閉口者有毒<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s155">不可用<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s156">治噁心用四十九粒<c n="）"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p10s157">麻黃</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s158">
+            <c n="（"/>流注用<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s159">發汗必須<c n="）"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p10s160">枳殼</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s161">
+            <c n="（"/>對口右邊用<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s162">心隔不寬<c n="、"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s163">飲食不消<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s164">俱可用<c n="）"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p10s165">桔梗</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s166">
+            <c n="（"/>上升下降<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s167">在右者尤宜<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s168">腰上七分<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s169">腰下四分<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s170">乳膀上一錢<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s171">項以上一錢二分<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s172">凡毒在乳膀以上者<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s173">不論左右俱可用<c n="）"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p10s174">柴胡</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s175">
+            <c n="（"/>在左者俱可用<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s176">青紫色者是肝病<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s177">不論左右皆用<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s178">腰下五分<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s179">腰上至肩一錢<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s180">左顴一錢五分<c n="）"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p10s181">三七</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s182">
+            <c n="（"/>活血治傷<c n="）"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p10s183">土方八</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s184">
+            <c n="（"/>善走骨節<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s185">治一切無名腫毒<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s186">引經藥所不能到者<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s187">左顴用<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s188">去肺火<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s189">發背<c n="、"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s190">對口紅紫色者<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s191">用一錢<c n="）"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p10s192">金毛狗脊</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s193">
+            <c n="（"/>尻骨用<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s194">尻即尾樁骨<c n="）"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p10s195">萆薢</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s196">
+            <c n="（"/>左腰下用<c n="）"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p10s197">丹參</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s198">
+            <c n="（"/>調經脈<c n="）"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p10s199">漢防己</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s200">
+            <c n="（"/>右腰下用<c n="）"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p10s201">桂枝</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s202">
+            <c n="（"/>兩手用<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s203">性溫散<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s204">寒證宜<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s205">熱證不可<c n="）"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p10s206">金銀藤</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s207">
+            <c n="（"/>四肢用<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s208">性清涼<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s209">熱證不可<c n="）"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p10s210">金銀花</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s211">
+            <c n="（"/>清涼拔毒<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s212">兼走四肢<c n="）"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p10s213">海桐皮<c n="("/>腿用<c n=")"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p10s214">生地</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s215">
+            <c n="（"/>涼血補陰<c n="）"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p10s216">當歸<c n="("/>活血<c n=")"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p10s217">歸尾<c n="("/>破血<c n=")"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p10s218">鮮生地<c n="("/>涼血<c n=")"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p10s219">大熟地</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s220">
+            <c n="（"/>大補陰分<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s221">虛者收功可用<c n="）"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p10s222">鮮首烏</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s223">
+            <c n="（"/>排膿止痛<c n="）"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p10s224">皂莢</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s225">
+            <c n="（"/>炒<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s226">去筋研敷<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s227">流注<c n="、"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s228">痰毒一切無名腫毒之聖藥<c n="）"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p10s229">青皮</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s230">
+            <c n="（"/>對口有邊用<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p10s231">發背大忌<c n="）"/>
+            <c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d5p12">
+          <seg xml:id="KR3ek043_jc_000-d5.p12s1">以上諸藥<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p12s2">皆秘授引經要品<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p12s3">宜熟讀本草<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p12s4">究其功用<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p12s5">詳審證之虛實寒熱<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p12s6">而斟酌以治之<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p12s7">自當以運化無窮<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p12s8">動輒取效也<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d5p14">
+          <seg xml:id="KR3ek043_jc_000-d5.p14s1">熏方</seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d5p16">
+          <seg xml:id="KR3ek043_jc_000-d5.p16s1">三角楓<c n="("/>一兩<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p16s2">白桑皮<c n="("/>五錢<c n=")"/>
+          </seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d5p18">
+          <seg xml:id="KR3ek043_jc_000-d5.p18s1">上二味<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p18s2">為末<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p18s3">紙卷藥<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p18s4">燒煙燻之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p18s5">俟毒水惡膿盡出<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p18s6">其毒自消<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d5p20">
+          <seg xml:id="KR3ek043_jc_000-d5.p20s1">敷藥方</seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d5p22">
+          <seg xml:id="KR3ek043_jc_000-d5.p22s1">獨腳龍鬚草炙<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p22s2">研為末<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p22s3">每兩加陳小粉五錢和勻<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p22s4">米醋調敷<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p22s5">干則以醋潤之<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p22s6">換時用豬肉湯洗去<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d5p24">
+          <seg xml:id="KR3ek043_jc_000-d5.p24s1">凡毒初起用此方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p24s2">如久不收口<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p24s3">以前方熏洗<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p24s4">熏過將肉湯洗淨<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p24s5">拭乾<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p24s6">以龍鬚草散干糝之<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p24s7">外以太乙膏蓋之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d5p26">
+          <seg xml:id="KR3ek043_jc_000-d5.p26s1">第一方</seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d5p28">
+          <seg xml:id="KR3ek043_jc_000-d5.p28s1">甘草<c n="("/>一兩<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p28s2">花粉<c n="("/>五錢<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p28s3">大貝</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p28s4">
+            <c n="（"/>二錢五分<c n="）"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p28s5">角針</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p28s6">
+            <c n="（"/>三錢五分<c n="）"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p28s7">甲片</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p28s8">
+            <c n="（"/>七片<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p28s9">蛤粉炒<c n="）"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p28s10">川椒</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p28s11">
+            <c n="（"/>左右輕重用<c n="）"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p28s12">栝蔞<c n="("/>一個<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p28s13">白芷</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p28s14">
+            <c n="（"/>一錢二分<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d5p30">
+          <seg xml:id="KR3ek043_jc_000-d5.p30s1">加乳香<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p30s2">沒藥各一錢二分<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p30s3">烏金子五錢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p30s4">三味共研細末<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p30s5">待藥熱時沖服<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p30s6">水<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p30s7">酒各半<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p30s8">煎服一帖<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p30s9">在上者加防風<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p30s10">桂枝<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p30s11">桔梗各一錢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p30s12">中間者加川芎二錢五分<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p30s13">在下者加牛膝<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p30s14">木瓜各一錢二分<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p30s15">蔥頭三個<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d5p32">
+          <seg xml:id="KR3ek043_jc_000-d5.p32s1">第二方</seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d5p34">
+          <seg xml:id="KR3ek043_jc_000-d5.p34s1">甲片</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p34s2">
+            <c n="（"/>六分<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p34s3">蛤粉炒<c n="）"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p34s4">甘草節<c n="("/>六分<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p34s5">歸尾<c n="("/>一錢<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p34s6">白芷<c n="("/>六分<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p34s7">角針<c n="("/>八分<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p34s8">金銀花<c n="("/>三錢<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p34s9">赤芍<c n="("/>六分<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p34s10">花粉<c n="("/>八分<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p34s11">川椒</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p34s12">
+            <c n="（"/>三十六粒<c n="）"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p34s13">烏金子<c n="("/>五錢<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p34s14">防風<c n="("/>六分<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p34s15">陳皮<c n="("/>三錢<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p34s16">乳香<c n="("/>六分<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p34s17">沒藥<c n="("/>六分<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p34s18">大棗<c n="("/>七個<c n=")"/>
+          </seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d5p36">
+          <seg xml:id="KR3ek043_jc_000-d5.p36s1">水<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p36s2">酒煎服二帖<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p36s3">重則三帖<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d5p38">
+          <seg xml:id="KR3ek043_jc_000-d5.p38s1">第三方</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p38s2">
+            <c n="（"/>兌金丸<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d5p40">
+          <seg xml:id="KR3ek043_jc_000-d5.p40s1">大龜板</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p40s2">
+            <c n="（"/>一斤<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p40s3">洗淨<c n="）"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p40s4">陳酒<c n="("/>一斤<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p40s5">米醋<c n="("/>一杯<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p40s6">川蜜<c n="("/>一杯<c n=")"/>
+          </seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d5p42">
+          <seg xml:id="KR3ek043_jc_000-d5.p42s1">上藥以炭火炙碎<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p42s2">三汁完取<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p42s3">研末<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p42s4">以粽米為丸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p42s5">如豆大<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p42s6">服三錢<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p42s7">如欲速愈<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p42s8">加至五錢<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p42s9">每日早晚兩服<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p42s10">服至十二兩全愈<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d5p44">
+          <seg xml:id="KR3ek043_jc_000-d5.p44s1">第四方</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p44s2">
+            <c n="（"/>黃金碧玉膏<space n="　" quantity="1"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p44s3">長肉生肌<c n="、"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p44s4">止痛<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d5p46">
+          <seg xml:id="KR3ek043_jc_000-d5.p46s1">白占<c n="("/>一兩<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p46s2">黃占<c n="("/>五錢<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p46s3">頭髮<c n="("/>五錢<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p46s4">歸身<c n="("/>五錢<c n=")"/>
+          </seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d5p48">
+          <seg xml:id="KR3ek043_jc_000-d5.p48s1">如痛加乳香<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p48s2">沒藥各一錢五分<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p48s3">肉桂三錢<c n="("/>研<c n=")"/>
+            <c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p48s4">大附子三錢</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p48s5">
+            <c n="（"/>研<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p48s6">此二味陽毒不用<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p48s7">若陰毒久不收口塌陷者<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p48s8">加入如神<c n="）"/>
+            <c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d5p50">
+          <seg xml:id="KR3ek043_jc_000-d5.p50s1">上藥<c n="："/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p50s2">用麻油陸兩<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p50s3">以頭髮先熬枯<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p50s4">去渣<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p50s5">再下歸身熬枯<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p50s6">去渣後<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p50s7">下黃<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p50s8">白占<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p50s9">待化開<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p50s10">再下乳香<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p50s11">沒藥二味<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p50s12">化開<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p50s13">和勻<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p50s14">凡毒不久收<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p50s15">不長肉<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p50s16">以此膏敷之<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p50s17">外以好膏藥蓋之<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p50s18">或油紙亦可<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p50s19">一至晝夜<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p50s20">以豬蹄湯洗去<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p50s21">三換三次而愈<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d5p52">
+          <seg xml:id="KR3ek043_jc_000-d5.p52s1">第五方</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p52s2">
+            <c n="（"/>去腐萬金丹<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d5p54">
+          <seg xml:id="KR3ek043_jc_000-d5.p54s1">巴豆不拘多少<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p54s2">先洗去白膜<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p54s3">再以好酒煮一枝香<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p54s4">取出去油<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p54s5">炙乾為細末<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p54s6">凡毒有壞肉處<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p54s7">以此藥將藥籮篩篩上<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p54s8">再貼前膏<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p54s9">一晝夜其腐肉盡去矣<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d5p56">
+          <seg xml:id="KR3ek043_jc_000-d5.p56s1">收口末藥方</seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d5p58">
+          <seg xml:id="KR3ek043_jc_000-d5.p58s1">象皮</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p58s2">
+            <c n="（"/>五分<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p58s3">炙研<c n="）"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p58s4">芙蓉葉</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p58s5">
+            <c n="（"/>一錢<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p58s6">炙<c n="）"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p58s7">肉桂<c n="("/>二分<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p58s8">金銀子</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p58s9">
+            <c n="（"/>五分<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p58s10">炙<c n="）"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p58s11">乳香<c n="("/>四分<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p58s12">黃<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p58s13">白占</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d5.p58s14">
+            <c n="（"/>各二分<c n="）"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p58s15">沒藥<c n="("/>四分<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d5.p58s16">冰片<c n="("/>二分<c n=")"/>
+          </seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d5p60">
+          <seg xml:id="KR3ek043_jc_000-d5.p60s1">共研細末摻之<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ek043_jc_000-d6">
+        <head n="h1" xml:id="KR3ek043_jc_000-d6h1">
+          <seg xml:id="KR3ek043_jc_000-d6.h1s1">附：楊州存濟堂藥局膏藥方</seg>
+        </head>
+        <p xml:id="KR3ek043_jc_000-d6p2">
+          <seg xml:id="KR3ek043_jc_000-d6.p2s1">雲臺膏</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d6.p2s2">
+            <c n="（"/>一名夔膏<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d6.p2s3">言一已足也<space n="　" quantity="1"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d6.p2s4">此膏寒熱<c n="、"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d6.p2s5">攻補並用<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d6.p2s6">初起能消<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d6.p2s7">已成能潰<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d6.p2s8">已潰能提<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d6.p2s9">毒儘自斂<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d6.p2s10">不必服解表托裡之藥<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d6.p2s11">亦不假刀針<c n="、"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d6.p2s12">升降丹<c n="、"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d6.p2s13">藥捻等物<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d6.p2s14">始終此只一膏<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d6.p2s15">極為簡便神速<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d6.p2s16">重證外加糝藥<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d6.p2s17">敷藥助之<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d6.p2s18">已驗過數萬人<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d6.p2s19">無不愈者<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d6.p2s20">且能定痛<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d6.p2s21">可以服食<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d6.p2s22">故元氣不傷<c n="、"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d6.p2s23">虛人無補<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d6.p2s24">亦能收功<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d6p4">
+          <seg xml:id="KR3ek043_jc_000-d6.p4s1">通治發背<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p4s2">搭手<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p4s3">對口<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p4s4">發疽<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p4s5">頸核<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p4s6">乳癰<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p4s7">肚癰<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p4s8">腰癰<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p4s9">一切無名腫毒<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p4s10">附骨流注與惡毒頑瘡<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p4s11">蛇犬傷等證<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p4s12">凡屬陽者並治<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p4s13">即半陰半陽之證亦治<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p4s14">療毒加拔疔藥貼<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p4s15">陰疽勿用<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p4s16">孕婦酌用<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d6p6">
+          <seg xml:id="KR3ek043_jc_000-d6.p6s1">生大黃<c n="("/>五兩<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s2">木鱉仁<c n="("/>三兩<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s3">元參<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s4">生地<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s5">忍冬藤<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s6">生甘草節<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s7">南薄荷<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s8">土貝母<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s9">朴硝</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d6.p6s10">
+            <c n="（"/>各二兩<c n="）"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s11">生黃耆<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s12">當歸</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d6.p6s13">
+            <c n="（"/>各一兩六錢<c n="）"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s14">茅蒼朮<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s15">羌活<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s16">獨活<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s17">防風<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s18">連翹<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s19">香附<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s20">烏藥<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s21">陳皮<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s22">青皮<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s23">天花粉<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s24">川芎<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s25">白芷<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s26">山梔<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s27">赤芍<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s28">苦杏仁<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s29">桃仁<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s30">生草烏<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s31">生川烏<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s32">生南星<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s33">生半夏<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s34">生黃柏<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s35">黃連<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s36">細辛<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s37">五倍子<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s38">殭蠶<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s39">生山甲<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s40">蜈蚣<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s41">全蠍<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s42">露蜂房</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d6.p6s43">
+            <c n="（"/>有子者佳<c n="）"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s44">黃芩<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s45">蟬蛻<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s46">蛇蛻<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s47">乾地龍<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s48">蟾皮<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s49">生牡蠣<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s50">皂角<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s51">紅花<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s52">萆麻仁</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d6.p6s53">
+            <c n="（"/>各一兩<c n="）"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d6.p6s54">
+            <c n="（"/>萆麻仁或用三兩<c n="）"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s55">發團</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d6.p6s56">
+            <c n="（"/>二兩四錢<c n="）"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s57">擬增<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s58">甘遂<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s59">大戟<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s60">延胡<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s61">靈脂<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s62">遠志<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s63">鬱金<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s64">荊芥<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s65">蒲黃</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d6.p6s66">
+            <c n="（"/>各一兩<c n="）"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s67">原有蜘蜘<c n="("/>七個<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s68">生薑<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s69">蔥白<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s70">大蒜頭</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d6.p6s71">
+            <c n="（"/>各四兩<c n="）"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s72">槐枝<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s73">柳枝<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s74">桑枝</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d6.p6s75">
+            <c n="（"/>各八兩<c n="）"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s76">蒼耳子<c n="("/>全株<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s77">鳳仙草<c n="("/>全株<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s78">新增野紫蘇</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d6.p6s79">
+            <c n="（"/>背青面紅者是<c n="）"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s80">紫地丁<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s81">益母草</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d6.p6s82">
+            <c n="（"/>鮮者<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d6.p6s83">每株約一斤<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d6.p6s84">乾者用二兩<c n="）"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s85">石菖蒲<c n="("/>二兩<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p6s86">川椒<c n="("/>一兩<c n=")"/>
+          </seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d6p8">
+          <seg xml:id="KR3ek043_jc_000-d6.p8s1">共用小磨麻油三十斤</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d6.p8s2">
+            <c n="（"/>凡干藥一斤<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d6.p8s3">用油三斤<c n="；"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d6.p8s4">鮮藥一斤<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d6.p8s5">用油一斤零<c n="）"/>
+            <c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p8s6">分兩起熬枯<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p8s7">去渣再並熬<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p8s8">俟油成</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d6.p8s9">
+            <c n="（"/>油宜老<c n="）"/>
+            <c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p8s10">仍分兩起下丹</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d6.p8s11">
+            <c n="（"/>免火旺走丹<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d6.p8s12">每淨油一斤<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d6.p8s13">用炒丹七兩<c n="）"/>
+            <c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p8s14">收<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p8s15">再下鉛粉<c n="("/>炒<c n=")"/>一斤<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p8s16">淨松香八兩<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p8s17">金陀僧<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p8s18">陳石灰<c n="("/>炒<c n=")"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p8s19">黃蠟各四兩<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p8s20">漂銅錄<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p8s21">枯礬<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p8s22">生礬<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p8s23">銀硃<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p8s24">掃盆粉<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p8s25">明雄<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p8s26">制乳香<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p8s27">制沒藥<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p8s28">官桂<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p8s29">丁香<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p8s30">樟腦<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p8s31">蘇合油各一兩<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p8s32">擬增白芥子五錢<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p8s33">廣木香一兩<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p8s34">牛膠四兩</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d6.p8s35">
+            <c n="（"/>酒蒸化<c n="）"/>
+            <c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p8s36">俟丹收後<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p8s37">攪至溫</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d6.p8s38">
+            <c n="（"/>溫<c n="："/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d6.p8s39">以一滴試之<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d6.p8s40">不爆<c n="）"/>
+            <c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p8s41">方下<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p8s42">再攪千餘<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p8s43">適令勻<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p8s44">愈多愈妙<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p8s45">勿炒<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p8s46">待砂珠無力且不黏也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p8s47">麝香酌加<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d6p10">
+          <seg xml:id="KR3ek043_jc_000-d6.p10s1">諸膏皆照此熬法<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p10s2">如油少<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p10s3">酌加二三斤亦可<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p10s4">凡熬膏<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p10s5">總以不老不嫩<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p10s6">合用為貴<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d6p12">
+          <seg xml:id="KR3ek043_jc_000-d6.p12s1">附<c n="："/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p12s2">烏龍錠子敷藥初起敷之自散<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p12s3">已潰敷之不走<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p12s4">且在於拔膿<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p12s5">收口<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p12s6">始終可用<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p12s7">並敷痰飲<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p12s8">流注<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p12s9">跌打損傷<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d6p14">
+          <seg xml:id="KR3ek043_jc_000-d6.p14s1">大黃<c n="("/>八兩<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p14s2">五倍子<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p14s3">花粉<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p14s4">香附子<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p14s5">木鱉仁<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p14s6">芙蓉葉<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p14s7">萆麻仁<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p14s8">益母草<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p14s9">霜桑葉<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p14s10">蒼耳草<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p14s11">灰皮硝<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p14s12">雄黃<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p14s13">陳石灰<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p14s14">白芨</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d6.p14s15">
+            <c n="（"/>各四兩<c n="）"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p14s16">蒼朮<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p14s17">黃柏<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p14s18">川烏<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p14s19">草烏<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p14s20">羌活<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p14s21">獨活<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p14s22">生南星<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p14s23">生半夏<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p14s24">川芎<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p14s25">細辛<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p14s26">赤芍<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p14s27">白芷<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p14s28">甘遂<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p14s29">大戟<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p14s30">山慈菇</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d6.p14s31">
+            <c n="（"/>各二兩<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d6p16">
+          <seg xml:id="KR3ek043_jc_000-d6.p16s1">共曬<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p16s2">研末<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p16s3">用醋二十斤<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p16s4">用皂角淨肉一斤<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p16s5">明礬四兩先熬去渣<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p16s6">下炒黑陳小粉八斤再熬<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p16s7">俟乾溼合用<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p16s8">傾在淨桌上<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p16s9">即以前三十味藥末及榆面一斤和入<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p16s10">擦勻為錠<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p16s11">臨用醋磨敷</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d6.p16s12">
+            <c n="（"/>熱加豬膽汁<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d6.p16s13">寒加蔥<c n="、"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d6.p16s14">薑汁<c n="）"/>
+            <c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p16s15">擬增延胡<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p16s16">烏藥<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p16s17">當歸<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p16s18">薑黃<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p16s19">鬱金<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p16s20">石菖蒲<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p16s21">苦葶藶<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p16s22">黃連<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p16s23">防風<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p16s24">炮甲各二兩<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p16s25">乳香<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p16s26">沒藥<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p16s27">木香<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p16s28">白膠香各四兩<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d6p18">
+          <seg xml:id="KR3ek043_jc_000-d6.p18s1">附<c n="："/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p18s2">龍虎散糝藥治腫毒<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p18s3">用少許糝雲臺膏貼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p18s4">能消<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p18s5">能潰<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p18s6">能提<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p18s7">能斂<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p18s8">亦始終皆可用<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d6p20">
+          <seg xml:id="KR3ek043_jc_000-d6.p20s1">明雄黃<c n="("/>五錢<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p20s2">土貝母<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p20s3">萆麻仁<c n="("/>去油<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p20s4">木鱉仁</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d6.p20s5">
+            <c n="（"/>各四錢<c n="）"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p20s6">大蜈蚣<c n="("/>十條<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p20s7">蟾酥<c n="("/>三錢<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p20s8">大全蠍<c n="("/>七個<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p20s9">大川山甲<c n="("/>七片<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p20s10">殭蠶<c n="("/>七條<c n=")"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p20s11">露峰房</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d6.p20s12">
+            <c n="（"/>有子者佳<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d6.p20s13">三錢<c n="）"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p20s14">大蜘蛛</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d6.p20s15">
+            <c n="（"/>二個<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d6.p20s16">腿腳要全<c n="）"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p20s17">鳳仙子</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d6.p20s18">
+            <c n="（"/>二十四粒<c n="）"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p20s19">硃砂<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p20s20">輕粉<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p20s21">制乳香<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p20s22">制沒藥<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p20s23">炒鉛粉<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p20s24">炒黃丹<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p20s25">寒水石<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p20s26">磁石<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p20s27">硼砂<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p20s28">漂銅錄<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p20s29">牙皂<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p20s30">母丁香<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p20s31">樟腦<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p20s32">黃蠟<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p20s33">白臘<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p20s34">延胡<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p20s35">白芷<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p20s36">決明</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d6.p20s37">
+            <c n="（"/>各二錢<c n="）"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p20s38">枯礬</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d6.p20s39">
+            <c n="（"/>五分<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d6.p20s40">研<c n="）"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p20s41">擬增草烏<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p20s42">南星</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d6.p20s43">
+            <c n="（"/>各二錢<c n="）"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p20s44">蟬蛻<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p20s45">蛇蛻</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d6.p20s46">
+            <c n="（"/>各一錢<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d6p22">
+          <seg xml:id="KR3ek043_jc_000-d6.p22s1">共為末糝貼<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p22s2">證重多加犀<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p22s3">黃<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p22s4">麝<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p22s5">冰和糝<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p22s6">已長新肉加桃花散<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p22s7">黃丹<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p22s8">石膏<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p22s9">共研末和糝<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p22s10">免痛<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d6p24">
+          <seg xml:id="KR3ek043_jc_000-d6.p24s1">附<c n="："/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p24s2">拔疔黃丸子古用草烏<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p24s3">南星<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p24s4">草霜<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p24s5">巴霜<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p24s6">雄<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p24s7">朱<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p24s8">鬱金<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p24s9">輕粉<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p24s10">蟾酥<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p24s11">蟬蛻<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p24s12">全蠍<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p24s13">皂<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p24s14">麝之類<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d6p26">
+          <seg xml:id="KR3ek043_jc_000-d6.p26s1">松香</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d6.p26s2">
+            <c n="（"/>提淨白者<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d6.p26s3">二兩<c n="）"/>
+            <space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p26s4">萆麻仁<c n="("/>四兩<c n=")"/>
+          </seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d6p28">
+          <seg xml:id="KR3ek043_jc_000-d6.p28s1">石上同捶捻爛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p28s2">入銀硃<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p28s3">明雄<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p28s4">輕粉各三錢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p28s5">漂黃丹五錢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p28s6">蜈蚣三條<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p28s7">全蠍三個<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p28s8">蟾酥二錢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p28s9">共研末<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p28s10">扯拔千遍<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p28s11">再加蝸牛或蟾肝搗爛同扯<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p28s12">令勻<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p28s13">加冰片<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p28s14">麝香各五分<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p28s15">捏成小丸子如綠豆大<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p28s16">黏膏上<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p28s17">貼瘡頭<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p28s18">外圈烏龍錠<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p28s19">過二三日揭看<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p28s20">有長條硬膿出<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p28s21">即疔根也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p28s22">如紅絲疔<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p28s23">將磁鋒於絲走處寸寸割斷<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p28s24">再貼<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p28s25">指頭疔<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p28s26">以雄豬膽入藥套之<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p28s27">唇疔<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p28s28">用糯米飲搗藥貼</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d6.p28s29">
+            <c n="（"/>並刺委中穴<c n="）"/>
+            <c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p28s30">疔出後<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p28s31">用龍虎散收功<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p28s32">或加細辛</seg>
+          <seg type="comm" xml:id="KR3ek043_jc_000-d6.p28s33">
+            <c n="（"/>能通疔竅<c n="）"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p28s34">一錢<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p28s35">蜘蛛一個<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p28s36">山甲三片共為丸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p28s37">白芨磨黃連水調化敷之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d6p30">
+          <seg xml:id="KR3ek043_jc_000-d6.p30s1">上方得自維揚<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p30s2">按方配合<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p30s3">百試百驗<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p30s4">樂善君子<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p30s5">量力捐貲<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p30s6">熬膏合藥<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p30s7">廣為施送<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p30s8">亦利濟之一術也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p30s9">因念鄉居僻壤<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p30s10">每多外證<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p30s11">猝然患之<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p30s12">方藥不便<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p30s13">就醫於城<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p30s14">或缺盤費<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p30s15">或惜工夫<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p30s16">遷延時日<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p30s17">致不可救<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p30s18">良可慨也<c n="！"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p30s19">其來城者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p30s20">又覆冒暑熱<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p30s21">觸風寒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p30s22">輕證變為重證<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p30s23">往往有之<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p30s24">何如各鄉鎮市集貲配送<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p30s25">最為方便<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p30s26">但須精選藥材<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p30s27">如法泡製<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p30s28">方能奏效<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p30s29">所治各證<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p30s30">以雲臺膏為主<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p30s31">附列三方以佐之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p30s32">如鄉間制辦<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p30s33">一時難得熟手<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p30s34">或請醫局代合<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p30s35">或至揚州存濟堂藥局購辦成膏<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p30s36">自行攤送<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p30s37">均無不可<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p30s38">好善樂施<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ek043_jc_000-d6.p30s39">君子諒有同心焉<c n="！"/>
+          </seg>
+        </p>
+<p xml:id="KR3ek043_jc_000-d6p32">
+          <seg xml:id="KR3ek043_jc_000-d6.p32s1">師古齋主人識</seg>
+        </p>
+</div>
+    </body>
+  </text>
+</TEI>

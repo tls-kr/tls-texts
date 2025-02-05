@@ -1,0 +1,3174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KR3eq095">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>壽山筆記</title>
+        <author/>
+      </titleStmt>
+      <extent>
+        <measure unit="char" quantity="7508"/>
+        <date when-iso="2024-02-21T13:40:49.864+09:00"/>
+      </extent>
+      <publicationStmt>
+        <p>Originally published at <ref target="https://jicheng.tw/tcm/book/index.html">中醫笈成:壽山筆記</ref>. Checkout from https://gitlab.com/jicheng/jc.data, commit aab40201, 2022-12-28.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date/>
+      </creation>
+      <textClass>
+        <catRef scheme="#kr-categories" target="#KR3eq"/>
+      </textClass>
+    </profileDesc>
+    <encodingDesc>
+      <p>Quality: </p>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+
+<div n="h1" xml:id="KR3eq095_jc_000-d2">
+        <head n="h1" xml:id="KR3eq095_jc_000-d2h1">
+          <seg xml:id="KR3eq095_jc_000-d2.h1s1">序</seg>
+        </head>
+        <p xml:id="KR3eq095_jc_000-d2p2">
+          <seg xml:id="KR3eq095_jc_000-d2.p2s1">醫書汗牛充棟<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d2.p2s2">不知凡幾<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d2.p2s3">皆古聖賢相傳之書<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d2.p2s4">而學者雖不能多讀其書<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d2.p2s5">然而於<c n="《"/>內經<c n="》"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d2.p2s6">
+            <c n="《"/>金匱<c n="》"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d2.p2s7">
+            <c n="《"/>傷寒<c n="》"/>以及<c n="《"/>溫病論<c n="》"/>等書<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d2.p2s8">平時不可不讀<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d2.p2s9">否則治病如盲<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d2.p2s10">殺人如菅<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d2.p2s11">可不悲夫<c n="！"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d2.p2s12">而今之習醫者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d2.p2s13">酬應穿勩之外<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d2.p2s14">但讀湯頭數首而已<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d2.p2s15">從師一年半載即懸壺<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d2.p2s16">於人之性命一層<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d2.p2s17">毫不介意<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d2.p2s18">口出狂言<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d2.p2s19">眇視無人<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d2.p2s20">惟我獨傳<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d2.p2s21">使生者悲哀<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d2.p2s22">死者含冤<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d2.p2s23">是誰之過歟<c n="！"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d2.p2s24">清夜思之<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d2.p2s25">可不寒心<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d2.p2s26">餘生也魯<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d2.p2s27">既乏誦讀之功<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d2.p2s28">而又年老衰頹<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d2.p2s29">疾病纏身<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d2.p2s30">欲作息肩之計矣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d2.p2s31">但所惜數十年親歷之病案<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d2.p2s32">並所記古人之要論<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d2.p2s33">未得錄存<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d2.p2s34">故倩人代抄<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d2.p2s35">或有謬疵未妥<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d2.p2s36">望諸君子斧正<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d2.p2s37">則余幸甚<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d2.p2s38">思曩昔繆氏有<c n="《"/>松心筆記<c n="》"/>
+            <c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d2.p2s39">尤氏有<c n="《"/>讀書記<c n="》"/>
+            <c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d2.p2s40">余則亦以是名<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d2.p2s41">顏曰<c n="《"/>壽山筆記<c n="》"/>
+            <c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d2.p2s42">然效顰之誚所不能辭也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d2.p2s43">惟以淺近芻蕘之言<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d2.p2s44">令習是道者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d2.p2s45">稍知一二<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d2.p2s46">亦可以補學者之不逮<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eq095_jc_000-d2p4">
+          <seg xml:id="KR3eq095_jc_000-d2.p4s1">光緒七年春三月下澣<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d2.p4s2">楊淵子安識<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d2.p4s3">時年六十九</seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eq095_jc_000-d3">
+        <head n="h1" xml:id="KR3eq095_jc_000-d3h1">
+          <seg xml:id="KR3eq095_jc_000-d3.h1s1">胎漏胎下之別</seg>
+        </head>
+        <p xml:id="KR3eq095_jc_000-d3p2">
+          <seg xml:id="KR3eq095_jc_000-d3.p2s1">胎漏<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d3.p2s2">胎下皆下血如崩<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d3.p2s3">但胎漏所下之血塊<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d3.p2s4">塊上無衣膜<c n="；"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d3.p2s5">胎下之血塊<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d3.p2s6">塊上有衣膜可辨<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d3.p2s7">其辨之之法<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d3.p2s8">出於<c n="《"/>洗冤錄<c n="》"/>
+            <c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d3.p2s9">蓋治法有天壤之異<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d3.p2s10">假如血行如崩<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d3.p2s11">其胚胎下與否<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d3.p2s12">一時難決<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d3.p2s13">須驗之於血塊<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d3.p2s14">否則抑以祛瘀攻胎為事<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d3.p2s15">抑以安胎補攝為事耶<c n="？"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d3.p2s16">須要辨明<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d3.p2s17">庶無差誤<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d3.p2s18">女科書中從未論及<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d3.p2s19">
+            <c n="《"/>洗冤錄<c n="》"/>與醫家頗有裨益<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eq095_jc_000-d4">
+        <head n="h1" xml:id="KR3eq095_jc_000-d4h1">
+          <seg xml:id="KR3eq095_jc_000-d4.h1s1">胎動胎漏並衃胎說</seg>
+        </head>
+        <p xml:id="KR3eq095_jc_000-d4p2">
+          <seg xml:id="KR3eq095_jc_000-d4.p2s1">胎動<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d4.p2s2">胎漏皆下血<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d4.p2s3">而胎動有腹痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d4.p2s4">胎漏無腹痛為異<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d4.p2s5">故胎動宜行氣<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d4.p2s6">胎漏宜清熱<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eq095_jc_000-d4p4">
+          <seg xml:id="KR3eq095_jc_000-d4.p4s1">胎與衃之別<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d4.p4s2">當於血未斷之前三月求之<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d4.p4s3">前三月之經水順利<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d4.p4s4">則經斷必是胎<c n="；"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d4.p4s5">前三月有曾經下血<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d4.p4s6">則經斷必成衃<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d4.p4s7">衃<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d4.p4s8">音壞<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d4.p4s9">凝血也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d4.p4s10">衃血謂敗惡凝聚之血<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d4.p4s11">色赤黑也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d4.p4s12">衃<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d4.p4s13">胎未成物之始<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eq095_jc_000-d5">
+        <head n="h1" xml:id="KR3eq095_jc_000-d5h1">
+          <seg xml:id="KR3eq095_jc_000-d5.h1s1">產後內風成痙不治</seg>
+        </head>
+        <p xml:id="KR3eq095_jc_000-d5p2">
+          <seg xml:id="KR3eq095_jc_000-d5.p2s1">凡產後牙齩忽然緊急<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d5.p2s2">不得開合<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d5.p2s3">並不腫脹<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d5.p2s4">亦無寒熱<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d5.p2s5">神識清朗<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d5.p2s6">此因產後血虛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d5.p2s7">內風陡起<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d5.p2s8">襲入於陽明之絡<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d5.p2s9">症所不治<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d5.p2s10">在古法雖有舉卿古拜散等<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d5.p2s11">或養血以祛風<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d5.p2s12">然投劑未見一效<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d5.p2s13">或作外症醫<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d5.p2s14">更屬大謬<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d5.p2s15">此症每忽而不察<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d5.p2s16">慎之<c n="！"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d5.p2s17">慎之<c n="！"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eq095_jc_000-d6">
+        <head n="h1" xml:id="KR3eq095_jc_000-d6h1">
+          <seg xml:id="KR3eq095_jc_000-d6.h1s1">生化湯解</seg>
+        </head>
+        <p xml:id="KR3eq095_jc_000-d6p2">
+          <seg xml:id="KR3eq095_jc_000-d6.p2s1">產後諸病<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d6.p2s2">總宜以生化湯為主<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d6.p2s3">隨症加味可也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d6.p2s4">
+            <c n="《"/>竹林寺世傳秘本<c n="》"/>生化湯云<c n="："/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d6.p2s5">論產後血氣暴虛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d6.p2s6">理當大補<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d6.p2s7">但惡露未盡<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d6.p2s8">用補須知毋滯血<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d6.p2s9">能化又能生<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d6.p2s10">毋損元<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d6.p2s11">行中帶補<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d6.p2s12">方為萬全<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d6.p2s13">世以回生丹下胞胎<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d6.p2s14">攻血塊<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d6.p2s15">雖更速效<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d6.p2s16">未免虧損元氣<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d6.p2s17">非良劑也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d6.p2s18">不得已而用之<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d6.p2s19">只可服一丸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d6.p2s20">以參湯下之<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d6.p2s21">庶無虞耳<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d6.p2s22">夫生化湯以藥性功用而立名也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d6.p2s23">夫產後瘀固當消<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d6.p2s24">新血宜生<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d6.p2s25">若專消瘀則損新血<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d6.p2s26">專生血能生新血<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d6.p2s27">佐以炮薑<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d6.p2s28">甘草引三味入肺肝<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d6.p2s29">生血理氣<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d6.p2s30">五味共方則行中有補<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d6.p2s31">化中有生<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d6.p2s32">實產後之要藥也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d6.p2s33">加減得宜<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d6.p2s34">是在臨證者之善悟可耳<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eq095_jc_000-d7">
+        <head n="h1" xml:id="KR3eq095_jc_000-d7h1">
+          <seg xml:id="KR3eq095_jc_000-d7.h1s1">產後治法</seg>
+        </head>
+        <p xml:id="KR3eq095_jc_000-d7p2">
+          <seg xml:id="KR3eq095_jc_000-d7.p2s1">產後憂驚勞倦<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s2">血氣暴虛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s3">諸症易起<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s4">有產勿專耗散<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s5">有食勿專消導<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s6">熱不可用芩<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s7">連<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s8">寒不可用桂<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s9">附<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s10">寒則惡血停結<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s11">熱則新血崩流<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s12">至若外感見三陽表症<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s13">似可汗也<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s14">在產後而用麻黃<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s15">則重竭其陽<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s16">見裡實症<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s17">似可下也<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s18">在產後而用承氣則中氣殆矣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s19">耳聾脅痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s20">乃肝腎之虛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s21">休用柴胡<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s22">囈語汗出<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s23">乃亡陽之兆<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s24">勿作胃實<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s25">厥由陰陽竭絕<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s26">痙因精血虧耗<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s27">非大補不治<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s28">乍寒乍熱<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s29">發作有期<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s30">若以瘧治<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s31">則遷延難愈<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s32">神不守舍<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s33">語無倫次<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s34">若作邪論<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s35">則危亡可待<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s36">去血多而大便燥結<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s37">蓯蓉可加入生化湯中<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s38">非潤腸丸<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s39">承氣湯之可施<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s40">汗多而小便短澀<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s41">六君子倍加參<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s42">耆<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s43">生津補氣可利<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s44">㿗疝脫肛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s45">多是氣虛下陷<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s46">生化湯參補中益氣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s47">口噤拳攣<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s48">乃因血燥類風<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s49">加參生化宜服<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s50">產戶入風而痛甚<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s51">服宜羌活養營<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s52">玉門寒冷而不閉<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s53">洗宜床<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s54">菟<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s55">萸<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s56">硫<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s57">類怔忡<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s58">驚悸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s59">生化加定志之品<c n="；"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s60">似邪恍惚<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s61">生化加安神之法<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s62">因氣而虛煩滿悶<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s63">生化加木香為佐<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s64">因食而酸噯惡食<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s65">合六君加神麯<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s66">麥芽為良<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s67">不可用蘇木<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s68">稜<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s69">蓬以破血<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s70">不可用青皮<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s71">枳實以消脹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s72">血崩<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s73">血暈之危<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s74">肝脫<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s75">氣脫之急<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s76">連煎加參生化湯為最要務也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s77">王太僕云<c n="："/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s78">治下補下<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s79">制以急<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s80">緩則道路遠而力微<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s81">急則氣味厚而力重<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s82">丹溪云<c n="："/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s83">產後切不可發表<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s84">故治產固本<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s85">當遵丹溪<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p2s86">服法宜效太僕<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eq095_jc_000-d7p4">
+          <seg xml:id="KR3eq095_jc_000-d7.p4s1">此篇全論似屬過偏<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p4s2">然皆說盡時弊<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p4s3">夫產後之病<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p4s4">較之平人略為虛耳<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p4s5">若夫大實之症<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p4s6">如用攻滌<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p4s7">須制小其劑<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p4s8">照顧元氣可耳<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p4s9">假如產後未滿七朝經氣一周之時<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p4s10">設有大寒大熱大危之候<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p4s11">即進醫藥<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p4s12">亦難奏功<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p4s13">目睹屢屢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p4s14">蓋七日經氣一周<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p4s15">七日之內<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p4s16">氣血未周<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p4s17">而發大寒大熱<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p4s18">正氣虛極之際<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p4s19">用藥不易<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p4s20">達表則汗多陽亡<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p4s21">攻下則腸滑氣脫<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p4s22">補則恐有留邪<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p4s23">此等虛實濛混之症<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d7.p4s24">斷不可草率議方也<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eq095_jc_000-d8">
+        <head n="h1" xml:id="KR3eq095_jc_000-d8h1">
+          <seg xml:id="KR3eq095_jc_000-d8.h1s1">經閉虛實論</seg>
+        </head>
+        <p xml:id="KR3eq095_jc_000-d8p2">
+          <seg xml:id="KR3eq095_jc_000-d8.p2s1">夫經閉有虛有實<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d8.p2s2">痛者是實<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d8.p2s3">不痛為虛<c n="；"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d8.p2s4">痛者宜通<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d8.p2s5">不痛宜補<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d8.p2s6">若通而血仍不行者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d8.p2s7">系衝任內虧<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d8.p2s8">八脈無權<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d8.p2s9">以沖為血海<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d8.p2s10">虛極而有失守之虞<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d8.p2s11">故每慮猝然崩下<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d8.p2s12">如垣之將圮<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d8.p2s13">如水之無御<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d8.p2s14">須預防之<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d8.p2s15">亟進八珍<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d8.p2s16">歸脾之類<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eq095_jc_000-d9">
+        <head n="h1" xml:id="KR3eq095_jc_000-d9h1">
+          <seg xml:id="KR3eq095_jc_000-d9.h1s1">血崩案</seg>
+        </head>
+        <p xml:id="KR3eq095_jc_000-d9p2">
+          <seg xml:id="KR3eq095_jc_000-d9.p2s1">余曾治一婦人<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d9.p2s2">二月間小產後<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d9.p2s3">繼得崩漏<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d9.p2s4">成盆之多<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d9.p2s5">醫以補攝之劑<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d9.p2s6">血愈崩<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d9.p2s7">至四月<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d9.p2s8">邀余診<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d9.p2s9">診得脈象弦數<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d9.p2s10">知是陰虛之體<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d9.p2s11">衝任伏火迫血妄行<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d9.p2s12">徒補無益<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d9.p2s13">乃擬<c n="《"/>內經<c n="》"/>烏賊骨丸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d9.p2s14">參入黃連<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d9.p2s15">黃柏<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d9.p2s16">細生地<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d9.p2s17">地榆<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d9.p2s18">血餘<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d9.p2s19">側柏<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d9.p2s20">陳棕<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d9.p2s21">均炙炭<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d9.p2s22">加樗根皮煎湯代水<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d9.p2s23">一服而血止大半<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d9.p2s24">續進至二十餘劑乃安<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d9.p2s25">前醫云<c n="："/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d9.p2s26">產後忌黃連<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d9.p2s27">黃柏<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d9.p2s28">苦寒敗胃<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d9.p2s29">不知對症發藥<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d9.p2s30">曷能奏效<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eq095_jc_000-d10">
+        <head n="h1" xml:id="KR3eq095_jc_000-d10h1">
+          <seg xml:id="KR3eq095_jc_000-d10.h1s1">肝氣論</seg>
+        </head>
+        <p xml:id="KR3eq095_jc_000-d10p2">
+          <seg xml:id="KR3eq095_jc_000-d10.p2s1">讀<c n="《"/>客塵醫話<c n="》"/>論肝氣一則<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d10.p2s2">屬於先天肝血不足<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d10.p2s3">可稱獨開生面<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d10.p2s4">為後學之金針<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d10.p2s5">非守常通套者可比<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d10.p2s6">學者於此揣摩<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d10.p2s7">學問必長<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d10.p2s8">然而滋養之法<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d10.p2s9">亦須參究<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d10.p2s10">宜乎滋補而勿礙於氣滯<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d10.p2s11">措方甚難<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d10.p2s12">余思首烏一味<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d10.p2s13">較熟地稍松靈<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d10.p2s14">如用熟地<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d10.p2s15">須拌炒得法<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d10.p2s16">曾有友人以肉桂末拌炒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d10.p2s17">意亦頗妙<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eq095_jc_000-d11">
+        <head n="h1" xml:id="KR3eq095_jc_000-d11h1">
+          <seg xml:id="KR3eq095_jc_000-d11.h1s1">景岳論肝無補法</seg>
+        </head>
+        <p xml:id="KR3eq095_jc_000-d11p2">
+          <seg xml:id="KR3eq095_jc_000-d11.p2s1">凡一切痃<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d11.p2s2">癖<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d11.p2s3">癥<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d11.p2s4">瘕<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d11.p2s5">痞氣<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d11.p2s6">奔豚<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d11.p2s7">腹中如杯如盤者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d11.p2s8">皆肝虛金衰木旺之病<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d11.p2s9">當滋腎水以救之<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d11.p2s10">切不可用疏利伐肝之劑<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d11.p2s11">足厥陰肝為風木之臟<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d11.p2s12">喜條達而惡抑鬱<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d11.p2s13">故<c n="《"/>經<c n="》"/>云<c n="「"/>木鬱達之<c n="」"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d11.p2s14">是也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d11.p2s15">然肝藏血<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d11.p2s16">人夜臥則血歸於肝<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d11.p2s17">是肝之所賴以養者血也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d11.p2s18">肝血虛則肝火旺<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d11.p2s19">肝火旺者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d11.p2s20">肝氣逆也<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d11.p2s21">肝氣逆則氣實<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d11.p2s22">為有餘<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d11.p2s23">有餘則瀉<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d11.p2s24">舉世盡曰伐肝<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d11.p2s25">故為肝無補法<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d11.p2s26">不知肝氣有餘不可補<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d11.p2s27">補則氣滯而不舒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d11.p2s28">非云肝之血之不可補也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d11.p2s29">肝血不足則為筋攣<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d11.p2s30">為角弓<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d11.p2s31">為抽掣<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d11.p2s32">為爪枯<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d11.p2s33">為目眩<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d11.p2s34">為頭痛<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d11.p2s35">為脅肋痛<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d11.p2s36">為少腹痛<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d11.p2s37">為疝痛諸證<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d11.p2s38">凡此皆肝血不榮也<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d11.p2s39">而可以不補乎<c n="？"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d11.p2s40">然補肝血<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d11.p2s41">又莫如滋腎水<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d11.p2s42">水者木之母也<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d11.p2s43">母旺則子強<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d11.p2s44">是以當滋化源<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d11.p2s45">若謂肝無補法者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d11.p2s46">以肝氣之不可補<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d11.p2s47">而非謂肝血之不可補也<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eq095_jc_000-d11p4">
+          <seg xml:id="KR3eq095_jc_000-d11.p4s1">余友湯菊畦先生診方伯夫人肝氣<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d11.p4s2">諸醫治之罔效<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d11.p4s3">用景岳理陰煎<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d11.p4s4">大熟地以肉桂末拌<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d11.p4s5">炒鬆<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d11.p4s6">服之霍然而愈<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eq095_jc_000-d12">
+        <head n="h1" xml:id="KR3eq095_jc_000-d12h1">
+          <seg xml:id="KR3eq095_jc_000-d12.h1s1">失血論</seg>
+        </head>
+        <p xml:id="KR3eq095_jc_000-d12p2">
+          <seg xml:id="KR3eq095_jc_000-d12.p2s1">吐血<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d12.p2s2">未必盡由於火<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d12.p2s3">六氣均能令人失血者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d12.p2s4">治當先清外感<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d12.p2s5">次理內傷<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d12.p2s6">則邪易療<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d12.p2s7">若專主於火<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d12.p2s8">日事芩<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d12.p2s9">連<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d12.p2s10">知母<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d12.p2s11">未見盡能應手<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eq095_jc_000-d13">
+        <head n="h1" xml:id="KR3eq095_jc_000-d13h1">
+          <seg xml:id="KR3eq095_jc_000-d13.h1s1">眩暈論</seg>
+        </head>
+        <p xml:id="KR3eq095_jc_000-d13p2">
+          <seg xml:id="KR3eq095_jc_000-d13.p2s1">風火之眩暈<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d13.p2s2">屬外感夾痰<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d13.p2s3">病在少陽為多<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d13.p2s4">內傷之眩暈<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d13.p2s5">屬腎虛髓不足<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d13.p2s6">虛陽上擾居多<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d13.p2s7">一宜清降<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d13.p2s8">一宜補納<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d13.p2s9">又論失聰<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d13.p2s10">屬虛在肝腎之不足<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d13.p2s11">屬實乃邪干竅閉<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d13.p2s12">宜治少陽也<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eq095_jc_000-d14">
+        <head n="h1" xml:id="KR3eq095_jc_000-d14h1">
+          <seg xml:id="KR3eq095_jc_000-d14.h1s1">疝氣不可專疏肝邪論</seg>
+        </head>
+        <p xml:id="KR3eq095_jc_000-d14p2">
+          <seg xml:id="KR3eq095_jc_000-d14.p2s1">
+            <c n="《"/>聖濟總錄<c n="》"/>云<c n="："/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d14.p2s2">嗜欲勞傷<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d14.p2s3">腎水涸竭<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d14.p2s4">無以滋養肝經<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d14.p2s5">氣乃留滯<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d14.p2s6">發為陰疝<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d14.p2s7">是疝之屬於腎虛者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d14.p2s8">若不求本<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d14.p2s9">專以疏肝導氣之法<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d14.p2s10">勢必益劇而難療<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d14.p2s11">宜溫養下焦<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d14.p2s12">如枸杞<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d14.p2s13">破故<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d14.p2s14">茴香<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d14.p2s15">肉果<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d14.p2s16">沉香<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d14.p2s17">巴戟<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d14.p2s18">胡巴<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d14.p2s19">蓯蓉<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d14.p2s20">肉桂炒熟地<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d14.p2s21">杜仲等味<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d14.p2s22">最為合法<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eq095_jc_000-d15">
+        <head n="h1" xml:id="KR3eq095_jc_000-d15h1">
+          <seg xml:id="KR3eq095_jc_000-d15.h1s1">便血痔血論辨</seg>
+        </head>
+        <p xml:id="KR3eq095_jc_000-d15p2">
+          <seg xml:id="KR3eq095_jc_000-d15.p2s1">便血一症<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p2s2">
+            <c n="《"/>金匱<c n="》"/>分遠近<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p2s3">總由大腸而下<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p2s4">至於痔血<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p2s5">每下如滴<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p2s6">愈罨愈多<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p2s7">褚氏云<c n="："/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p2s8">腸有竅<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p2s9">便血殺人<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p2s10">包括二症也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p2s11">凡便血每於藜藿之人居多<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p2s12">以其勞役傷脾<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p2s13">脾失統御之權<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p2s14">而血為之不守者也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p2s15">痔血每生於膏粱者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p2s16">曲糵厚味<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p2s17">積濕積熱<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p2s18">留頓大腸廣腸之處<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p2s19">每逢便後<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p2s20">其痔或內或外<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p2s21">從肛門墜下<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p2s22">血隨滴滴淋下<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p2s23">是為痔血<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p2s24">與便血兩途<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p2s25">醫者不可不辨<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p2s26">余每以臟連丸或加苦參<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p2s27">萆薢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p2s28">或參補中益氣法投之輒效<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p2s29">然須丸料<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p2s30">非煎劑所能治<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p2s31">此症最忌房事<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p2s32">若不絕欲<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p2s33">總要反復<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eq095_jc_000-d15p4">
+          <seg xml:id="KR3eq095_jc_000-d15.p4s1">肛癰<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p4s2">懸癰<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p4s3">禁忌同上<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p4s4">然非盡由虛<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p4s5">余幼時患肛間生癰<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p4s6">大為所苦<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p4s7">自十五歲至二十七歲<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p4s8">竄生六枚<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p4s9">皆成漏管<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p4s10">滋膿淋瀝<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p4s11">脹楚難堪<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p4s12">是時又患三瘧吐血<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p4s13">人皆以為成癆矣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p4s14">後至吳門<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p4s15">心境稍舒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p4s16">復又酒醴不禁<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p4s17">肛門內痛如刀刺<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p4s18">大便欲行不暢<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p4s19">醫謂陰虛濕熱<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p4s20">非補納不可<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p4s21">遂進熟地<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p4s22">龜板<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p4s23">參<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p4s24">耆之類<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p4s25">其痛更劇<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p4s26">延至經月<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p4s27">余意必得大便方快<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p4s28">乃自投更衣丸一二錢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p4s29">大便始通<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p4s30">痛亦稍緩<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p4s31">再一服<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p4s32">便暢痛止矣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p4s33">後數月<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p4s34">每逢大便必帶血<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p4s35">血如注<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p4s36">肛旁之漏不覺痛楚<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p4s37">竟暗自收疤矣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p4s38">想所伏之熱搏聚於大腸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p4s39">而痔血為出路<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p4s40">故肛漏得以痊愈也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p4s41">余任其出路<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p4s42">未服一劑湯藥<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p4s43">今年屆七旬<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p4s44">幸未成癆<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p4s45">可見症有虛實<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p4s46">不可不察<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p4s47">有虛證似實<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p4s48">實證類虛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p4s49">截瘧成脹<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p4s50">西昌戒以推蕩<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p4s51">學者於此揣摩<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d15.p4s52">功夫日進矣<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eq095_jc_000-d16">
+        <head n="h1" xml:id="KR3eq095_jc_000-d16h1">
+          <seg xml:id="KR3eq095_jc_000-d16.h1s1">肛癰有虛實</seg>
+        </head>
+        <p xml:id="KR3eq095_jc_000-d16p2">
+          <seg xml:id="KR3eq095_jc_000-d16.p2s1">肛癰之症<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d16.p2s2">舉世盡曰陰虛濕熱<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d16.p2s3">然小兒亦有患此者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d16.p2s4">雖曰陽有餘<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d16.p2s5">陰不足<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d16.p2s6">然小兒無下虛之理<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d16.p2s7">實皆濕熱為患耳<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d16.p2s8">故患是症者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d16.p2s9">切勿遽用補納<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d16.p2s10">致濕熱之邪<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d16.p2s11">錮閉不泄<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d16.p2s12">轉致攻竄不已也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d16.p2s13">且此症收疤甚難<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d16.p2s14">地處空隙<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d16.p2s15">其肉橫紋<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d16.p2s16">每一勞動<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d16.p2s17">潰孔時時開合故也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d16.p2s18">始起濕熱留頓<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d16.p2s19">延至一二年<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d16.p2s20">或不忌房事<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d16.p2s21">或強制火動<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d16.p2s22">反為真真陰虛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d16.p2s23">成癆不治<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d16.p2s24">醫者宜辨明施治可耳<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eq095_jc_000-d17">
+        <head n="h1" xml:id="KR3eq095_jc_000-d17h1">
+          <seg xml:id="KR3eq095_jc_000-d17.h1s1">內痔用下法</seg>
+        </head>
+        <p xml:id="KR3eq095_jc_000-d17p2">
+          <seg xml:id="KR3eq095_jc_000-d17.p2s1">治內痔之方甚多<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d17.p2s2">總不及大黃一味之速<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d17.p2s3">余見一人上患吐血<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d17.p2s4">下復生痔<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d17.p2s5">痔發血亦發<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d17.p2s6">後服生軍兩許<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d17.p2s7">始得安康<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d17.p2s8">蓋肺與大腸相為表裡<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d17.p2s9">肺之熱下移<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d17.p2s10">腸中之火上衝<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d17.p2s11">設投養陰滋膩<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d17.p2s12">其熱淹留<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d17.p2s13">必成癆怯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d17.p2s14">雖未必盡然<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d17.p2s15">然確有是理<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eq095_jc_000-d18">
+        <head n="h1" xml:id="KR3eq095_jc_000-d18h1">
+          <seg xml:id="KR3eq095_jc_000-d18.h1s1">中風不可驟補說</seg>
+        </head>
+        <p xml:id="KR3eq095_jc_000-d18p2">
+          <seg xml:id="KR3eq095_jc_000-d18.p2s1">今人每見中風症<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d18.p2s2">輒以大造丸<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d18.p2s3">人參<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d18.p2s4">熟地峻補<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d18.p2s5">其害有不可勝言者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d18.p2s6">蓋醫之意<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d18.p2s7">在水虧木旺<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d18.p2s8">陰陽暴脫而設<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d18.p2s9">不知中風絕非純虛之症<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d18.p2s10">其人調攝不慎<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d18.p2s11">或酒色自戕<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d18.p2s12">一時風<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d18.p2s13">火<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d18.p2s14">痰<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d18.p2s15">陡然上升<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d18.p2s16">壅閉經絡<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d18.p2s17">是虛則為本<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d18.p2s18">而風<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d18.p2s19">火<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d18.p2s20">痰為標矣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d18.p2s21">治法須清降痰火<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d18.p2s22">熄風平肝<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d18.p2s23">俟風火之威稍熄<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d18.p2s24">痰壅氣塞略平<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d18.p2s25">方可圖治本元<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d18.p2s26">然耶<c n="！"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d18.p2s27">否耶<c n="！"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eq095_jc_000-d19">
+        <head n="h1" xml:id="KR3eq095_jc_000-d19h1">
+          <seg xml:id="KR3eq095_jc_000-d19.h1s1">歷節風治法</seg>
+        </head>
+        <p xml:id="KR3eq095_jc_000-d19p2">
+          <seg xml:id="KR3eq095_jc_000-d19.p2s1">有病後或濕熱留戀陽明<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d19.p2s2">四肢歷節痛風<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d19.p2s3">名曰白虎歷節<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d19.p2s4">仲景木防己湯最靈<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d19.p2s5">有體質不勝石膏者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d19.p2s6">以羚角代之<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d19.p2s7">然不若石膏之合於病也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d19.p2s8">至夜痛劇者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d19.p2s9">陰虛絡失所養<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d19.p2s10">非養血不可<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eq095_jc_000-d20">
+        <head n="h1" xml:id="KR3eq095_jc_000-d20h1">
+          <seg xml:id="KR3eq095_jc_000-d20.h1s1">水腫風水單脹說</seg>
+        </head>
+        <p xml:id="KR3eq095_jc_000-d20p2">
+          <seg xml:id="KR3eq095_jc_000-d20.p2s1">水腫<c n="："/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d20.p2s2">下體足跗先腫<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d20.p2s3">及腹以及囊<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d20.p2s4">莖<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d20.p2s5">小溲不利<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d20.p2s6">大便或溏<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d20.p2s7">脈形沉細<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d20.p2s8">宜真武湯<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d20.p2s9">五苓散加椒目<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d20.p2s10">大腹之類<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d20.p2s11">或金匱腎氣丸溫下之神效<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d20.p2s12">外用熨法<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d20.p2s13">其囊<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d20.p2s14">莖水出可松<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d20.p2s15">如風水之症<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d20.p2s16">面目<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d20.p2s17">一身悉腫<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d20.p2s18">畏風形寒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d20.p2s19">其脈帶浮<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d20.p2s20">當以麻黃<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d20.p2s21">浮萍<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d20.p2s22">桂枝<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d20.p2s23">或加附子<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d20.p2s24">白朮之類<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d20.p2s25">疏風祛濕<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d20.p2s26">此等症最易發喘<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d20.p2s27">古云<c n="："/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d20.p2s28">先脹後喘治在脾<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d20.p2s29">先喘後脹治在肺<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d20.p2s30">不可不辨<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d20.p2s31">若夫單脹之說<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d20.p2s32">治之最難<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d20.p2s33">然濕熱居多<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d20.p2s34">小溫中丸每每獲效<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d20.p2s35">有陽虛者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d20.p2s36">宜大針砂丸<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d20.p2s37">然二丸皆忌食鹹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d20.p2s38">須知<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eq095_jc_000-d21">
+        <head n="h1" xml:id="KR3eq095_jc_000-d21h1">
+          <seg xml:id="KR3eq095_jc_000-d21.h1s1">寒包火論</seg>
+        </head>
+        <p xml:id="KR3eq095_jc_000-d21p2">
+          <seg xml:id="KR3eq095_jc_000-d21.p2s1">寒包火之症<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d21.p2s2">惡寒內熱<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d21.p2s3">喘咳無汗<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d21.p2s4">舌津干<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d21.p2s5">或屢投汗劑<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d21.p2s6">不得滴汗<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d21.p2s7">須用麻杏石甘以滋胃液而開肺經<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d21.p2s8">古法中第一禁方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d21.p2s9">余曾治一人冬月壯熱無汗<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d21.p2s10">喘咳無痰<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d21.p2s11">前醫屢投麻黃仍無汗泄<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d21.p2s12">余見其舌津乾白<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d21.p2s13">中心帶黃<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d21.p2s14">焦灼煩悶<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d21.p2s15">脈洪數<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d21.p2s16">口乾不多飲<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d21.p2s17">與麻杏石甘湯一劑<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d21.p2s18">汗大出而咳痰膿厚<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d21.p2s19">痰中血縷數點<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d21.p2s20">繼以清泄而愈<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d21.p2s21">病家詢余曰<c n="："/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d21.p2s22">何前之麻黃未得一毫汗泄<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d21.p2s23">先生加以石膏寒涼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d21.p2s24">反得暢汗<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d21.p2s25">其故何歟<c n="？"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d21.p2s26">余曰<c n="："/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d21.p2s27">譬如鍋上蒸物<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d21.p2s28">但以薪灼其鍋<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d21.p2s29">則鍋愈燥<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d21.p2s30">不獨無氣水上蒸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d21.p2s31">且恐爆烈矣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d21.p2s32">余以石膏滋清胃液<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d21.p2s33">液充乃能化汗<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d21.p2s34">鍋中添水<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d21.p2s35">蒸籠上自然津津而潤<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d21.p2s36">子又何疑耶<c n="？"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d21.p2s37">再有陰液不足之軀<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d21.p2s38">可加生地<c n="；"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d21.p2s39">陽氣薄弱之輩<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d21.p2s40">宜佐人參<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d21.p2s41">又有內壅無汗<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d21.p2s42">不在此例<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eq095_jc_000-d22">
+        <head n="h1" xml:id="KR3eq095_jc_000-d22h1">
+          <seg xml:id="KR3eq095_jc_000-d22.h1s1">內壅無汗說</seg>
+        </head>
+        <p xml:id="KR3eq095_jc_000-d22p2">
+          <seg xml:id="KR3eq095_jc_000-d22.p2s1">𰣤痧一症<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d22.p2s2">世人皆用重劑表達<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d22.p2s3">冀其汗暢痧透<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d22.p2s4">俟其舌絳如楊梅刺<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d22.p2s5">液干口渴者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d22.p2s6">然後轉進清解<c n="；"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d22.p2s7">如內有食滯<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d22.p2s8">脘痞腹痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d22.p2s9">大腹秘結<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d22.p2s10">痧點隱約<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d22.p2s11">用大劑表達之仍無汗泄<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d22.p2s12">舌苔轉為焦黃<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d22.p2s13">脈象反形沃塞<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d22.p2s14">煩躁無寐<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d22.p2s15">此痧之不達<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d22.p2s16">由於中焦壅結<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d22.p2s17">當以下劑中參入清透之品<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d22.p2s18">冀得大便一通<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d22.p2s19">中宮舒展<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d22.p2s20">蓄熱一泄<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d22.p2s21">𰣤痧自透矣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d22.p2s22">曾治一女<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d22.p2s23">年已標梅<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d22.p2s24">壯熱無汗<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d22.p2s25">𰣤痧密布<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d22.p2s26">不克透綻<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d22.p2s27">胸悶腹痛拒按<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d22.p2s28">便秘七八日<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d22.p2s29">舌苔焦垢津干<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d22.p2s30">醫進麻<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d22.p2s31">葛<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d22.p2s32">浮萍<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d22.p2s33">依然無汗<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d22.p2s34">余診之<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d22.p2s35">脈形細小沃澀<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d22.p2s36">陽明燥熱蘊結<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d22.p2s37">耗爍陰液<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d22.p2s38">萬難重表<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d22.p2s39">然寒涼又恐凝遏<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d22.p2s40">前醫已束手<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d22.p2s41">余乃獨任<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d22.p2s42">因與病家說明證象<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d22.p2s43">宜用下藥<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d22.p2s44">仿急下存津之意<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d22.p2s45">參入清透之品<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d22.p2s46">背城借一<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d22.p2s47">或可望其轉機<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d22.p2s48">但安危未卜<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d22.p2s49">難許全功<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d22.p2s50">病家云<c n="："/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d22.p2s51">與其不可挽回<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d22.p2s52">寧請放膽用藥<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d22.p2s53">決勿怪怨<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d22.p2s54">乃以大黃<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d22.p2s55">元明粉<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d22.p2s56">犀角<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d22.p2s57">黑膏<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d22.p2s58">枳實<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d22.p2s59">杏仁<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d22.p2s60">蔞仁<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d22.p2s61">略加麻黃<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d22.p2s62">西黃<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d22.p2s63">中黃等劑<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d22.p2s64">服藥後大便下色黑帶血<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d22.p2s65">堅硬如石<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d22.p2s66">翌日往診<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d22.p2s67">熱退津回<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d22.p2s68">𰣤痧盡退<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d22.p2s69">病已大減<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d22.p2s70">繼以清養而愈<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eq095_jc_000-d23">
+        <head n="h1" xml:id="KR3eq095_jc_000-d23h1">
+          <seg xml:id="KR3eq095_jc_000-d23.h1s1">𰣤痧舌白用清藥論</seg>
+        </head>
+        <p xml:id="KR3eq095_jc_000-d23p2">
+          <seg xml:id="KR3eq095_jc_000-d23.p2s1">凡𰣤痧表達之後<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d23.p2s2">邪熱化火<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d23.p2s3">津液爍傷<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d23.p2s4">舌轉絳刺<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d23.p2s5">方書云<c n="："/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d23.p2s6">見楊梅刺舌方可清涼<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d23.p2s7">然有素體痰多<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d23.p2s8">其舌終白不化<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d23.p2s9">未可以梅刺一語<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d23.p2s10">守定成法而遲進清涼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d23.p2s11">致有劫津而神昏譫語之變<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d23.p2s12">余曾治外甥女痧點滿布<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d23.p2s13">舌苔白膩不化<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d23.p2s14">乃遲遲不敢遽清<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d23.p2s15">此日間事也<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d23.p2s16">至夜半後忽然神識迷濛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d23.p2s17">譫語躁煩<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d23.p2s18">因即改投清解而安<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d23.p2s19">故知痰多者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d23.p2s20">舌苔不現絳刺<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d23.p2s21">邪已化火內燔<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d23.p2s22">痰熱溷淆<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d23.p2s23">且易矇蔽內竅耳<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d23.p2s24">為醫者當識此也<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eq095_jc_000-d24">
+        <head n="h1" xml:id="KR3eq095_jc_000-d24h1">
+          <seg xml:id="KR3eq095_jc_000-d24.h1s1">液虧無以作汗雖得不暢論</seg>
+        </head>
+        <p xml:id="KR3eq095_jc_000-d24p2">
+          <seg xml:id="KR3eq095_jc_000-d24.p2s1">每見傷寒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d24.p2s2">冬溫鬱伏<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d24.p2s3">灼熱無汗<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d24.p2s4">煩悶咳嗽<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d24.p2s5">痰黏口渴<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d24.p2s6">舌白尖干<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d24.p2s7">投以表達<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d24.p2s8">汗不得<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d24.p2s9">熱不退<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d24.p2s10">此係陰虧液少<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d24.p2s11">所謂奪液無汗也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d24.p2s12">余曾以麻杏石甘湯治之頗效<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d24.p2s13">如便溏不勝石膏之寒涼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d24.p2s14">淡豆豉合鮮石斛同搗用之<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d24.p2s15">亦得暢汗而解<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d24.p2s16">此余所親歷者也<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eq095_jc_000-d25">
+        <head n="h1" xml:id="KR3eq095_jc_000-d25h1">
+          <seg xml:id="KR3eq095_jc_000-d25.h1s1">食復治驗</seg>
+        </head>
+        <p xml:id="KR3eq095_jc_000-d25p2">
+          <seg xml:id="KR3eq095_jc_000-d25.p2s1">余昔在申江診陶石卿先生<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d25.p2s2">時值歲暮<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d25.p2s3">小有寒熱<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d25.p2s4">投疏散之劑<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d25.p2s5">至一候而解<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d25.p2s6">繼因恣食米糕<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d25.p2s7">復增身熱<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d25.p2s8">神情憒憒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d25.p2s9">中脘按之似痛非痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d25.p2s10">目赤<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d25.p2s11">口不渴飲<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d25.p2s12">脈濡數<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d25.p2s13">進疏導<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d25.p2s14">繼以清泄之劑<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d25.p2s15">神識愈糊<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d25.p2s16">復投珠粉<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d25.p2s17">竹瀝<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d25.p2s18">牛黃丸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d25.p2s19">神識乃稍清而病仍不退<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d25.p2s20">一醫云<c n="："/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d25.p2s21">是陰症內陷<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d25.p2s22">不治<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d25.p2s23">余構思終夜<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d25.p2s24">忽得其法<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d25.p2s25">病人曾食熯糕<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d25.p2s26">大便從未得行<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d25.p2s27">因舌苔白<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d25.p2s28">不拒按<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d25.p2s29">矢氣不多<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d25.p2s30">未敢峻攻<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d25.p2s31">昔王肯堂<c n="《"/>筆麈<c n="》"/>載俞云衢太史案<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d25.p2s32">與此症相符<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d25.p2s33">宗其意<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d25.p2s34">用涼膈散下之<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d25.p2s35">得燥屎三五枚<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d25.p2s36">再進<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d25.p2s37">再下燥屎數十枚<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d25.p2s38">身反大熱<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d25.p2s39">咽口腐爛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d25.p2s40">斑疹疊布<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d25.p2s41">一月始痊<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d25.p2s42">蓋邪熱未清<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d25.p2s43">覆被新食阻遏<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d25.p2s44">以致熱反不揚<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d25.p2s45">一下之後<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d25.p2s46">邪食上通下達<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d25.p2s47">熱勢反壯<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d25.p2s48">乃外泄之佳兆<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d25.p2s49">後學知此理否<c n="？"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eq095_jc_000-d26">
+        <head n="h1" xml:id="KR3eq095_jc_000-d26h1">
+          <seg xml:id="KR3eq095_jc_000-d26.h1s1">吸菸人患痢說</seg>
+        </head>
+        <p xml:id="KR3eq095_jc_000-d26p2">
+          <seg xml:id="KR3eq095_jc_000-d26.p2s1">吸雅片人<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d26.p2s2">乃自戕其身<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d26.p2s3">都成煙癆<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d26.p2s4">適夏<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d26.p2s5">秋之交<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d26.p2s6">感受暑濕<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d26.p2s7">釀成痢疾<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d26.p2s8">醫者極難處治<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d26.p2s9">余謂有滯仍當疏導<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d26.p2s10">若早為兜澀<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d26.p2s11">是猶驅盜入室<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d26.p2s12">反閉其門戶<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d26.p2s13">欲求安逸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d26.p2s14">其可得乎<c n="？"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d26.p2s15">市醫每逢吸菸人患痢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d26.p2s16">不敢攻克<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d26.p2s17">或早投補劑<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d26.p2s18">病者加多吸菸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d26.p2s19">以冀即止<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d26.p2s20">殊不知煙性收斂<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d26.p2s21">雖進導滯<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d26.p2s22">其滯較常人更難下通<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d26.p2s23">以其欲下而適吸止也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d26.p2s24">余曾患此<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d26.p2s25">知其玄奧<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d26.p2s26">起始不敢少吸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d26.p2s27">其痢愈覺澀滯<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d26.p2s28">延至數日後<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d26.p2s29">大下夙積<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d26.p2s30">腹中遂快<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d26.p2s31">而痢漸止<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d26.p2s32">續以疏導和營之劑進之<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d26.p2s33">外用熱腳爐烘熨甚適<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d26.p2s34">大約治是症以溫通為主<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d26.p2s35">而黃連從來未用<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d26.p2s36">蓋吸菸之體<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d26.p2s37">喜溫而惡寒耳<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eq095_jc_000-d26p4">
+          <seg xml:id="KR3eq095_jc_000-d26.p4s1">按<c n="："/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d26.p4s2">治痢以胃氣為主<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d26.p4s3">有胃則生<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d26.p4s4">無胃則死<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d26.p4s5">有胃者尚可攻克<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d26.p4s6">無胃者豈能推蕩<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d26.p4s7">故諺云<c n="："/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d26.p4s8">吃不死之痢<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d26.p4s9">蓋能食尚有胃氣耳<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d26.p4s10">又按<c n="："/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d26.p4s11">痢疾<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d26.p4s12">古稱滯下<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d26.p4s13">必因積滯蘊釀而成<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d26.p4s14">治者須辨其寒<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d26.p4s15">熱<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d26.p4s16">濕<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d26.p4s17">食<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d26.p4s18">或挾雜感受所致<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d26.p4s19">可隨症用藥<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d26.p4s20">方無差誤<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eq095_jc_000-d27">
+        <head n="h1" xml:id="KR3eq095_jc_000-d27h1">
+          <seg xml:id="KR3eq095_jc_000-d27.h1s1">痢症用外治說（附：蔥熨法）</seg>
+        </head>
+        <p xml:id="KR3eq095_jc_000-d27p2">
+          <seg xml:id="KR3eq095_jc_000-d27.p2s1">夫積滯皆存留於腸胃<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d27.p2s2">腑以通為用<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d27.p2s3">積滯於中<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d27.p2s4">氣閉不通<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d27.p2s5">故必腹痛<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d27.p2s6">痛劇無奈之時<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d27.p2s7">外用熨法以助藥力<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d27.p2s8">是亦法中之善者也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d27.p2s9">惟熨方以溫通香竄為佳<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eq095_jc_000-d27p4">
+          <seg xml:id="KR3eq095_jc_000-d27.p4s1">蔥熨法<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d27.p4s2">蔥一把<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d27.p4s3">打爛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d27.p4s4">入官桂末<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d27.p4s5">砂仁末<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d27.p4s6">麝香少許<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d27.p4s7">再打和如餅<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d27.p4s8">烘熱貼當臍<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d27.p4s9">外用熱爐或麩皮炒熱<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d27.p4s10">絹包熨蔥餅上<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d27.p4s11">令溫通之<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d27.p4s12">氣內達<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d27.p4s13">則痛自緩<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d27.p4s14">蔥熨之藥<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d27.p4s15">可隨症加減<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d27.p4s16">此治寒滯之症<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d27.p4s17">若熱結於中<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d27.p4s18">又非此法可施也<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eq095_jc_000-d28">
+        <head n="h1" xml:id="KR3eq095_jc_000-d28h1">
+          <seg xml:id="KR3eq095_jc_000-d28.h1s1">泄瀉論</seg>
+        </head>
+        <p xml:id="KR3eq095_jc_000-d28p2">
+          <seg xml:id="KR3eq095_jc_000-d28.p2s1">
+            <c n="《"/>經<c n=")"/>云<c n="："/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d28.p2s2">暴注下迫<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d28.p2s3">即泄瀉是也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d28.p2s4">其初起也<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d28.p2s5">在乎脾運失職<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d28.p2s6">濕勝則濡瀉<c n="；"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d28.p2s7">其繼也<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d28.p2s8">在乎小腸泌別不清<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d28.p2s9">小腸在胃之下<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d28.p2s10">受盛胃中水穀<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d28.p2s11">以分清濁<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d28.p2s12">水液滲於膀胱<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d28.p2s13">糟粕歸於大腸<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d28.p2s14">暑濕之邪鬱於脾<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d28.p2s15">蒸化為熱<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d28.p2s16">傳於小腸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d28.p2s17">小腸為濕熱之氣壅閉不宣<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d28.p2s18">以致不克分清而成泄瀉<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d28.p2s19">初起挾表邪者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d28.p2s20">西昌逆流挽舟法最妙<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d28.p2s21">蓋先提解<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d28.p2s22">令邪從外達<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d28.p2s23">風藥又能勝濕之瀉<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d28.p2s24">不獨發汗也<c n="；"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d28.p2s25">表解後泄不止<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d28.p2s26">當從燥濕分利<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d28.p2s27">挾熱兼清可也<c n="；"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d28.p2s28">如瀉時肛門熱<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d28.p2s29">可佐黃連<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d28.p2s30">黃柏以清其熱<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d28.p2s31">是症小溲必少<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d28.p2s32">因其膀胱之水並趨於大腸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d28.p2s33">須佐車前子以分利之<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d28.p2s34">小水得利<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d28.p2s35">大腑自實矣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d28.p2s36">再是症多挾食滯<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d28.p2s37">始因水濕而瀉<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d28.p2s38">而積食未下<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d28.p2s39">故瀉止之後<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d28.p2s40">大便反二三日不行<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d28.p2s41">當俟其矢氣頻行<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d28.p2s42">乃進輕劑導滯<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d28.p2s43">冀有乾結暢解<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d28.p2s44">病根始痊也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d28.p2s45">否則恐轉下痢<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d28.p2s46">按<c n="："/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d28.p2s47">是症半由濕熱<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d28.p2s48">半由口腹不慎<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d28.p2s49">愈後當慎調飲食<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d28.p2s50">古云<c n="："/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d28.p2s51">爽口物多反作疾<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d28.p2s52">快心事過必為殃<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d28.p2s53">養生者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d28.p2s54">其可忽諸<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eq095_jc_000-d29">
+        <head n="h1" xml:id="KR3eq095_jc_000-d29h1">
+          <seg xml:id="KR3eq095_jc_000-d29.h1s1">霍亂說</seg>
+        </head>
+        <p xml:id="KR3eq095_jc_000-d29p2">
+          <seg xml:id="KR3eq095_jc_000-d29.p2s1">霍亂之因<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p2s2">在乎飲食不慎<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p2s3">內傷脾胃<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p2s4">或夾雜暑濕之邪<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p2s5">症之最凶者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p2s6">莫此為甚<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p2s7">吐利之後<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p2s8">或傷其陽<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p2s9">或傷其陰<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p2s10">多隨人之體質而見焉<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p2s11">如傷陽太甚<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p2s12">至四肢逆冷<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p2s13">六脈俱伏<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p2s14">危如朝露<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p2s15">若增煩躁<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p2s16">汗淋不已<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p2s17">氣喘<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p2s18">危在頃刻<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p2s19">急治之法<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p2s20">惟有來復丹<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p2s21">附<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p2s22">桂<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p2s23">龍<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p2s24">蠣<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p2s25">參<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p2s26">術之屬<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p2s27">庶可百中圖一<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p2s28">傷陰太過者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p2s29">音嗄<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p2s30">渴飲<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p2s31">乃吐利之下<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p2s32">津液虧耗<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p2s33">中土受傷<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p2s34">土不生金<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p2s35">音為之閉矣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p2s36">苦寒清化藥中<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p2s37">佐以養液之品<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p2s38">然二者以固護陽氣為最要<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p2s39">蓋陽能生陰<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p2s40">陰不能生陽<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p2s41">且霍亂一症<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p2s42">極易陽亡汗脫也<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p2s43">醫者審之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eq095_jc_000-d29p4">
+          <seg xml:id="KR3eq095_jc_000-d29.p4s1">
+            <c n="《"/>醫通<c n="》"/>論霍亂<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p4s2">千古明論<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p4s3">學者當宗<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p4s4">愚按<c n="："/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p4s5">兵燹之後<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p4s6">最多疫癘<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p4s7">邇來霍亂一症<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p4s8">是亦症之一也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p4s9">曾在申江<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p4s10">目睹服附<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p4s11">桂<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p4s12">舌黑津枯而死者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p4s13">又以西瓜<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p4s14">黃連<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p4s15">瀉心等湯服之而生者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p4s16">又曾以參<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p4s17">附<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p4s18">白通等大劑而得活者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p4s19">誠不可拘執也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p4s20">但辨晰陰陽寒熱<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p4s21">頗非易易<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p4s22">因其脈多伏匿也<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p4s23">只得於口之渴不渴<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p4s24">能飲不能飲<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p4s25">便清便臭<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p4s26">神清神躁<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p4s27">喜熱喜冷<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p4s28">以此數端為辨<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p4s29">庶幾少誤<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p4s30">假如已現臟絕之款<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p4s31">盧扁亦不能挽回矣<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p4s32">竟有不及進藥者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p4s33">此即經文所謂<c n="「"/>大氣入臟者<c n="」"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p4s34">之症也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p4s35">又按<c n="："/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p4s36">此病最難處方<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p4s37">因脈象不能作據<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p4s38">還宜於舉動神氣中得其真情<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p4s39">其口渴<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p4s40">溲<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p4s41">便<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d29.p4s42">最關辨證明確<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eq095_jc_000-d30">
+        <head n="h1" xml:id="KR3eq095_jc_000-d30h1">
+          <seg xml:id="KR3eq095_jc_000-d30.h1s1">風溫溫瘧論</seg>
+        </head>
+        <p xml:id="KR3eq095_jc_000-d30p2">
+          <seg xml:id="KR3eq095_jc_000-d30.p2s1">風溫<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d30.p2s2">溫瘧<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d30.p2s3">得之於冬令感伏風寒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d30.p2s4">遇春氣溫暖而發<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d30.p2s5">其氣自內達外<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d30.p2s6">故多汗<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d30.p2s7">不比暴感之邪<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d30.p2s8">閉其營衛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d30.p2s9">當發汗解肌也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d30.p2s10">故最忌辛溫表散<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d30.p2s11">亦不可因汗而收斂<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d30.p2s12">總以清解得宜為善法也<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eq095_jc_000-d31">
+        <head n="h1" xml:id="KR3eq095_jc_000-d31h1">
+          <seg xml:id="KR3eq095_jc_000-d31.h1s1">瘧臌論</seg>
+        </head>
+        <p xml:id="KR3eq095_jc_000-d31p2">
+          <seg xml:id="KR3eq095_jc_000-d31.p2s1">瘧早截致成中滿<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d31.p2s2">二便不通<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d31.p2s3">此係腹中之氣<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d31.p2s4">散亂不收<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d31.p2s5">津水隨氣橫決<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d31.p2s6">或四溢而作脹<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d31.p2s7">全是太陰脾氣不能統攝所致<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d31.p2s8">不可用大黃猛劑<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d31.p2s9">再傷其中<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d31.p2s10">惟有理中湯少加黃連<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d31.p2s11">或用五苓<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d31.p2s12">先小便<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d31.p2s13">而大便亦隨下而解<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d31.p2s14">大便之所以不下者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d31.p2s15">以膀胱脹大<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d31.p2s16">將大腸撐緊<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d31.p2s17">無隙可出<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d31.p2s18">當化膀胱之氣<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d31.p2s19">不治大腸而便自通矣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d31.p2s20">余曾治此症<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d31.p2s21">中腹堅硬<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d31.p2s22">大便不通<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d31.p2s23">瘧來寒重<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d31.p2s24">因令其瘧來減食<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d31.p2s25">即空日亦令其食米粥<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d31.p2s26">旬日便通脹消<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d31.p2s27">蓋曾用過枳實<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d31.p2s28">檳榔攻克<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d31.p2s29">而便仍秘結<c n="；"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d31.p2s30">減食之下<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d31.p2s31">脾氣轉運得舒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d31.p2s32">腸中傳導亦得其職矣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d31.p2s33">見脹滿而投攻克<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d31.p2s34">醫之長技<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d31.p2s35">若中虛作脹<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d31.p2s36">更耗其氣<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d31.p2s37">必愈增脹滿矣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d31.p2s38">慎之<c n="！"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d31.p2s39">慎之<c n="！"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eq095_jc_000-d32">
+        <head n="h1" xml:id="KR3eq095_jc_000-d32h1">
+          <seg xml:id="KR3eq095_jc_000-d32.h1s1">酷暑瘧症最易驟閉論</seg>
+        </head>
+        <p xml:id="KR3eq095_jc_000-d32p2">
+          <seg xml:id="KR3eq095_jc_000-d32.p2s1">凡瘧發於酷暑之際<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d32.p2s2">熱重寒微<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d32.p2s3">痰多<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d32.p2s4">舌白<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d32.p2s5">泛惡者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d32.p2s6">最防痙厥驟閉<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d32.p2s7">不可輕視<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d32.p2s8">余曾診一女子<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d32.p2s9">患胎瘧<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d32.p2s10">數番之後<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d32.p2s11">熱勢不退<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d32.p2s12">而反一毫無汗<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d32.p2s13">大便溏<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d32.p2s14">舌苔白<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d32.p2s15">詢之因冒風澡洗所致<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d32.p2s16">乃擬表散一方<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d32.p2s17">囑其另延高明<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d32.p2s18">勿敢貽誤遭謗<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d32.p2s19">病家更請呂仁甫<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d32.p2s20">亦處柴胡<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d32.p2s21">蘇<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d32.p2s22">藿<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d32.p2s23">二陳之類<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d32.p2s24">服之神識憒憒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d32.p2s25">仍然一毫無汗<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d32.p2s26">暑疹滿布<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d32.p2s27">大便自遺<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d32.p2s28">舌苔依然膩白<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d32.p2s29">脈形沉細沃澀<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d32.p2s30">壯熱異常<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d32.p2s31">不大渴飲<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d32.p2s32">余辭不治<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d32.p2s33">病家再四索方<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d32.p2s34">呂曰<c n="："/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d32.p2s35">且擬一方何如<c n="？"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d32.p2s36">余曰<c n="："/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d32.p2s37">服與不服同<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d32.p2s38">遂同商葛根<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d32.p2s39">柴胡<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d32.p2s40">珠粉<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d32.p2s41">川貝<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d32.p2s42">玉樞丹等數味<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d32.p2s43">是夜仍閉危<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eq095_jc_000-d33">
+        <head n="h1" xml:id="KR3eq095_jc_000-d33h1">
+          <seg xml:id="KR3eq095_jc_000-d33.h1s1">溫毒症後鼻塞腑秘治法</seg>
+        </head>
+        <p xml:id="KR3eq095_jc_000-d33p2">
+          <seg xml:id="KR3eq095_jc_000-d33.p2s1">𰣤痧時<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d33.p2s2">或時症斑毒後<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d33.p2s3">鼻塞便秘者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d33.p2s4">昔人有用靛青桶飯一二兩<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d33.p2s5">煎湯<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d33.p2s6">加入忍冬藤數錢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d33.p2s7">服之<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d33.p2s8">大便即下而鼻塞即通<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d33.p2s9">可稱神方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d33.p2s10">大概系熱結竅閉所致<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d33.p2s11">故屢用紫菀<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d33.p2s12">牛蒡之屬無效<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d33.p2s13">非開泄肺經所合<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d33.p2s14">靛青桶飯清涼解毒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d33.p2s15">沉寒下達<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d33.p2s16">使大腸一通<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d33.p2s17">則肺竅自開矣<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eq095_jc_000-d34">
+        <head n="h1" xml:id="KR3eq095_jc_000-d34h1">
+          <seg xml:id="KR3eq095_jc_000-d34.h1s1">小兒肺病喘咳異治</seg>
+        </head>
+        <p xml:id="KR3eq095_jc_000-d34p2">
+          <seg xml:id="KR3eq095_jc_000-d34.p2s1">寒包熱症<c n="："/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d34.p2s2">壯熱<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d34.p2s3">喘嗽<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d34.p2s4">無汗<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d34.p2s5">口渴<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d34.p2s6">煩躁<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d34.p2s7">脈洪數滑大者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d34.p2s8">余曾以麻杏石甘湯治之<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d34.p2s9">效如桴鼓<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d34.p2s10">此方能起死回生<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d34.p2s11">又曾以葶藶大棗湯<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d34.p2s12">治肺閉喘急危極者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d34.p2s13">亦應手而愈<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d34.p2s14">二條皆屬於手太陰病<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d34.p2s15">一則痰閉喘急<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d34.p2s16">一則溫邪化熱鬱結<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d34.p2s17">二方細思之自得<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d34.p2s18">脈象見症稍異<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d34.p2s19">喘咳則一也<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eq095_jc_000-d35">
+        <head n="h1" xml:id="KR3eq095_jc_000-d35h1">
+          <seg xml:id="KR3eq095_jc_000-d35.h1s1">小兒慢驚說</seg>
+        </head>
+        <p xml:id="KR3eq095_jc_000-d35p2">
+          <seg xml:id="KR3eq095_jc_000-d35.p2s1">急驚屬熱<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d35.p2s2">慢驚屬虛寒者為多也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d35.p2s3">病由吐瀉之後<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d35.p2s4">或多延日數<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d35.p2s5">以致神氣懶倦<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d35.p2s6">目睛半開<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d35.p2s7">音低<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d35.p2s8">嗜臥<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d35.p2s9">脈象遲數或沉細<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d35.p2s10">古方逐寒蕩驚湯大有神效<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d35.p2s11">雖夏月無妨<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d35.p2s12">有危殆症劇者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d35.p2s13">服之立能回生<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d35.p2s14">誠良方也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d35.p2s15">今之幼科罕有知者<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eq095_jc_000-d36">
+        <head n="h1" xml:id="KR3eq095_jc_000-d36h1">
+          <seg xml:id="KR3eq095_jc_000-d36.h1s1">葉氏喘症虛實論</seg>
+        </head>
+        <p xml:id="KR3eq095_jc_000-d36p2">
+          <seg xml:id="KR3eq095_jc_000-d36.p2s1">喘症之因<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d36.p2s2">在肺為實<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d36.p2s3">在腎為虛<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d36.p2s4">實喘者痰塞坐不得臥<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d36.p2s5">呼吸氣壅<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d36.p2s6">當宗仲師葶藶大棗湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d36.p2s7">虛喘者痰吐如沫<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d36.p2s8">呼吸氣不接續<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d36.p2s9">其中有陽虛陰虛之別<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d36.p2s10">陽虛者附桂八味<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d36.p2s11">陰虛者金水六君煎<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d36.p2s12">又有素有肺腎虛喘<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d36.p2s13">夾風寒以實之<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d36.p2s14">是腎中之虛喘<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d36.p2s15">反形肺中之實喘矣<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d36.p2s16">治頗不易<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d36.p2s17">余擬蘇子降氣湯<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d36.p2s18">加人參以補氣<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d36.p2s19">俟肺之風寒得泄<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d36.p2s20">然後以腎虛之喘為急治<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d36.p2s21">是在醫者權衡耳<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eq095_jc_000-d37">
+        <head n="h1" xml:id="KR3eq095_jc_000-d37h1">
+          <seg xml:id="KR3eq095_jc_000-d37.h1s1">論隔二隔三之治</seg>
+        </head>
+        <p xml:id="KR3eq095_jc_000-d37p2">
+          <seg xml:id="KR3eq095_jc_000-d37.p2s1">隔二隔三之治<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d37.p2s2">如癃閉之屬<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d37.p2s3">用利水藥不應<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d37.p2s4">以滋養肺金如沙參<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d37.p2s5">麥冬<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d37.p2s6">玉竹之類<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d37.p2s7">謂水出高源<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d37.p2s8">肺金能生腎水<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d37.p2s9">腎與膀胱為表裡<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d37.p2s10">滋其化源<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d37.p2s11">則泉源竭矣<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d37.p2s12">此乃屬虛者言<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d37.p2s13">若下有濕熱<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d37.p2s14">與夫瘀閉<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d37.p2s15">寒閉<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d37.p2s16">熱閉<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d37.p2s17">氣閉<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d37.p2s18">治法種種不同<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d37.p2s19">又有胃氣不醒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d37.p2s20">用養胃疏利藥皆不應<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d37.p2s21">改用溫補腎經藥<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d37.p2s22">則胃納大開<c n="；"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d37.p2s23">緣腎為胃關<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d37.p2s24">命火不能上蒸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d37.p2s25">猶釜底無火則物不熟<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d37.p2s26">是亦隔二之治<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d37.p2s27">第用藥最難<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d37.p2s28">如用熟地須要肉桂末同炒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d37.p2s29">余如補骨<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d37.p2s30">四神之類<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d37.p2s31">按<c n="："/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d37.p2s32">溫養與溫熱有異<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d37.p2s33">溫養如冬日之可愛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d37.p2s34">溫熱如夏日之可畏<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d37.p2s35">學者不可不知<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eq095_jc_000-d38">
+        <head n="h1" xml:id="KR3eq095_jc_000-d38h1">
+          <seg xml:id="KR3eq095_jc_000-d38.h1s1">肺熱久嗽治法</seg>
+        </head>
+        <p xml:id="KR3eq095_jc_000-d38p2">
+          <seg xml:id="KR3eq095_jc_000-d38.p2s1">寇宗奭曰<c n="："/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d38.p2s2">一婦患肺熱久嗽<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d38.p2s3">身如火炙<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d38.p2s4">肌瘦成癆<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d38.p2s5">以枇杷葉<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d38.p2s6">木通<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d38.p2s7">款冬<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d38.p2s8">紫菀<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d38.p2s9">杏仁<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d38.p2s10">桑皮各等分<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d38.p2s11">大黃減半末之<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d38.p2s12">蜜丸櫻桃大<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d38.p2s13">食後<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d38.p2s14">夜臥各含化一丸<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d38.p2s15">按<c n="："/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d38.p2s16">含化一丸須記<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d38.p2s17">學者審之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d38.p2s18">此是瀉去肺腸之積熱<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d38.p2s19">勿使在留以爍陰液<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d38.p2s20">去熱即是存陰<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d38.p2s21">勝服滋補之藥<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d38.p2s22">蓋滋補正所以留熱<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d38.p2s23">肺安能清肅哉<c n="？"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d38.p2s24">惟大便頻溏者不甚宜也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d38.p2s25">然大黃輕用<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d38.p2s26">不過藉其氣以導火下行<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d38.p2s27">況噙化一丸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d38.p2s28">其力甚薄<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d38.p2s29">意亦深矣<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eq095_jc_000-d39">
+        <head n="h1" xml:id="KR3eq095_jc_000-d39h1">
+          <seg xml:id="KR3eq095_jc_000-d39.h1s1">丁公仙枕方</seg>
+        </head>
+        <p xml:id="KR3eq095_jc_000-d39p2">
+          <seg xml:id="KR3eq095_jc_000-d39.p2s1">丁公名其泰<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d39.p2s2">康熙武進士<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d39.p2s3">官至總兵<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d39.p2s4">七十無子<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d39.p2s5">鬚髮皓然<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d39.p2s6">遇異人授此方<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d39.p2s7">兩年鬚髮如漆<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d39.p2s8">連生四子<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d39.p2s9">年至八十<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d39.p2s10">尚能開十石弓<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d39.p2s11">真奇方也<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d39.p2s12">後人用之多效<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eq095_jc_000-d39p4">
+          <seg xml:id="KR3eq095_jc_000-d39.p4s1">方用整塊木作枕<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d39.p4s2">枕上鑽空一百二十個<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d39.p4s3">如桐子大<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d39.p4s4">枕分七行<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d39.p4s5">中間一行鑽十八孔<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d39.p4s6">余俱十七孔<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d39.p4s7">枕中作抽屜<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d39.p4s8">將藥末裝絹袋<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d39.p4s9">放抽屜內<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d39.p4s10">枕至一百日<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d39.p4s11">諸病皆除<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d39.p4s12">體強身輕<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d39.p4s13">藥味久則無力<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d39.p4s14">須三日一換<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d39.p4s15">枕長一尺六寸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d39.p4s16">排勻鑽孔<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eq095_jc_000-d39p6">
+          <seg xml:id="KR3eq095_jc_000-d39.p6s1">川烏<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d39.p6s2">辛夷<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d39.p6s3">藜蘆<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d39.p6s4">荊芥<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d39.p6s5">附子<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d39.p6s6">白朮</seg>
+        </p>
+<p xml:id="KR3eq095_jc_000-d39p8">
+          <seg xml:id="KR3eq095_jc_000-d39.p8s1">烏藥<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d39.p8s2">牙皂<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d39.p8s3">白芷<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d39.p8s4">川椒<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d39.p8s5">細辛<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d39.p8s6">柏仁</seg>
+        </p>
+<p xml:id="KR3eq095_jc_000-d39p10">
+          <seg xml:id="KR3eq095_jc_000-d39.p10s1">吳萸<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d39.p10s2">半夏<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d39.p10s3">歸身<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d39.p10s4">白芍<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d39.p10s5">菊花<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d39.p10s6">防風</seg>
+        </p>
+<p xml:id="KR3eq095_jc_000-d39p12">
+          <seg xml:id="KR3eq095_jc_000-d39.p12s1">桔梗<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d39.p12s2">杜仲<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d39.p12s3">蓯蓉<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d39.p12s4">藁本<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d39.p12s5">蕪荑<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d39.p12s6">草烏</seg>
+        </p>
+<p xml:id="KR3eq095_jc_000-d39p14">
+          <seg xml:id="KR3eq095_jc_000-d39.p14s1">蔓荊<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d39.p14s2">薑黃</seg>
+        </p>
+<p xml:id="KR3eq095_jc_000-d39p16">
+          <seg xml:id="KR3eq095_jc_000-d39.p16s1">各一兩三錢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d39.p16s2">研末盛囊入屜枕之<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eq095_jc_000-d40">
+        <head n="h1" xml:id="KR3eq095_jc_000-d40h1">
+          <seg xml:id="KR3eq095_jc_000-d40.h1s1">評洄溪君相火論</seg>
+        </head>
+        <p xml:id="KR3eq095_jc_000-d40p2">
+          <seg xml:id="KR3eq095_jc_000-d40.p2s1">此篇之論<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d40.p2s2">說得透徹<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d40.p2s3">其治法亦精詳<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d40.p2s4">心火以苦寒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d40.p2s5">景岳理陰之類<c n="；"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d40.p2s6">腎火以鹹寒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d40.p2s7">雞子黃連阿膠湯之類<c n="；"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d40.p2s8">腎火飛越<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d40.p2s9">用回陽之法<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d40.p2s10">如參<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d40.p2s11">附<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d40.p2s12">真武<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d40.p2s13">龍<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d40.p2s14">牡<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d40.p2s15">童便之類<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d40.p2s16">冷飲一碗<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d40.p2s17">直達下焦<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d40.p2s18">引其真降下降耳<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d40.p2s19">又按<c n="："/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d40.p2s20">腎火為真元先天之火<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d40.p2s21">心火為後天君相之火<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eq095_jc_000-d41">
+        <head n="h1" xml:id="KR3eq095_jc_000-d41h1">
+          <seg xml:id="KR3eq095_jc_000-d41.h1s1">評洄溪診脈決死生論</seg>
+        </head>
+        <p xml:id="KR3eq095_jc_000-d41p2">
+          <seg xml:id="KR3eq095_jc_000-d41.p2s1">此篇字字金玉<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d41.p2s2">學者細細推求<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d41.p2s3">久之必明其理<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d41.p2s4">余曾診兩人<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d41.p2s5">脾病而見弦勁堅搏<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d41.p2s6">毫無和緩之象<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d41.p2s7">是無胃也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d41.p2s8">諸藥備嘗<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d41.p2s9">均無效果<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d41.p2s10">又咳嗽吐血之脈<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d41.p2s11">見洪大數促者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d41.p2s12">亦難奏效<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d41.p2s13">此乃克賊之脈<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d41.p2s14">決無生理<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eq095_jc_000-d42">
+        <head n="h1" xml:id="KR3eq095_jc_000-d42h1">
+          <seg xml:id="KR3eq095_jc_000-d42.h1s1">跋</seg>
+        </head>
+        <p xml:id="KR3eq095_jc_000-d42p2">
+          <seg xml:id="KR3eq095_jc_000-d42.p2s1">是編或評古論<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d42.p2s2">或抒心得<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d42.p2s3">所立諸論<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d42.p2s4">如內壅無汗<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d42.p2s5">𰣤痧舌白<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d42.p2s6">遽用清泄<c n="；"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d42.p2s7">傷寒無液<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d42.p2s8">雖得不暢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d42.p2s9">涼藥亦能發汗之說<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d42.p2s10">頗有發明<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d42.p2s11">胎漏<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d42.p2s12">胎下<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d42.p2s13">從古女科醫籍未有分別<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d42.p2s14">今被先生一旦道破矣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d42.p2s15">至論暑瘧驟閉<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d42.p2s16">切忌表散<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d42.p2s17">宜清宜下<c n="；"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d42.p2s18">產後痙病莫作風治<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d42.p2s19">須育陰潛陽<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d42.p2s20">此尚可議也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d42.p2s21">然古賢如張路玉精於論溫<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d42.p2s22">而治損則陰陽不別<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d42.p2s23">徐洄溪通乎古今之變<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d42.p2s24">拘守柴胡以治瘧<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d42.p2s25">名賢尚且如是<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d42.p2s26">不獨先生為然也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d42.p2s27">先生系沈蘋洲高足<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d42.p2s28">諱淵<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d42.p2s29">字子安<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d42.p2s30">壽山乃其別字<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d42.p2s31">古吳後學王颺卓若甫識於槐蔭廬<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d42.p2s32">草草塗就<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eq095_jc_000-d42.p2s33">俟諸異日精錄之可也<c n="。"/>
+          </seg>
+        </p>
+</div>
+    </body>
+  </text>
+</TEI>

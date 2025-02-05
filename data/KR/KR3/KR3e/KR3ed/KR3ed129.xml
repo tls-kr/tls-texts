@@ -1,0 +1,3613 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KR3ed129">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>溫隱居海上仙方</title>
+        <author>溫大明</author>
+      </titleStmt>
+      <extent>
+        <measure unit="char" quantity="8091"/>
+        <date when-iso="2024-02-21T13:40:49.864+09:00"/>
+      </extent>
+      <publicationStmt>
+        <p>Originally published at <ref target="https://jicheng.tw/tcm/book/index.html">中醫笈成:溫隱居海上仙方</ref>. Checkout from https://gitlab.com/jicheng/jc.data, commit aab40201, 2022-12-28.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>《四庫全書》本</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date notBefore="1216" notAfter="1216">宋</date>公元1216年</creation>
+      <textClass>
+        <catRef scheme="#kr-categories" target="#KR3ed"/>
+        <catRef scheme="#tls-dates" target="#dat04350"/>
+      </textClass>
+    </profileDesc>
+    <encodingDesc>
+      <p>Quality: </p>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+
+<div n="h1" xml:id="KR3ed129_jc_000-d2">
+        <head n="h1" xml:id="KR3ed129_jc_000-d2h1">
+          <seg xml:id="KR3ed129_jc_000-d2.h1s1">海上仙方序</seg>
+        </head>
+        <p xml:id="KR3ed129_jc_000-d2p2">
+          <seg xml:id="KR3ed129_jc_000-d2.p2s1">余家世南京<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d2.p2s2">高祖因宦遊寄跡四明<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d2.p2s3">所謂醫書奧旨<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d2.p2s4">初得醫師王承宣心傳之妙<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d2.p2s5">更歷三世<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d2.p2s6">至先君制干<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d2.p2s7">隨侍魏丞相入都城<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d2.p2s8">遂以儒醫名於時<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d2.p2s9">余讀父書<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d2.p2s10">密受奧旨<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d2.p2s11">自淳熙改元始續先業<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d2.p2s12">遍遊京邑<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d2.p2s13">才七八年<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d2.p2s14">因已出入士大夫之門<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d2.p2s15">而朝野以是草木知己<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d2.p2s16">迨今四十餘載<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d2.p2s17">備見先輩後輩<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d2.p2s18">初學末學<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d2.p2s19">興廢不一<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d2.p2s20">蓋由用藥治病僥倖於目前<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d2.p2s21">故福善禍淫<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d2.p2s22">報應於身後<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d2.p2s23">籲<c n="！"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d2.p2s24">可憫也<c n="！"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d2.p2s25">餘日迫桑榆之景<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d2.p2s26">心棄利名<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d2.p2s27">隱居求志<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d2.p2s28">恨無以惠人<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d2.p2s29">輒取五世家傳名方<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d2.p2s30">並生平行醫應效圓散<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d2.p2s31">與夫古今聖賢諸方<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d2.p2s32">歷學請問四方名士<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d2.p2s33">海上良法<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d2.p2s34">集為一冊<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d2.p2s35">計詩七十七首<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d2.p2s36">的有起死還生之效<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d2.p2s37">活人以代耕<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d2.p2s38">設或私藏<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d2.p2s39">則所濟者狹矣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d2.p2s40">謹錄施以傳<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d2.p2s41">非惟世人有疾者一展卷而識之<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d2.p2s42">得此者亦可以自助<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d2.p2s43">豈曰小補之哉<c n="？"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d2p4">
+          <seg xml:id="KR3ed129_jc_000-d2.p4s1">保義郎差充殿前司提點諸班醫藥飯食兼和劑局監收買藥材官溫大明謹序</seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3ed129_jc_000-d3">
+        <head n="h1" xml:id="KR3ed129_jc_000-d3h1">
+          <seg xml:id="KR3ed129_jc_000-d3.h1s1">新刻溫隱居海上仙方前集</seg>
+        </head>
+        <p xml:id="KR3ed129_jc_000-d3p2">
+          <seg xml:id="KR3ed129_jc_000-d3.p2s1">第一證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p4">
+          <seg xml:id="KR3ed129_jc_000-d3.p4s1">中風氣逆有痰涎<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p4s2">蘇合姜調灌下咽<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p6">
+          <seg xml:id="KR3ed129_jc_000-d3.p6s1">次用省風兼續命<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p6s2">多增木麝二香煎<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p8">
+          <seg xml:id="KR3ed129_jc_000-d3.p8s1">往往中風之證<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p8s2">多因喜怒不常<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p8s3">或飲食停滯<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p8s4">或怒氣傷神<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p8s5">思慮過多<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p8s6">損於心臟<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p8s7">用<c n="《"/>局方<c n="》"/>蘇合香丸三粒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p8s8">生薑自然汁化開<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p8s9">灌下咽喉<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p8s10">次用<c n="《"/>局方<c n="》"/>省風湯<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p8s11">小續命湯<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p8s12">各加麝香<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p8s13">木香<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p8s14">依法煎服<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p10">
+          <seg xml:id="KR3ed129_jc_000-d3.p10s1">第二證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p12">
+          <seg xml:id="KR3ed129_jc_000-d3.p12s1">瘡毒年深變癩風<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p12s2">眼圓鼻陷遍身紅<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p14">
+          <seg xml:id="KR3ed129_jc_000-d3.p14s1">風油惡使烏沉和<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p14s2">兩月調停有大功<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p16">
+          <seg xml:id="KR3ed129_jc_000-d3.p16s1">切詳大風<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p16s2">或年深瘡疾<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p16s3">或鼻梁崩倒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p16s4">頭面生瘡<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p16s5">不能已者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p16s6">
+            <c n="《"/>局方<c n="》"/>烏沉湯五貼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p16s7">真大風油一兩半<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p16s8">用微火化大風油成汁<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p16s9">和烏沉湯<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p16s10">又用麥麵糊為丸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p16s11">如梧桐子大<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p16s12">每服三十丸至四十丸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p16s13">食後茶清吞下<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p16s14">空心臨睡服之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p16s15">一月二月必見神效<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p18">
+          <seg xml:id="KR3ed129_jc_000-d3.p18s1">第三證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p20">
+          <seg xml:id="KR3ed129_jc_000-d3.p20s1">中寒中氣厥而僵<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p20s2">朮附加煎蘇合香<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p22">
+          <seg xml:id="KR3ed129_jc_000-d3.p22s1">惟有老人多氣弱<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p22s2">須吞養正助元陽<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p24">
+          <seg xml:id="KR3ed129_jc_000-d3.p24s1">中寒中氣之候<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p24s2">四肢厥逆<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p24s3">口噤<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p24s4">牙關緊急<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p24s5">痰涎壅盛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p24s6">如中風狀者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p24s7">用<c n="《"/>局方<c n="》"/>朮附湯一貼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p24s8">生薑二十片<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p24s9">水二盞<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p24s10">煎八分<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p24s11">去滓後調蘇合香丸二粒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p24s12">並進二服<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p24s13">或氣短頭暈<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p24s14">手足厥逆<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p24s15">未遠者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p24s16">可送養正丹五十粒至百粒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p24s17">奇效必愈<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p26">
+          <seg xml:id="KR3ed129_jc_000-d3.p26s1">第四證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p28">
+          <seg xml:id="KR3ed129_jc_000-d3.p28s1">風中須將氣飲詳<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p28s2">姜調蘇合橘皮湯<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p30">
+          <seg xml:id="KR3ed129_jc_000-d3.p30s1">省風續命徐徐進<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p30s2">二藥仍須入木香<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p32">
+          <seg xml:id="KR3ed129_jc_000-d3.p32s1">往往中風之證<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p32s2">多因心腎虧虛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p32s3">喜怒不常<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p32s4">或服食停飲<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p32s5">或怒氣傷神<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p32s6">過慮損心之所致也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p32s7">先用<c n="《"/>局方<c n="》"/>蘇合香丸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p32s8">薑汁調數丸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p32s9">分為三服<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p32s10">卻用陳皮湯點服之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p32s11">次服省風湯<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p32s12">小續命湯<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p32s13">那木香<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p32s14">依法煎服之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p34">
+          <seg xml:id="KR3ed129_jc_000-d3.p34s1">第五證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p36">
+          <seg xml:id="KR3ed129_jc_000-d3.p36s1">口眼喎斜是中風<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p36s2">筋痛煩熱遍身中<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p38">
+          <seg xml:id="KR3ed129_jc_000-d3.p38s1">急煎五七加芍藥<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p38s2">蘇合香丸速有功<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p40">
+          <seg xml:id="KR3ed129_jc_000-d3.p40s1">風寒濕氣留滯經絡<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p40s2">忽然手足頑麻<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p40s3">口眼喎斜<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p40s4">項強筋疼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p40s5">遍身煩熱<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p40s6">未可<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p40s7">便用風藥<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p40s8">宜煎<c n="《"/>局方<c n="》"/>三五七散<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p40s9">加芍藥三錢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p40s10">用水三盞<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p40s11">生薑十片<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p40s12">煎取一盞半<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p40s13">去滓<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p40s14">作三次<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p40s15">調蘇合香丸三粒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p40s16">服餌<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p40s17">留滓再煎<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p42">
+          <seg xml:id="KR3ed129_jc_000-d3.p42s1">第六證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p44">
+          <seg xml:id="KR3ed129_jc_000-d3.p44s1">肺風赤鼻最難醫<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p44s2">我有良方付與之<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p46">
+          <seg xml:id="KR3ed129_jc_000-d3.p46s1">但用硫礬為細末<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p46s2">調塗茄汁甚為奇<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p48">
+          <seg xml:id="KR3ed129_jc_000-d3.p48s1">肺風赤鼻者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p48s2">乃是酒渣之病也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p48s3">其病最難治療<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p48s4">但用硫黃<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p48s5">白礬二味<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p48s6">等分為末<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p48s7">用水茄子汁調塗鼻上<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p48s8">如無水茄子汁<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p48s9">將水茄子焙乾為末<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p48s10">同煎藥<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p48s11">用水調塗患處<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p50">
+          <seg xml:id="KR3ed129_jc_000-d3.p50s1">第七證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p52">
+          <seg xml:id="KR3ed129_jc_000-d3.p52s1">老病之人腳無力<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p52s2">補虛滋養能何益<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p54">
+          <seg xml:id="KR3ed129_jc_000-d3.p54s1">不如朮附木瓜香<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p54s2">送下震靈有功績<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p56">
+          <seg xml:id="KR3ed129_jc_000-d3.p56s1">治老少久病<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p56s2">弱人行步乏力<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p56s3">筋寒骨痛冷疼者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p56s4">可用朮附湯二貼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p56s5">木瓜<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p56s6">木香一塊<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p56s7">用刀剉碎<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p56s8">用水三盞<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p56s9">生薑二十片<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p56s10">煎取一盞半<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p56s11">去滓<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p56s12">分二次下震靈丹五丸至十丸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p56s13">食前服之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p56s14">如腳重疼者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p56s15">又加白芍藥二條<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p56s16">約二寸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p56s17">剉碎<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p56s18">同煎為妙<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p58">
+          <seg xml:id="KR3ed129_jc_000-d3.p58s1">第八證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p60">
+          <seg xml:id="KR3ed129_jc_000-d3.p60s1">老人心腎俱不足<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p60s2">下部痿衰陽氣促<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p62">
+          <seg xml:id="KR3ed129_jc_000-d3.p62s1">黑錫丹交定志丸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p62s2">卻將附益煎湯服<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p64">
+          <seg xml:id="KR3ed129_jc_000-d3.p64s1">老人心腎虧虛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p64s2">膀胱既寒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p64s3">下部痿弱<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p64s4">用<c n="《"/>局方<c n="》"/>黑錫丹三百粒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p64s5">定志丸二百粒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p64s6">同研為末<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p64s7">再用糯米糊為丸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p64s8">如梧桐子大<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p64s9">陰乾<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p64s10">每用附子半隻<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p64s11">炮<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p64s12">去皮尖<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p64s13">分作二服<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p64s14">每用益智二十粒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p64s15">入鹽少許<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p64s16">同煎<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p64s17">取八分<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p64s18">去滓<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p64s19">送下前藥三十丸加至四十丸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p64s20">服之甚妙<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p66">
+          <seg xml:id="KR3ed129_jc_000-d3.p66s1">第九證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p68">
+          <seg xml:id="KR3ed129_jc_000-d3.p68s1">背肩手足痛如搥<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p68s2">濕在脾經故若斯<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p70">
+          <seg xml:id="KR3ed129_jc_000-d3.p70s1">四物湯加烏沉木<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p70s2">更兼蓬朮最為奇<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p72">
+          <seg xml:id="KR3ed129_jc_000-d3.p72s1">脾經受濕<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p72s2">令人走注疼痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p72s3">肩背手足俱疼<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p72s4">
+            <c n="《"/>局方<c n="》"/>四物湯一貼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p72s5">加蓬朮二塊<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p72s6">如錢大<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p72s7">搥碎<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p72s8">木香<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p72s9">烏藥<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p72s10">沉香各一錢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p72s11">細剉<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p72s12">用水三大盞<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p72s13">生薑十片<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p72s14">同煎<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p72s15">取一盞二分<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p72s16">去滓<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p72s17">分作二服<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p72s18">留滓再煎<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p72s19">亦作二服<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p72s20">如藥味苦澀<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p72s21">加甘草二寸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p72s22">剉<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p72s23">同煎為妙<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p74">
+          <seg xml:id="KR3ed129_jc_000-d3.p74s1">第十證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p76">
+          <seg xml:id="KR3ed129_jc_000-d3.p76s1">喘滿生痰治療難<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p76s2">諸醫用藥未能痊<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p78">
+          <seg xml:id="KR3ed129_jc_000-d3.p78s1">須將滑石同半夏<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p78s2">皂子生薑立便安<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p80">
+          <seg xml:id="KR3ed129_jc_000-d3.p80s1">切詳喘滿<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p80s2">皆因肺氣不利<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p80s3">氣道上逆<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p80s4">令人喘滿不安<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p80s5">膈脘生痰<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p80s6">可用滑石<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p80s7">半夏片各一兩<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p80s8">同為細末<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p80s9">每服三錢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p80s10">水二盞<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p80s11">入皂莢子三個<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p80s12">銼作六段<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p80s13">入生薑十五片<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p80s14">煎至八分<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p80s15">去滓<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p80s16">入蜜少許<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p80s17">再煎<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p80s18">令化服之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p82">
+          <seg xml:id="KR3ed129_jc_000-d3.p82s1">第十一證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p84">
+          <seg xml:id="KR3ed129_jc_000-d3.p84s1">積年痰飲漸成風<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p84s2">口眼喎斜語不通<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p86">
+          <seg xml:id="KR3ed129_jc_000-d3.p86s1">蘇合香涎調半盞<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p86s2">青州丸子有神功<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p88">
+          <seg xml:id="KR3ed129_jc_000-d3.p88s1">久年痰飲停滯胸膈<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p88s2">忽然痰涎壅盛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p88s3">手足頭體口眼喎斜<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p88s4">言語不正<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p88s5">用<c n="《"/>局方<c n="》"/>麝香蘇合香丸三粒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p88s6">用生薑汁調開<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p88s7">送下<c n="《"/>局方<c n="》"/>青州白丸子五十丸<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p88s8">如不能吞<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p88s9">將丸子乳細<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p88s10">灌下為妙<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p90">
+          <seg xml:id="KR3ed129_jc_000-d3.p90s1">第十二證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p92">
+          <seg xml:id="KR3ed129_jc_000-d3.p92s1">腦寒頭痛有風痰<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p92s2">晝夜呻吟不得安<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p94">
+          <seg xml:id="KR3ed129_jc_000-d3.p94s1">白芷太陽同碾末<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p94s2">水調貼上勝靈丹<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p96">
+          <seg xml:id="KR3ed129_jc_000-d3.p96s1">腦寒之病<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p96s2">皆因風邪攻於上焦<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p96s3">令人頭疼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p96s4">晝夜引痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p96s5">不能安寧<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p96s6">用<c n="《"/>局方<c n="》"/>太陽丹一貼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p96s7">加香白芷末半兩<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p96s8">用水調塗患處<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p98">
+          <seg xml:id="KR3ed129_jc_000-d3.p98s1">第十三證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p100">
+          <seg xml:id="KR3ed129_jc_000-d3.p100s1">痰飲氣𡇼及結胸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p100s2">頑涎停滯不能通<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p102">
+          <seg xml:id="KR3ed129_jc_000-d3.p102s1">銀硃礬石熔為劑<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p102s2">薑汁調咽大有功<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p104">
+          <seg xml:id="KR3ed129_jc_000-d3.p104s1">飲結氣結結胸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p104s2">皆因邪痰停積<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p104s3">胸滿氣噎<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p104s4">方用銀硃<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p104s5">白礬二味等分<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p104s6">熔化作劑<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p104s7">每服一丸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p104s8">如彈大<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p104s9">用生薑自然汁化下<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p106">
+          <seg xml:id="KR3ed129_jc_000-d3.p106s1">第十四證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p108">
+          <seg xml:id="KR3ed129_jc_000-d3.p108s1">勞心膽冷夜無眠<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p108s2">棗柏仁加定志丸<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p110">
+          <seg xml:id="KR3ed129_jc_000-d3.p110s1">研和再為梧子顆<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p110s2">更加朱乳甚相安<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p112">
+          <seg xml:id="KR3ed129_jc_000-d3.p112s1">勞心膽冷之病<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p112s2">夜臥不能閤眼者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p112s3">每用<c n="《"/>局方<c n="》"/>定志丸一貼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p112s4">次用酸棗仁半錢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p112s5">炒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p112s6">去殼用仁<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p112s7">又用柏子仁半錢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p112s8">亦炒熟<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p112s9">二味為末<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p112s10">和定志丸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p112s11">如梧桐子大<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p112s12">硃砂<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p112s13">乳香為衣<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p112s14">每服五十丸用棗湯送下<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p112s15">不以時候<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p114">
+          <seg xml:id="KR3ed129_jc_000-d3.p114s1">第十五證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p116">
+          <seg xml:id="KR3ed129_jc_000-d3.p116s1">胸滿生痰要早看<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p116s2">克教咳嗽肺傷殘<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p118">
+          <seg xml:id="KR3ed129_jc_000-d3.p118s1">白礬半夏加罌殼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p118s2">薑汁為糊可作丸<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p120">
+          <seg xml:id="KR3ed129_jc_000-d3.p120s1">風痰邪痰<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p120s2">令人胸膈痞滿<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p120s3">噎塞不通<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p120s4">方用半夏<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p120s5">白礬<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p120s6">粟殼三味<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p120s7">等為細末<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p120s8">用生薑自然汁打糊為丸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p120s9">如梧桐子大<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p120s10">每服三十丸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p120s11">薑湯送下<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p120s12">食後臨睡服之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p122">
+          <seg xml:id="KR3ed129_jc_000-d3.p122s1">第十六證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p124">
+          <seg xml:id="KR3ed129_jc_000-d3.p124s1">白濁遺精最損人<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p124s2">茯苓益智煮烏沉<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p126">
+          <seg xml:id="KR3ed129_jc_000-d3.p126s1">生薑一片水一盞<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p126s2">煎服何憂歲月深<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p128">
+          <seg xml:id="KR3ed129_jc_000-d3.p128s1">白濁之病<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p128s2">皆因心氣不足之所致也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p128s3">每用<c n="《"/>局方<c n="》"/>烏沉湯一貼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p128s4">益智二十枚<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p128s5">茯苓一錢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p128s6">水二大盞<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p128s7">生薑五片<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p128s8">煎八分<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p128s9">去滓<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p128s10">空心食前<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p128s11">日進二服<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p130">
+          <seg xml:id="KR3ed129_jc_000-d3.p130s1">第十七證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p132">
+          <seg xml:id="KR3ed129_jc_000-d3.p132s1">心腎虛成消渴患<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p132s2">水漿晝夜渾無筭<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p134">
+          <seg xml:id="KR3ed129_jc_000-d3.p134s1">連膠八味和為丸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p134s2">數服須教減一半<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p136">
+          <seg xml:id="KR3ed129_jc_000-d3.p136s1">消渴之病<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p136s2">皆因腎氣虛弱<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p136s3">又因少年服乳石過度<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p136s4">其病大渴引飲<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p136s5">方用黃連阿膠丸一貼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p136s6">乳為末<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p136s7">八味丸二貼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p136s8">合和為丸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p136s9">如梧桐子大<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p136s10">每服三十丸至四十丸<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p136s11">煎蓮肉<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p136s12">北棗<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p136s13">粟殼<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p136s14">陳木各二錢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p136s15">重用水一大碗<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p136s16">煎至七分碗<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p136s17">去滓<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p136s18">分作四五服<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p136s19">送下前合丸子<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p136s20">若病久<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p136s21">胃虛飲食減少<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p136s22">更加陳皮二片<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p136s23">砂仁二十粒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p136s24">捶碎<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p136s25">同煎取滓<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p136s26">再煎尤妙<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p138">
+          <seg xml:id="KR3ed129_jc_000-d3.p138s1">第十八證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p140">
+          <seg xml:id="KR3ed129_jc_000-d3.p140s1">腹脹脾疼怎抵當<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p140s2">椒姜之外有丁香<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p142">
+          <seg xml:id="KR3ed129_jc_000-d3.p142s1">三般等分羅教細<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p142s2">次入些鹽點白湯<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p144">
+          <seg xml:id="KR3ed129_jc_000-d3.p144s1">脾疼之病<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p144s2">皆因寒氣停滯<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p144s3">積於胸膈<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p144s4">或時嘔吐酸水<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p144s5">不思飲食<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p144s6">用胡椒<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p144s7">良薑<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p144s8">丁香三味<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p144s9">等分為細末<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p144s10">每服一大錢二錢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p144s11">入鹽少許<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p144s12">白湯點服<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p144s13">不拘時候<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p146">
+          <seg xml:id="KR3ed129_jc_000-d3.p146s1">第十九證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p148">
+          <seg xml:id="KR3ed129_jc_000-d3.p148s1">濕氣周遊腿腳疼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p148s2">香蘇飲煮鷺鷀藤<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p150">
+          <seg xml:id="KR3ed129_jc_000-d3.p150s1">木香芍藥仍增入<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p150s2">功效如神不可言<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p152">
+          <seg xml:id="KR3ed129_jc_000-d3.p152s1">且如濕氣之證<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p152s2">腿腳痠疼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p152s3">足面赤腫<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p152s4">步履不能<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p152s5">用<c n="《"/>局方<c n="》"/>香蘇飲一貼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p152s6">加鷺鷀藤<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p152s7">木香<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p152s8">赤芍藥各二錢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p152s9">用水四盞<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p152s10">入生薑十片<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p152s11">煎至二盞<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p152s12">去滓<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p152s13">分為四服<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p152s14">食前二服<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p152s15">食後二服<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p152s16">其效如神<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p154">
+          <seg xml:id="KR3ed129_jc_000-d3.p154s1">第二十證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p156">
+          <seg xml:id="KR3ed129_jc_000-d3.p156s1">多年腳氣不曾安<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p156s2">膝痛筋寒步履難<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p158">
+          <seg xml:id="KR3ed129_jc_000-d3.p158s1">朮附宣瓜同南木<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p158s2">煎湯送下石南丸<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p160">
+          <seg xml:id="KR3ed129_jc_000-d3.p160s1">久年腳氣<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p160s2">或年老膝疼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p160s3">不能行步者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p160s4">可用<c n="《"/>局方<c n="》"/>朮附湯<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p160s5">倍用附子<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p160s6">加南木香一錢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p160s7">水三盞<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p160s8">生薑五片<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p160s9">宣木瓜三片<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p160s10">煎取一盞二分<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p160s11">去滓<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p160s12">送下<c n="《"/>局方<c n="》"/>石南丸五十粒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p160s13">數服立愈<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p160s14">或元氣弱者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p160s15">煎前飲子送下震靈丹十粒為妙<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p162">
+          <seg xml:id="KR3ed129_jc_000-d3.p162s1">第二十一證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p164">
+          <seg xml:id="KR3ed129_jc_000-d3.p164s1">脾黃腹脹服連翹<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p164s2">酒食紅圓始可消<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p166">
+          <seg xml:id="KR3ed129_jc_000-d3.p166s1">並煮香蘇來送下<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p166s2">更加草果自和調<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p168">
+          <seg xml:id="KR3ed129_jc_000-d3.p168s1">如患食積酒積<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p168s2">胸滿刺痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p168s3">脾疼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p168s4">可食者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p168s5">煎<c n="《"/>局方<c n="》"/>香蘇飲一貼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p168s6">加草果二個<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p168s7">灰火炮<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p168s8">細剉<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p168s9">用水三盞<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p168s10">生薑十片<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p168s11">同煎<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p168s12">取一盞半<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p168s13">分為三次<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p168s14">送下紅丸子<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p168s15">數服<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p168s16">或腹脹脾黃<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p168s17">可食<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p168s18">中滿噁心<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p168s19">用前項飲子送下連翹丸尤妙<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p170">
+          <seg xml:id="KR3ed129_jc_000-d3.p170s1">第二十二證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p172">
+          <seg xml:id="KR3ed129_jc_000-d3.p172s1">脾疼腹脹惱心腸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p172s2">痞悶多因食氣傷<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p174">
+          <seg xml:id="KR3ed129_jc_000-d3.p174s1">快取縮砂三和散<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p174s2">煎湯調下理中湯<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p176">
+          <seg xml:id="KR3ed129_jc_000-d3.p176s1">久患腹脹脾疼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p176s2">中滿痞悶<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p176s3">可食<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p176s4">大小便或澀<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p176s5">小腹脹急<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p176s6">可用<c n="《"/>局方<c n="》"/>三和散二貼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p176s7">縮砂仁二十粒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p176s8">搥碎<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p176s9">用水三大盞<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p176s10">生薑十片<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p176s11">燈心十莖<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p176s12">同煎<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p176s13">取一盞<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p176s14">去渣<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p176s15">分為三次<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p176s16">每用煎藥調理中湯末半貼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p176s17">立效<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p178">
+          <seg xml:id="KR3ed129_jc_000-d3.p178s1">第二十三證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p180">
+          <seg xml:id="KR3ed129_jc_000-d3.p180s1">腹痛多因脾積干<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p180s2">元來大小便艱難<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p182">
+          <seg xml:id="KR3ed129_jc_000-d3.p182s1">治中加縮吞神保<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p182s2">諸證無憂立見安<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p184">
+          <seg xml:id="KR3ed129_jc_000-d3.p184s1">腹痛之病<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p184s2">皆因寒氣停積<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p184s3">連旬不已<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p184s4">大便虛澀<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p184s5">小便赤急痛者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p184s6">用<c n="《"/>局方<c n="》"/>治中湯加縮砂仁二十顆<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p184s7">搥碎<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p184s8">水二大盞<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p184s9">生薑十片<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p184s10">同煎<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p184s11">取八分<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p184s12">去渣<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p184s13">分作二服<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p184s14">先用四分盞送下<c n="《"/>局方<c n="》"/>神保丸十粒<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p184s15">少頃<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p184s16">更量病人虛實<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p184s17">加減神保丸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p184s18">服之立愈<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p186">
+          <seg xml:id="KR3ed129_jc_000-d3.p186s1">第二十四證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p188">
+          <seg xml:id="KR3ed129_jc_000-d3.p188s1">脾腎俱虛寒氣堅<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p188s2">胸間腹下痛相連<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p190">
+          <seg xml:id="KR3ed129_jc_000-d3.p190s1">多因食飽傷飢得<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p190s2">須用烏沉送正丸<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p192">
+          <seg xml:id="KR3ed129_jc_000-d3.p192s1">脾腎氣虛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p192s2">臍腹下疼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p192s3">或胸膈滿悶<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p192s4">用<c n="《"/>局方<c n="》"/>小烏沉湯一貼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p192s5">秀王府正元丹一貼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p192s6">次用烏沉湯半貼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p192s7">卻用鹽湯點烏沉湯<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p192s8">送下正元丹五十粒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p192s9">如心胸痛者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p192s10">嚼胡椒十粒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p192s11">同服甚妙<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p194">
+          <seg xml:id="KR3ed129_jc_000-d3.p194s1">第二十五證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p196">
+          <seg xml:id="KR3ed129_jc_000-d3.p196s1">多時瀉痢腹中寒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p196s2">晝夜應須數十番<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p198">
+          <seg xml:id="KR3ed129_jc_000-d3.p198s1">但把縮砂並粟米<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p198s2">煎湯送下駐車丸<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p200">
+          <seg xml:id="KR3ed129_jc_000-d3.p200s1">連月腹痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p200s2">瀉痢頻並<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p200s3">不能安跡<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p200s4">或病後肚疼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p200s5">泄痢不止<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p200s6">可用<c n="《"/>局方<c n="》"/>駐車丸一貼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p200s7">分作二服煎<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p200s8">搥碎<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p200s9">縮砂二十粒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p200s10">粟米約二百粒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p200s11">陳皮一片<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p200s12">生薑十片<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p200s13">北棗二個<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p200s14">水三盞<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p200s15">同煎<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p200s16">取一盞半<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p200s17">分作二服<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p200s18">送下駐車丸五十粒<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p200s19">如病不頗深<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p200s20">連進數服<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p200s21">其效必愈<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p200s22">不必盡述<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p202">
+          <seg xml:id="KR3ed129_jc_000-d3.p202s1">第二十六證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p204">
+          <seg xml:id="KR3ed129_jc_000-d3.p204s1">久痢腸虛腹痛時<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p204s2">局方有藥可修治<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p206">
+          <seg xml:id="KR3ed129_jc_000-d3.p206s1">縮砂陳米陳皮煮<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p206s2">一盞湯調赤石脂<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p208">
+          <seg xml:id="KR3ed129_jc_000-d3.p208s1">下痢之病<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p208s2">皆因腸胃虛弱<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p208s3">或時腹痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p208s4">用<c n="《"/>局方<c n="》"/>赤石脂湯二貼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p208s5">分三服煎<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p208s6">縮砂二十粒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p208s7">搥碎<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p208s8">陳皮一大片<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p208s9">陳米百餘粒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p208s10">生薑十片<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p208s11">大棗二枚<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p208s12">水二大盞<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p208s13">煎取一盞半<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p208s14">去滓<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p208s15">分作三次<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p208s16">調赤石脂湯<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p208s17">立效<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p210">
+          <seg xml:id="KR3ed129_jc_000-d3.p210s1">第二十七證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p212">
+          <seg xml:id="KR3ed129_jc_000-d3.p212s1">喘嗽何憂遠近年<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p212s2">橘皮半夏紫蘇煎<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p214">
+          <seg xml:id="KR3ed129_jc_000-d3.p214s1">更加罌粟七枚殼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p214s2">氣急痰涎日下痊<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p216">
+          <seg xml:id="KR3ed129_jc_000-d3.p216s1">凡喘嗽之病<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p216s2">皆因肺感寒邪<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p216s3">氣道不利<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p216s4">上迫喘嗽<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p216s5">或時喘急<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p216s6">可用<c n="《"/>局方<c n="》"/>橘皮半夏湯一貼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p216s7">加罌粟殼七個<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p216s8">製法依四味湯方<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p216s9">水二盞<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p216s10">生薑十片<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p216s11">烏梅一個<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p216s12">同煎<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p216s13">取八分<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p216s14">去滓<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p216s15">臨臥服<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p218">
+          <seg xml:id="KR3ed129_jc_000-d3.p218s1">第二十八證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p220">
+          <seg xml:id="KR3ed129_jc_000-d3.p220s1">老人病喘治尤難<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p220s2">半夏湯吞養正丹<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p222">
+          <seg xml:id="KR3ed129_jc_000-d3.p222s1">更用紫蘇並粟殼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p222s2">服時須把重輕言<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p224">
+          <seg xml:id="KR3ed129_jc_000-d3.p224s1">如老人及宿病喘滿<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p224s2">氣道不通<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p224s3">痰涎壅盛者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p224s4">可用<c n="《"/>局方<c n="》"/>橘皮半夏湯一貼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p224s5">加赤茯苓一錢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p224s6">水二盞<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p224s7">生薑十片<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p224s8">烏梅一隻<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p224s9">紫蘇二葉<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p224s10">同煎至八分<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p224s11">去渣<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p224s12">一服分作二次<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p224s13">送下養正丹五十粒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p224s14">連進二三服<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p224s15">又方<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p224s16">甚者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p224s17">煎前方半夏湯<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p224s18">加罌粟殼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p224s19">煎湯送下養正丹<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p224s20">妙<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p226">
+          <seg xml:id="KR3ed129_jc_000-d3.p226s1">第二十九證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p228">
+          <seg xml:id="KR3ed129_jc_000-d3.p228s1">感風感冷思昏沉<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p228s2">寒熱痠疼力不禁<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p230">
+          <seg xml:id="KR3ed129_jc_000-d3.p230s1">半夏薑茶煎五積<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p230s2">渾身清健值千金<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p232">
+          <seg xml:id="KR3ed129_jc_000-d3.p232s1">風寒傷於形體<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p232s2">令人頭目不爽<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p232s3">寒熱俱發<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p232s4">百節痠疼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p232s5">可用<c n="《"/>局方<c n="》"/>五積散一貼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p232s6">半夏曲一塊<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p232s7">如錢大<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p232s8">搥碎<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p232s9">生薑一大片<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p232s10">水一盞半<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p232s11">煎至八分<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p232s12">去滓<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p232s13">溫服<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p232s14">頭痛甚者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p232s15">臨時入江茶少許<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p232s16">或小便亦<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p232s17">加燈心十莖<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p232s18">烏梅二個<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p232s19">煎<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p234">
+          <seg xml:id="KR3ed129_jc_000-d3.p234s1">第三十證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p236">
+          <seg xml:id="KR3ed129_jc_000-d3.p236s1">傷風微嗽聲還重<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p236s2">發熱頭疼身又痛<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p238">
+          <seg xml:id="KR3ed129_jc_000-d3.p238s1">白芷薑汁調消風<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p238s2">或塗或服雙行用<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p240">
+          <seg xml:id="KR3ed129_jc_000-d3.p240s1">傷風之病<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p240s2">令人頭疼聲重<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p240s3">發熱微嗽<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p240s4">可用<c n="《"/>局方<c n="》"/>消風散一貼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p240s5">分為二服<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p240s6">用香白芷二塊<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p240s7">煎湯調服<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p240s8">如頭疼發熱<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p240s9">用薑汁一蛤殼調消風散<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p240s10">卻用白湯八分盞點服之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p240s11">如頭疼甚者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p240s12">用薑汁調消風散成膏子<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p240s13">塗兩太陽尤妙<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p242">
+          <seg xml:id="KR3ed129_jc_000-d3.p242s1">第三十一證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p244">
+          <seg xml:id="KR3ed129_jc_000-d3.p244s1">身疼體倦感寒邪<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p244s2">口渴頭昏熱更加<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p246">
+          <seg xml:id="KR3ed129_jc_000-d3.p246s1">面赤須煎和解散<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p246s2">仍添赤芍病須瘥<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p248">
+          <seg xml:id="KR3ed129_jc_000-d3.p248s1">感寒發熱<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p248s2">頭痛體痛者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p248s3">可用<c n="《"/>局方<c n="》"/>和解散一貼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p248s4">加赤芍藥二錢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p248s5">水三盞<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p248s6">生薑五片<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p248s7">烏梅二個<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p248s8">煎取一盞半<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p248s9">去滓<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p248s10">作二次服之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p248s11">如頭疼甚者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p248s12">臨時入江茶少許服之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p250">
+          <seg xml:id="KR3ed129_jc_000-d3.p250s1">第三十二證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p252">
+          <seg xml:id="KR3ed129_jc_000-d3.p252s1">月候不調緣恚怒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p252s2">食少腹中常痛楚<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p254">
+          <seg xml:id="KR3ed129_jc_000-d3.p254s1">四物乾姜並橘皮<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p254s2">縮砂甘草為同侶<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p256">
+          <seg xml:id="KR3ed129_jc_000-d3.p256s1">婦人經候不調<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p256s2">可用<c n="《"/>局方<c n="》"/>四物湯一貼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p256s3">加乾薑一塊<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p256s4">用灰火炮<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p256s5">甘草寸半<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p256s6">微炙<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p256s7">剉<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p256s8">同四物湯烣粟二大盞<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p256s9">入生薑三片<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p256s10">煎取八分<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p256s11">去滓<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p256s12">服之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p256s13">如腹痛甚者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p256s14">加乾薑一塊如小錢大<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p256s15">陳皮<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p256s16">縮砂同煎服之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p258">
+          <seg xml:id="KR3ed129_jc_000-d3.p258s1">第三十三證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p260">
+          <seg xml:id="KR3ed129_jc_000-d3.p260s1">粟草加煎四物湯<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p260s2">更兼香附與乾薑<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p262">
+          <seg xml:id="KR3ed129_jc_000-d3.p262s1">月經若要調勻好<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p262s2">減半川芎與地黃<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p264">
+          <seg xml:id="KR3ed129_jc_000-d3.p264s1">婦人月候頗多<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p264s2">如崩狀者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p264s3">用<c n="《"/>局方<c n="》"/>四物湯一貼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p264s4">炒香附子三錢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p264s5">灰火微炮<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p264s6">乾薑一塊<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p264s7">甘草一寸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p264s8">粟米百餘粒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p264s9">水三大盞<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p264s10">煎取一盞半<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p264s11">去滓<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p264s12">分為二次<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p264s13">空心食前服之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p266">
+          <seg xml:id="KR3ed129_jc_000-d3.p266s1">第三十四證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p268">
+          <seg xml:id="KR3ed129_jc_000-d3.p268s1">月經已過不曾通<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p268s2">四物湯中減半芎<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p270">
+          <seg xml:id="KR3ed129_jc_000-d3.p270s1">蓬朮乾薑仍添入<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p270s2">連煎數服有神功<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p272">
+          <seg xml:id="KR3ed129_jc_000-d3.p272s1">婦人經月不通<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p272s2">皆因寒搏於內<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p272s3">宜服<c n="《"/>局方<c n="》"/>四物湯<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p272s4">加蓬朮一塊<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p272s5">剉碎<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p272s6">乾薑一塊<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p272s7">灰火微炮<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p272s8">剉<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p272s9">如室女退半乾姜<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p272s10">婦人全用<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p272s11">水二盞<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p272s12">生薑三片<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p272s13">同煎<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p272s14">取八分<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p272s15">去滓<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p272s16">空心食前溫服<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p274">
+          <seg xml:id="KR3ed129_jc_000-d3.p274s1">第三十五證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p276">
+          <seg xml:id="KR3ed129_jc_000-d3.p276s1">婦人冷病沒人知<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p276s2">面色痿黃力漸微<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p278">
+          <seg xml:id="KR3ed129_jc_000-d3.p278s1">牡蠣乾薑並芡殼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p278s2">同和龍骨赤石脂<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p280">
+          <seg xml:id="KR3ed129_jc_000-d3.p280s1">婦人冷病乃是赤白帶下也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p280s2">一方用赤石脂二兩<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p280s3">火煅牡蠣一兩<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p280s4">火煅乾薑一兩<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p280s5">灰火微炮<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p280s6">龍骨一兩<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p280s7">雞頭殼一兩<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p280s8">如無雞頭殼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p280s9">以雞頭代之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p280s10">上件五味併為細末<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p280s11">酒糊為丸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p280s12">如梧桐子大<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p280s13">每服五十丸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p280s14">用艾醋湯送下<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p280s15">食前服<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p282">
+          <seg xml:id="KR3ed129_jc_000-d3.p282s1">第三十六證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p284">
+          <seg xml:id="KR3ed129_jc_000-d3.p284s1">乍寒乍熱漸成癆<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p284s2">膈噎胸迷食不消<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p286">
+          <seg xml:id="KR3ed129_jc_000-d3.p286s1">樂令建中加草果<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p286s2">連進數服自和調<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p288">
+          <seg xml:id="KR3ed129_jc_000-d3.p288s1">虛勞寒熱之病<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p288s2">皆因形體虧虛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p288s3">血氣不足<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p288s4">可用<c n="《"/>局方<c n="》"/>樂令建中湯二貼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p288s5">草果二個大者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p288s6">灰炭微炮<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p288s7">剉碎<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p288s8">用水三大盞<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p288s9">生薑十片<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p288s10">烏梅<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p288s11">北棗各三個<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p288s12">同煎<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p288s13">取一盞半<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p288s14">去滓<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p288s15">分作二次服之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p290">
+          <seg xml:id="KR3ed129_jc_000-d3.p290s1">第三十七證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p292">
+          <seg xml:id="KR3ed129_jc_000-d3.p292s1">病後傷脾胸膈滿<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p292s2">老人強食氣虛短<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p294">
+          <seg xml:id="KR3ed129_jc_000-d3.p294s1">雖然可食又噁心<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p294s2">草果頻加五積散<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p296">
+          <seg xml:id="KR3ed129_jc_000-d3.p296s1">病後傷動脾經<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p296s2">致令胸滿氣短<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p296s3">每用<c n="《"/>局方<c n="》"/>五膈寬中散二貼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p296s4">草果二個<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p296s5">灰火炮<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p296s6">剉<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p296s7">用水一中碗<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p296s8">生薑十片<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p296s9">同煎<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p296s10">取半碗<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p296s11">去渣<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p296s12">分作三四次服之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p298">
+          <seg xml:id="KR3ed129_jc_000-d3.p298s1">第三十八證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p300">
+          <seg xml:id="KR3ed129_jc_000-d3.p300s1">或寒或熱定無准<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p300s2">體倦身疼渴思飲<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p302">
+          <seg xml:id="KR3ed129_jc_000-d3.p302s1">半夏門冬果與柴<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p302s2">加煎四物能安寢<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p304">
+          <seg xml:id="KR3ed129_jc_000-d3.p304s1">寒熱之病最難治療<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p304s2">但用四物湯二貼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p304s3">加柴胡<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p304s4">去蘆頭<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p304s5">橘皮<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p304s6">半夏<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p304s7">麥門冬去心<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p304s8">草果<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p304s9">各一錢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p304s10">用水三大盞<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p304s11">生薑十五片<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p304s12">烏梅<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p304s13">北棗<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p304s14">各二個<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p304s15">同煎<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p304s16">取一盞半<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p304s17">去滓<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p304s18">分作二服<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p304s19">留滓再煎服<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p306">
+          <seg xml:id="KR3ed129_jc_000-d3.p306s1">第三十九證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p308">
+          <seg xml:id="KR3ed129_jc_000-d3.p308s1">脾冷不磨停水穀<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p308s2">腹痛膈滿脹心胸<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p310">
+          <seg xml:id="KR3ed129_jc_000-d3.p310s1">但將五膈煎三服<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p310s2">可下尋常小理中<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p312">
+          <seg xml:id="KR3ed129_jc_000-d3.p312s1">脾臟主磨於水谷<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p312s2">令脾氣虛弱<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p312s3">飲食停滯<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p312s4">胸膈痞滿<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p312s5">可煎<c n="《"/>局方<c n="》"/>五膈寬中散二貼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p312s6">作二服<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p312s7">送下小理中丸半貼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p312s8">其效甚速<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p314">
+          <seg xml:id="KR3ed129_jc_000-d3.p314s1">第四十證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p316">
+          <seg xml:id="KR3ed129_jc_000-d3.p316s1">口乾心躁小便急<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p316s2">邪熱攻人要水吃<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p318">
+          <seg xml:id="KR3ed129_jc_000-d3.p318s1">姜梅芍藥與門冬<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p318s2">冷點五苓其病釋<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p320">
+          <seg xml:id="KR3ed129_jc_000-d3.p320s1">邪熱攻心<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p320s2">令人小便赤<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p320s3">渴欲飲引<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p320s4">可用<c n="《"/>局方<c n="》"/>五苓散加白芍藥三寸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p320s5">三段<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p320s6">剉碎<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p320s7">用麥門冬五十粒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p320s8">去心<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p320s9">水三盞<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p320s10">生薑五片<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p320s11">烏梅一個<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p320s12">煎取一盞半<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p320s13">去渣<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p320s14">作三服<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p320s15">每用五分盞<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p320s16">調五苓散半服<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p320s17">留滓再煎服<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p322">
+          <seg xml:id="KR3ed129_jc_000-d3.p322s1">第四十一證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p324">
+          <seg xml:id="KR3ed129_jc_000-d3.p324s1">身疼體倦感寒邪<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p324s2">口渴頭暈熱更加<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p326">
+          <seg xml:id="KR3ed129_jc_000-d3.p326s1">面赤藿香和解散<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p326s2">仍添赤芍病須瘥<space n="　" quantity="1"/>
+            <c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p328">
+          <seg xml:id="KR3ed129_jc_000-d3.p328s1">感寒發熱<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p328s2">頭疼體痛者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p328s3">可用<c n="《"/>局方<c n="》"/>和解正氣各半貼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p328s4">赤芍藥三段<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p328s5">二寸長<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p328s6">以水三盞<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p328s7">入生薑五片<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p328s8">烏梅二個<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p328s9">煎取一盞半<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p328s10">去渣<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p328s11">一服二次<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p328s12">如頭痛甚者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p328s13">臨時入江茶少許<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p328s14">在藥內合勻服之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p330">
+          <seg xml:id="KR3ed129_jc_000-d3.p330s1">第四十二證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p332">
+          <seg xml:id="KR3ed129_jc_000-d3.p332s1">感風頭痛體昏沉<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p332s2">寒熱痠疼力不禁<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p334">
+          <seg xml:id="KR3ed129_jc_000-d3.p334s1">一塊茯苓加五積<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p334s2">茶姜燈草黑梅煎<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p336">
+          <seg xml:id="KR3ed129_jc_000-d3.p336s1">風寒傷於形體<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p336s2">令人頭目不爽<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p336s3">寒熱俱發<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p336s4">百處痠疼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p336s5">可用<c n="《"/>局方<c n="》"/>五積散一貼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p336s6">赤茯苓一塊如錢大<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p336s7">搥碎<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p336s8">生薑十大片<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p336s9">水一盞半<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p336s10">煎至八分<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p336s11">去滓<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p336s12">溫服<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p336s13">頭疼甚者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p336s14">臨時入江茶少許服之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p336s15">或小便赤<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p336s16">加燈心十一莖<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p336s17">烏梅二個<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p336s18">煎服<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p338">
+          <seg xml:id="KR3ed129_jc_000-d3.p338s1">第四十三證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p340">
+          <seg xml:id="KR3ed129_jc_000-d3.p340s1">脾腎俱虛冷氣奔<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p340s2">衝心絞痛體無溫<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p342">
+          <seg xml:id="KR3ed129_jc_000-d3.p342s1">更兼下部都穿注<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p342s2">青木香丸智散吞<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p344">
+          <seg xml:id="KR3ed129_jc_000-d3.p344s1">脾腎虛而心腹疼甚者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p344s2">可煎<c n="《"/>局方<c n="》"/>益智散一貼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p344s3">水二盞<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p344s4">生薑五片<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p344s5">入鹽少許<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p344s6">同煎<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p344s7">取八分<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p344s8">去滓<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p344s9">食前送下<c n="《"/>局方<c n="》"/>青木香丸四十粒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p344s10">連進二服<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p346">
+          <seg xml:id="KR3ed129_jc_000-d3.p346s1">第四十四證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p348">
+          <seg xml:id="KR3ed129_jc_000-d3.p348s1">肉桂乾薑同蓽茇<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p348s2">良薑四味研為丸<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p350">
+          <seg xml:id="KR3ed129_jc_000-d3.p350s1">腹疼冷泄能收效<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p350s2">和劑方名大已寒<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p352">
+          <seg xml:id="KR3ed129_jc_000-d3.p352s1">大治男子婦人<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p352s2">腹肚冷疼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p352s3">泄瀉不已者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p352s4">用<c n="《"/>局方<c n="》"/>續已寒丸一貼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p352s5">依法服餌<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p352s6">果見神效<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p354">
+          <seg xml:id="KR3ed129_jc_000-d3.p354s1">第四十五證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p356">
+          <seg xml:id="KR3ed129_jc_000-d3.p356s1">氣弱脾虛嘔且吐<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p356s2">才吞粥藥難留住<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p358">
+          <seg xml:id="KR3ed129_jc_000-d3.p358s1">胡椒雞舌送靈砂<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p358s2">縱使胃翻無憂懼<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p360">
+          <seg xml:id="KR3ed129_jc_000-d3.p360s1">往往脾虛胃冷<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p360s2">嘔吐不止<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p360s3">諸藥不效者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p360s4">用胡椒五十粒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p360s5">雞舌香十粒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p360s6">如無雞舌香<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p360s7">以母丁香代之<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p360s8">二味併為細末<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p360s9">白湯半盞<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p360s10">浸藥<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p360s11">送靈砂數粒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p360s12">立便愈<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p362">
+          <seg xml:id="KR3ed129_jc_000-d3.p362s1">第四十六證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p364">
+          <seg xml:id="KR3ed129_jc_000-d3.p364s1">暑中妙劑孰為宜<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p364s2">官局方中有縮脾<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p366">
+          <seg xml:id="KR3ed129_jc_000-d3.p366s1">甘草乾姜加草果<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p366s2">烏梅煎冷服何疑<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p368">
+          <seg xml:id="KR3ed129_jc_000-d3.p368s1">切詳暑月之際<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p368s2">天氣炎隆<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p368s3">暑邪侵犯<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p368s4">宜用<c n="《"/>局方<c n="》"/>縮脾飲三貼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p368s5">加乾薑三塊<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p368s6">如小錢大<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p368s7">灰火炮<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p368s8">甘草三寸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p368s9">微炙<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p368s10">水二碗<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p368s11">生薑二十片<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p368s12">同煎<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p368s13">取大碗<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p368s14">去滓<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p368s15">分為五六次<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p368s16">隨意冷熱用<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p368s17">果有奇效<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p370">
+          <seg xml:id="KR3ed129_jc_000-d3.p370s1">第四十七證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p372">
+          <seg xml:id="KR3ed129_jc_000-d3.p372s1">血海崩來是幾年<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p372s2">諸般調治不能痊<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p374">
+          <seg xml:id="KR3ed129_jc_000-d3.p374s1">炒香附子燒連殼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p374s2">搃下震靈一十丸<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p376">
+          <seg xml:id="KR3ed129_jc_000-d3.p376s1">往往婦人血崩不止<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p376s2">以香附子二兩<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p376s3">炒令赤色<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p376s4">連殼五個<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p376s5">燒灰存性<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p376s6">二味併為細末<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p376s7">每服三錢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p376s8">陳飯飲湯調送<c n="《"/>局方<c n="》"/>震靈丹十丸<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p376s9">重者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p376s10">三五服<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p378">
+          <seg xml:id="KR3ed129_jc_000-d3.p378s1">第四十八證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p380">
+          <seg xml:id="KR3ed129_jc_000-d3.p380s1">人參荊芥入門冬<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p380s2">半夏乾薑亦有功<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p382">
+          <seg xml:id="KR3ed129_jc_000-d3.p382s1">能療婦人寒熱病<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p382s2">更除痰嗽快心胸<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p384">
+          <seg xml:id="KR3ed129_jc_000-d3.p384s1">婦人寒熱<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p384s2">多因經候不調所致也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p384s3">可用<c n="《"/>局方<c n="》"/>荊芥散一貼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p384s4">加乾薑一塊<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p384s5">如小錢大<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p384s6">灰火炮<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p384s7">麥門冬二十粒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p384s8">去心<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p384s9">半夏曲一塊<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p384s10">如錢大<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p384s11">用水三盞<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p384s12">生薑十片<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p384s13">烏梅一個<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p384s14">同煎<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p384s15">取一盞半<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p384s16">去滓<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p384s17">分作二次服之<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p384s18">留滓再煎<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p384s19">婦人有孕不宜服之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p386">
+          <seg xml:id="KR3ed129_jc_000-d3.p386s1">第四十九證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p388">
+          <seg xml:id="KR3ed129_jc_000-d3.p388s1">氣閉能令血不通<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p388s2">那堪寒熱遍身中<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p390">
+          <seg xml:id="KR3ed129_jc_000-d3.p390s1">柴胡蓬朮兼甘草<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p390s2">四物同煎立有功<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p392">
+          <seg xml:id="KR3ed129_jc_000-d3.p392s1">大凡室女血閉不通<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p392s2">或寒或熱者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p392s3">用四物湯二貼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p392s4">蓬朮一塊如小錢大<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p392s5">柴胡去蘆頭一錢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p392s6">甘草三寸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p392s7">炙用<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p392s8">水三盞<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p392s9">生薑五片<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p392s10">同煎<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p392s11">取一盞半<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p392s12">分二次<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p392s13">食前服之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p394">
+          <seg xml:id="KR3ed129_jc_000-d3.p394s1">第五十證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p396">
+          <seg xml:id="KR3ed129_jc_000-d3.p396s1">胞胎忽動是勞傷<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p396s2">或痛或疼用早防<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p398">
+          <seg xml:id="KR3ed129_jc_000-d3.p398s1">但取局方膠艾服<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p398s2">更加烏藥與乾薑<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p400">
+          <seg xml:id="KR3ed129_jc_000-d3.p400s1">婦人胎動不安<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p400s2">皆因胞絡勞傷<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p400s3">宜服<c n="《"/>局方<c n="》"/>膠艾湯一貼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p400s4">乾薑二塊如小錢大<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p400s5">烏藥一塊如錢大<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p400s6">並剉為飲<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p400s7">以水二盞<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p400s8">生薑十片<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p400s9">煎至八分<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p400s10">去滓<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p400s11">食前服之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p400s12">如身熱體痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p400s13">更加當歸半錢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p400s14">速效<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p402">
+          <seg xml:id="KR3ed129_jc_000-d3.p402s1">第五十一證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p404">
+          <seg xml:id="KR3ed129_jc_000-d3.p404s1">小兒瘡疹最難醫<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p404s2">紅潤分明不必疑<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p406">
+          <seg xml:id="KR3ed129_jc_000-d3.p406s1">若見數枚黑點子<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p406s2">酒煎紫草灌孩兒<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p408">
+          <seg xml:id="KR3ed129_jc_000-d3.p408s1">小兒瘡疹<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p408s2">發時根紅活者為妙<c n="；"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p408s3">如發時<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p408s4">間有黑點者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p408s5">乃邪毒歸內也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p408s6">可用紫草茸三二錢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p408s7">醇酒半盞<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p408s8">煎至三分<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p408s9">可濾去滓<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p408s10">灌入兒口<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p408s11">待發出為妙<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p410">
+          <seg xml:id="KR3ed129_jc_000-d3.p410s1">第五十二證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p412">
+          <seg xml:id="KR3ed129_jc_000-d3.p412s1">久吐嬰兒不易醫<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p412s2">多因痰嗽及傷脾<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p414">
+          <seg xml:id="KR3ed129_jc_000-d3.p414s1">但加十粒丁香子<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p414s2">半夏湯中煮橘皮<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p416">
+          <seg xml:id="KR3ed129_jc_000-d3.p416s1">往往小兒最不可吐<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p416s2">如有吐者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p416s3">每用<c n="《"/>局方<c n="》"/>橘皮半夏湯一貼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p416s4">加丁香十粒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p416s5">槌碎<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p416s6">生薑七片<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p416s7">甘草一寸半<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p416s8">微炙<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p416s9">水二盞<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p416s10">煎取八分<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p416s11">去滓<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p416s12">令乳母食後服之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p416s13">次留一小蛤殼藥<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p416s14">令兒作五次服<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p416s15">或調青州白丸子一二粒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p416s16">或調<c n="《"/>局方<c n="》"/>來復丹一二粒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p416s17">更量兒大小加減服之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p418">
+          <seg xml:id="KR3ed129_jc_000-d3.p418s1">第五十三證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p420">
+          <seg xml:id="KR3ed129_jc_000-d3.p420s1">面黃童子身常熱<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p420s2">多是乳孃食不節<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p422">
+          <seg xml:id="KR3ed129_jc_000-d3.p422s1">常宜降氣及烏沉<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p422s2">免得嬰童生病孽<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p424">
+          <seg xml:id="KR3ed129_jc_000-d3.p424s1">切詳小兒之病<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p424s2">多是乳母百日周歲內<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p424s3">欲心太熾<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p424s4">酒肉亂食<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p424s5">或喜怒憂鬱<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p424s6">皆從脈而行<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p424s7">致小兒不能轉化<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p424s8">乳母宜服<c n="《"/>局方<c n="》"/>烏沉湯<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p424s9">降氣調勻乳脈<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p424s10">致小兒異日無病也<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p426">
+          <seg xml:id="KR3ed129_jc_000-d3.p426s1">第五十四證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p428">
+          <seg xml:id="KR3ed129_jc_000-d3.p428s1">小兒冷熱成泄痢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p428s2">乳食不消何曾睡<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p430">
+          <seg xml:id="KR3ed129_jc_000-d3.p430s1">縮砂粟米送香連<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p430s2">更有橘皮方可意<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p432">
+          <seg xml:id="KR3ed129_jc_000-d3.p432s1">小兒泄痢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p432s2">可於<c n="《"/>局方<c n="》"/>中小兒香連丸二十粒至二五十粒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p432s3">量兒大小用縮砂十粒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p432s4">搗碎<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p432s5">粟米約二百餘粒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p432s6">橘皮三片<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p432s7">剉碎<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p432s8">水二盞<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p432s9">生薑五片<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p432s10">北棗二個<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p432s11">同煎<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p432s12">至一盞<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p432s13">分為數服<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p432s14">送下<c n="《"/>局方<c n="》"/>香連丸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p432s15">度長幼服<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p434">
+          <seg xml:id="KR3ed129_jc_000-d3.p434s1">第五十五證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p436">
+          <seg xml:id="KR3ed129_jc_000-d3.p436s1">虛熱攻人口發瘡<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p436s2">舌間腐爛滿涎囊<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p438">
+          <seg xml:id="KR3ed129_jc_000-d3.p438s1">江茶細末同甘草<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p438s2">摻入瘡瘍清且良<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p440">
+          <seg xml:id="KR3ed129_jc_000-d3.p440s1">口瘡之候<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p440s2">因服熱過度<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p440s3">或虛熱上攻<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p440s4">滿口生瘡<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p440s5">疼痛不已<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p440s6">方用江茶末<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p440s7">甘草末<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p440s8">等分和勻<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p440s9">摻入口中<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p440s10">又方更加好礬<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p440s11">入內尤佳<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p440s12">奇效如神<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p442">
+          <seg xml:id="KR3ed129_jc_000-d3.p442s1">第五十六證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p444">
+          <seg xml:id="KR3ed129_jc_000-d3.p444s1">熱毒多因酒麴傷<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p444s2">咽喉腫痛口生瘡<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p446">
+          <seg xml:id="KR3ed129_jc_000-d3.p446s1">白梅須把江茶和<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p446s2">噙化多番便復常<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p448">
+          <seg xml:id="KR3ed129_jc_000-d3.p448s1">往往咽喉口瘡<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p448s2">非是小病<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p448s3">但用白梅數個<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p448s4">去核<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p448s5">以江茶末和為丸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p448s6">如圓眼大<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p448s7">每服一丸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p448s8">食後含化服<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p450">
+          <seg xml:id="KR3ed129_jc_000-d3.p450s1">第五十七證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p452">
+          <seg xml:id="KR3ed129_jc_000-d3.p452s1">連夜不眠病宿眼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p452s2">見燈強視眶淫爛<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p454">
+          <seg xml:id="KR3ed129_jc_000-d3.p454s1">但將湯浸當歸洗<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p454s2">血氣調和無此患<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p456">
+          <seg xml:id="KR3ed129_jc_000-d3.p456s1">往往連旬不睡<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p456s2">強視燈燭<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p456s3">目損光明<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p456s4">眼眶赤爛<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p456s5">蓋目者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p456s6">五臟六腑之精華<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p456s7">一身之珍寶<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p456s8">若用服藥<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p456s9">多令目昏者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p456s10">十有八九<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p456s11">今按<c n="《"/>道藏經<c n="》"/>云<c n="："/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p456s12">當歸活血<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p456s13">今用當歸一寸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p456s14">泡湯洗眼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p456s15">奇效甚妙<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p456s16">先洗去土用之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p458">
+          <seg xml:id="KR3ed129_jc_000-d3.p458s1">第五十八證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p460">
+          <seg xml:id="KR3ed129_jc_000-d3.p460s1">盜汗多因心體虛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p460s2">防風牡蠣術耆麩<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p462">
+          <seg xml:id="KR3ed129_jc_000-d3.p462s1">同煎薑棗調香散<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p462s2">補助身心樂有餘<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p464">
+          <seg xml:id="KR3ed129_jc_000-d3.p464s1">盜汗之候<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p464s2">皆因心神不足<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p464s3">形體虧虛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p464s4">可服<c n="《"/>局方<c n="》"/>妙香散一貼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p464s5">分作二服<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p464s6">煎防風<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p464s7">牡蠣<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p464s8">白朮<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p464s9">黃耆各二錢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p464s10">麩皮炒用黃色<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p464s11">水二盞<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p464s12">生薑五片<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p464s13">棗三枚<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p464s14">同煎<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p464s15">至一盞半<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p464s16">去渣<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p464s17">分二次<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p464s18">調妙香散為佳<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p466">
+          <seg xml:id="KR3ed129_jc_000-d3.p466s1">第五十九證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p468">
+          <seg xml:id="KR3ed129_jc_000-d3.p468s1">臟寒膨脹是脾虛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p468s2">丁木檳榔等分拘<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p470">
+          <seg xml:id="KR3ed129_jc_000-d3.p470s1">卜子牽牛同研末<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p470s2">丸如梧子病能除<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p472">
+          <seg xml:id="KR3ed129_jc_000-d3.p472s1">腹脹之病<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p472s2">皆由脾胃虛寒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p472s3">其證面目虛浮<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p472s4">時時腹脹者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p472s5">是也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p472s6">可用<c n="《"/>楊氏家藏方<c n="》"/>消脹丸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p472s7">內用木香<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p472s8">檳榔<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p472s9">黑牽牛<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p472s10">蘿蔔子<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p472s11">加丁香五粒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p472s12">等分<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p472s13">滴水為丸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p472s14">每服十五丸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p472s15">煎紫蘇湯送下<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p472s16">食前服之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p474">
+          <seg xml:id="KR3ed129_jc_000-d3.p474s1">第六十證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p476">
+          <seg xml:id="KR3ed129_jc_000-d3.p476s1">腿痛腰疼屬老人<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p476s2">骨寒髓冷最難禁<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p478">
+          <seg xml:id="KR3ed129_jc_000-d3.p478s1">鹿茸炮附棠梂子<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p478s2">為飲為丸病自輕<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p480">
+          <seg xml:id="KR3ed129_jc_000-d3.p480s1">老人腰痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p480s2">皆因陽氣衰弱<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p480s3">腎臟虛寒之所致<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p480s4">用鹿茸半兩<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p480s5">塗酥炙<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p480s6">附子<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p480s7">炮烈<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p480s8">去皮臍<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p480s9">一隻<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p480s10">棠梂子<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p480s11">名山果子五十粒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p480s12">並剉碎<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p480s13">每服三錢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p480s14">水二大盞<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p480s15">生薑十片<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p480s16">煎取八分<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p480s17">去滓<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p480s18">溫服<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p480s19">如作丸子<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p480s20">併為細末<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p480s21">用薑汁糊為丸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p480s22">如梧桐子大<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p480s23">每服三十丸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p480s24">溫酒<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p480s25">鹽湯送下<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p480s26">甚有奇功<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p482">
+          <seg xml:id="KR3ed129_jc_000-d3.p482s1">第六十一證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p484">
+          <seg xml:id="KR3ed129_jc_000-d3.p484s1">不伏水土忽寒熱<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p484s2">似瘧不似證難決<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p486">
+          <seg xml:id="KR3ed129_jc_000-d3.p486s1">姜調蘇合少黃丹<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p486s2">連進數盞精神悅<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p488">
+          <seg xml:id="KR3ed129_jc_000-d3.p488s1">不伏水土者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p488s2">皆因脾胃虛弱<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p488s3">觸冒寒邪<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p488s4">致令寒熱發作如瘧狀<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p488s5">用薑汁一蛤殼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p488s6">調黃丹半錢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p488s7">更用<c n="《"/>周方<c n="》"/>麝香蘇合香丸三粒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p488s8">用白湯浸服之<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p488s9">必獲愈矣<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p490">
+          <seg xml:id="KR3ed129_jc_000-d3.p490s1">第六十二證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p492">
+          <seg xml:id="KR3ed129_jc_000-d3.p492s1">鼻衄從來最損人<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p492s2">皆因熱毒蘊心經<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p494">
+          <seg xml:id="KR3ed129_jc_000-d3.p494s1">蒲黃青黛勻平秤<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p494s2">水和為膏貼耳邊<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p496">
+          <seg xml:id="KR3ed129_jc_000-d3.p496s1">鼻衄之候<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p496s2">皆因熱毒蘊積心經<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p496s3">不能已者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p496s4">宜用蒲黃<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p496s5">青黛各半兩<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p496s6">水調成膏子<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p496s7">貼耳後<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p496s8">立愈<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p498">
+          <seg xml:id="KR3ed129_jc_000-d3.p498s1">第六十三證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p500">
+          <seg xml:id="KR3ed129_jc_000-d3.p500s1">鼻衄無時整桶流<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p500s2">祈神問卜遍哀求<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p502">
+          <seg xml:id="KR3ed129_jc_000-d3.p502s1">但用南康真蛤粉<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p502s2">半塗半服便無憂<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p504">
+          <seg xml:id="KR3ed129_jc_000-d3.p504s1">鼻衄發作<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p504s2">整桶流出不能自已<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p504s3">但用南康真蛤粉二兩為細末<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p504s4">冷白湯調下<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p504s5">用少許塗入鼻中<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p504s6">立效<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p506">
+          <seg xml:id="KR3ed129_jc_000-d3.p506s1">第六十四證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p508">
+          <seg xml:id="KR3ed129_jc_000-d3.p508s1">多年鼻衄不曾休<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p508s2">涼藥無功熱藥投<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p510">
+          <seg xml:id="KR3ed129_jc_000-d3.p510s1">養正神丹同黑錫<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p510s2">更兼三里艾丸燒<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p512">
+          <seg xml:id="KR3ed129_jc_000-d3.p512s1">鼻衄之病久不得已<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p512s2">但取涼藥而不止者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p512s3">可用<c n="《"/>局方<c n="》"/>養正丹<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p512s4">黑錫丹依法服<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p512s5">更兼灸三里二十一壯<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p514">
+          <seg xml:id="KR3ed129_jc_000-d3.p514s1">第六十五證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p516">
+          <seg xml:id="KR3ed129_jc_000-d3.p516s1">婦人室女血山崩<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p516s2">冷熱未分何治決<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p518">
+          <seg xml:id="KR3ed129_jc_000-d3.p518s1">荊芥蓮蓬燒作灰<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p518s2">湯調一劑偏奇絕<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p520">
+          <seg xml:id="KR3ed129_jc_000-d3.p520s1">婦人室女但崩中下血<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p520s2">不論冷熱之病<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p520s3">可用荊芥<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p520s4">蓮蓬<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p520s5">二味各等分<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p520s6">燒為灰<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p520s7">研為細末<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p520s8">每服二大錢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p520s9">空心用米湯調服<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p520s10">立應<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p522">
+          <seg xml:id="KR3ed129_jc_000-d3.p522s1">第六十六證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p524">
+          <seg xml:id="KR3ed129_jc_000-d3.p524s1">急慢驚風有等差<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p524s2">蛇頭蠍麝及辰砂<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p526">
+          <seg xml:id="KR3ed129_jc_000-d3.p526s1">防風滴乳蜈蚣炙<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p526s2">更入星烏效特嘉<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p528">
+          <seg xml:id="KR3ed129_jc_000-d3.p528s1">小兒驚風多有等殊<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p528s2">或急或慢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p528s3">或虛或實<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p528s4">或吐或瀉<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p528s5">以致生驚者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p528s6">但用花蛇頭一枚<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p528s7">燒作灰用<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p528s8">如無花蛇<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p528s9">以烏蛇代之<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p528s10">全蠍二錢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p528s11">麝香一字<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p528s12">辰砂一大錢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p528s13">防風<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p528s14">乳香各半錢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p528s15">赤腳蜈蚣一條<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p528s16">用火炙<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p528s17">南星一錢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p528s18">灰火炮<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p528s19">川烏尖半錢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p528s20">生用<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p528s21">上件併為細末<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p528s22">水煮棗肉為丸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p528s23">如雞頭大<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p528s24">陰乾<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p528s25">每服一丸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p528s26">薄荷湯下<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p530">
+          <seg xml:id="KR3ed129_jc_000-d3.p530s1">第六十七證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p532">
+          <seg xml:id="KR3ed129_jc_000-d3.p532s1">暑月炎蒸不可當<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p532s2">嬰童發搐意慌忙<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p534">
+          <seg xml:id="KR3ed129_jc_000-d3.p534s1">抱龍丸子三五貼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p534s2">金銀薄荷煎作湯<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p536">
+          <seg xml:id="KR3ed129_jc_000-d3.p536s1">小兒發搐在於夏月<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p536s2">皆因暑邪入心<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p536s3">不能已者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p536s4">可於<c n="《"/>局方<c n="》"/>抱龍丸三五粒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p536s5">用金銀薄荷湯化下<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p536s6">所有金銀薄荷者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p536s7">貓兒薄荷<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p536s8">又有龍腦薄荷者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p536s9">是也<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p538">
+          <seg xml:id="KR3ed129_jc_000-d3.p538s1">第六十八證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p540">
+          <seg xml:id="KR3ed129_jc_000-d3.p540s1">疳病尫羸是小兒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p540s2">保童丸內入蕪荑<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p542">
+          <seg xml:id="KR3ed129_jc_000-d3.p542s1">更兼苦楝並君子<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p542s2">等得孩兒日漸肥<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p544">
+          <seg xml:id="KR3ed129_jc_000-d3.p544s1">小兒疳病<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p544s2">令兒日漸羸瘦<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p544s3">飲食不為肌膚<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p544s4">可於<c n="《"/>局方<c n="》"/>內五疳保童丸五貼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p544s5">加蕪荑三大錢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p544s6">苦楝根三錢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p544s7">使君子三錢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p544s8">同保童丸為細末<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p544s9">麵糊為丸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p544s10">如梧桐子大<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p544s11">每服三十丸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p544s12">用米飲送下<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p544s13">甚有功效<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p546">
+          <seg xml:id="KR3ed129_jc_000-d3.p546s1">第六十九證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p548">
+          <seg xml:id="KR3ed129_jc_000-d3.p548s1">老人腎弱齒浮疼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p548s2">涼藥頻施不斷根<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p550">
+          <seg xml:id="KR3ed129_jc_000-d3.p550s1">肥皂藏鹽燒煅黑<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p550s2">揩牙常用白如銀<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p552">
+          <seg xml:id="KR3ed129_jc_000-d3.p552s1">老人齒痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p552s2">皆因腎氣虛弱<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p552s3">或因常涼藥揩於牙根<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p552s4">但用肥皂一枚<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p552s5">去核<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p552s6">入鹽在內<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p552s7">用鐵線扎合<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p552s8">以鹽泥固封於爐內<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p552s9">火煅令黑<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p552s10">研為細末<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p552s11">每日於晨朝<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p552s12">常用揩牙<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p552s13">固齒定疼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p552s14">效如神<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p554">
+          <seg xml:id="KR3ed129_jc_000-d3.p554s1">第七十證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p556">
+          <seg xml:id="KR3ed129_jc_000-d3.p556s1">牙齒浮疼腎氣虛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p556s2">每回發作不能除<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p558">
+          <seg xml:id="KR3ed129_jc_000-d3.p558s1">𤛑君黑錫排風送<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p558s2">固齒牢牙痛卻祛<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p560">
+          <seg xml:id="KR3ed129_jc_000-d3.p560s1">牙齒浮疼者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p560s2">皆因血氣衰弱<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p560s3">陽明脈虛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p560s4">用<c n="《"/>局方<c n="》"/>排風湯一貼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p560s5">水二盞<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p560s6">入生薑三片<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p560s7">煎至一盞<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p560s8">去滓<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p560s9">分作二服<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p560s10">送下<c n="《"/>局方<c n="》"/>黑錫丹半貼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p560s11">其效有若神功矣<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p562">
+          <seg xml:id="KR3ed129_jc_000-d3.p562s1">第七十一證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p564">
+          <seg xml:id="KR3ed129_jc_000-d3.p564s1">風熱攻衝眼目暗<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p564s2">神方火煅石爐甘<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p566">
+          <seg xml:id="KR3ed129_jc_000-d3.p566s1">細末黃連同合和<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p566s2">熱湯浸洗便為良<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p568">
+          <seg xml:id="KR3ed129_jc_000-d3.p568s1">夫眼者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p568s2">五臟六腑之精華<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p568s3">一身之珍寶<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p568s4">風熱攻衝<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p568s5">令人眼目昏暗<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p568s6">可用爐甘石二兩<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p568s7">火燒一晝夜<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p568s8">須是真者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p568s9">研令極細<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p568s10">又用黃連二兩<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p568s11">揀淨同為細末<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p568s12">每用白湯浸藥洗眼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p568s13">更用青末搐鼻<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p568s14">列之於後<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p570">
+          <seg xml:id="KR3ed129_jc_000-d3.p570s1">第七十二證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p572">
+          <seg xml:id="KR3ed129_jc_000-d3.p572s1">目赤頭風疼且癢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p572s2">藿香晉礬各一兩<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p574">
+          <seg xml:id="KR3ed129_jc_000-d3.p574s1">朴硝香麝及螺青<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p574s2">搐入鼻中痛必減<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p576">
+          <seg xml:id="KR3ed129_jc_000-d3.p576s1">頭風之病<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p576s2">皆因風邪注於腦戶<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p576s3">令人眼目昏疼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p576s4">羞明怕日<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p576s5">或腫或癢<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p576s6">每用晉礬<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p576s7">藿香各一兩<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p576s8">螺青<c n="、"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p576s9">朴硝各三錢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p576s10">同為細末<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p576s11">入麝香半錢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p576s12">又研令勻<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p576s13">每用少許搐入鼻中<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p576s14">其效必減<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p576s15">又方<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p576s16">又良薑三錢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p576s17">甚妙<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p578">
+          <seg xml:id="KR3ed129_jc_000-d3.p578s1">第七十三證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p580">
+          <seg xml:id="KR3ed129_jc_000-d3.p580s1">冷淚眸昏多腦寒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p580s2">先因涼藥損於肝<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p582">
+          <seg xml:id="KR3ed129_jc_000-d3.p582s1">每朝洗面湯揩捊<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p582s2">豁眼勝將妙藥餐<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p584">
+          <seg xml:id="KR3ed129_jc_000-d3.p584s1">老人目昏者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p584s2">皆因先用涼藥過度<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p584s3">損於肝經<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p584s4">以致眼目昏暗<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p584s5">腦冷寒淚<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p584s6">可於每日洗面之水<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p584s7">先用湯豁眼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p584s8">自然明亮<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p584s9">此法勝如服藥<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p584s10">更難盡述<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p586">
+          <seg xml:id="KR3ed129_jc_000-d3.p586s1">第七十四證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p588">
+          <seg xml:id="KR3ed129_jc_000-d3.p588s1">口瘡發熱腫連喉<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p588s2">百法醫之病不瘳<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p590">
+          <seg xml:id="KR3ed129_jc_000-d3.p590s1">爛細自然蘿蔔汁<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p590s2">吐涎頻漱病難留<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p592">
+          <seg xml:id="KR3ed129_jc_000-d3.p592s1">咽喉口瘡之病<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p592s2">皆因熱邪熏於上焦<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p592s3">腫痛不止<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p592s4">但用蘿蔔研爛細汁<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p592s5">頻嗽吐涎<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p592s6">用之甚妙<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p594">
+          <seg xml:id="KR3ed129_jc_000-d3.p594s1">第七十五證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p596">
+          <seg xml:id="KR3ed129_jc_000-d3.p596s1">五痔皆因腸癖生<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p596s2">忽然疼痛不能行<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p598">
+          <seg xml:id="KR3ed129_jc_000-d3.p598s1">全蠍三枚燒香餅<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p598s2">煙燻患處必去根<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p600">
+          <seg xml:id="KR3ed129_jc_000-d3.p600s1">痔疾之病<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p600s2">皆因腸間癖結<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p600s3">其證有五<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p600s4">若有斯證<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p600s5">但用全蠍三個<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p600s6">香餅一個<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p600s7">桶一個<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p600s8">先盛灰一半<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p600s9">後燒香餅紅井全蠍入在內<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p600s10">燒煙燻痔<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p600s11">此方百發百中<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p600s12">其效果然頗異<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p602">
+          <seg xml:id="KR3ed129_jc_000-d3.p602s1">第七十六證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p604">
+          <seg xml:id="KR3ed129_jc_000-d3.p604s1">金瘡出血湧如泉<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p604s2">龍骨黃連功未全<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p606">
+          <seg xml:id="KR3ed129_jc_000-d3.p606s1">一味紫蘇為細末<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p606s2">用時封扎自安痊<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p608">
+          <seg xml:id="KR3ed129_jc_000-d3.p608s1">金瘡出血<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p608s2">有如湧泉<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p608s3">不能止者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p608s4">但用多年陳紫蘇為末<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p608s5">在患處後用帕兒封扎為妙<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p610">
+          <seg xml:id="KR3ed129_jc_000-d3.p610s1">第七十七證</seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p612">
+          <seg xml:id="KR3ed129_jc_000-d3.p612s1">風寒冷凍損皮間<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p612s2">腳裂開皸步履難<c n="，"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p614">
+          <seg xml:id="KR3ed129_jc_000-d3.p614s1">五倍為末加牛髓<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p614s2">萬人傳了萬人安<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3ed129_jc_000-d3p616">
+          <seg xml:id="KR3ed129_jc_000-d3.p616s1">腳裂之患<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p616s2">因風寒吹裂皮膚<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p616s3">用五倍子半兩<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p616s4">為末<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p616s5">牛骨髓調成膏子<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p616s6">傅患處立愈<c n="。"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p616s7">如無牛髓<c n="，"/>
+          </seg>
+          <seg xml:id="KR3ed129_jc_000-d3.p616s8">往做梳兒處回買為妙<c n="。"/>
+          </seg>
+        </p>
+</div>
+    </body>
+  </text>
+</TEI>

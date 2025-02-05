@@ -1,0 +1,2028 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KR3em038">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>喉科家訓</title>
+        <author>刁步忠</author>
+      </titleStmt>
+      <extent>
+        <measure unit="char" quantity="21667"/>
+        <date when-iso="2024-02-21T13:40:49.864+09:00"/>
+      </extent>
+      <publicationStmt>
+        <p>Originally published at <ref target="https://jicheng.tw/tcm/book/index.html">中醫笈成:喉科家訓</ref>. Checkout from https://gitlab.com/jicheng/jc.data, commit aab40201, 2022-12-28.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>1918年杭州三三醫社版（<ref target="https://taiwanebook.ncl.edu.tw/zh-tw/book/NCL-9910015365">國家圖書館掃描本</ref>）</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>清</date>
+      </creation>
+      <textClass>
+        <catRef scheme="#kr-categories" target="#KR3em"/>
+        <catRef scheme="#tls-dates" target="#dat04210"/>
+      </textClass>
+    </profileDesc>
+    <encodingDesc>
+      <p>Quality: </p>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+
+<div n="h1" xml:id="KR3em038_jc_000-d2">
+        <head n="h1" xml:id="KR3em038_jc_000-d2h1">
+          <seg xml:id="KR3em038_jc_000-d2.h1s1">序</seg>
+        </head>
+        <p xml:id="KR3em038_jc_000-d2p2">
+          <seg xml:id="KR3em038_jc_000-d2.p2s1">醫之為技深且奧者也孟子曰人而無恆不可以作巫醫即人而無學問無經驗不可以為醫也且醫之為業科目繁多約言之不外內外兩科喉科者謂內科可謂外科亦可總以徒見外面固可稱曰外科而又兼之內容又不得不稱之曰內科也然則喉科既兼內外兩科則謂喉科之難倍於內科可倍於外科亦無不可夫喉科之所以難者以飲食從口入言語從口出喉而有病則飲食不便言語亦難甚至飲食不可言語不可以名稱言喉科既難於他科以實際言喉科亦難於他科故專門喉科者所以少專門喉科得以傳名者更少專門喉科得以傳各而能著書者尤少同學刁君守愚祖傳內外科其先君步忠公於研究醫書外有暇惟好古樂與余住居附近余時方在求學時代心悅而喜和之公亦不棄謬許為後生可畏者公之物故距今已十七年矣時君亦已能繼志懸壺行世今則遠近馳名矣溯君與弟同學高夫子門下時君之聰明過於幾倍余之疑字難句賴君多矣既乃分別肄業他校成家後君就醫業餘亦權宜當教君之長處口碑載道曰指到回春妙術如神也即賴君之術亦不少且余患喉蛾之症一勞即發得秘丸後愈已八載並無一發余乃知君之喉科固得祖傳秘訣而獨擅其長如是也一曰君赴敝校而以新著喉科書見告曰余之喉科素有祖傳秘訣今連心得出版流傳索序於余余笑曰君真問道於盲矣余不知醫安能序耶雖然亦有言也嘗見世入有秘傳者不肯傳有心得者不肯傳以圖自己之名利子孫之名利也今君乃宣布秘傳披露心得則君之利固不欲專矣而君之名則傳於一邑傳於一省傳於一國傳於全球傳於後世也且君之所以成此書者我不曰君之能公之能也以君之秘訣公之秘訣耳君之心得從公秘訣而得耳顯親揚名君得其處可謂孝子矣且君索序於余時余曰此書常寄至書坊一經審定便可值洋若干版權所有豈不善乎而君竟不以利為貴而以名為貴願投稿於三三醫社不為賣品以與同志者交換知識尤為近世所難得者也至內容之奧妙內容之精晰已有沈光漢詳言之予可不言矣</seg>
+        </p>
+<p xml:id="KR3em038_jc_000-d2p4">
+          <seg xml:id="KR3em038_jc_000-d2.p4s1">民國十三年夏正十一月祟明縣第六初級小學校長楊漢春序於戚家唸佛室</seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3em038_jc_000-d3">
+        <head n="h1" xml:id="KR3em038_jc_000-d3h1">
+          <seg xml:id="KR3em038_jc_000-d3.h1s1">序</seg>
+        </head>
+        <p xml:id="KR3em038_jc_000-d3p2">
+          <seg xml:id="KR3em038_jc_000-d3.p2s1">喉者屬肺陽氣之所呼吸上下也咽者屬胃飲食之所咽納運化也故凡咽喉二道人身之要會出入之門戶可邈視乎而少陽少陰無事則已有事必借途於肺胃而上薰咽喉腫塞疼痛碎燜臭腐呼吸不利氣閉喘促飲食不下煩冤壯熱敗症百出其勢洶湧則朝生而暮死可判焉宜不可犯犯之孰不畏首畏尾以生命存亡視乎咽喉之瞬息而其症七十有二悉因六淫外侵七情內捩即喉娥癰痹乃作也此際苟非良醫為治則開門固守力難抗衡然則雖庸夫俗子知其患之不淺也故余當以不忍仁心欲為一援<space n="　" quantity="1"/>手無如古少傳書今乏妙術大可痛恨幸余師守愚家學森森以喉科彰著豈知家藏秘本有年一旦復以三十餘年之見解苦心壹志遂刪補舊章定修新論以司天運氣大過不及表裡寒熱虛實盛衰洞明陰陽究察造化為處方關鍵通關針穴釣痰盪滌化腐生肌為外治大綱分訂兩卷復以白喉喉痧證治又為兩卷以成全豹庶無餘蘊矣命名家調意夫子上不負先祖之之功程下不荀子弟之倦誨中以保存入命鳴呼厥功偉矣余少遊其門而夫子披肝露膽不以我為愚蓋知我之慎也故曰得光明勝義如坐春風之中仰沾時雨之化悉奉衣缽真傳他若修已之長促人之短欺名圖利者莫我若也願後生小子勉之漢也不敏聊為我心說衷而已時在</seg>
+        </p>
+<p xml:id="KR3em038_jc_000-d3p4">
+          <seg xml:id="KR3em038_jc_000-d3.p4s1">丁已歲次仲秋朔日<space n="　" quantity="1"/>弟子沈光漢謹識於家居之草廬</seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3em038_jc_000-d4">
+        <head n="h1" xml:id="KR3em038_jc_000-d4h1">
+          <seg xml:id="KR3em038_jc_000-d4.h1s1">自序</seg>
+        </head>
+        <p xml:id="KR3em038_jc_000-d4p2">
+          <seg xml:id="KR3em038_jc_000-d4.p2s1">咽以咽物喉以候氣乃呼吸之門水穀之竅斯為最要之地也而最要之處若被六淫上侵七情濰結一旦染疾氣道遂閉呼吸困難痰塞氣逆腫腐痛甚而身形拘急不舒僧寒惡熱是病之險象百出莫能止也當此之時雖有外科之專門而不有內服煎劑內毒何能透解內科之專用湯藥而手術不施上竅仍阻藥難下咽矣前哲云涸喉諸病介乎內外之間擇醫務欲內外精詳可以起死回生庶不愧為專門家也愚受先君之傳略知內外原因閱歷二十年矣臨證經念以虛實二字為宗旨輯成喉科家訓一書皆依先君之傳兼古今學說及已所心得悉登是集流傳於世俾初學之輩略知喉科法門臨證醫治庶不致南轅北轍之弊耳愚愧不能揚吾父之志也</seg>
+        </p>
+<p xml:id="KR3em038_jc_000-d4p4">
+          <seg xml:id="KR3em038_jc_000-d4.p4s1">時在</seg>
+        </p>
+<p xml:id="KR3em038_jc_000-d4p6">
+          <seg xml:id="KR3em038_jc_000-d4.p6s1">中華民國七年陰曆六月十有七日江蘇崇明外沙中醫刁質明守愚氏自題於延壽醫室</seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3em038_jc_000-d5">
+        <head n="h1" xml:id="KR3em038_jc_000-d5h1">
+          <seg xml:id="KR3em038_jc_000-d5.h1s1">詩</seg>
+        </head>
+        <p xml:id="KR3em038_jc_000-d5p2">
+          <seg xml:id="KR3em038_jc_000-d5.p2s1">餘年十七甫成冠<space n="　" quantity="1"/>翻閱家書愈見難</seg>
+        </p>
+<p xml:id="KR3em038_jc_000-d5p4">
+          <seg xml:id="KR3em038_jc_000-d5.p4s1">深羨古人榮譽處<space n="　" quantity="1"/>慣常日夜不能安</seg>
+        </p>
+<p xml:id="KR3em038_jc_000-d5p6">
+          <seg xml:id="KR3em038_jc_000-d5.p6s1">不為良相願良醫<space n="　" quantity="1"/>書意昏迷似半癡</seg>
+        </p>
+<p xml:id="KR3em038_jc_000-d5p8">
+          <seg xml:id="KR3em038_jc_000-d5.p8s1">審得喉科無善卷<space n="　" quantity="1"/>紛繁散亂總難知</seg>
+        </p>
+<p xml:id="KR3em038_jc_000-d5p10">
+          <seg xml:id="KR3em038_jc_000-d5.p10s1">喉科秘訣祖遺風<space n="　" quantity="1"/>家父流傳使我宗</seg>
+        </p>
+<p xml:id="KR3em038_jc_000-d5p12">
+          <seg xml:id="KR3em038_jc_000-d5.p12s1">表裡陰陽虛實症<space n="　" quantity="1"/>內傷外感在其中</seg>
+        </p>
+<p xml:id="KR3em038_jc_000-d5p14">
+          <seg xml:id="KR3em038_jc_000-d5.p14s1">中華民國十三年陰曆十一月之望孫繼沖詠於延壽醫室</seg>
+        </p>
+
+</div>
+      <div type="juan" n="1" xml:id="KR3em038_jc_000-d6">
+        <head n="h1" xml:id="KR3em038_jc_001-d6h1">
+          <seg xml:id="KR3em038_jc_001-d6.h1s1">重訂喉科家訓卷一</seg>
+        </head>
+        <div n="h2" xml:id="KR3em038_jc_001-d6d2">
+          <head n="h2" xml:id="KR3em038_jc_001-d6.d2h1">
+            <seg xml:id="KR3em038_jc_001-d6.d2.h1s1">第一章　內經咽喉精義</seg>
+          </head>
+          <p xml:id="KR3em038_jc_001-d6.d2p2">
+            <seg xml:id="KR3em038_jc_001-d6.d2.p2s1">咽喉各症頭緒紛繁內經三陰三陽任督皆有喉症今先以經義述之於前再以療法書上於後庶幾臨證稍有把握經云足陽明之別上絡頭項合經之氣下絡喉嗌其病氣逆喉痹瘁疳足陽明其支循喉嚨其痛頸腫喉痹手陽明為病頸腫口乾喉痹手陽明少陽厥逆發喉痹嗌腫喉痹不能言取足陽明能言取手陽明三焦手少陽也是動則病嗌腫喉痹邪客於手少陽之絡令人喉痹舌捲口乾少陽司天三之氣喉痹目赤善暴死少陽司無客勝則丹胗外發喉痹頸痛嗌腫膽足少陽也肝中之將他取法於膽咽為之使手太陽脈人缺盆循咽丁膈為病有嗌痛太陽在泉寒淫所勝民病嗌痛領腫足太陰之脈上挾咽連舌本為病有舌本強舌本痹痛太陸在泉嗌腫喉痹太陰之勝喉痹項強厥陰所謂甚者咽乾熱中者陰陽相簿而熱故嗌乾也足厥墜之脈循喉嚨之後為病有嗌乾足少陰之脈循喉嚨挾舌本為病有口熱舌乾咽腫嗌乾及痛手少陰脈出心繫上挾咽為病有嗌乾少陰司天嗌乾腫上嗌乾口中熱如SH熮取足少陰邪容於足少陰之絡令人嗌痛不可納食無故善怒衝任之脈起於胞中循背內為經絡之海循腹上行會於咽喉絡於唇口督脈為病嗌乾三陰三陽及奇脈俱有咽喉之疾也十二經中惟太陽行腦後由背上行其餘各經皆絡於咽喉也</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d2p4">
+            <seg xml:id="KR3em038_jc_001-d6.d2.p4s1">內經獨取心與三焦為主有何也蓋心為人臟少陰君火屬之諸瘡痛養無不由於心也三焦即網油也小陽相火屬之上連心肺中兼脾胃肝膽下連腎膀大小腸又為水之道也五藏六腑其油膜無不貫通且左咽胃也右喉肺也肺為制節五臟之SH氣開竅於鼻主皮毛胃為谷海職司出納乃九竅六府之長開竅於口又主肌肉所以風熱犯上瘟疫流行之症以四經為宗旨也肺胃為咽喉之部位心與三焦二脈共絡於喉也故內經謂一陰一陽結而生痹或外感六淫或內傷熱蒸其始由於氣熱故痹於處也氣熱結而血不行則腫脹阻氣難以呼吸此喉痹之所由名而喉閉纏喉乳娥等名皆痹之謂也</seg>
+          </p>
+
+</div>
+        <div n="h2" xml:id="KR3em038_jc_001-d6d3">
+          <head n="h2" xml:id="KR3em038_jc_001-d6.d3h1">
+            <seg xml:id="KR3em038_jc_001-d6.d3.h1s1">第二章　咽喉臟腑統宗</seg>
+          </head>
+          <p xml:id="KR3em038_jc_001-d6.d3p2">
+            <seg xml:id="KR3em038_jc_001-d6.d3.p2s1">咽喉其竅則一其路兩歧經曰咽喉者水穀之道也咽喉小腸者傳送也喉嚨者氣之所以上下也又云天氣通於肺地氣通於嗌喉為肺之系咽為胃之系天之風寒暑濕燥從喉入肺地之臊焦香腥腐從咽入胃也以此悟之喉者主氣之上下由肺入心由心入脾由脾入肝由肝入腎貫通五藏藏而不泄使呼吸者也咽者水穀之道路由咽人胃由胃入小腸化糟粕泌水穀分人膀胱大腸貫通六府泄而不藏使傳送者也由此觀之嚦喉顯然兩途也</seg>
+          </p>
+
+</div>
+        <div n="h2" xml:id="KR3em038_jc_001-d6d4">
+          <head n="h2" xml:id="KR3em038_jc_001-d6.d4h1">
+            <seg xml:id="KR3em038_jc_001-d6.d4.h1s1">第三章　三陰三陽主在少陰少陽</seg>
+          </head>
+          <p xml:id="KR3em038_jc_001-d6.d4p2">
+            <seg xml:id="KR3em038_jc_001-d6.d4.p2s1">內經云一陰一陽結謂之喉痹之訓余細思之少陰君火一陰也少陽相火一陽也因指火而言之也君火打少陰雌官之火也相火者祀罟坎宮之火也手少陰心脈挾咽足少陰腎脈系喉嚨三焦為水火之道路君相二火假道相通坎離既濟水火平勻咽喉本無疾病二火獨勝氣熱火結三焦道路閉塞陰不能上承陽不能下降氣熱則結結則腫腫痹痹甚則不通而危矣此咽喉經義三陽三陰取法則在少陰少陽之謂也</seg>
+          </p>
+
+</div>
+        <div n="h2" xml:id="KR3em038_jc_001-d6d5">
+          <head n="h2" xml:id="KR3em038_jc_001-d6.d5h1">
+            <seg xml:id="KR3em038_jc_001-d6.d5.h1s1">第四章　診斷簡明</seg>
+          </head>
+          <p xml:id="KR3em038_jc_001-d6.d5p2">
+            <seg xml:id="KR3em038_jc_001-d6.d5.p2s1">喉症外治但觀形象施方療治必求脈舌如右寸洪緊肺家感風也兩關浮數胃火肝風弦滑風痰也緩滑濕痰也左寸浮洪心火也右寸沉遲肺家寒也右寸沉細肺蘊熱也右尺洪大三焦火旺也左尺浮洪而有力腎虛火炎也紅腫而脈洪風火也爛而不腫脈象沉實結毒也細數而浮者虛火也細而緩者虛寒也此診斷之大略也舌乃心之苗也凡病俱現於舌能辨其色症自顯然舌胎白膩客邪未化熱也又主濕蘊痰滯苔黃主熱焦黃熱甚燥黑熱極務須視其有津無津有津而無憎寒惡熱但覺神疲手足有時作冷乃下元龍雷之火上升忌投涼劑宜以引火歸原之無津而執甚神志糊手足瘛瘲禁用熱藥宜以滋液化火熄風之法總之無率氣襲人身中必次第傳變臨證之時察形窮原對症施藥自然可愈內經云神聖功巧不過望聞問切細心推詳方可無誤也此望舌之大略也尚祈明師裁政之</seg>
+          </p>
+
+</div>
+        <div n="h2" xml:id="KR3em038_jc_001-d6d6">
+          <head n="h2" xml:id="KR3em038_jc_001-d6.d6h1">
+            <seg xml:id="KR3em038_jc_001-d6.d6.h1s1">第五章　喉部識經</seg>
+          </head>
+          <p xml:id="KR3em038_jc_001-d6.d6p2">
+            <seg xml:id="KR3em038_jc_001-d6.d6.p2s1">咽喉二孔左旎納食消化之關也右能納氣吸引空氣之所也乃肺胃二經之部位也先哲云乃一身百節之竅呼吸出入之處也方寸之地受病最速若不識經辨證而為能施方療治乎如卜眯屬胃陽下肥屬脾陰舌中心也四圍脾也舌根舨腎小舌名蔽丁屬胃喉之友右舌根屬肝外咐耳垂下亦屬肝牙齒屬腎牙齦上屬肯下屬脾上唇屬脾下唇屬胃此喉部識經之大略也如有夫到之處祈高明政之</seg>
+          </p>
+
+</div>
+        <div n="h2" xml:id="KR3em038_jc_001-d6d7">
+          <head n="h2" xml:id="KR3em038_jc_001-d6.d7h1">
+            <seg xml:id="KR3em038_jc_001-d6.d7.h1s1">第六章　喉證虛實宜辨</seg>
+          </head>
+          <p xml:id="KR3em038_jc_001-d6.d7p2">
+            <seg xml:id="KR3em038_jc_001-d6.d7.p2s1">咽喉一科先哲有三十六七十二種之硎也但名目雖多治法不比虛實二字余細思之不必多立病名往亂心口也若外感之邪為實則風熱犯土瘟疫流行治之在急緩則傷入外來暴熱若不仰盆焚雨熱勢靴消治法不出乎辛涼內生之火偽虛寒氣凝結真陽閉郁虛陽雷電土騰若不雌照當空陰霾不嚨消散龍雷斷難潛伏治法故以熱藥導之也有餘之火為實由於酒濕薰蒸肝氣鬱遏厚味壅熱皆有餘之火也祗能因其症而擇用療治不足之火為虛水虧火旺津液被傷精血枯耗治宜甘緩滋降此辨明虛實原因之大意也</seg>
+          </p>
+
+</div>
+        <div n="h2" xml:id="KR3em038_jc_001-d6d8">
+          <head n="h2" xml:id="KR3em038_jc_001-d6.d8h1">
+            <seg xml:id="KR3em038_jc_001-d6.d8.h1s1">第七章　決斷生死看法</seg>
+          </head>
+          <p xml:id="KR3em038_jc_001-d6.d8p2">
+            <seg xml:id="KR3em038_jc_001-d6.d8.p2s1">昔質云喉症有生髮二端生者提一處而言發者言全身皆病也生者輕而發者重也臨症用藥生死最速醫者不可懷希冀之心故意延挨病者不可起懈怠之念以致決裂古云走馬看咽喉不待少傾者此之謂也審其病由參之時令諸法中酌擇內外方法療治之徒痰少腫退為妙已潰用藥之後越二日自能飲食三日後可收全功喉癬療治之後患處貴變紅色能知痛痿有津液潤澤可治輕症固先祝喉重症先由診斷定其脈舌吉凶後觀患處深淺若脈微欲絕七怪相顯則已毋須用藥矣因毒已入腹採薪之機也如虛弱之人病勢猛烈務使旁人扶好診視或通關或探吐或針穴或吹藥因症治療內沃如風熱散之火症清之甚者下之陰寒溫之若熱症而用溫劑灼燃津液症必致變寒症面用涼劑則上熱未除中寒復生其邪乘虛而入喘喝人休死不治矣又有昏迷痰多氣喘水穀難入發熱不退牙關緊閉脈形微弱難治也人事不醒痰氣上衝聲如雷鳴嗆食眼張天柱倒陷面黑苔焦鼻如煙煤張煽不定目晴突出汗出如雨咽喉乾痛聲啞無痰手足麻至膝盜喘喝及呃脈象如絲不治之症也又如纏喉風及弱症喉癬二症最險而難治至危而不易識纏喉風內外無形其患在關內上面紅絲纏繞如未人心尚可療治已入心則不治也遇此務須早治不過十二鐘頭即斃命也若質弱之人及小兒在於六點鐘上數也弱症喉癬形有青白點子高低大小狀如暑天㾦子其症難危延日最久多則一年半載少則一月半月而死初起治之得法十症可愈八九如遇夜晚看症即用刀針宜倍加細心否者難腫塞難嚥只可用藥針法恐誤別處要穴也凡針舌下兩邊青筋血紅可治血黑難醫藥宜清膈化痰解毒之劑又看病人強壯可用猛藥盪滌病後劃稟賦質弱治宜平和緩劑此喉科決斷生死看法之秘旨務須仔細研究可以臨證無誤也</seg>
+          </p>
+
+</div>
+        <div n="h2" xml:id="KR3em038_jc_001-d6d9">
+          <head n="h2" xml:id="KR3em038_jc_001-d6.d9h1">
+            <seg xml:id="KR3em038_jc_001-d6.d9.h1s1">第八章　咽喉外治各法</seg>
+          </head>
+          <p xml:id="KR3em038_jc_001-d6.d9p2">
+            <seg xml:id="KR3em038_jc_001-d6.d9.p2s1">咽喉諸症如內虛所發則宜煎劑治之稍佐吹藥若外感各症不得不用外治今將外治各法條例於後</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d9p4">
+            <seg xml:id="KR3em038_jc_001-d6.d9.p4s1">一通關<space n="　" quantity="1"/>喉證閉塞不通痰阻孔竅呼吸困難先以刻歡丹吹入鼻中使其噴嚏通其氣管開其關竅俾牙關稍松為首務也</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d9p6">
+            <seg xml:id="KR3em038_jc_001-d6.d9.p6s1">二針法<space n="　" quantity="1"/>喉證風痰上升氣血閉塞結為熱毒腫脹牙關緊急筋脈拘孿難以開闔急針大指內甲角少商穴以通氣道食指外甲角商陽穴即肺之腑也中指中甲下中衝穴行其心包之血絡無名指內甲角關衝穴能利三焦水道小指內甲角少衝穴即心之腑也俾氣血流通風痰自散雖有諸方調治而神速莫如氣針誠諸藥之先鋒喉家之妙法也</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d9p8">
+            <seg xml:id="KR3em038_jc_001-d6.d9.p8s1">三探吐<space n="　" quantity="1"/>通關針法之後以待牙關稍松略能開闊即用捺舌捺至舌中視其喉間形象分其關之內外或兩旁紅腫或不腫而腐或腫腐並作如痰涎上壅速行探吐輕法以消清散少許放杯中再以浴喉盪滌水二十滴調勻用鵝毛醮之向喉中攪去痰涎重法以元叫月石制牙皂研勻以酸醋和之名酸粉液亦加上法吐去毒涎為上</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d9p10">
+            <seg xml:id="KR3em038_jc_001-d6.d9.p10s1">四喉針法<space n="　" quantity="1"/>喉證紅色腫痛湯藥難嚥視之已近小舌呼吸不利用喉鎗經手刺破紫血或膿命病者嘔淨即以浴喉盪滌水使患人漱入口中仰天搖盪洗去毒涎為妙隨症擇以對病吹藥一切咽喉病腫服痛甚水穀難入將用何法治之乎此際惟針法可用其法已申不必復贅但見近世醫士觀症咽喉腫已脹塞之時彼云此症切不可針若針破之後常發不已試問常此險時不宗放膿之法侍其斃命即永久不發之說也良可嘆也吾見此輩甚多實系無有師承自已手術不能也學者究之</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d9p12">
+            <seg xml:id="KR3em038_jc_001-d6.d9.p12s1">忌針之地不可不知嚨化啞門兩拗上舌下筋此四處刀針不可犯也切記之</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d9p14">
+            <seg xml:id="KR3em038_jc_001-d6.d9.p14s1">五用鉗法<space n="　" quantity="1"/>一切喉症腐爛成塊或白條或腫或不腫用喉鉗輕手接去腐肉務要仔細接淨若單腫用喉針已見上條</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d9p16">
+            <seg xml:id="KR3em038_jc_001-d6.d9.p16s1">六噙漱<space n="　" quantity="1"/>咽喉之症紅腫痛甚用冰梅丸漱之能消腫解毒生津退炎再用導痰救苦丹服之能盪滌藏府氣血之毒火消諸經壅滯之痰氣腐爛臭穢始終可用浴喉盪滌水頻頻漱之能收解穢化毒除腐之功也</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d9p18">
+            <seg xml:id="KR3em038_jc_001-d6.d9.p18s1">七提泡<space n="　" quantity="1"/>咽喉無病喉外兩筋柔軟有病則兩櫬堅強宜用薄荷油搽上提拔二十餘回再用巽功散如豆大置膏中貼於喉外十二點鐘吸下如有水泡以銀針挑破用三妙膏貼上如外腮腫用新方吸毒膏貼之或用如聖圍毒藥敷之冀其腫退或令速潰為上</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d9p20">
+            <seg xml:id="KR3em038_jc_001-d6.d9.p20s1">八吹散<space n="　" quantity="1"/>吹藥務宜憑症而用雖云外治亦不可龍統治之一切咽喉腫痛吹以消清散或玉鑰匙散腐爛不腫或有腫腐吹以珠黃散結毒腐爛吹以十簧丹喉痧腐潰錫顯散或以喉痧門三種吹之牙疳腐爛赤箱散吹之咽喉口舌統治奪命猴棗散吹喉賽珍丹中自散俱可擇用若內虛咽痛則宜紫珍入寶丹鳳衣散吹之又如奪命棗丹塞鼻孔之一法亦為上策也</seg>
+          </p>
+
+</div>
+        <div n="h2" xml:id="KR3em038_jc_001-d6d10">
+          <head n="h2" xml:id="KR3em038_jc_001-d6.d10h1">
+            <seg xml:id="KR3em038_jc_001-d6.d10.h1s1">附喉外結腫說</seg>
+          </head>
+          <p xml:id="KR3em038_jc_001-d6.d10p2">
+            <seg xml:id="KR3em038_jc_001-d6.d10.p2s1">經云三焦與少陽司相火故有咽喉腫脹或致白腐何以喉外亦腫堅成毒哉因思蕉絡於咽喉兼之少陽膽經或受疫厲之氣或受風熱燙毒勢必循經上衝氣滯血凝不得流通之故耳內經又云營氣不從逆於肉裡也治宜清火敗毒熄風為主結腫之形色紅潤而聚腫者生也平塌色淡者難治也平而不紅麻癢不疼或痛甚上連耳與太陽下及頸項不治之症也</seg>
+          </p>
+
+</div>
+        <div n="h2" xml:id="KR3em038_jc_001-d6d11">
+          <head n="h2" xml:id="KR3em038_jc_001-d6.d11h1">
+            <seg xml:id="KR3em038_jc_001-d6.d11.h1s1">附探吐太過有宜不宜說</seg>
+          </head>
+          <p xml:id="KR3em038_jc_001-d6.d11p2">
+            <seg xml:id="KR3em038_jc_001-d6.d11.p2s1">探吐去痰前條已詳不必再贅實痰上壅故用之以為善也然探痰不宜太過過則津液傷盡現雖似好不時即加喘喝斃命余見甚多慎勿因循誤事後學審之內虛勉之</seg>
+          </p>
+
+</div>
+        <div n="h2" xml:id="KR3em038_jc_001-d6d12">
+          <head n="h2" xml:id="KR3em038_jc_001-d6.d12h1">
+            <seg xml:id="KR3em038_jc_001-d6.d12.h1s1">第九章　醫士臨症備急衙生藥庫</seg>
+          </head>
+          <p xml:id="KR3em038_jc_001-d6.d12p2">
+            <seg xml:id="KR3em038_jc_001-d6.d12.p2s1">刻歡丹</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d12p4">
+            <seg xml:id="KR3em038_jc_001-d6.d12.p4s1">治一切咽喉急症痰厥氣閉及時行痧脹諸般急症</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d12p6">
+            <seg xml:id="KR3em038_jc_001-d6.d12.p6s1">真關黃<c n="("/>一分<c n=")"/>
+              <space n="　" quantity="1"/>原寸香<c n="("/>一分<c n=")"/>
+              <space n="　" quantity="1"/>三梅片<c n="("/>一分<c n=")"/>
+              <space n="　" quantity="1"/>鬧羊花<c n="("/>三分<c n=")"/>
+              <space n="　" quantity="1"/>真蟾酥</seg>
+            <seg type="comm" xml:id="KR3em038_jc_001-d6.d12.p6s2">
+              <c n="（"/>一分五釐<c n="）"/>
+            </seg>
+            <seg xml:id="KR3em038_jc_001-d6.d12.p6s3">
+              <space n="　" quantity="1"/>豬牙皂<c n="("/>三分<c n=")"/>
+              <space n="　" quantity="1"/>北細辛<c n="("/>二分<c n=")"/>
+              <space n="　" quantity="1"/>燈草灰<c n="("/>一錢<c n=")"/>
+              <space n="　" quantity="1"/>真金箔<c n="("/>十張<c n=")"/>
+              <space n="　" quantity="1"/>真川芎<c n="("/>一分<c n=")"/>
+              <space n="　" quantity="1"/>共研極細末磁瓶收貯遇急症吹鼻取嚏</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d12p8">
+            <seg xml:id="KR3em038_jc_001-d6.d12.p8s1">消清散</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d12p10">
+            <seg xml:id="KR3em038_jc_001-d6.d12.p10s1">治一切咽喉紅腫作痛能消腫毒治風痰殺微生退炎熱</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d12p12">
+            <seg xml:id="KR3em038_jc_001-d6.d12.p12s1">馬牙硝</seg>
+            <seg type="comm" xml:id="KR3em038_jc_001-d6.d12.p12s2">
+              <c n="（"/>一錢八分<c n="）"/>
+            </seg>
+            <seg xml:id="KR3em038_jc_001-d6.d12.p12s3">
+              <space n="　" quantity="1"/>真蒲黃<c n="("/>四分<c n=")"/>
+              <space n="　" quantity="1"/>制殭蠶<c n="("/>一分<c n=")"/>
+              <space n="　" quantity="1"/>制牙皂<c n="("/>一分<c n=")"/>
+              <space n="　" quantity="1"/>三梅片<c n="("/>一分<c n=")"/>
+              <space n="　" quantity="1"/>上藥以牙硝蒲黃先研次下殭蠶牙皂共研如鵝黃之色再入冰片研極細未聽用</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d12p14">
+            <seg xml:id="KR3em038_jc_001-d6.d12.p14s1">盪滌水</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d12p16">
+            <seg xml:id="KR3em038_jc_001-d6.d12.p16s1">治一切咽喉腐爛臭穢不堪能闢穢解毒</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d12p18">
+            <seg xml:id="KR3em038_jc_001-d6.d12.p18s1">香白芷</seg>
+            <seg type="comm" xml:id="KR3em038_jc_001-d6.d12.p18s2">
+              <c n="（"/>二錢三<c n="）"/>
+            </seg>
+            <seg xml:id="KR3em038_jc_001-d6.d12.p18s3">
+              <space n="　" quantity="1"/>奈片<c n="("/>二錢<c n=")"/>
+              <space n="　" quantity="1"/>廣藿香<c n="("/>三錢<c n=")"/>
+              <space n="　" quantity="1"/>地骨皮</seg>
+            <seg type="comm" xml:id="KR3em038_jc_001-d6.d12.p18s4">
+              <c n="（"/>三錢二<c n="）"/>
+            </seg>
+            <seg xml:id="KR3em038_jc_001-d6.d12.p18s5">
+              <space n="　" quantity="1"/>實花<c n="("/>四錢<c n=")"/>
+              <space n="　" quantity="1"/>北細辛<c n="("/>三錢<c n=")"/>荊芥嵇<c n="("/>二錢<c n=")"/>
+              <space n="　" quantity="1"/>川柏片<c n="("/>三錢<c n=")"/>
+              <space n="　" quantity="1"/>青防風<c n="("/>三錢<c n=")"/>
+              <space n="　" quantity="1"/>生甘草<c n="("/>二錢<c n=")"/>
+              <space n="　" quantity="1"/>苦參片<c n="("/>三錢<c n=")"/>
+              <space n="　" quantity="1"/>上藥放吊鍋內蒸水用之</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d12p20">
+            <seg xml:id="KR3em038_jc_001-d6.d12.p20s1">酸粉液</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d12p22">
+            <seg xml:id="KR3em038_jc_001-d6.d12.p22s1">治咽頭喉頭各症腫痛痰多有退炎消腫除痰之功</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d12p24">
+            <seg xml:id="KR3em038_jc_001-d6.d12.p24s1">元明粉<c n="("/>五錢<c n=")"/>
+              <space n="　" quantity="1"/>西月石<c n="("/>四錢<c n=")"/>
+              <space n="　" quantity="1"/>制牙皂<c n="("/>二錢<c n=")"/>
+              <space n="　" quantity="1"/>共為細末以酸酷<c n="("/>一兩<c n=")"/>
+              <space n="　" quantity="1"/>和勻用之冰梅丸</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d12p26">
+            <seg xml:id="KR3em038_jc_001-d6.d12.p26s1">治十八種喉毒噙漱能退炎消腫化痰生津</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d12p28">
+            <seg xml:id="KR3em038_jc_001-d6.d12.p28s1">鮮南星</seg>
+            <seg type="comm" xml:id="KR3em038_jc_001-d6.d12.p28s2">
+              <c n="（"/>二十五個<c n="）"/>
+            </seg>
+            <seg xml:id="KR3em038_jc_001-d6.d12.p28s3">
+              <space n="　" quantity="1"/>元明粉<c n="("/>四兩<c n=")"/>
+              <space n="　" quantity="1"/>豬牙皂<c n="("/>四兩<c n=")"/>
+              <space n="　" quantity="1"/>白明嶸<c n="("/>四兩<c n=")"/>
+              <space n="　" quantity="1"/>食驅<c n="("/>四兩<c n=")"/>
+              <space n="　" quantity="1"/>玉桔梗一兩青防風<c n="("/>四兩<c n=")"/>
+              <space n="　" quantity="1"/>西月石<c n="("/>一兩<c n=")"/>
+              <space n="　" quantity="1"/>山豆根<c n="("/>二兩<c n=")"/>
+              <space n="　" quantity="1"/>梅</seg>
+            <seg type="comm" xml:id="KR3em038_jc_001-d6.d12.p28s4">
+              <c n="（"/>一百個<c n="）"/>
+            </seg>
+            <seg xml:id="KR3em038_jc_001-d6.d12.p28s5">
+              <space n="　" quantity="1"/>上藥先將鹽硝入水浸梅子漫漫一指為度過一日將各藥為末入水拌勻同梅子再浸七日取出曬乾再浸以藥水盡為度方將梅子入罐收之日久梅子赳白霜更妙用時以薄總包裹一枚噙口令噙出液徐徐嚥下病可霍然一丸可治三人</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d12p30">
+            <seg xml:id="KR3em038_jc_001-d6.d12.p30s1">導痰救苦丹</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d12p32">
+            <seg xml:id="KR3em038_jc_001-d6.d12.p32s1">治傷寒瘟疫不問傳經過經俱可服之及大頭瘟目赤咽腫爛喉丹疹癍毒並效</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d12p34">
+            <seg xml:id="KR3em038_jc_001-d6.d12.p34s1">錦紋大黃<c n="("/>四兩<c n=")"/>
+              <space n="　" quantity="1"/>酒拌乾制牙皂<c n="("/>二兩<c n=")"/>
+              <space n="　" quantity="1"/>上這細末糊丸如茅豆大每服五六十丸冷茅豆湯送下以汗為度</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d12p36">
+            <seg xml:id="KR3em038_jc_001-d6.d12.p36s1">玉鑰匙散</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d12p38">
+            <seg xml:id="KR3em038_jc_001-d6.d12.p38s1">治喉風蛾痹咽閉痰涎壅塞牙開緊急湯水難下元明粉</seg>
+            <seg type="comm" xml:id="KR3em038_jc_001-d6.d12.p38s2">
+              <c n="（"/>一兩五錢<c n="）"/>
+            </seg>
+            <seg xml:id="KR3em038_jc_001-d6.d12.p38s3">
+              <space n="　" quantity="1"/>西月石</seg>
+            <seg type="comm" xml:id="KR3em038_jc_001-d6.d12.p38s4">
+              <c n="（"/>五錢三<c n="）"/>
+            </seg>
+            <seg xml:id="KR3em038_jc_001-d6.d12.p38s5">
+              <space n="　" quantity="1"/>梅片</seg>
+            <seg type="comm" xml:id="KR3em038_jc_001-d6.d12.p38s6">
+              <c n="（"/>一一分五釐<c n="）"/>
+            </seg>
+            <seg xml:id="KR3em038_jc_001-d6.d12.p38s7">
+              <space n="　" quantity="1"/>制殭蠶<c n="("/>二錢<c n=")"/>
+              <space n="　" quantity="1"/>飛明雄<c n="("/>二錢<c n=")"/>
+              <space n="　" quantity="1"/>共研細末吹患處去痰涎此玉鑰匙多一味雄黃名金鑰匙散也</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d12p40">
+            <seg xml:id="KR3em038_jc_001-d6.d12.p40s1">珠黃散</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d12p42">
+            <seg xml:id="KR3em038_jc_001-d6.d12.p42s1">治爛喉痧及喉痹喉腫</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d12p44">
+            <seg xml:id="KR3em038_jc_001-d6.d12.p44s1">廣尖黃<c n="("/>五釐<c n=")"/>
+              <space n="　" quantity="1"/>燈心灰<c n="("/>五釐<c n=")"/>
+              <space n="　" quantity="1"/>三梅片<c n="("/>三釐<c n=")"/>
+              <space n="　" quantity="1"/>象牙屑<c n="("/>二分<c n=")"/>
+              <space n="　" quantity="1"/>明珍珠<c n="("/>二分<c n=")"/>
+              <space n="　" quantity="1"/>人指甲<c n="("/>一分<c n=")"/>薄荷葉<c n="("/>一分<c n=")"/>
+              <space n="　" quantity="1"/>人中黃<c n="("/>一分<c n=")"/>
+              <space n="　" quantity="1"/>人中白<c n="("/>一分<c n=")"/>
+              <space n="　" quantity="1"/>西硼砂<c n="("/>一分<c n=")"/>
+              <space n="　" quantity="1"/>淨青黛<c n="("/>三分<c n=")"/>
+              <space n="　" quantity="1"/>壁SH蟢窠<c n="("/>三十<c n=")"/>
+              <space n="　" quantity="1"/>個共為末吹患處又方治爛喉疳腫腐湯水難入者並治遠年爛喉結毒腐去蒂丁及幼孩口疳口糜等症</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d12p46">
+            <seg xml:id="KR3em038_jc_001-d6.d12.p46s1">真犀黃分飛辰砂<c n="("/>一錢<c n=")"/>
+              <space n="　" quantity="1"/>滴乳石<c n="("/>一錢<c n=")"/>
+              <space n="　" quantity="1"/>大梅片<c n="("/>一分<c n=")"/>
+              <space n="　" quantity="1"/>孩兒茶<c n="("/>一錢<c n=")"/>
+              <space n="　" quantity="1"/>原寸香<c n="("/>三分<c n=")"/>
+              <space n="　" quantity="1"/>上珍珠<c n="("/>三分<c n=")"/>
+              <space n="　" quantity="1"/>飛雄精<c n="("/>一錢<c n=")"/>
+              <space n="　" quantity="1"/>西月石</seg>
+            <seg type="comm" xml:id="KR3em038_jc_001-d6.d12.p46s2">
+              <c n="（"/>一分五釐<c n="）"/>
+            </seg>
+            <seg xml:id="KR3em038_jc_001-d6.d12.p46s3">
+              <space n="　" quantity="1"/>人中白</seg>
+            <seg type="comm" xml:id="KR3em038_jc_001-d6.d12.p46s4">
+              <c n="（"/>一錢五分<c n="）"/>
+            </seg>
+            <seg xml:id="KR3em038_jc_001-d6.d12.p46s5">
+              <space n="　" quantity="1"/>共為細粉臨症用之最為神效</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d12p48">
+            <seg xml:id="KR3em038_jc_001-d6.d12.p48s1">十寶丹</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d12p50">
+            <seg xml:id="KR3em038_jc_001-d6.d12.p50s1">治一切口舌白腐或腫痛並治喉蛾癰痹喉內腐潰等證吹之神效</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d12p52">
+            <seg xml:id="KR3em038_jc_001-d6.d12.p52s1">薄荷<c n="("/>一兩<c n=")"/>
+              <space n="　" quantity="1"/>生甘草<c n="("/>五線<c n=")"/>
+              <space n="　" quantity="1"/>孩兒茶<c n="("/>二兩<c n=")"/>
+              <space n="　" quantity="1"/>滴乳石<c n="("/>四錢<c n=")"/>
+              <space n="　" quantity="1"/>真琥珀<c n="("/>三錢<c n=")"/>
+              <space n="　" quantity="1"/>雪梅丹<c n="("/>一兩<c n=")"/>上水片<c n="("/>四錢<c n=")"/>
+              <space n="　" quantity="1"/>真血竭錢明珍珠<c n="("/>三錢<c n=")"/>
+              <space n="　" quantity="1"/>犀牛黃<c n="("/>一錢<c n=")"/>
+              <space n="　" quantity="1"/>右藥共研極細末臨時照症應用</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d12p54">
+            <seg xml:id="KR3em038_jc_001-d6.d12.p54s1">錫類散</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d12p56">
+            <seg xml:id="KR3em038_jc_001-d6.d12.p56s1">治一切咽喉腫腐及爛喉丹痧吹之如神</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d12p58">
+            <seg xml:id="KR3em038_jc_001-d6.d12.p58s1">真犀黃<c n="("/>五釐<c n=")"/>
+              <space n="　" quantity="1"/>人指甲<c n="("/>五釐<c n=")"/>
+              <space n="　" quantity="1"/>上梅片<c n="("/>二釐<c n=")"/>
+              <space n="　" quantity="1"/>上梅片<c n="("/>二釐<c n=")"/>
+              <space n="　" quantity="1"/>壁SH蟢窠</seg>
+            <seg type="comm" xml:id="KR3em038_jc_001-d6.d12.p58s2">
+              <c n="（"/>二十個<c n="）"/>
+            </seg>
+            <seg xml:id="KR3em038_jc_001-d6.d12.p58s3">
+              <space n="　" quantity="1"/>淨青黛<c n="("/>六分<c n=")"/>
+              <space n="　" quantity="1"/>上珍珠<c n="("/>三分<c n=")"/>
+              <space n="　" quantity="1"/>象牙屑<c n="("/>三分<c n=")"/>
+              <space n="　" quantity="1"/>共研極細末收貯備用</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d12p60">
+            <seg xml:id="KR3em038_jc_001-d6.d12.p60s1">猴棗散</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d12p62">
+            <seg xml:id="KR3em038_jc_001-d6.d12.p62s1">治喉蛾癰時疫喉痧喉風不論紅白皆效</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d12p64">
+            <seg xml:id="KR3em038_jc_001-d6.d12.p64s1">真猴棗<c n="("/>一分<c n=")"/>
+              <space n="　" quantity="1"/>原寸香<c n="("/>八釐<c n=")"/>
+              <space n="　" quantity="1"/>真關黃<c n="("/>一分<c n=")"/>
+              <space n="　" quantity="1"/>明珍珠<c n="("/>一分<c n=")"/>
+              <space n="　" quantity="1"/>薄荷末<c n="("/>三分<c n=")"/>
+              <space n="　" quantity="1"/>三梅片<c n="("/>一分<c n=")"/>分右葉共研細末以備應用此方除珠黃麝棗甘石易SH煆石羔名喉科八實丹又名喉口入珍散統治一切咽喉輕微等症不論表裡虛實吹之神效</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d12p66">
+            <seg xml:id="KR3em038_jc_001-d6.d12.p66s1">賽珍丹</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d12p68">
+            <seg xml:id="KR3em038_jc_001-d6.d12.p68s1">治喉痹纏風雙單乳蛾喉癰喉瘡陰虛咽痛吹之效如仙丹故名賽珍也</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d12p70">
+            <seg xml:id="KR3em038_jc_001-d6.d12.p70s1">上犀黃<c n="("/>一錢<c n=")"/>
+              <space n="　" quantity="1"/>真珍珠<c n="("/>一錢<c n=")"/>
+              <space n="　" quantity="1"/>滴乳石<c n="("/>五錢<c n=")"/>
+              <space n="　" quantity="1"/>劈辰砂<c n="("/>一錢<c n=")"/>
+              <space n="　" quantity="1"/>燈草灰<c n="("/>三錢<c n=")"/>
+              <space n="　" quantity="1"/>大梅片<c n="("/>一錢<c n=")"/>
+              <space n="　" quantity="1"/>孩兒茶<c n="("/>五錢<c n=")"/>
+              <space n="　" quantity="1"/>香白芷<c n="("/>二錢<c n=")"/>
+              <space n="　" quantity="1"/>片黃柏<c n="("/>三錢<c n=")"/>
+              <space n="　" quantity="1"/>蘇薄荷<c n="("/>七錢<c n=")"/>
+              <space n="　" quantity="1"/>淨青黛<c n="("/>三錢<c n=")"/>
+              <space n="　" quantity="1"/>上血竭<c n="("/>三錢<c n=")"/>
+              <space n="　" quantity="1"/>生甘草<c n="("/>三錢<c n=")"/>
+              <space n="　" quantity="1"/>各研細末照藥秤准分量和勻再研極繃無聲磁瓶收藏勿令泄氣</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d12p72">
+            <seg xml:id="KR3em038_jc_001-d6.d12.p72s1">中白散</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d12p74">
+            <seg xml:id="KR3em038_jc_001-d6.d12.p74s1">治長幼走馬牙疳並咽喉疼痛腐爛紅赤舌腫齦臭映血牙床潰腐等症極效</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d12p76">
+            <seg xml:id="KR3em038_jc_001-d6.d12.p76s1">人中白<c n="("/>一錢<c n=")"/>
+              <space n="　" quantity="1"/>粉兒茶<c n="("/>一錢<c n=")"/>
+              <space n="　" quantity="1"/>淨青黛<c n="("/>一錢<c n=")"/>
+              <space n="　" quantity="1"/>瀟荷未<c n="("/>五分<c n=")"/>
+              <space n="　" quantity="1"/>元明粉<c n="("/>五分<c n=")"/>
+              <space n="　" quantity="1"/>輕馬勃<c n="("/>五分<c n=")"/>
+              <space n="　" quantity="1"/>三梅片<c n="("/>二分<c n=")"/>
+              <space n="　" quantity="1"/>共研細末如病重者加犀黃<c n="("/>一分<c n=")"/>
+              <space n="　" quantity="1"/>珍珠<c n="("/>五分<c n=")"/>
+              <space n="　" quantity="1"/>其效最速</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d12p78">
+            <seg xml:id="KR3em038_jc_001-d6.d12.p78s1">鳳衣散</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d12p80">
+            <seg xml:id="KR3em038_jc_001-d6.d12.p80s1">治喉癱喉癬日疳</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d12p82">
+            <seg xml:id="KR3em038_jc_001-d6.d12.p82s1">鳳凰蛻粉兒茶三膽南星<c n="("/>三錢<c n=")"/>
+              <space n="　" quantity="1"/>橄欖核<c n="("/>三錢<c n=")"/>
+              <space n="　" quantity="1"/>共研細末每葉<c n="("/>一錢<c n=")"/>
+              <space n="　" quantity="1"/>加冰片<c n="("/>五釐<c n=")"/>
+              <space n="　" quantity="1"/>研勻備用如胃脘阻隔不能飲食再加月石薄黃明雄黃各<c n="("/>一錢<c n=")"/>
+              <space n="　" quantity="1"/>青黛<c n="("/>五分<c n=")"/>
+              <space n="　" quantity="1"/>研勻吹之即能進食叉方</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d12p84">
+            <seg xml:id="KR3em038_jc_001-d6.d12.p84s1">青果炭<c n="("/>一錢<c n=")"/>
+              <space n="　" quantity="1"/>川黃柏<c n="("/>一錢<c n=")"/>
+              <space n="　" quantity="1"/>川貝母<c n="("/>一錢<c n=")"/>
+              <space n="　" quantity="1"/>粉兒茶<c n="("/>一錢<c n=")"/>
+              <space n="　" quantity="1"/>薄荷葉<c n="("/>一錢<c n=")"/>
+              <space n="　" quantity="1"/>三梅片<c n="("/>五分<c n=")"/>
+            </seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d12p86">
+            <seg xml:id="KR3em038_jc_001-d6.d12.p86s1">鳳凰衣<c n="("/>五分<c n=")"/>
+              <space n="　" quantity="1"/>共研細末治白喉之聖藥</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d12p88">
+            <seg xml:id="KR3em038_jc_001-d6.d12.p88s1">米硼散</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d12p90">
+            <seg xml:id="KR3em038_jc_001-d6.d12.p90s1">治慢喉風啞瘴喉風一切涸喉口齒腫痛及懸癱重舌鑽牙疳等症</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d12p92">
+            <seg xml:id="KR3em038_jc_001-d6.d12.p92s1">西硼砂<c n="("/>五錢<c n=")"/>
+              <space n="　" quantity="1"/>元明紛<c n="("/>五錢<c n=")"/>
+              <space n="　" quantity="1"/>上冰片<c n="("/>五分<c n=")"/>
+              <space n="　" quantity="1"/>飛硃砂<c n="("/>六分<c n=")"/>
+              <space n="　" quantity="1"/>研細應用去硃砂元明加膽礬<c n="("/>五分<c n=")"/>
+              <space n="　" quantity="1"/>燈心炭</seg>
+            <seg type="comm" xml:id="KR3em038_jc_001-d6.d12.p92s2">
+              <c n="（"/>一錢五分<c n="）"/>
+            </seg>
+            <seg xml:id="KR3em038_jc_001-d6.d12.p92s3">
+              <space n="　" quantity="1"/>治白喉痰壅亦名冰硼散</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d12p94">
+            <seg xml:id="KR3em038_jc_001-d6.d12.p94s1">奪命紅棗丹</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d12p96">
+            <seg xml:id="KR3em038_jc_001-d6.d12.p96s1">瑞治喉風痹雙軍乳蛾等症極念神效</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d12p98">
+            <seg xml:id="KR3em038_jc_001-d6.d12.p98s1">原寸香<c n="("/>一錢<c n=")"/>
+              <space n="　" quantity="1"/>二梅片<c n="("/>一錢<c n=")"/>
+              <space n="　" quantity="1"/>杜蟾酥<c n="("/>一錢<c n=")"/>
+              <space n="　" quantity="1"/>巴豆霜<c n="("/>一錢<c n=")"/>
+              <space n="　" quantity="1"/>西月石<c n="("/>二分<c n=")"/>
+              <space n="　" quantity="1"/>山豆根<c n="("/>五分<c n=")"/>老薑粉<c n="("/>三分<c n=")"/>
+              <space n="　" quantity="1"/>上藥照方揀選研細稱准收藏貯瓶臨用時以紅棗<c n="("/>一枚<c n=")"/>切蒂去核外皮幸勿損傷人藥黃豆許大將棗蒂一頭塞人鼻孔即閉日目避風少頃得嚏喉漸通快凡左蛾塞左右蛾塞右雙蛾更換之必得一過時方效</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d12p100">
+            <seg xml:id="KR3em038_jc_001-d6.d12.p100s1">雪梅丸</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d12p102">
+            <seg xml:id="KR3em038_jc_001-d6.d12.p102s1">治喉癬用以納口咽津</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d12p104">
+            <seg xml:id="KR3em038_jc_001-d6.d12.p104s1">三梅片<c n="("/>一分<c n=")"/>
+              <space n="　" quantity="1"/>犀牛黃<c n="("/>一分<c n=")"/>
+              <space n="　" quantity="1"/>山豆根<c n="("/>一錢<c n=")"/>
+              <space n="　" quantity="1"/>西官硼<c n="("/>八分<c n=")"/>
+              <space n="　" quantity="1"/>飛明雄<c n="("/>八分<c n=")"/>
+              <space n="　" quantity="1"/>膽礬<c n="("/>三分<c n=")"/>
+              <space n="　" quantity="1"/>孩兒茶<c n="("/>八分<c n=")"/>
+              <space n="　" quantity="1"/>共研細末另用鹽捶三個打融入藥和勻丸如龍眼大鹽臥納口過夜即愈十丸除根</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d12p106">
+            <seg xml:id="KR3em038_jc_001-d6.d12.p106s1">玉液上清丸</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d12p108">
+            <seg xml:id="KR3em038_jc_001-d6.d12.p108s1">治口舌生瘡咽喉腫痛止嗽清音寬膈化痰其效如神</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d12p110">
+            <seg xml:id="KR3em038_jc_001-d6.d12.p110s1">玉桔梗<c n="("/>一錢<c n=")"/>
+              <space n="　" quantity="1"/>春砂仁<c n="("/>一錢<c n=")"/>
+              <space n="　" quantity="1"/>西硼砂<c n="("/>二錢<c n=")"/>
+              <space n="　" quantity="1"/>元明粉<c n="("/>一錢<c n=")"/>
+              <space n="　" quantity="1"/>訶子肉<c n="("/>一錢<c n=")"/>
+              <space n="　" quantity="1"/>三梅片<c n="("/>一分<c n=")"/>百藥煎<c n="("/>八錢<c n=")"/>
+              <space n="　" quantity="1"/>薄荷葉</seg>
+            <seg type="comm" xml:id="KR3em038_jc_001-d6.d12.p110s2">
+              <c n="（"/>一兩一錢<c n="）"/>
+            </seg>
+            <seg xml:id="KR3em038_jc_001-d6.d12.p110s3">
+              <space n="　" quantity="1"/>生甘草<c n="("/>一錢<c n=")"/>
+              <space n="　" quantity="1"/>上藥共末煉蜜為丸如圓眼核大噙化</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d12p112">
+            <seg xml:id="KR3em038_jc_001-d6.d12.p112s1">如聖園毒膏</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d12p114">
+            <seg xml:id="KR3em038_jc_001-d6.d12.p114s1">治喉外紅腫SH焮痛風毒發頤痄腮溫毒疫炎諸毒</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d12p116">
+            <seg xml:id="KR3em038_jc_001-d6.d12.p116s1">三梅片<c n="("/>一錢<c n=")"/>
+              <space n="　" quantity="1"/>川黃柏<c n="("/>一錢<c n=")"/>
+              <space n="　" quantity="1"/>生蒲黃<c n="("/>一錢<c n=")"/>
+              <space n="　" quantity="1"/>生中白<c n="("/>一錢<c n=")"/>
+              <space n="　" quantity="1"/>生甘草<c n="("/>五分<c n=")"/>
+              <space n="　" quantity="1"/>元明粉<c n="("/>五分<c n=")"/>
+              <space n="　" quantity="1"/>西月石<c n="("/>五分<c n=")"/>
+              <space n="　" quantity="1"/>川黃連</seg>
+            <seg type="comm" xml:id="KR3em038_jc_001-d6.d12.p116s2">
+              <c n="（"/>一錢五分<c n="）"/>
+            </seg>
+            <seg xml:id="KR3em038_jc_001-d6.d12.p116s3">
+              <space n="　" quantity="1"/>薄荷葉</seg>
+            <seg type="comm" xml:id="KR3em038_jc_001-d6.d12.p116s4">
+              <c n="（"/>一錢五分<c n="）"/>
+            </seg>
+            <seg xml:id="KR3em038_jc_001-d6.d12.p116s5">
+              <space n="　" quantity="1"/>淨青黛<c n="("/>五分<c n=")"/>
+              <space n="　" quantity="1"/>枯白礬<c n="("/>四分<c n=")"/>
+              <space n="　" quantity="1"/>共為細末以蜜水調如膏圍敷患處令其漸消兼治丹毒以靛青水調敷此方玉樞活血加上更妙如丹毒不必用之</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d12p118">
+            <seg xml:id="KR3em038_jc_001-d6.d12.p118s1">太乙吸毒膏</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d12p120">
+            <seg xml:id="KR3em038_jc_001-d6.d12.p120s1">治一切痧後留滯熱毒並治咽喉發炎腫脹貼之自消借治癰疽發背</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d12p122">
+            <seg xml:id="KR3em038_jc_001-d6.d12.p122s1">炮山甲九錢金銀花<c n="("/>一兩<c n=")"/>
+              <space n="　" quantity="1"/>生大黃<c n="("/>九錢<c n=")"/>
+              <space n="　" quantity="1"/>全當歸</seg>
+            <seg type="comm" xml:id="KR3em038_jc_001-d6.d12.p122s2">
+              <c n="（"/>四錢五分<c n="）"/>
+            </seg>
+            <seg xml:id="KR3em038_jc_001-d6.d12.p122s3">
+              <space n="　" quantity="1"/>上廣皮</seg>
+            <seg type="comm" xml:id="KR3em038_jc_001-d6.d12.p122s4">
+              <c n="（"/>四錢五分<c n="）"/>
+            </seg>
+            <seg xml:id="KR3em038_jc_001-d6.d12.p122s5">
+              <space n="　" quantity="1"/>天花粉<c n="("/>三錢<c n=")"/>
+              <space n="　" quantity="1"/>西赤芍<c n="("/>三錢<c n=")"/>
+              <space n="　" quantity="1"/>大生地</seg>
+            <seg type="comm" xml:id="KR3em038_jc_001-d6.d12.p122s6">
+              <c n="（"/>四錢五分<c n="）"/>
+            </seg>
+            <seg xml:id="KR3em038_jc_001-d6.d12.p122s7">
+              <space n="　" quantity="1"/>薄荷葉<c n="("/>三錢<c n=")"/>
+              <space n="　" quantity="1"/>青防風<c n="("/>三錢<c n=")"/>
+              <space n="　" quantity="1"/>香白芷<c n="("/>三錢<c n=")"/>
+              <space n="　" quantity="1"/>大貝母<c n="("/>三錢<c n=")"/>
+              <space n="　" quantity="1"/>制乳香<c n="("/>三錢<c n=")"/>
+              <space n="　" quantity="1"/>制沒藥</seg>
+            <seg type="comm" xml:id="KR3em038_jc_001-d6.d12.p122s8">
+              <c n="（"/>一錢五分<c n="）"/>
+            </seg>
+            <seg xml:id="KR3em038_jc_001-d6.d12.p122s9">
+              <space n="　" quantity="1"/>芏草即<c n="("/>三錢<c n=")"/>
+              <space n="　" quantity="1"/>皂角刺<c n="("/>六錢<c n=")"/>
+              <space n="　" quantity="1"/>麻油熬黃丹收隨症攤貼</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d12p124">
+            <seg xml:id="KR3em038_jc_001-d6.d12.p124s1">外治巽功散</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d12p126">
+            <seg xml:id="KR3em038_jc_001-d6.d12.p126s1">治法詳於白喉門喉科救急膏條下</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d12p128">
+            <seg xml:id="KR3em038_jc_001-d6.d12.p128s1">上梅片<c n="("/>六分<c n=")"/>
+              <space n="　" quantity="1"/>真血竭<c n="("/>六分<c n=")"/>
+              <space n="　" quantity="1"/>制乳香<c n="("/>六分<c n=")"/>
+              <space n="　" quantity="1"/>制沒藥<c n="("/>六分<c n=")"/>
+              <space n="　" quantity="1"/>大元參<c n="("/>六分<c n=")"/>
+              <space n="　" quantity="1"/>淡全蟲<c n="("/>六分<c n=")"/>
+              <space n="　" quantity="1"/>原寸<c n="("/>六分<c n=")"/>
+              <space n="　" quantity="1"/>班毛<c n="("/>四錢<c n=")"/>
+              <space n="　" quantity="1"/>共研細末備用</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d12p130">
+            <seg xml:id="KR3em038_jc_001-d6.d12.p130s1">補道應用玉樞丹</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d12p132">
+            <seg xml:id="KR3em038_jc_001-d6.d12.p132s1">治瘴氣蟲毒解惡藥性服砒毒菌河豚死牛馬肉狐貍鼠蟒之毒蛇犬惡蟲所傷一切癰疽發背瘡疹赤腫諸瘤不服水土莫不應手取效</seg>
+          </p>
+<p xml:id="KR3em038_jc_001-d6.d12p134">
+            <seg xml:id="KR3em038_jc_001-d6.d12.p134s1">山茨菇</seg>
+            <seg type="comm" xml:id="KR3em038_jc_001-d6.d12.p134s2">
+              <c n="（"/>二兩焙<c n="）"/>
+            </seg>
+            <seg xml:id="KR3em038_jc_001-d6.d12.p134s3">
+              <space n="　" quantity="1"/>文蛤<c n="("/>三兩<c n=")"/>
+              <space n="　" quantity="1"/>紅芽大戟</seg>
+            <seg type="comm" xml:id="KR3em038_jc_001-d6.d12.p134s4">
+              <c n="（"/>一兩五錢<c n="）"/>
+            </seg>
+            <seg xml:id="KR3em038_jc_001-d6.d12.p134s5">
+              <space n="　" quantity="1"/>千金子<c n="("/>三錢<c n=")"/>
+              <space n="　" quantity="1"/>原寸香<c n="("/>三錢<c n=")"/>
+              <space n="　" quantity="1"/>右藥上三味先研末再入千金寸香研勻和糯米濃飲木臼內杵千餘下分為四十錠宜端午七夕重陽淨室齋戒休合每用一錠薑汁薄荷湯送下孕婦不可服用</seg>
+          </p>
+
+</div>
+        <div n="h2" xml:id="KR3em038_jc_001-d6d13">
+          <head n="h2" xml:id="KR3em038_jc_001-d6.d13h1">
+            <seg xml:id="KR3em038_jc_001-d6.d13.h1s1">第十章　藥品選真製法須知</seg>
+          </head>
+          <p xml:id="KR3em038_jc_001-d6.d13p2">
+            <seg xml:id="KR3em038_jc_001-d6.d13.p2s1">藥之治病務須選真選真而製法不善亦不能決其實效犀黃透甲為上珍珠寶光為佳原寸必選常門三梅須視牙色猴棗紫黑光亮指甲瓦上存性硃砂明如鐧鏃水飛三次殭蠶細直水洗須妙斷絲孩兒茶炒去油液鐵兒茶研末水飛人中黃乃甘草末塞入竹筒浸於坑內冬浸而春出曬露四十九日中白俗云坑砂多年溺器用刀鏟取出放於銀罐里煨血竭紅紫為良鬧羊生曬研粉蒲黃行血消腫炒黑止血青黛染坊本靛為上徉靛有害滴乳石輕薄如鵝翎管碎之如瓜甲光明為真鳳衣哺雞已比蛋亮取膜須瓦炙烏骨為上蟾酥自取為佳薄荷生曬研粉生草桔梗元參川芎須選片以曬研牙皂堅小去蛀角筋務炙光亮以為末橄欖核瓦上SH煆存性雄黃精研末水飛妙龍骨要選五花必經火SH煆煉巴豆去殼研末紙包磚押去油班毛去翅足焙乾研末大黃酒拌勻日曬研粉川貝須選尖頭為勃務要輕浮姜紛以老薑切片曬研蟢窠培取瓦炙黃色細辛豆根生曬研末月石明礬生SH煆隨方銀花或炒或生砂仁務須去殼山甲同炒發透南星放豬膽陰乾燈草塞入竹筒泥里煨透甘石尿淬七次三黃九次黃連曬乾研粉全蟲漂去鹹味乳沒每斤用燈心四兩同炒大戰去附枝水制去骨切曬文蛤即五倍子捶破洗焙茨菇名金燈籠去皮焙乾千金子即續隨子去愨研去油取箱金箔鎮心藥為衣如神川黃柏須擇厚大荊草煎湯浸濃取出瓦上炙黃加之蜜湯濺一次曬乾為粉百草霜須燒茅榮取其近鍋底者先括去浮面一層止取中間一層近鐵不用梅礬即是雪梅丹取青梅被下圓蓋去核將白礬末塞實在內仍以原蓋覆上以竹籤釘好過夜明晨用炭火SH煆之取其梅內之礬輕白如膩粉為妙硝礬俗名玉丹先用生礬打碎入銀罐內文炭火入爐SH煆烊以筋入罐攪無塊為度再以牙硝打碎投下十分之三再下白硼砂十分之三再人生礬候烊盡照前投硝硼少許逐層漸投直待鋪起罐口燒至乾枯以淨瓦蓋罐一時將牛黃冰片利調以匙超滴丹上將濰入火烘乾用碗覆潔淨地上七日收用輕鬆宜用僵硬不化不堪用制硝擇其明淨紋理鎗鎗者佳次甲長白厚大名馬牙銷溫湯蘸過綿紙挹乾仍用紙包好放灶上六日濕氣自乾白如霜雪應用炤硝蘿蔔各二斤以蘿蔔打爛絞汁再加清水二三碗同硝武火煎烊夜置露天如有雪者埋在雪中黎明收取硝上吊起堅霜仍將吊過之硝仍照上法再吊再收半月收完餘者無用所取之霜同裝磁瓶固封聽用但此藥務於嚴冬之際法制為妙若非此時終難成功故古人所謂一味金丹之名也此是醫家秘製亦後學之津梁惟宜貴重功何不彰</seg>
+          </p>
+
+</div>
+      </div>
+      <div type="juan" n="2" xml:id="KR3em038_jc_000-d7">
+        <head n="h1" xml:id="KR3em038_jc_002-d7h1">
+          <seg xml:id="KR3em038_jc_002-d7.h1s1">重訂喉科家訓卷二</seg>
+        </head>
+        <div n="h2" xml:id="KR3em038_jc_002-d7d2">
+          <head n="h2" xml:id="KR3em038_jc_002-d7.d2h1">
+            <seg xml:id="KR3em038_jc_002-d7.d2.h1s1">第十一章　咽喉症狀療法</seg>
+          </head>
+          <p xml:id="KR3em038_jc_002-d7.d2p2">
+            <seg xml:id="KR3em038_jc_002-d7.d2.p2s1">咽喉諸症宜分急慢治之急者治標慢者治本外治手術治症之急者也內服方藥治症之慢者也喉嗌立時閉塞牙關緊閉甚至兩腮猝然腫而流攻痰涎上壅呼吸喘喝聲如拽鋸此際內外關扁桃腺液膜及淋巴腺處皆腫滴水不能下咽或有喉部不腫氣閉又如蛇纏之狀骨節脹悶寒熱大作精神頓發鎖喉纏喉弄舌喉痹吹舌內腫閉喉之顯是也此皆急性病早不及夕之症也務須外治精密然後繼以牛旁宣肺湯憑症加減服之如外治內服不應者則難為力矣如咽頭或喉頭紅色覺痛或發劇烈之痛扁桃腺黏膜腫脹形寒惡熱頭痛身疲脈浮舌白辛涼宣表湯主之此風熱喉癱喉蛾壅腫之類也如失治增進液腺皆腫且有星星白點及成塊腐爛甚至連及蒂丁難嚥水穀痰多腮腫結核胸院不暢呼吸不利骨節煩蒸胃不嗜食即欲食而難嚥脈弦洪數舌膩輔黃辛涼宣表湯加羚斛銀花主之此腫爛喉風爛喉痹連珠喉蛾爛沙喉之類也若失治再增滿喉白腐或咽喉已得清爽但上至腦膜碎有黏液則鼻竅不通用滋陰清肺法尚可療治下至食管氣管液腺內關略觀並無形象惟用壓舌片壓至舌根吊惡始見白色假皮湯藥點滴難嚥神志模糊痰塞清竅呼吸或兼喘喝身熱如焚或昏迷難言魂魄無主脈怪舌燥而斃命也即神清氣爽尚屬難療此慢性病失治致急者也不得已勉立犀角三鮮湯以盡人事願囑病家即有精工療法貴慎於始也</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d2p4">
+            <seg xml:id="KR3em038_jc_002-d7.d2.p4s1">昔賢云外感不外六淫民病宜分四時此係內科之條規也咽喉一科介乎內外之間其病最險其變至速內服方劑表裡寒熱風寒暑濕燥火皆能致生喉症余所以辨晰四時喉症仿內科療法為宗旨景和先生學外科必須先究內科有諸內而形諸外者此之謂也喉風喉痹喉蛾喉癰等症春時發生風熱犯上風溫化火風火上升溫毒上薰之原因也如因於風熱辛涼宣表湯主之因於風溫清溫解肌湯主之因於風火清喉宣解湯主之因於溫毒滋清解毒湯主之夏日炎暑內熱煩蒸而上逼清逍致生喉部諸症者清暑熄風湯主之務須臨症加減為至要也秋時發生濕溫化熱濕火上攻濕痰土泛之原因也如因於濕溫辛芬闢溫湯主之因於濕火化濕清火湯主之因於濕痰降氣滌痰湯主之又有風燥咽痛清燥利咽湯主之冬日嚴寒水冰地凍風塞感於上焦氣機不快血凝而發各種喉症者辛溫解表湯主之腎傷寒咽閉下利者半夏甘桂湯主之無論四時咽喉未復而兩腮結核紅腫風毒也熄風敗毒湯主之實邪喉症原因不外淫感經絡不越肺胃焦膽四經余少見聞不過胸中稍有心得特立數方仍祈同志裁政增補為後望也</seg>
+          </p>
+
+</div>
+        <div n="h2" xml:id="KR3em038_jc_002-d7d3">
+          <head n="h2" xml:id="KR3em038_jc_002-d7.d3h1">
+            <seg xml:id="KR3em038_jc_002-d7.d3.h1s1">喉部內虛症療法</seg>
+          </head>
+          <p xml:id="KR3em038_jc_002-d7.d3p2">
+            <seg xml:id="KR3em038_jc_002-d7.d3.p2s1">外感已詳內因當知心腎久虛內火上升咽舌乾燥精神困疲二便如常脈象微細而數舌苔淡無榮原因由於平時飲酒太過陰液被傷或情懷抑鬱又有色欲過度致精血傷而津液耗能雷興而火炎生內虛喉症由此而生也如陽虛之元夢四君湯陰虛之加味四物湯精傷液耗之六味地黃湯弱症喉癬之化癬潤喉湯內虛喉疳之滋陰清火湯石蛾腫堅之清肝化痰煎虛爛喉風之六味清喉煎勞碌喉風之新方清咽湯骨槽風之當歸連翹煎楊梅喉癬之清熱涼血湯死蛾核之連附甘桔湯雙單死蛾之舒郁降火陽梅核氣之濟陰化痰飲妙法不多千金一得是在學者之大綱領也</seg>
+          </p>
+
+</div>
+        <div n="h2" xml:id="KR3em038_jc_002-d7d4">
+          <head n="h2" xml:id="KR3em038_jc_002-d7.d4h1">
+            <seg xml:id="KR3em038_jc_002-d7.d4.h1s1">第十二章　喉症六淫方訣</seg>
+          </head>
+          <p xml:id="KR3em038_jc_002-d7.d4p2">
+            <seg xml:id="KR3em038_jc_002-d7.d4.p2s1">咽喉原來由何生風塞暑濕火之因兼有痰鬱厚昧凝清咽加減自然靈風本司令風熱壅辛涼宣表可奏功時痧寒熱汗少者是方增損妙無窮惡寒發熱汗又無痰氣上升喉嚨阻宣肺化痰湯速進外佐手術症易妥風助火勢性上升火借風威病漸增清喉宣解為主劑君火司令立法神身疼寒熱汗難雖有惡風咽疼風溫湊主方清溫解肌湯兼有時痧亦可瘳但熱不寒且有汗相火司令病來端暑熱風性上升者清暑熄風服之安濕釀成溫胸腕悶發熱身疼汗蒸蒸辛芬闢溫加減用濕土司令方最靈濕熱化火上逼喉舌黃溺赤煩熱究化濕清火水煎服管教一服可能瘳濕痰上泛困咽喉呼吸不利兼痰嗽舌膩有汗脈弦滑宜以滌痰降氣謀形寒惡熱頤或痛燥金司令風邪蒙清燥燥利咽為主方內燥清金養陰宗塞水之令喉患生髮熱增寒及頭疼汗少身疼脈浮緊辛溫解表法最靈腎傷寒症屬少陰咽喉閉塞下利頻症系臟寒忌投涼半夏甘桂得回生若是風毒生兩腮熄風敗毒效是神以上六淫時邪感化火化燥亦須知失於疏達邪入裡熱人心包昏不知急進泄熱通絡飲臨時加減審病情化燥灼津侵榮分解毒提班候佳音昏痙譫語時或笑救陰平肝或能好班疹痙厥神昏冒息焚救液聽命方七二條目知其耍何患咽喉不安康</seg>
+          </p>
+
+</div>
+        <div n="h2" xml:id="KR3em038_jc_002-d7d5">
+          <head n="h2" xml:id="KR3em038_jc_002-d7.d5h1">
+            <seg xml:id="KR3em038_jc_002-d7.d5.h1s1">諸方主治條訣</seg>
+          </head>
+          <p xml:id="KR3em038_jc_002-d7.d5p2">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p2s1">清咽敬</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p4">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p4s1">治一切咽喉腫痛或紅或白形寒惡熱頭疼身痛汗少不得宣達風痰壅塞湯飲難嚥神效</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p6">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p6s1">甘草<space n="　" quantity="1"/>桔梗<space n="　" quantity="1"/>荊芥<space n="　" quantity="1"/>防風<space n="　" quantity="1"/>牛蒡<space n="　" quantity="1"/>枳殼<space n="　" quantity="1"/>薄荷<space n="　" quantity="1"/>前胡<space n="　" quantity="1"/>煎服</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p8">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p8s1">鬱熱痰多加川貝姜仁<space n="　" quantity="1"/>食滯不快加神麯穀芽<space n="　" quantity="1"/>嘔逆加橘絡竹茹<space n="　" quantity="1"/>便瀉加葛根荷葉<space n="　" quantity="1"/>血熱加丹皮梔子<space n="　" quantity="1"/>熱甚加黃苓黃連<space n="　" quantity="1"/>火毒加銀花連翹便秘加青寧明粉<space n="　" quantity="1"/>溺赤加赤苓本通<space n="　" quantity="1"/>胸下痞悶加川樸<space n="　" quantity="1"/>咳嗽加杏仁杷葉<space n="　" quantity="1"/>穢濁加佩蘭去甘草<space n="　" quantity="1"/>痙厥動風加羚羊鉤藤</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p10">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p10s1">詩曰<space n="　" quantity="1"/>詳甘枯荊防枳荷蒡前衚衕上成妙方喉蛾癰痹風痰壅臨疲加減機要</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p12">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p12s1">辛涼宣表湯</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p14">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p14s1">治風熱上壅喉蛾癰痹寒微熱甚頭痛而眩或汗多或咳嗽或目赤或涕黃舌白帶黃脈浮數此湯主之</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p16">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p16s1">荊芥<space n="　" quantity="1"/>防風<space n="　" quantity="1"/>桑葉<space n="　" quantity="1"/>薄荷<space n="　" quantity="1"/>象貝<space n="　" quantity="1"/>綠衣<space n="　" quantity="1"/>山梔<space n="　" quantity="1"/>連翹<space n="　" quantity="1"/>生草<space n="　" quantity="1"/>桔梗<space n="　" quantity="1"/>淡竹<space n="　" quantity="1"/>煎服</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p18">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p18s1">痰滯加枳殼橘紅<space n="　" quantity="1"/>目赤加杭菊蒺莉<space n="　" quantity="1"/>咳嗽加杏仁川貝<space n="　" quantity="1"/>神昏痙厥加鉤藤羚羊</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p20">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p20s1">詩日<space n="　" quantity="1"/>辛涼宣表荊防翹桑荷梔子同桔草竹葉貝母綠豆衣風熱上犯涼解討</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p22">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p22s1">宣肺化痰湯</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p24">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p24s1">治鎖喉纏喉痰涎上升呼吸短促形寒煩熱骨節脹悶脈弦緊數舌黃尖絳朝不及夕之危症也</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p26">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p26s1">牛蒡<space n="　" quantity="1"/>連翹<space n="　" quantity="1"/>防風<space n="　" quantity="1"/>薄荷<space n="　" quantity="1"/>生草<space n="　" quantity="1"/>竹瀝<space n="　" quantity="1"/>荊芥<space n="　" quantity="1"/>杏仁<space n="　" quantity="1"/>蔞仁<space n="　" quantity="1"/>元參<space n="　" quantity="1"/>枳殼<space n="　" quantity="1"/>煎服</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p28">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p28s1">詩日<space n="　" quantity="1"/>宣肺化痰牛蒡君荊防翹荷杏蔞仁枳殼元草竹瀝等鎖喉纏喉風為靈</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p30">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p30s1">清喉宣解湯</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p32">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p32s1">費氏云風助火勢其性上升面紅目赤口燥咽腫法常清解上焦風火熄而煩熱咽痛自愈此方主之</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p34">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p34s1">牛蒡<space n="　" quantity="1"/>前胡<space n="　" quantity="1"/>連翹<space n="　" quantity="1"/>山梔<space n="　" quantity="1"/>花粉<space n="　" quantity="1"/>桔梗<space n="　" quantity="1"/>元參<space n="　" quantity="1"/>薄荷<space n="　" quantity="1"/>銀花<space n="　" quantity="1"/>生草煎服</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p36">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p36s1">脘悶加枳殼<space n="　" quantity="1"/>鬱熱加芍藥<space n="　" quantity="1"/>燥痰加川貝<space n="　" quantity="1"/>液少加麥冬細地去前胡</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p38">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p38s1">詩日<space n="　" quantity="1"/>清喉宣解蒡前參甘桔銀翹梔荷粉風火咽喉紅腫痛疏風清火解毒性</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p40">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p40s1">清溫解飢湯</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p42">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p42s1">治風溫咽痛頭疼惡風身熱自汗咳嗽口渴舌苔微白脈浮而數者此方為主防風<space n="　" quantity="1"/>牛蒡<space n="　" quantity="1"/>杏仁<space n="　" quantity="1"/>前胡<space n="　" quantity="1"/>蟬衣<space n="　" quantity="1"/>豆豉<space n="　" quantity="1"/>荊芥<space n="　" quantity="1"/>葛根<space n="　" quantity="1"/>桔梗<space n="　" quantity="1"/>淡竹</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p44">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p44s1">煎服</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p46">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p46s1">詩曰<space n="　" quantity="1"/>冬寒隱藏春感風汗少發熱咽痛紅荊防前桔杏蒡豉粉葛蟬衣竹葉</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p48">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p48s1">同若是溫毒發咽痛雷氏清熱解毒宗加上甘桔綠豆衣除卻洋參效</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p50">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p50s1">如龍</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p52">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p52s1">清暑熄風湯</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p54">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p54s1">治熱病風暑發熱汗出口渴心煩不惡寒而反惡熱咽喉紅痛或白腐腫甚脈來洪大舌黃或燥乃三焦相火升騰上竅陽明熱甚之症此方主之</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p56">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p56s1">元參<space n="　" quantity="1"/>麥冬<space n="　" quantity="1"/>石羔<space n="　" quantity="1"/>丹皮<space n="　" quantity="1"/>薄荷<space n="　" quantity="1"/>桑葉<space n="　" quantity="1"/>川貝<space n="　" quantity="1"/>鮮地<space n="　" quantity="1"/>銀花<space n="　" quantity="1"/>六一散<space n="　" quantity="1"/>煎服</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p58">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p58s1">如發疹加葉荷牛蒡<space n="　" quantity="1"/>發斑加梔子綠豆衣<space n="　" quantity="1"/>譫語昏狂加紫雪丹<space n="　" quantity="1"/>熱極生風加羚羊鉤藤<space n="　" quantity="1"/>嘔逆加竹茹橘絡<space n="　" quantity="1"/>角弓反張牙關緊閉去石羔六一</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p60">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p60s1">加犀角鈴羊鉤藤連翹竹葉</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p62">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p62s1">詩日<space n="　" quantity="1"/>君相之火上侵喉清暑熄風方法優白虎六一元麥貝丹地銀翹桑荷廖</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p64">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p64s1">辛芳闢溫湯</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p66">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p66s1">治濕溫咽痛始惡寒後但熱不寒汗出胸悶舌苔白或黃口渴不引飲脈洪或細緩此湯主之</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p68">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p68s1">佩蘭<space n="　" quantity="1"/>雲苓<space n="　" quantity="1"/>橘紅<space n="　" quantity="1"/>姜皮<space n="　" quantity="1"/>焦梔<space n="　" quantity="1"/>砂殼<space n="　" quantity="1"/>米仁<space n="　" quantity="1"/>牛蒡<space n="　" quantity="1"/>蘆根<space n="　" quantity="1"/>絲通</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p70">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p70s1">悶亂煩燥身熱神昏㾦難透達加薄荷鮮菖青蒿另用玉樞丹磨服如內陷</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p72">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p72s1">化燥津液傷而脈實舌乾黃者以清暑熄風湯隨症加減</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p74">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p74s1">詩日<space n="　" quantity="1"/>濕釀成溫喉病生辛芬闢溫湯如神蘭蒡姜苓梔子並橘通砂苡蘆根成</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p76">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p76s1">化濕清火湯</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p78">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p78s1">治濕熱風火上薰喉竅咽痛身熱微汗煩渴脈來浮緩或細數舌苔黃膩小便短赤宜用此方</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p80">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p80s1">簿荷<space n="　" quantity="1"/>連翹<space n="　" quantity="1"/>川貝<space n="　" quantity="1"/>元參<space n="　" quantity="1"/>雲苓<space n="　" quantity="1"/>銀花<space n="　" quantity="1"/>苡仁<space n="　" quantity="1"/>焦梔<space n="　" quantity="1"/>淡竹<space n="　" quantity="1"/>荷葉<space n="　" quantity="1"/>六一散<space n="　" quantity="1"/>煎服</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p82">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p82s1">詩日<space n="　" quantity="1"/>化濕清火六一苓銀翹荷貝梔苡仁元參淡竹鮮荷葉濕鬱化火是法靈</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p84">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p84s1">降氣滌痰湯</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p86">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p86s1">治素有痰飲或受霧露潮濕內蘊太陰脾不運化而生痰兼之風火上犯痰氣交阻壅塞上焦痰多咳嗽咽喉腫痛服之神效</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p88">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p88s1">蘇子<space n="　" quantity="1"/>前胡<space n="　" quantity="1"/>杭芍<space n="　" quantity="1"/>生草<space n="　" quantity="1"/>桔梗<space n="　" quantity="1"/>浙貝<space n="　" quantity="1"/>漣翹<space n="　" quantity="1"/>毛紅<space n="　" quantity="1"/>雲苓<space n="　" quantity="1"/>法夏</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p90">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p90s1">元參<space n="　" quantity="1"/>煎服</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p92">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p92s1">詩曰<space n="　" quantity="1"/>降氣滌痰用二陳蘇子前胡桔元參連翹浙貝杭白芍濕痰火鬱水煎吞</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p94">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p94s1">清燥利咽湯</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p96">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p96s1">治頭疼眩暈形寒惡熱咽喉腫痛舌苔薄膩微黃乃風燥上犯之症也</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p98">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p98s1">元參<space n="　" quantity="1"/>杏仁<space n="　" quantity="1"/>川貝<space n="　" quantity="1"/>桔梗<space n="　" quantity="1"/>速翹<space n="　" quantity="1"/>牛蒡<space n="　" quantity="1"/>薄荷<space n="　" quantity="1"/>焦桅<space n="　" quantity="1"/>綠衣<space n="　" quantity="1"/>生草<space n="　" quantity="1"/>細地<space n="　" quantity="1"/>煎服</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p100">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p100s1">按主治條下眩量二字是誤載若有見此當加桑葉滁菊</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p102">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p102s1">詩曰清燥利咽參杏貝翹荷甘桔生地隨焦扼綠衣水煎服秋燥咽疼第一推</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p104">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p104s1">辛溫解表湯</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p106">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p106s1">治客寒協風性傳入太陰惡寒發熱頭疼身痛脈浮緊舌苔白咳嗽無汗咽喉腫痹乃寒凝氣滯血絡結痹壅阻十竅祈宜之</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p108">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p108s1">防風<space n="　" quantity="1"/>蘇葉<space n="　" quantity="1"/>廣皮<space n="　" quantity="1"/>桔梗<space n="　" quantity="1"/>荊芥<space n="　" quantity="1"/>姜夏<space n="　" quantity="1"/>枳殼<space n="　" quantity="1"/>生草<space n="　" quantity="1"/>煎服</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p110">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p110s1">詩曰<space n="　" quantity="1"/>辛溫解表荊防蘇甘枯廣皮枳夏扶咽喉腫終因風寒疏風溫解用之妥</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p112">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p112s1">熄風敗毒湯</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p114">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p114s1">治發頤痄腮痧毒喉腫因於風熱結毒者此方主之</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p116">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p116s1">連翹<space n="　" quantity="1"/>赤芍<space n="　" quantity="1"/>元參<space n="　" quantity="1"/>銀花<space n="　" quantity="1"/>滁菊<space n="　" quantity="1"/>草節<space n="　" quantity="1"/>淡苓<space n="　" quantity="1"/>花粉<space n="　" quantity="1"/>歸尾<space n="　" quantity="1"/>薄荷<space n="　" quantity="1"/>冬桑<space n="　" quantity="1"/>煎服</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p118">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p118s1">詩曰<space n="　" quantity="1"/>熄風敗毒翹赤銀歸苓花粉參草增桑菊薄荷流水煎風毒腫痛效力能<space n="　" quantity="1"/>半夏甘桂湯</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p120">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p120s1">治少陰傷寒咽痛下痢脈沉細舌白不渴以此加減為主</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p122">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p122s1">桂枝<space n="　" quantity="1"/>半夏<space n="　" quantity="1"/>茯苓<space n="　" quantity="1"/>桔梗<space n="　" quantity="1"/>米仁<space n="　" quantity="1"/>骨脂<space n="　" quantity="1"/>乾姜<space n="　" quantity="1"/>澤瀉<space n="　" quantity="1"/>煎服</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p124">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p124s1">詩曰<space n="　" quantity="1"/>傷寒咽痛下痢頻半夏甘桂得回生茯苓米仁補骨脂乾姜桔梗澤瀉停</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p126">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p126s1">清熱宣絡飲</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p128">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p128s1">治風毒上壅陽絡身熱咳嗽口渴胸痞頭目脹大面發泡瘡者神效普濟消毒飲亦佳</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p130">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p130s1">荊芥<space n="　" quantity="1"/>簿荷<space n="　" quantity="1"/>連翹<space n="　" quantity="1"/>元參<space n="　" quantity="1"/>牛蒡<space n="　" quantity="1"/>馬勃<space n="　" quantity="1"/>青黛<space n="　" quantity="1"/>銀花<space n="　" quantity="1"/>煎服</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p132">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p132s1">詩曰<space n="　" quantity="1"/>清熱宣絡翹荷荊馬勃青黛蒡元參銀花同上水煎服普濟消毒亦神靈</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p134">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p134s1">解毒提癍湯</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p136">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p136s1">治風溫溫毒時行熱邪深入陽明榮分口渴咽痛目赤唇腫氣粗煩躁舌降齒燥痰咳甚至神昏譫語下利黃水用之以冀萬一</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p138">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p138s1">犀角<space n="　" quantity="1"/>連翹<space n="　" quantity="1"/>葛根<space n="　" quantity="1"/>元參<space n="　" quantity="1"/>赤芍<space n="　" quantity="1"/>丹皮<space n="　" quantity="1"/>麥冬<space n="　" quantity="1"/>紫草<space n="　" quantity="1"/>川貝<space n="　" quantity="1"/>中黃<space n="　" quantity="1"/>煎服</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p140">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p140s1">詩曰<space n="　" quantity="1"/>解毒提癍犀角光丹芍葛根參貝添冬翹紫草中黃並溫毒內陷必須煎</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p142">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p142s1">泄熱通絡飲</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p144">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p144s1">治濕溫時毒內陷化火灼爍津液肺胃榮分被擾逆傳心包熱極動風手足瘛瘀口渴痰咳身熱昏憒狀若驚癇不語如屍厥脈弦數舌苔焦燥咽痛碎腐者出一救治之法</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p146">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p146s1">犀角<space n="　" quantity="1"/>羚羊<space n="　" quantity="1"/>尖貝<space n="　" quantity="1"/>青蒿<space n="　" quantity="1"/>連翹<space n="　" quantity="1"/>知母<space n="　" quantity="1"/>麥冬<space n="　" quantity="1"/>雙鉤<space n="　" quantity="1"/>菖蒲另加至寶丹一粒開水化先服再以煎服之藥繼用</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p148">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p148s1">詩曰<space n="　" quantity="1"/>泄熱通絡犀羚蒿知貝連翹麥冬討雙鉤菖蒲至寶丹濕溫熱灼或可好</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p150">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p150s1">救陰平肝湯</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p152">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p152s1">治溫熱極甚壯熱口渴舌黃或焦紅髮痙神昏譫語或笑邪灼心包榮血已耗宜用此方</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p154">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p154s1">犀角<space n="　" quantity="1"/>連翹<space n="　" quantity="1"/>菖蒲<space n="　" quantity="1"/>鮮地<space n="　" quantity="1"/>元參<space n="　" quantity="1"/>羚羊<space n="　" quantity="1"/>雙鉤<space n="　" quantity="1"/>銀花<space n="　" quantity="1"/>煎服佐以</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p156">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p156s1">至寶丹先服</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p158">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p158s1">詩曰<space n="　" quantity="1"/>救陰平肝即通絡當云知貝及青蒿生地銀參增人用清神救液用之妙</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p160">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p160s1">息焚救液湯</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p162">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p162s1">治濕溫溫熱風溫咽喉腫腐壯熱煩渴脈洪數舌焦紅班疹隱於肌膚內陷不達胸痞自利神昏痙厥熱邪流注里三焦乃大危之候用此以萬一犀角羚羊生地元參銀花紫草菖蒲丹皮漣翹薄荷</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p164">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p164s1">石斛麥冬金汁煎服</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d5p166">
+            <seg xml:id="KR3em038_jc_002-d7.d5.p166s1">詩曰<space n="　" quantity="1"/>息焚救液犀羚參丹地紫草連翹銀冬荷石斛菖蒲等加上金汁望佳音</seg>
+          </p>
+
+</div>
+        <div n="h2" xml:id="KR3em038_jc_002-d7d6">
+          <head n="h2" xml:id="KR3em038_jc_002-d7.d6h1">
+            <seg xml:id="KR3em038_jc_002-d7.d6.h1s1">喉症內虛方訣</seg>
+          </head>
+          <p xml:id="KR3em038_jc_002-d7.d6p2">
+            <seg xml:id="KR3em038_jc_002-d7.d6.p2s1">陽虛津衰脾弱症元麥四君方法靈陰液虛少血不足加味四物法最神水虛火旺諸虛損六味加減效力能喉癬由於虛火騰肺金太旺氣相蒸紅絲點粒如芥子化癬潤喉立法神欲識喉疳所以生腎虛火旺沸騰騰上齶喉間生白點滋陰清火自然寧石娥生髮有兩層有原不足有胎生肝火痰結興風熱清肝化痰妙方增虛爛喉風虛火炎鮮紅上下白班全痛爛不腫脈細數加味清喉力迴天分碌喉風肝腎虛發於關內滿喉齊紅根白點血腥味新方清咽水煎驅骨槽風起太陽經因於鬱怒致傷筋思慮傷脾肌肉結當歸連翹效如神楊梅結毒癬由生幾白喉中穢氣聞白色變黃饞可喜清熱涼血急追尋喉內腫如桃李形或左右軍蛾名不痛日入死蛾核連甘桔附頻服應雙單死蛾生喉逸胎郁胞垢傷肝鬱火痰結幼兒是舒郁降火服之安回食單名梅核風一名電氣入喉中鬱氣根山妨礙食濟陰化痰二陳宗以上虛火犯咽喉不與六淫治相同</seg>
+          </p>
+
+</div>
+        <div n="h2" xml:id="KR3em038_jc_002-d7d7">
+          <head n="h2" xml:id="KR3em038_jc_002-d7.d7h1">
+            <seg xml:id="KR3em038_jc_002-d7.d7.h1s1">諸方主治條訣</seg>
+          </head>
+          <p xml:id="KR3em038_jc_002-d7.d7p2">
+            <seg xml:id="KR3em038_jc_002-d7.d7.p2s1">元麥四君子湯</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d7p4">
+            <seg xml:id="KR3em038_jc_002-d7.d7.p4s1">治陽虛津衰上午咽痛神疲食減脾胃不足脈形濡數舌薄而乾肢體痿弱日久不愈者神效</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d7p6">
+            <seg xml:id="KR3em038_jc_002-d7.d7.p6s1">潤元參<space n="　" quantity="1"/>剖麥冬<space n="　" quantity="1"/>西黨參<space n="　" quantity="1"/>焦白朮<space n="　" quantity="1"/>生甘草<space n="　" quantity="1"/>雲茯苓<space n="　" quantity="1"/>化橘紅<space n="　" quantity="1"/>薄荷梗<space n="　" quantity="1"/>玉枯梗<space n="　" quantity="1"/>水煎服</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d7p8">
+            <seg xml:id="KR3em038_jc_002-d7.d7.p8s1">詩曰<space n="　" quantity="1"/>陽虛元麥四君湯參朮苓甘元麥常桔梗橘紅薄荷梗神疲食減喉痛康</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d7p10">
+            <seg xml:id="KR3em038_jc_002-d7.d7.p10s1">加味四物湯</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d7p12">
+            <seg xml:id="KR3em038_jc_002-d7.d7.p12s1">治陰虛液少午後咽痛喉燥舌乾無苔一切貧血症經久不愈此方主之</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d7p14">
+            <seg xml:id="KR3em038_jc_002-d7.d7.p14s1">蒸熟地<space n="　" quantity="1"/>杭白芍<space n="　" quantity="1"/>西歸身<space n="　" quantity="1"/>真川芎<space n="　" quantity="1"/>生甘草<space n="　" quantity="1"/>黑元參<space n="　" quantity="1"/>剖麥冬<space n="　" quantity="1"/>白桔梗<space n="　" quantity="1"/>制香附<space n="　" quantity="1"/>水煎服</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d7p16">
+            <seg xml:id="KR3em038_jc_002-d7.d7.p16s1">詩曰<space n="　" quantity="1"/>加味四物妙難言午後咽痛貧血見穹歸地芍元麥草桔梗香附流水</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d7p18">
+            <seg xml:id="KR3em038_jc_002-d7.d7.p18s1">六味地黃湯</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d7p20">
+            <seg xml:id="KR3em038_jc_002-d7.d7.p20s1">治肝腎不足真陰虧損精血枯耗五癆七傷虛火上炎舌燥咽疼乃壯水制火之妙方也</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d7p22">
+            <seg xml:id="KR3em038_jc_002-d7.d7.p22s1">蒸熟地<space n="　" quantity="1"/>粉丹皮<space n="　" quantity="1"/>片雲苓<space n="　" quantity="1"/>山萸肉<space n="　" quantity="1"/>淮山藥<space n="　" quantity="1"/>建澤瀉<space n="　" quantity="1"/>水煎服<space n="　" quantity="1"/>尺</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d7p24">
+            <seg xml:id="KR3em038_jc_002-d7.d7.p24s1">脈旺而龍雷升騰者加肥知母川黃柏尺脈弱而火力衰者加淡附片安南桂陰液不足加烏元參提麥冬降火益源加桔梗以清上源老人虛人咽痛自愈也</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d7p26">
+            <seg xml:id="KR3em038_jc_002-d7.d7.p26s1">詩曰腎陰久虛火上升咽疼齒痛口燥藥苓丹地萸肉元麥澤瀉水煎吞或加知柏或桂附壯水益火臨證分</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d7p28">
+            <seg xml:id="KR3em038_jc_002-d7.d7.p28s1">清金化癬湯</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d7p30">
+            <seg xml:id="KR3em038_jc_002-d7.d7.p30s1">治虛火上炎肺金太旺咽喉燥癢紅絲點粒纏繞飲食阻礙微痛久則喉啞失音而不可救矣</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d7p32">
+            <seg xml:id="KR3em038_jc_002-d7.d7.p32s1">潤元參<space n="　" quantity="1"/>剖麥冬<space n="　" quantity="1"/>白蘇子<space n="　" quantity="1"/>東白薇<space n="　" quantity="1"/>生甘草<space n="　" quantity="1"/>炙紫菀<space n="　" quantity="1"/>牛蒡子<space n="　" quantity="1"/>白芥子<space n="　" quantity="1"/>蒸百部<space n="　" quantity="1"/>水煎服</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d7p34">
+            <seg xml:id="KR3em038_jc_002-d7.d7.p34s1">詩曰<space n="　" quantity="1"/>腎火爍金喉癬生元麥蘇芥白薇增紫菀蒡草百部並清金殺蟲效如神</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d7p36">
+            <seg xml:id="KR3em038_jc_002-d7.d7.p36s1">潤喉湯</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d7p38">
+            <seg xml:id="KR3em038_jc_002-d7.d7.p38s1">治喉癬服化癬湯三四劑之後用此方調理</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d7p40">
+            <seg xml:id="KR3em038_jc_002-d7.d7.p40s1">蒸熟地<space n="　" quantity="1"/>剖麥冬<space n="　" quantity="1"/>生苡仁<space n="　" quantity="1"/>大生地<space n="　" quantity="1"/>炙桑皮<space n="　" quantity="1"/>山萸肉<space n="　" quantity="1"/>川貝母<space n="　" quantity="1"/>生甘草<space n="　" quantity="1"/>水煎服</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d7p42">
+            <seg xml:id="KR3em038_jc_002-d7.d7.p42s1">詩曰<space n="　" quantity="1"/>潤喉湯用生熟地桑貝苡仁山茱萸麥冬生草煎成服養陰清金喉癬離</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d7p44">
+            <seg xml:id="KR3em038_jc_002-d7.d7.p44s1">滋陰清火湯</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d7p46">
+            <seg xml:id="KR3em038_jc_002-d7.d7.p46s1">治喉疳因腎虛火旺升騰上竅上齶及扁挑腺內外黏膜紅白細點平坦無剌聲不啞不咳嗽兩尺脈虛者宜之</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d7p48">
+            <seg xml:id="KR3em038_jc_002-d7.d7.p48s1">大生地<space n="　" quantity="1"/>粉丹皮<space n="　" quantity="1"/>焦山梔<space n="　" quantity="1"/>烏元參<space n="　" quantity="1"/>奎白芍<space n="　" quantity="1"/>女貞子<space n="　" quantity="1"/>玉桔梗<space n="　" quantity="1"/>南薄荷<space n="　" quantity="1"/>雲茯苓<space n="　" quantity="1"/>生甘草<space n="　" quantity="1"/>水煎服<space n="　" quantity="1"/>尺脈旺加知母黃柏俱宜鹽水炒男加龜版女加龜甲</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d7p50">
+            <seg xml:id="KR3em038_jc_002-d7.d7.p50s1">詩曰<space n="　" quantity="1"/>喉疳腎虛火上炎滋陰清火丹梔桔苓芍地草貞元荷男龜女鰲加法全</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d7p52">
+            <seg xml:id="KR3em038_jc_002-d7.d7.p52s1">清肝化痰煎</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d7p54">
+            <seg xml:id="KR3em038_jc_002-d7.d7.p54s1">治石蛾但腫不痛因胎生本原不足乃肝火老痰結成惡血凡遇辛苦或受風熱即發用刀針先用甘桔荊薄牛蒡防風冬地貝母木通服之後用此方</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d7p56">
+            <seg xml:id="KR3em038_jc_002-d7.d7.p56s1">大生地<space n="　" quantity="1"/>粉丹皮<space n="　" quantity="1"/>京川貝<space n="　" quantity="1"/>牛蒡子<space n="　" quantity="1"/>玉桔梗<space n="　" quantity="1"/>剖麥冬<space n="　" quantity="1"/>潼木通<space n="　" quantity="1"/>蘇薄荷<space n="　" quantity="1"/>生甘草<space n="　" quantity="1"/>燈心<space n="　" quantity="1"/>水煎服<space n="　" quantity="1"/>初起形寒惡熱加荊芥防風</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d7p58">
+            <seg xml:id="KR3em038_jc_002-d7.d7.p58s1">詩曰<space n="　" quantity="1"/>清肝化痰丹地草蒡貝桔梗本通討麥冬燈心薄荷循肝火老痰石蛾好</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d7p60">
+            <seg xml:id="KR3em038_jc_002-d7.d7.p60s1">加味清喉煎</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d7p62">
+            <seg xml:id="KR3em038_jc_002-d7.d7.p62s1">治虛爛喉風本原因不足虛火上炎喉間白斑痛爛連扁桃腺及內外黏膜視之不腫六脈細數宜以此方</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d7p64">
+            <seg xml:id="KR3em038_jc_002-d7.d7.p64s1">潤元參<space n="　" quantity="1"/>大生地<space n="　" quantity="1"/>粉丹皮<space n="　" quantity="1"/>荊芥穗<space n="　" quantity="1"/>玉桔梗<space n="　" quantity="1"/>焦山梔<space n="　" quantity="1"/>天花紛<space n="　" quantity="1"/>牛蒡子<space n="　" quantity="1"/>生甘草<space n="　" quantity="1"/>南薄荷<space n="　" quantity="1"/>青防風<space n="　" quantity="1"/>水煎服<space n="　" quantity="1"/>尺脈旺去荊防加知母黃柏</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d7p66">
+            <seg xml:id="KR3em038_jc_002-d7.d7.p66s1">詩曰<space n="　" quantity="1"/>加味清喉丹扼粉甘桔荊荷蒡元參增上生地水煎服虛斕喉風效力能</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d7p68">
+            <seg xml:id="KR3em038_jc_002-d7.d7.p68s1">新方清咽湯</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d7p70">
+            <seg xml:id="KR3em038_jc_002-d7.d7.p70s1">治勞碌喉風肝腎兩虛發於扁桃腺內黏膜紅點根白不腫常有血腥之氣宜用此方</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d7p72">
+            <seg xml:id="KR3em038_jc_002-d7.d7.p72s1">烏元參<space n="　" quantity="1"/>女貞子<space n="　" quantity="1"/>大生地<space n="　" quantity="1"/>剖麥冬<space n="　" quantity="1"/>潼本通<space n="　" quantity="1"/>粉丹皮<space n="　" quantity="1"/>棗杞子<space n="　" quantity="1"/>生首烏<space n="　" quantity="1"/>大連翹<space n="　" quantity="1"/>生甘草<space n="　" quantity="1"/>南簿荷<space n="　" quantity="1"/>水煎服</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d7p74">
+            <seg xml:id="KR3em038_jc_002-d7.d7.p74s1">詩曰<space n="　" quantity="1"/>清咽湯與散殊巽元麥丹地女貞杞木通首烏荷翹草勞碌喉風神效奇</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d7p76">
+            <seg xml:id="KR3em038_jc_002-d7.d7.p76s1">當歸連翹煎</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d7p78">
+            <seg xml:id="KR3em038_jc_002-d7.d7.p78s1">治憂思郁慮邪毒交乘結聚太陽經絡或惱怒傷肝致筋骨緊急思慮傷脾致肌肉結腫膏粱厚味致膿名臭穢其狀於耳項皮膚間隱隱有核漸如桃李便覺腫痛初則堅硬不消久則延爛難愈甚致齒牙墮落牙床腐穢初起用蛾翎探吐風痰次以陳艾灸耳垂下五七分再用煎藥骨槽風不過如此治法</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d7p80">
+            <seg xml:id="KR3em038_jc_002-d7.d7.p80s1">全當歸<space n="　" quantity="1"/>大連翹<space n="　" quantity="1"/>焦枳亮<space n="　" quantity="1"/>大生地<space n="　" quantity="1"/>牛蒡子<space n="　" quantity="1"/>二寶花<space n="　" quantity="1"/>西赤芍<space n="　" quantity="1"/>制膽星<space n="　" quantity="1"/>京元參<space n="　" quantity="1"/>元胡索<space n="　" quantity="1"/>淡條苓<space n="　" quantity="1"/>粉丹皮<space n="　" quantity="1"/>射干片<space n="　" quantity="1"/>水煎服</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d7p82">
+            <seg xml:id="KR3em038_jc_002-d7.d7.p82s1">詩曰<space n="　" quantity="1"/>常歸連翹著方名骨槽風症務須吞丹地枳芍元蒡膽元胡銀苓射干成</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d7p84">
+            <seg xml:id="KR3em038_jc_002-d7.d7.p84s1">清熱涼血湯</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d7p86">
+            <seg xml:id="KR3em038_jc_002-d7.d7.p86s1">治陽梅喉癬因棉花瘡毒未盡而結於咽喉其狀周圍紫暈漸至腐爛爛上則鼻平陷爛下則飲食難進多至不救初起不覺或十日半月始知當以清熱涼血補脾佐吞百寶丹二三十服若體弱痰多嗽重聲啞者不治</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d7p88">
+            <seg xml:id="KR3em038_jc_002-d7.d7.p88s1">大生地<space n="　" quantity="1"/>天花粉<space n="　" quantity="1"/>淡條苓<space n="　" quantity="1"/>杭白芍<space n="　" quantity="1"/>牛蒡子<space n="　" quantity="1"/>川黃柏<space n="　" quantity="1"/>粉丹皮<space n="　" quantity="1"/>金銀花<space n="　" quantity="1"/>元參<space n="　" quantity="1"/>青防風<space n="　" quantity="1"/>皂角刺<space n="　" quantity="1"/>水煎服<space n="　" quantity="1"/>體弱加茯苓嗽重加山藥苡仁知母杏仁<space n="　" quantity="1"/>姜仁熱甚加犀角黃連服十劑之後另服犀羚貝母膏</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d7p90">
+            <seg xml:id="KR3em038_jc_002-d7.d7.p90s1">詩曰<space n="　" quantity="1"/>喉癬爛而侵腦經號曰楊梅不虛名地巧苓粉丹柏銀防風角刺元蒡能</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d7p92">
+            <seg xml:id="KR3em038_jc_002-d7.d7.p92s1">犀角旦母膏</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d7p94">
+            <seg xml:id="KR3em038_jc_002-d7.d7.p94s1">羚角<c n="("/>八錢<c n=")"/>
+              <space n="　" quantity="1"/>犀角<c n="("/>八錢<c n=")"/>
+              <space n="　" quantity="1"/>丹皮<c n="("/>八錢<c n=")"/>
+              <space n="　" quantity="1"/>當歸<c n="("/>五錢<c n=")"/>
+              <space n="　" quantity="1"/>元參<c n="("/>五錢<c n=")"/>
+              <space n="　" quantity="1"/>黃苓<c n="("/>三錢<c n=")"/>
+              <space n="　" quantity="1"/>黃柏<c n="("/>三錢<c n=")"/>
+              <space n="　" quantity="1"/>防風<c n="("/>三錢<c n=")"/>
+              <space n="　" quantity="1"/>射干<c n="("/>三錢<c n=")"/>
+              <space n="　" quantity="1"/>荊芥<c n="("/>三錢<c n=")"/>
+              <space n="　" quantity="1"/>牛蒡<c n="("/>八錢<c n=")"/>
+              <space n="　" quantity="1"/>連翹<c n="("/>六錢<c n=")"/>
+              <space n="　" quantity="1"/>枳殼<c n="("/>六錢<c n=")"/>
+              <space n="　" quantity="1"/>花粉<c n="("/>五錢<c n=")"/>
+              <space n="　" quantity="1"/>苡仁<c n="("/>五錢<c n=")"/>
+              <space n="　" quantity="1"/>土貝母<c n="("/>一兩<c n=")"/>
+              <space n="　" quantity="1"/>土茯苓<c n="("/>五錢<c n=")"/>
+              <space n="　" quantity="1"/>煎汁約<c n="("/>四大<c n=")"/>
+              <space n="　" quantity="1"/>碗濾渣將汁再熬稀糊納煉蜜<c n="("/>半斤<c n=")"/>
+              <space n="　" quantity="1"/>收貯磁罐日服<c n="("/>四次<c n=")"/>
+              <space n="　" quantity="1"/>卯已未亥四時每次半鍾以燈心湯調和送下忌生冷發氣之物體弱者去黃連花粉加白芍陳皮石斛噁心砂仁湯送下如合丸去黃連羚角荊防日進<c n="("/>二次<c n=")"/>
+              <space n="　" quantity="1"/>每次<c n="("/>二錢<c n=")"/>
+            </seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d7p96">
+            <seg xml:id="KR3em038_jc_002-d7.d7.p96s1">百寶丹</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d7p98">
+            <seg xml:id="KR3em038_jc_002-d7.d7.p98s1">牙皂<c n="("/>一兩<c n=")"/>
+              <space n="　" quantity="1"/>銀花<c n="("/>三兩<c n=")"/>
+              <space n="　" quantity="1"/>硃砂<c n="("/>五錢<c n=")"/>
+              <space n="　" quantity="1"/>研細末每服<c n="("/>六分<c n=")"/>
+              <space n="　" quantity="1"/>以冷飯塊<c n="("/>三兩<c n=")"/>
+              <space n="　" quantity="1"/>水<c n="("/>三碗<c n=")"/>
+              <space n="　" quantity="1"/>煎至碗牛分作<c n="("/>二次<c n=")"/>
+              <space n="　" quantity="1"/>服須在已午<c n="("/>二時<c n=")"/>
+              <space n="　" quantity="1"/>必</seg>
+            <seg type="comm" xml:id="KR3em038_jc_002-d7.d7.p98s2">
+              <c n="（"/>二十餘<c n="）"/>
+            </seg>
+            <seg xml:id="KR3em038_jc_002-d7.d7.p98s3">
+              <space n="　" quantity="1"/>服方能見效食時多服豬油麻油以潤肌膚藏府忌茶酒牛羊肉麵食蔥蒜等物</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d7p100">
+            <seg xml:id="KR3em038_jc_002-d7.d7.p100s1">連附甘桔湯</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d7p102">
+            <seg xml:id="KR3em038_jc_002-d7.d7.p102s1">治死蛾核因胃中有實火膈上有稠痰或氣鬱火生核砸色白</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d7p104">
+            <seg xml:id="KR3em038_jc_002-d7.d7.p104s1">細川連<space n="　" quantity="1"/>制香附<space n="　" quantity="1"/>苦桔梗<space n="　" quantity="1"/>淡條苓<space n="　" quantity="1"/>上廣皮<space n="　" quantity="1"/>焦枳殼<space n="　" quantity="1"/>京元參<space n="　" quantity="1"/>生甘草<space n="　" quantity="1"/>水煎服</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d7p106">
+            <seg xml:id="KR3em038_jc_002-d7.d7.p106s1">詩曰<space n="　" quantity="1"/>連附甘桔枳殼會元參廣皮及黃苓死蛾但腫不作痛清火利氣化痰靈</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d7p108">
+            <seg xml:id="KR3em038_jc_002-d7.d7.p108s1">舒郁降火湯</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d7p110">
+            <seg xml:id="KR3em038_jc_002-d7.d7.p110s1">治雙軍死蛾風因胎郁胞垢或怒氣傷肝兼之火鬱痰滯一邊為單兩邊為雙小兒生者是大人者非</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d7p112">
+            <seg xml:id="KR3em038_jc_002-d7.d7.p112s1">制香附<space n="　" quantity="1"/>大連翹<space n="　" quantity="1"/>廣陳皮<space n="　" quantity="1"/>淡條苓<space n="　" quantity="1"/>川黃柏<space n="　" quantity="1"/>川黃連<space n="　" quantity="1"/>天花粉<space n="　" quantity="1"/>生甘草<space n="　" quantity="1"/>水煎服或用牛蒡子湯亦神效方用青皮黃苓陳皮麥桅子連翹當歸</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d7p114">
+            <seg xml:id="KR3em038_jc_002-d7.d7.p114s1">詩曰<space n="　" quantity="1"/>痰氣滯鬱結於喉雙軍死蛾不痛究翹草陳粉苓柏連香附舒郁降火求更有牛蒡湯亦宜青苓陳麥梔連歸</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d7p116">
+            <seg xml:id="KR3em038_jc_002-d7.d7.p116s1">濟陰化痰飲</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d7p118">
+            <seg xml:id="KR3em038_jc_002-d7.d7.p118s1">治陰虛火灼憂思郁慮致成喉生梅核氣之候</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d7p120">
+            <seg xml:id="KR3em038_jc_002-d7.d7.p120s1">大生地<space n="　" quantity="1"/>金銀花<space n="　" quantity="1"/>京元參<space n="　" quantity="1"/>上廣皮<space n="　" quantity="1"/>川尖貝<space n="　" quantity="1"/>遠志肉<space n="　" quantity="1"/>川柴胡<space n="　" quantity="1"/>玉桔梗<space n="　" quantity="1"/>雲茯苓<space n="　" quantity="1"/>生甘草</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d7p122">
+            <seg xml:id="KR3em038_jc_002-d7.d7.p122s1">詩曰<space n="　" quantity="1"/>濟陰化痰梅氣參貝陳銀甘桔地柴胡云茯遠志肉加減治病總相宜</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d7p124">
+            <seg xml:id="KR3em038_jc_002-d7.d7.p124s1">加味二陳湯</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d7p126">
+            <seg xml:id="KR3em038_jc_002-d7.d7.p126s1">治梅核氣</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d7p128">
+            <seg xml:id="KR3em038_jc_002-d7.d7.p128s1">雲茯苓<space n="　" quantity="1"/>法半夏<space n="　" quantity="1"/>廣陳皮<space n="　" quantity="1"/>老蘇梗<space n="　" quantity="1"/>制川樸<space n="　" quantity="1"/>焦枳殼<space n="　" quantity="1"/>陽春砂<space n="　" quantity="1"/>六神麯<space n="　" quantity="1"/>生甘草<space n="　" quantity="1"/>引生薑水煎服</seg>
+          </p>
+<p xml:id="KR3em038_jc_002-d7.d7p130">
+            <seg xml:id="KR3em038_jc_002-d7.d7.p130s1">詩曰<space n="　" quantity="1"/>二陳以橘紅君半夏為臣甘草苓蘇樸枳砂六神麯引姜三片水煎成</seg>
+          </p>
+
+</div>
+      </div>
+      <div type="juan" n="3" xml:id="KR3em038_jc_000-d8">
+        <head n="h1" xml:id="KR3em038_jc_003-d8h1">
+          <seg xml:id="KR3em038_jc_003-d8.h1s1">訂喉科家訓卷三</seg>
+        </head>
+        <div n="h2" xml:id="KR3em038_jc_003-d8d2">
+          <head n="h2" xml:id="KR3em038_jc_003-d8.d2h1">
+            <seg xml:id="KR3em038_jc_003-d8.d2.h1s1">白喉治法</seg>
+          </head>
+          <p xml:id="KR3em038_jc_003-d8.d2p2">
+            <seg xml:id="KR3em038_jc_003-d8.d2.p2s1">夫咽喉乃一身總要呼吸出入處也咽以咽物喉以候氣為肺胃水穀之道內經云一陰一陽結而為痹此指風痰火鬱上凝清竅而言故用甘桔荊防蠶薄等品加減主之前賢已有成法不必闡術今之所謂白喉者肺腎陰虛之症也以少陰經脈挾咽太陰經脈屬喉腎陰久虧虛火上炎灼爍肺經上薰咽喉遂現白點不腫但紅或有腫腐其症微寒惡熱自汗骨即煩悶按脈細數而浮舌色薄黃底絳或喉燥津乾之象治宜養陰清肺湯一二劑可愈如陰虛之中復感外邪惡寒汗少先以除瘟化毒湯清解之或前方加荊防亦可治之如陰虛</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d2p4">
+            <seg xml:id="KR3em038_jc_003-d8.d2.p4s1">火旺之體誤投表藥內熱化火飲水即嗆眼紅聲啞牙緊氣逆日出臭氣咽喉腫爛身熱如焚脈來數疾舌色焦黑無津症已難治急用神仙活命湯清火敗毒間有生者如脾土難以運化嘔吐泄瀉者宜以兼顧脾胃為主養陰和中煎養陰固土飲擇而用之</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d2p6">
+            <seg xml:id="KR3em038_jc_003-d8.d2.p6s1">聖言</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d2p8">
+            <seg xml:id="KR3em038_jc_003-d8.d2.p8s1">仲晾云少陰病心煩咽痛白爛用豬膚凍潤法可知內喉亦屬少陰內熱薰蒸故用一派涼潤之品是乃豬膚湯之功臣可與仲景書並行於世</seg>
+          </p>
+
+</div>
+        <div n="h2" xml:id="KR3em038_jc_003-d8d3">
+          <head n="h2" xml:id="KR3em038_jc_003-d8.d3h1">
+            <seg xml:id="KR3em038_jc_003-d8.d3.h1s1">白喉治法五門</seg>
+          </head>
+          <p xml:id="KR3em038_jc_003-d8.d3p2">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p2s1">清解</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p4">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p4s1">內經云冬傷於寒春必病溫以冬受微寒之氣伏於少陰少陰腎水不足寒化為熱至春風邪用事新涼外襲受於肺胃初起形寒發熱汗少心煩咽喉紅痛</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p6">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p6s1">脈來浮數舌苔底絳薄白此時伏熱未發速投除瘟化毒湯清解肺胃新感之氣為耍</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p8">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p8s1">歌云</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p10">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p10s1">白喉症本輕以及風邪侵只許清解藥除瘟化毒靈</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p12">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p12s1">粉葛根<space n="　" quantity="1"/>忍冬花<space n="　" quantity="1"/>霜桑葉<space n="　" quantity="1"/>薄荷葉<space n="　" quantity="1"/>生甘草<space n="　" quantity="1"/>川尖貝<space n="　" quantity="1"/>小生地<space n="　" quantity="1"/>童<space n="　" quantity="1"/>木通<space n="　" quantity="1"/>枇杷葉<space n="　" quantity="1"/>淡竹葉</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p14">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p14s1">加藥法</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p16">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p16s1">大便閉者加瓜姜仁二錢郁李仁二錢胸下脹悶者加焦梔亮一錢五分炒麥芽二錢小便短赤者加車前於三錢燈芯一錢</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p18">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p18s1">除瘟化毒白喉初</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p20">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p20s1">輕而未白服此多</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p22">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p22s1">葛根金銀冬桑草</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p24">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p24s1">荷貝地通枇竹臨</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p26">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p26s1">養陰</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p28">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p28s1">前言清解肺胃新感之氣但可施於初起若熱多寒少有汗咽喉已現白象脈數苔黃或細數而浮骨節煩悶此係腎陰久虧伏寒化熱與肝陽之性上爍肺金之故耳常此之時宜以養陰清肺湯滋陰生津平肝熄風可云全愈如有外感加入荊防疏解可也</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p30">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p30s1">歌云</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p32">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p32s1">養陰清肺湯始終要守方隨症酌加味連服效如彰</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p34">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p34s1">麥冬<space n="　" quantity="1"/>白芍<space n="　" quantity="1"/>生地<space n="　" quantity="1"/>粉丹皮<space n="　" quantity="1"/>京元參<space n="　" quantity="1"/>薄荷葉<space n="　" quantity="1"/>川尖貝<space n="　" quantity="1"/>生加藥法甘草</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p36">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p36s1">喉間腫甚有加SH煆石羔大便燥結數日不通加青寧丸元明粉胸下脹悶加神釉焦查小便短赤加木通澤瀉知母燥渴者加天冬馬兜鈴面赤身熱或舌苔</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p38">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p38s1">黃加忍冬花大連翹</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p40">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p40s1">養陰清肺麥冬芍</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p42">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p42s1">生地丹皮元參酌</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p44">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p44s1">荷貝甘草此方用</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p46">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p46s1">方外變通臨時加</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p48">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p48s1">降火</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p50">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p50s1">少陰病臂虧火旺並無外感誤投表散開遠之品以致肝腎之火直衝肺胃咽痛難嚥嚥下即嗆眼紅聲啞大熱煩躁脈來三部有力舌色燥黃尖絳或譫話神昏已屬不治急以神仙活命湯可冀萬一之計</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p52">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p52s1">歌云</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p54">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p54s1">若遇極重症或被表散誤神仙活命湯冀可得生路</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p56">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p56s1">能膽草<space n="　" quantity="1"/>潤元參<space n="　" quantity="1"/>馬兜鈴<space n="　" quantity="1"/>板藍根<space n="　" quantity="1"/>瓜姜仁<space n="　" quantity="1"/>生石羔<space n="　" quantity="1"/>杭白芍<space n="　" quantity="1"/>川黃柏<space n="　" quantity="1"/>大生地<space n="　" quantity="1"/>生梔子<space n="　" quantity="1"/>生甘草</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p58">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p58s1">加藥法</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p60">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p60s1">如舌有芒刺譫語神昏加鳥犀角大便閉塞胸下滿悶者加川樸枳實便閉甚者再加萊藤子生大黃小便短赤者加肥知母福澤瀉車前子</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p62">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p62s1">神仙活命用元參</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p64">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p64s1">龍膽兜鈴板藍根</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p66">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p66s1">石羔梔子川柏片</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p68">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p68s1">地草瓜姜芍藥增</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p70">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p70s1">和中</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p72">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p72s1">脾胃為後天根本連化穀食雖病無害白喉乃少陰內熱薰蒸兼有嘔吐淞瀉明是脾胃不足不能泌清別濁宜以頭脾胃為急務養陰和中煎養陰固土飲因症施用可也</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p74">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p74s1">歌云</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p76">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p76s1">白喉未服藥嘔瀉和中煎服後如吐瀉養陰固土全</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p78">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p78s1">養陰和中煎</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p80">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p80s1">潤元參<space n="　" quantity="1"/>花提冬<space n="　" quantity="1"/>湖丹皮<space n="　" quantity="1"/>大生地<space n="　" quantity="1"/>炒麥芽<space n="　" quantity="1"/>南薄荷<space n="　" quantity="1"/>廣藿香<space n="　" quantity="1"/>縮砂仁</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p82">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p82s1">養陰和中元麥冬</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p84">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p84s1">丹地麥芽薄荷同</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p86">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p86s1">霍香砂仁水煎服</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p88">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p88s1">尚未服藥吐瀉宗</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p90">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p90s1">養陰固土飲</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p92">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p92s1">廣藿香<space n="　" quantity="1"/>陽春砂<space n="　" quantity="1"/>酒生地<space n="　" quantity="1"/>肥麥冬<space n="　" quantity="1"/>奎白芍<space n="　" quantity="1"/>川尖貝<space n="　" quantity="1"/>焦麥芽<space n="　" quantity="1"/>生甘草</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p94">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p94s1">養陰固土香砂仁</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p96">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p96s1">生地麥冬甘芍臨</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p98">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p98s1">川貝麥芽流水煎</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p100">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p100s1">服藥之後吐瀉寧</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p102">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p102s1">善後</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p104">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p104s1">白喉愈後元氣已虛餘毒未清宜以銀花四君子湯培土清毒以防後患如納食連化先天未復腰膝無力津枯咽乾者治宜養正湯固本而消餘毒此善後之妙法也</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p106">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p106s1">歌云</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p108">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p108s1">銀花四君湯善後培土方更有養正湯腎虛急兼嘈</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p110">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p110s1">忍冬花四君子湯</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p112">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p112s1">潞黨參<space n="　" quantity="1"/>制於術<space n="　" quantity="1"/>生首烏<space n="　" quantity="1"/>忍冬花<space n="　" quantity="1"/>生甘草</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p114">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p114s1">白喉善後脾胃虛</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p116">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p116s1">銀花四君最為宜</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p118">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p118s1">參朮首烏金銀花</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p120">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p120s1">牛草加上患可雖</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p122">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p122s1">養正湯</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p124">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p124s1">生玉竹<space n="　" quantity="1"/>生地黃<space n="　" quantity="1"/>熟地黃<space n="　" quantity="1"/>天花粉<space n="　" quantity="1"/>淮山藥<space n="　" quantity="1"/>雲茯苓<space n="　" quantity="1"/>制首烏<space n="　" quantity="1"/>麥門冬<space n="　" quantity="1"/>杭白芍<space n="　" quantity="1"/>女貞子<space n="　" quantity="1"/>西歸身<space n="　" quantity="1"/>生甘草</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p126">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p126s1">養正湯用二地黃</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p128">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p128s1">山藥玉竹麥苓當</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p130">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p130s1">花粉首烏甘芍等</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p132">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p132s1">更有女貞服之康</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p134">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p134s1">此以上乃治白喉之要法又有手法針少商藥水攪痰法通關開喉法外吹散藥法尚未言明再列於後以便應州之計</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p136">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p136s1">白喉未兼溫邪牙關不緊外法不可用也如有外邪夾雜不得不用外法兼治</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p138">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p138s1">外治法</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p140">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p140s1">如口噤先針四穴鼻中吹以通關散再以鵝毛蘸藥水探吐痰涎後以溫水漱之再以三種吹藥認證擇川為妙</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p142">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p142s1">第一種吹喉冰硼散</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p144">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p144s1">梅花冰片<c n="("/>三分<c n=")"/>
+              <space n="　" quantity="1"/>真西硼砂<c n="("/>一錢<c n=")"/>
+              <space n="　" quantity="1"/>選真膽礬<c n="("/>五分<c n=")"/>
+              <space n="　" quantity="1"/>精燒燈心灰</seg>
+            <seg type="comm" xml:id="KR3em038_jc_003-d8.d3.p144s2">
+              <c n="（"/>一錢五分<c n="）"/>
+            </seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p146">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p146s1">共研極細末吹之</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p148">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p148s1">第二種吹喉鳳衣散</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p150">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p150s1">青果炭<c n="("/>二錢<c n=")"/>
+              <space n="　" quantity="1"/>川黃柏<c n="("/>一錢<c n=")"/>
+              <space n="　" quantity="1"/>川尖貝<c n="("/>一錢<c n=")"/>
+              <space n="　" quantity="1"/>孩兒茶<c n="("/>一錢<c n=")"/>
+              <space n="　" quantity="1"/>三梅片<c n="("/>五分<c n=")"/>
+            </seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p152">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p152s1">薄荷葉<c n="("/>一錢<c n=")"/>
+              <space n="　" quantity="1"/>鳳凰衣<c n="("/>五分<c n=")"/>
+            </seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p154">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p154s1">共研細末吹之</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p156">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p156s1">第三種吹喉瓜霜散</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p158">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p158s1">西瓜霜<c n="("/>二錢<c n=")"/>
+              <space n="　" quantity="1"/>上辰砂<c n="("/>四分<c n=")"/>
+              <space n="　" quantity="1"/>上水片<c n="("/>二分<c n=")"/>
+              <space n="　" quantity="1"/>SH煆中白<c n="("/>二錢<c n=")"/>
+              <space n="　" quantity="1"/>明雄精<c n="("/>二釐<c n=")"/>
+            </seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p160">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p160s1">共研極細吹之</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p162">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p162s1">喉科救急膏</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p164">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p164s1">治一切喉症腫痛腐爛用此膏貼喉外五六時揭去有水泡以銀針挑破之</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p166">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p166s1">班毛<c n="("/>四錢<c n=")"/>
+              <space n="　" quantity="1"/>真血竭<c n="("/>六分<c n=")"/>
+              <space n="　" quantity="1"/>制乳香<c n="("/>六分<c n=")"/>
+              <space n="　" quantity="1"/>制沒藥<c n="("/>六分<c n=")"/>
+              <space n="　" quantity="1"/>淡全蟲<c n="("/>六分<c n=")"/>
+              <space n="　" quantity="1"/>原寸<c n="("/>六分<c n=")"/>
+              <space n="　" quantity="1"/>大元參<c n="("/>六分<c n=")"/>
+              <space n="　" quantity="1"/>上梅片<c n="("/>六分<c n=")"/>
+            </seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p168">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p168s1">班毛去頭翅足糯米拌炒以米色黃為度去糯米除血竭外共研極細末再以另研血竭和勻每用如小黃豆大一團放膏中貼之</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p170">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p170s1">按水泡挑破之後外以三妙膏貼上以免感風發腫之慮</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p172">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p172s1">喉科通開散<space n="　" quantity="1"/>秘方</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p174">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p174s1">皂角炭<space n="　" quantity="1"/>真川芎<space n="　" quantity="1"/>燈草灰<space n="　" quantity="1"/>三梅片<space n="　" quantity="1"/>真金箔<space n="　" quantity="1"/>原寸<space n="　" quantity="1"/>共研極細末用少許吹之鼻中</seg>
+          </p>
+<p xml:id="KR3em038_jc_003-d8.d3p176">
+            <seg xml:id="KR3em038_jc_003-d8.d3.p176s1">喉科藥水各處藥房皆有</seg>
+          </p>
+
+</div>
+      </div>
+      <div type="juan" n="4" xml:id="KR3em038_jc_000-d9">
+        <head n="h1" xml:id="KR3em038_jc_004-d9h1">
+          <seg xml:id="KR3em038_jc_004-d9.h1s1">增訂喉科家訓卷四</seg>
+        </head>
+        <div n="h2" xml:id="KR3em038_jc_004-d9d2">
+          <head n="h2" xml:id="KR3em038_jc_004-d9.d2h1">
+            <seg xml:id="KR3em038_jc_004-d9.d2.h1s1">白喉喉痧相似不同義</seg>
+          </head>
+          <p xml:id="KR3em038_jc_004-d9.d2p2">
+            <seg xml:id="KR3em038_jc_004-d9.d2.p2s1">白喉咽喉腐也喉痧亦咽喉腐也何以相似不同也是屬難辨誰知白喉由以腎虛火旺里症也咽喉雖腐有汗發熱其勢緩自下焦而至上焦喉痧為厲疫之氣由於口傳入表症也咽喉腫腐發熱無汗其勢急自上焦而至下焦一屬陰虛一屬陽邪不可不知今醫治白喉未能治喉痧治喉痧不能治白喉余今會通者治白喉即能治喉痧治喉痧亦能治白喉即此二症古書雖未暢論大意有之惟仲景云少陰病心煩咽痛白爛用豬膚涼潤法今之白喉書亦從聖書套出並非新出症名也所稱白喉者以咽喉白腐也即如喉痧一症仲景</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d2p4">
+            <seg xml:id="KR3em038_jc_004-d9.d2.p4s1">有陽毒咽痛之文叔和有溫毒之號然其治法未詳後賢論症處方者無數有用辛溫表散法又有辛涼解肌法又有寒涼抑火法論症雖詳而方法各巽也吾今考其原因辛涼透表最屬近理初起連劑並進無不汗暢痧透若過於辛溫表散仍恐汗多亡陽火熱莫制且疫瘀爛喉挾溫者多不得純用溫散吳淮陰雲溫者熱之漸熱者溫之極也斯言是也學醫者辨明表裡虛實寒熱之旨考古酌今靈機活潑非但二症可治即一切之症皆可治也</seg>
+          </p>
+
+</div>
+        <div n="h2" xml:id="KR3em038_jc_004-d9d3">
+          <head n="h2" xml:id="KR3em038_jc_004-d9.d3h1">
+            <seg xml:id="KR3em038_jc_004-d9.d3.h1s1">喉痧明證說</seg>
+          </head>
+          <p xml:id="KR3em038_jc_004-d9.d3p2">
+            <seg xml:id="KR3em038_jc_004-d9.d3.p2s1">喉痧由厲毒內伏其未發之先必五內煩躁手掌心熱漸漸咽痛僧寒發熱胸悶口渴有痧者熱勢必壯川大紅紙捲成條咽菜油點火照看頭而頤項見有痧點隱隱及周身膚胰通紅者無論咽喉紅與不紅腫與不腫腐與不腐但覺咽痛或會痛過發熱後反不甚覺痛者均屬疫痧急宜鰥後各方暢為透達既</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d3p4">
+            <seg xml:id="KR3em038_jc_004-d9.d3.p4s1">透方清層次不可攙越轉捩不可呆鈍蓋從來風火之重變幻之速無有過於此症者一落呆相便多貽誤亦有偶然感觸內本無邪僅見咽痛寒熱熱不甚壯膚腠不紅胸悶口渴亦微者但須乘其初起之時照方疏解不至發痧熱退痛定可愈至於失治邪陷則有腮腫頰車不開唇口緊小肢體膚黑欲脫舌絳喉腐痧點牛隱不透馴至神昏譫語氣喘腹瀉鼻煽鼻煤音啞痙厥不可為矣喉痧發於肺胃初起憎寒發熱為肺邪欲泄之象所以必現咽喉腫痛者咽喉為肺胃道路顧氏為熱淫浮越者是也其瑣碎小粒為痧痧者沙也打暈如塵沙而起屬肺其成片如雲頭突起者為𰣤𰣤者丹也或隱在皮膚之間多起於手足身背之一前賢為屬脾以脾主肌肉故也余則以為此正胃腑之熱浮外越耳蓋明亦主肌肉也有一見即化者有痧透後始化者其如疙瘩愧者發者多麻木而癢此係其人肝熱而兼濕痰藥宜佐以泄肝化痰滲濕之品至於</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d3p6">
+            <seg xml:id="KR3em038_jc_004-d9.d3.p6s1">失治邪陷初陷則在少陽陽明耳前後腫陷之深則頰車不開唇緊膚黑陰明風毒極盛也其舌苔黃而底白者猶在氣分至舌絳則直逼營分矣營分受邪則逼入心絡再陷則神昏譫語毒陷益烈惡候並見不轉瞬而風火交煽痙厥立至鼻煽音啞肺陰告絕頃刻云亡其氣喘腹瀉鼻煤之症微者可治甚者不可治當以後立各門中求之</seg>
+          </p>
+
+</div>
+        <div n="h2" xml:id="KR3em038_jc_004-d9d4">
+          <head n="h2" xml:id="KR3em038_jc_004-d9.d4h1">
+            <seg xml:id="KR3em038_jc_004-d9.d4.h1s1">喉痧先宜疏表說</seg>
+          </head>
+          <p xml:id="KR3em038_jc_004-d9.d4p2">
+            <seg xml:id="KR3em038_jc_004-d9.d4.p2s1">古來治喉痧者莫不重於咽喉而忽於痧疹早進寒涼遏伏疫邪之故耳凡厲疫之氣由口鼻而入於肺胃發必由肺胃而出於肌表熱淫上升咽喉必痛所以必先透痧為要痧透之後再議治喉此一定之理也是症之源流痧疹為本咽喉為標苟非洞開毛竅何以泄其毒而殺其勢此開手所以用透表法也俾汗暢而丹痧外達至無惡寒壯熱之象則外閉之風寒已解內蘊之毒火方張</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d4p4">
+            <seg xml:id="KR3em038_jc_004-d9.d4.p4s1">寒涼瀉熱初起是所忌投既透之後又不得仍用辛散也</seg>
+          </p>
+
+</div>
+        <div n="h2" xml:id="KR3em038_jc_004-d9d5">
+          <head n="h2" xml:id="KR3em038_jc_004-d9.d5h1">
+            <seg xml:id="KR3em038_jc_004-d9.d5.h1s1">解穢發散疏風疏肺說</seg>
+          </head>
+          <p xml:id="KR3em038_jc_004-d9.d5p2">
+            <seg xml:id="KR3em038_jc_004-d9.d5.p2s1">時命不正天陽之氣及地質穢濁之氣由口鼻而入瀰漫於無形勢必芳香以解之如臥龍丹太乙丹闢瘟丹之類是也</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d5p4">
+            <seg xml:id="KR3em038_jc_004-d9.d5.p4s1">屬痧陽腑經邪初起必從發散疫痧受邪重於時痧尤宜即與關達如荊防豆豉之類是也</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d5p6">
+            <seg xml:id="KR3em038_jc_004-d9.d5.p6s1">疫痧每發於火旺風勝之年且必觸時令之毒風而發故疏風為必需之品若已成火化者桑蒺參用也</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d5p8">
+            <seg xml:id="KR3em038_jc_004-d9.d5.p8s1">疫痧疏肺者以肺主皮毛肺氣開則皮毛亦開自無壅滯不透之患且肺主一身之氣化清肅下行諸氣受治疫痧亦因而自潰故蒡前杏貝桔梗循經速達皆為斯症之妙品臨症宜細審也</seg>
+          </p>
+
+</div>
+        <div n="h2" xml:id="KR3em038_jc_004-d9d6">
+          <head n="h2" xml:id="KR3em038_jc_004-d9.d6h1">
+            <seg xml:id="KR3em038_jc_004-d9.d6.h1s1">疫毒兩腮結腫說</seg>
+          </head>
+          <p xml:id="KR3em038_jc_004-d9.d6p2">
+            <seg xml:id="KR3em038_jc_004-d9.d6.p2s1">疫邪郁於少陽陽明之經絡凝結上焦遂致兩腮結腫今之所謂痧毒古云鰻鯉瘟是也當用柴胡葛根防風蒺藜頰車開闔不利只用防風蒺藜加於主藥中可也口唇緊小膚黑欲脫秦艽蒺藥加之以上痧未透清之治法又有痧疹透後結核腫痛未成膿者用消風化痰活血解毒以散之如桑葉蒺藜牛蒡前胡杏仁貝母甘草桔梗赤芍制蠶之預治之</seg>
+          </p>
+
+</div>
+        <div n="h2" xml:id="KR3em038_jc_004-d9d7">
+          <head n="h2" xml:id="KR3em038_jc_004-d9.d7h1">
+            <seg xml:id="KR3em038_jc_004-d9.d7.h1s1">望舌說</seg>
+          </head>
+          <p xml:id="KR3em038_jc_004-d9.d7p2">
+            <seg xml:id="KR3em038_jc_004-d9.d7.p2s1">舌苔白膩而滑表有風寒白而厚膩內挾穢濁不正之氣微黃漸從火化黃甚痧火爍氣也尖絳邪熱人心純絳色鮮澤邊尖生刺痧已透為營熱外泄未透紫絳而乾根邊多帶黃白厚膩此表邪未透痧火已爍及營分為難治中心焦黑舌短縮乾絳而硬中心焦神昏者皆不治</seg>
+          </p>
+
+</div>
+        <div n="h2" xml:id="KR3em038_jc_004-d9d8">
+          <head n="h2" xml:id="KR3em038_jc_004-d9.d8h1">
+            <seg xml:id="KR3em038_jc_004-d9.d8.h1s1">善後說</seg>
+          </head>
+          <p xml:id="KR3em038_jc_004-d9.d8p2">
+            <seg xml:id="KR3em038_jc_004-d9.d8.p2s1">喉瘀愈後須善自保衙以復太和其餘熱須清泄淨盡可加培養宜薄滋味節飲食謹嗜欲一切腥膻發物及房室俱宜遠戒否者痧後餘波變怪百出慎勿輕易嘗試</seg>
+          </p>
+
+</div>
+        <div n="h2" xml:id="KR3em038_jc_004-d9d9">
+          <head n="h2" xml:id="KR3em038_jc_004-d9.d9h1">
+            <seg xml:id="KR3em038_jc_004-d9.d9.h1s1">喉痧順逆治法論</seg>
+          </head>
+          <p xml:id="KR3em038_jc_004-d9.d9p2">
+            <seg xml:id="KR3em038_jc_004-d9.d9.p2s1">夫喉痧一症疫邪由口鼻而入於肺胃蓋肺主皮毛開竅於鼻胃主肌肉挾口環唇西醫云人吸空中養氣而活所謂養氣即天陽之正氣也如吸正氣何病之有今之疫邪者乃天陽時令不正及地質穢濁之氣與養氣相渾而入於肺胃二經故必由肺胃之經絡而發於咽喉初起僧寒發熱身疼無汗遍身𰣤痧咽喉腫痛斯時即進辛涼解散湯引痧出外為妙又有初發即神昏譫語疫邪侵襲神經毒素流行三焦辛涼宜透法主之使𰣤痧透達不致內竄可也此一</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d9p4">
+            <seg xml:id="KR3em038_jc_004-d9.d9.p4s1">二日大概情形也如初起誤投寒涼表邪夫透內郁化火壯熱煩躁痧隱肌肉面紅目赤骨節疼痛無汗咽喉腫痛腐爛乃一陰一陽之火乘威上亢銷爍肺金由是音鼻塞並見也速投疏達以開其毛竅清裡以化其毒吹以化腐丹使疫邪不上焰毒火不內射可望轉機之理些西日之情形也主方以清涼解毒湯可也至五六日熱勢更甚汗少痧隱神昏譫語喉腐且臭唇燥舌乾而絳氣機不利津液枯涸此係初時失於透表或誤進苦寒逼其疫毒內陷自肺胃營分逆傳心包竟成難瘳之候治仿犀角地黃合清官湯佐以紫雪丹和入金汁外吹珠黃散清涼解熱芳香逐穢冀燒幸於萬一如痧尚未達壯熱無汗內火已熾大便乾結燥實腑氣不通治以表裡兩解涼膈散加荊防主之使其痧透火清而大便通行為妙又有汗出痧透液傷燥結便秘者滋陰清肺中加元明粉生軍養掖潤燥可愈如誤治或失治至七八日咽喉腐爛汗出縵熱音啞無聲氣逆喘急苔色絳乾此陰陽俱羝疫毒內陷津液灼耗痰涎沖激致令肺氣不能降腎氣不能納內閉外脫之象姑以扶正滌痰湯盡人力以待天命而已愈後調理以生津養液加減滋陰清肺湯為主總之此症肺胃二經為受病之根本先散後清為治法之宗旨先哲云驟寒則火鬱而內澄過散剛火焰而腐增此二語至理名言卓然不拔若初起而驟川清濺化火而妄投表散其不致憤事者幾希可不慎歟拙見如此祈高明裁政余之獲益無既蒼生亦共被福澤也</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d9p6">
+            <seg xml:id="KR3em038_jc_004-d9.d9.p6s1">喉瘀治法五門</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d9p8">
+            <seg xml:id="KR3em038_jc_004-d9.d9.p8s1">疏達</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d9p10">
+            <seg xml:id="KR3em038_jc_004-d9.d9.p10s1">疫邪自口鼻而入於肺胃病必由肺胃而見於咽喉初發之時胸膈才間蘊積毒邪致生風痰壅滯不散發為咽喉之病先是紅腫縱而白腐疼痛塞熱湯水</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d9p12">
+            <seg xml:id="KR3em038_jc_004-d9.d9.p12s1">難人遍身𰣤痧隱隱等症斯時也若不疏邪達表而但用滋清之劑剛恐深入臟腑敗症百出莫可挽回必須用辛涼解散使疫邪外透不致內竄為妙吹以</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d9p14">
+            <seg xml:id="KR3em038_jc_004-d9.d9.p14s1">喉痧妙藥徽為首務也</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d9p16">
+            <seg xml:id="KR3em038_jc_004-d9.d9.p16s1">歌云</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d9p18">
+            <seg xml:id="KR3em038_jc_004-d9.d9.p18s1">辛涼解散湯疫痧初起嘈因症宜變化汗出方為康</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d9p20">
+            <seg xml:id="KR3em038_jc_004-d9.d9.p20s1">薄荷葉<space n="　" quantity="1"/>淨蟬衣<space n="　" quantity="1"/>大力子<space n="　" quantity="1"/>焦山扼<space n="　" quantity="1"/>大連翹<space n="　" quantity="1"/>冬桑葉<space n="　" quantity="1"/>淡竹葉<space n="　" quantity="1"/>荊芥穗<space n="　" quantity="1"/>青防風<space n="　" quantity="1"/>象貝母<space n="　" quantity="1"/>淡豆鼓<space n="　" quantity="1"/>生甘草<space n="　" quantity="1"/>水煎服嘔加橘絡竹茹瀉加葛根蛾加丹皮</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d9p22">
+            <seg xml:id="KR3em038_jc_004-d9.d9.p22s1">辛涼解散蟬荷蒡</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d9p24">
+            <seg xml:id="KR3em038_jc_004-d9.d9.p24s1">梔翹桑竹荊防良</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d9p26">
+            <seg xml:id="KR3em038_jc_004-d9.d9.p26s1">貝車豆豉水煎服</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d9p28">
+            <seg xml:id="KR3em038_jc_004-d9.d9.p28s1">喉痧初起立法詳</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d9p30">
+            <seg xml:id="KR3em038_jc_004-d9.d9.p30s1">清散</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d9p32">
+            <seg xml:id="KR3em038_jc_004-d9.d9.p32s1">疫邪不由外達內郁化火汗泄灼熱不退口乾欲飲咽喉腫腐日甚脈數舌黃乃一陰一陽之火乘威上亢銷爍肺金勢必見音啞鼻塞之惡象速進清火透解清涼解毒湯是也外以吹喉化腐丹吹之俾火毒清而汗暢莎透可云向愈之理</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d9p34">
+            <seg xml:id="KR3em038_jc_004-d9.d9.p34s1">歌云</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d9p36">
+            <seg xml:id="KR3em038_jc_004-d9.d9.p36s1">若遇症已重汗少熱邪壅內清外透法清涼解毒宗</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d9p38">
+            <seg xml:id="KR3em038_jc_004-d9.d9.p38s1">羚羊角<space n="　" quantity="1"/>川尖貝<space n="　" quantity="1"/>大連翹<space n="　" quantity="1"/>鮮金釵<space n="　" quantity="1"/>焦山梔<space n="　" quantity="1"/>蘇薄荷<space n="　" quantity="1"/>冬桑葉<space n="　" quantity="1"/>淡竹葉<space n="　" quantity="1"/>荊芥穗<space n="　" quantity="1"/>青防風<space n="　" quantity="1"/>二寶花<space n="　" quantity="1"/>生甘草</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d9p40">
+            <seg xml:id="KR3em038_jc_004-d9.d9.p40s1">水煎服使疫邪不上焰毒火不內射可望轉機</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d9p42">
+            <seg xml:id="KR3em038_jc_004-d9.d9.p42s1">清涼解毒羚貝翹<space n="　" quantity="1"/>斛草梔荷桑竹交</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d9p44">
+            <seg xml:id="KR3em038_jc_004-d9.d9.p44s1">荊防二寶流水煎<space n="　" quantity="1"/>疫邪化火服之好</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d9p46">
+            <seg xml:id="KR3em038_jc_004-d9.d9.p46s1">清化</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d9p48">
+            <seg xml:id="KR3em038_jc_004-d9.d9.p48s1">疫邪內陷熱勢頗甚咽喉腐爛神識昏迷語言錯亂痧不透達脈弦勁數此疫毒火熾逼人心包絡神明無主甚為險惡之候急用清涼解疫湯佐以紫雪丹外吹珠黃散清涼解熱芳香逐穢冀僥倖於萬一</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d9p50">
+            <seg xml:id="KR3em038_jc_004-d9.d9.p50s1">歌云</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d9p52">
+            <seg xml:id="KR3em038_jc_004-d9.d9.p52s1">疫邪內陷症喉腐神迷臨清涼芳香法冀可望生因</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d9p54">
+            <seg xml:id="KR3em038_jc_004-d9.d9.p54s1">甘中黃<space n="　" quantity="1"/>冬桑葉<space n="　" quantity="1"/>鮮生地<space n="　" quantity="1"/>忍冬花<space n="　" quantity="1"/>大連翹<space n="　" quantity="1"/>潤元參<space n="　" quantity="1"/>真川連<space n="　" quantity="1"/>焦山梔<space n="　" quantity="1"/>川尖旦<space n="　" quantity="1"/>童木通<space n="　" quantity="1"/>薄荷葉<space n="　" quantity="1"/>陳金汁</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d9p56">
+            <seg xml:id="KR3em038_jc_004-d9.d9.p56s1">水煎服先以紫雪丹三分開水化下後服煎藥</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d9p58">
+            <seg xml:id="KR3em038_jc_004-d9.d9.p58s1">清涼解疫中黃先<space n="　" quantity="1"/>參地銀翹木遍連</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d9p60">
+            <seg xml:id="KR3em038_jc_004-d9.d9.p60s1">梔貝桑荷陳金汁<space n="　" quantity="1"/>痧隱喉腐熱甚煎</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d9p62">
+            <seg xml:id="KR3em038_jc_004-d9.d9.p62s1">救液</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d9p64">
+            <seg xml:id="KR3em038_jc_004-d9.d9.p64s1">雷少逸云溫病最易傷陰常保陰生津為要今疫癘喉症轉機之後其陰液未必不傷舌絳而乾喉雖清爽燥癢無津脈仍數象是症之明驗也此係肺胃餘熱未清腎陰不足所致滋陰清肺湯治之</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d9p66">
+            <seg xml:id="KR3em038_jc_004-d9.d9.p66s1">歌云</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d9p68">
+            <seg xml:id="KR3em038_jc_004-d9.d9.p68s1">滋陰清肺湯將愈是妙方臨症欲知化連服保液彰</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d9p70">
+            <seg xml:id="KR3em038_jc_004-d9.d9.p70s1">鮮生地<space n="　" quantity="1"/>鮮金釵<space n="　" quantity="1"/>京元參<space n="　" quantity="1"/>剖麥冬<space n="　" quantity="1"/>霜桑葉<space n="　" quantity="1"/>川尖貝<space n="　" quantity="1"/>湖丹皮<space n="　" quantity="1"/>生甘草<space n="　" quantity="1"/>枇杷葉<space n="　" quantity="1"/>甜梨汁<space n="　" quantity="1"/>水煎服</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d9p72">
+            <seg xml:id="KR3em038_jc_004-d9.d9.p72s1">痧透熱退喉漸清<space n="　" quantity="1"/>肺胃餘熱用滋陰</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d9p74">
+            <seg xml:id="KR3em038_jc_004-d9.d9.p74s1">冬地元斛桑貝枇<space n="　" quantity="1"/>梨草丹皮服之寧</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d9p76">
+            <seg xml:id="KR3em038_jc_004-d9.d9.p76s1">救治</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d9p78">
+            <seg xml:id="KR3em038_jc_004-d9.d9.p78s1">爛喉痧日數已多咽喉爛甚汗出漫勢音無聲氣逆喘急此陰陽俱虧疫毒內陷津液灼耗痰涎沖激致令肺氣不能降腎氣不能納內閉外脫之象危在旦夕勉用扶正滌痰之法盡人力以侍天命而已</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d9p80">
+            <seg xml:id="KR3em038_jc_004-d9.d9.p80s1">歌云</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d9p82">
+            <seg xml:id="KR3em038_jc_004-d9.d9.p82s1">喉痧日數多肺臟氣欲無勉用扶正法未知後如何</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d9p84">
+            <seg xml:id="KR3em038_jc_004-d9.d9.p84s1">西洋參<space n="　" quantity="1"/>潤元參<space n="　" quantity="1"/>霍山斗<space n="　" quantity="1"/>川尖貝<space n="　" quantity="1"/>黛蛤散<space n="　" quantity="1"/>大花提<space n="　" quantity="1"/>大生地<space n="　" quantity="1"/>生甘草<space n="　" quantity="1"/>瓜姜皮<space n="　" quantity="1"/>甜杏仁<space n="　" quantity="1"/>淡竹瀝<space n="　" quantity="1"/>珍珠粉<space n="　" quantity="1"/>頂猴棗<space n="　" quantity="1"/>水煎服</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d9p86">
+            <seg xml:id="KR3em038_jc_004-d9.d9.p86s1">扶正滌痰西洋參</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d9p88">
+            <seg xml:id="KR3em038_jc_004-d9.d9.p88s1">元參石斛貝杏仁</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d9p90">
+            <seg xml:id="KR3em038_jc_004-d9.d9.p90s1">生地姜草黛蛤散</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d9p92">
+            <seg xml:id="KR3em038_jc_004-d9.d9.p92s1">竹瀝珠粉猴棗成</seg>
+          </p>
+
+</div>
+        <div n="h2" xml:id="KR3em038_jc_004-d9d10">
+          <head n="h2" xml:id="KR3em038_jc_004-d9.d10h1">
+            <seg xml:id="KR3em038_jc_004-d9.d10.h1s1">附經念方案一則</seg>
+          </head>
+          <p xml:id="KR3em038_jc_004-d9.d10p2">
+            <seg xml:id="KR3em038_jc_004-d9.d10.p2s1">脈形浮洪舌色薄膩神迷嘔懇時欲譫語痧隱肌膚喉痧毒素已走全身疫邪</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d10p4">
+            <seg xml:id="KR3em038_jc_004-d9.d10.p4s1">自肺胃流注三焦攻衝心包姑以芳香宣竅佐以疏解透泄以冀轉重為輕可愈此症</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d10p6">
+            <seg xml:id="KR3em038_jc_004-d9.d10.p6s1">荊芥穗<space n="　" quantity="1"/>青防風<space n="　" quantity="1"/>大力子<space n="　" quantity="1"/>粉葛根<space n="　" quantity="1"/>冬桑葉<space n="　" quantity="1"/>鮮菖蒲<space n="　" quantity="1"/>川尖貝<space n="　" quantity="1"/>薄荷葉<space n="　" quantity="1"/>潤元參<space n="　" quantity="1"/>廣藿梗<space n="　" quantity="1"/>淡竹葉<space n="　" quantity="1"/>水煎服</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d10p8">
+            <seg xml:id="KR3em038_jc_004-d9.d10.p8s1">辛涼宣透桑竹君</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d10p10">
+            <seg xml:id="KR3em038_jc_004-d9.d10.p10s1">荷貝葛根荊防臨</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d10p12">
+            <seg xml:id="KR3em038_jc_004-d9.d10.p12s1">菖蒡元參廣藿梗</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d10p14">
+            <seg xml:id="KR3em038_jc_004-d9.d10.p14s1">喉痧攻衝用之寧</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d10p16">
+            <seg xml:id="KR3em038_jc_004-d9.d10.p16s1">以上治喉痧之法大旨已備所有前賢治臉條例及吹散等方並例於後以俟學後臨症詳審施用可也</seg>
+          </p>
+
+</div>
+        <div n="h2" xml:id="KR3em038_jc_004-d9d11">
+          <head n="h2" xml:id="KR3em038_jc_004-d9.d11h1">
+            <seg xml:id="KR3em038_jc_004-d9.d11.h1s1">前賢條治</seg>
+          </head>
+          <p xml:id="KR3em038_jc_004-d9.d11p2">
+            <seg xml:id="KR3em038_jc_004-d9.d11.p2s1">丁甘仁曰喉痧表邪未解大便燥結腑氣不通脈實有力治仿釜底抽薪引火下行之法涼膈散主之如舌苔厚膩內夾食積可加消食之品除其有形之食</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d11p4">
+            <seg xml:id="KR3em038_jc_004-d9.d11.p4s1">則無形之熱自解</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d11p6">
+            <seg xml:id="KR3em038_jc_004-d9.d11.p6s1">焦山梔<space n="　" quantity="1"/>大連翹<space n="　" quantity="1"/>淡條苓<space n="　" quantity="1"/>薄荷葉<space n="　" quantity="1"/>生甘草<space n="　" quantity="1"/>元明粉<space n="　" quantity="1"/>生大黃<space n="　" quantity="1"/>水煎服<space n="　" quantity="1"/>挾食加查舢川樸惡寒加荊防</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d11p8">
+            <seg xml:id="KR3em038_jc_004-d9.d11.p8s1">涼膈散治膈熱甚</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d11p10">
+            <seg xml:id="KR3em038_jc_004-d9.d11.p10s1">梔翹芩薄草硝黃</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d11p12">
+            <seg xml:id="KR3em038_jc_004-d9.d11.p12s1">食積查曲川卷樸</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d11p14">
+            <seg xml:id="KR3em038_jc_004-d9.d11.p14s1">疏表荊防神效方</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d11p16">
+            <seg xml:id="KR3em038_jc_004-d9.d11.p16s1">顧玉峰曰疫痧失於透解最易內陷心包痧雖透而未能盡透色紫或赤脈弦喉爛舌絳心黑口渴譫語疫毒化火流注三焦內而臟腑外而肌肉勢屬大危之候勉以犀角地黃合清宮湯佐以紫雪丹化服古賢云小舟在洋收帆未定也</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d11p18">
+            <seg xml:id="KR3em038_jc_004-d9.d11.p18s1">烏犀尖<space n="　" quantity="1"/>鮮生地<space n="　" quantity="1"/>杭白芍<space n="　" quantity="1"/>粉丹皮<space n="　" quantity="1"/>潤元參<space n="　" quantity="1"/>剖麥冬<space n="　" quantity="1"/>蓮子心<space n="　" quantity="1"/>連翹心<space n="　" quantity="1"/>淡竹葉<space n="　" quantity="1"/>水煎服</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d11p20">
+            <seg xml:id="KR3em038_jc_004-d9.d11.p20s1">犀角地黃芍藥丹清宮蓮子元翹傳</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d11p22">
+            <seg xml:id="KR3em038_jc_004-d9.d11.p22s1">竹葉麥冬成一劑</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d11p24">
+            <seg xml:id="KR3em038_jc_004-d9.d11.p24s1">神昏譫語服之安</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d11p26">
+            <seg xml:id="KR3em038_jc_004-d9.d11.p26s1">加減法</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d11p28">
+            <seg xml:id="KR3em038_jc_004-d9.d11.p28s1">熱痰盛兮加竹瀝<space n="　" quantity="1"/>梨汁同添各五匙</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d11p30">
+            <seg xml:id="KR3em038_jc_004-d9.d11.p30s1">咯痰不清姜皮人<space n="　" quantity="1"/>熱毒中黃金汁施</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d11p32">
+            <seg xml:id="KR3em038_jc_004-d9.d11.p32s1">漸欲神昏須早救<space n="　" quantity="1"/>銀花荷葉石蒲治</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d11p34">
+            <seg xml:id="KR3em038_jc_004-d9.d11.p34s1">葉天士云爛喉痧症發於春之際不分老幼遍相傳染髮則壯熱煩渴癍密肌紅宛如錦紋咽喉疼痛腫爛一團火熱內熾醫家見其火熱之甚投以犀羚芩連梔膏之品輒至隱伏昏閉及喉爛廢食延挨不治或便瀉內陷轉眼凶危醫者束手病家委之於侖誰知初起之時頻進解肌散表溫毒外達多有生者荊防葛根湯加減可也</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d11p36">
+            <seg xml:id="KR3em038_jc_004-d9.d11.p36s1">荊芥穗<space n="　" quantity="1"/>青防風<space n="　" quantity="1"/>粉葛根<space n="　" quantity="1"/>冬桑葉<space n="　" quantity="1"/>鮮菖蒲<space n="　" quantity="1"/>薄荷葉<space n="　" quantity="1"/>大力子<space n="　" quantity="1"/>大旦母<space n="　" quantity="1"/>淡竹葉<space n="　" quantity="1"/>淨蟬衣<space n="　" quantity="1"/>水煎服此方節前經驗方案之辛涼宣透法減</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d11p38">
+            <seg xml:id="KR3em038_jc_004-d9.d11.p38s1">藿香元參也噁心嘔吐仍加萋香為妙</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d11p40">
+            <seg xml:id="KR3em038_jc_004-d9.d11.p40s1">高錦庭云爛喉丹痧系天行疫厲之毒故長幼傳染者多外從口鼻而入內從肺胃而發其始起也脈緊弦數惡寒頭脹膚紅肌熱咽喉結痹腫腐遍身班疹隱隱斯時即宜疏達治以牛蒡解肌湯如有挾食加以消食之品為主</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d11p42">
+            <seg xml:id="KR3em038_jc_004-d9.d11.p42s1">牛蒡子<space n="　" quantity="1"/>蒲荷葉<space n="　" quantity="1"/>荊芥穗<space n="　" quantity="1"/>青防風<space n="　" quantity="1"/>焦山梔<space n="　" quantity="1"/>大連翹<space n="　" quantity="1"/>粉丹皮<space n="　" quantity="1"/>霍山斗<space n="　" quantity="1"/>潤元參<space n="　" quantity="1"/>水煎服</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d11p44">
+            <seg xml:id="KR3em038_jc_004-d9.d11.p44s1">牛蒡解肌用荊防</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d11p46">
+            <seg xml:id="KR3em038_jc_004-d9.d11.p46s1">元斛蒲荷丹梔翹</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d11p48">
+            <seg xml:id="KR3em038_jc_004-d9.d11.p48s1">風火疫毒喉痧症</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d11p50">
+            <seg xml:id="KR3em038_jc_004-d9.d11.p50s1">疏表清裡煎服好</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d11p52">
+            <seg xml:id="KR3em038_jc_004-d9.d11.p52s1">曹心怡曰冬燠春寒邪郁肺胃運水令火結而為痹咽喉紅腫而痛或怛痛不</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d11p54">
+            <seg xml:id="KR3em038_jc_004-d9.d11.p54s1">腫不紅僧寒發熱或壯熱或不甚熱或乍寒乍熱微者飲食如常甚者胸痞咽阻不能食脈形弦數濡數或沉數或沉弦不數或右寸獨大或兩寸並沉或左部兼緊皆邪郁未伸之象也舌白不渴或微渴而苔滑膩或渴甚而苔仍白滑邪在表分也荊防麻豉湯主之胸痞咽阻先以太乙救苦丹化服</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d11p56">
+            <seg xml:id="KR3em038_jc_004-d9.d11.p56s1">荊芥穗<space n="　" quantity="1"/>青防風<space n="　" quantity="1"/>炙麻黃<space n="　" quantity="1"/>大力子<space n="　" quantity="1"/>玉桔梗<space n="　" quantity="1"/>杏仁泥<space n="　" quantity="1"/>大貝母<space n="　" quantity="1"/>甘中黃<space n="　" quantity="1"/>西河柳<space n="　" quantity="1"/>痰濕盛舌白膩加紫苑<space n="　" quantity="1"/>呱血加桑皮<space n="　" quantity="1"/>腹痛瀉甚加粉葛根<space n="　" quantity="1"/>挾食加枳查麥芽<space n="　" quantity="1"/>經水適來及男子奪精加紫芍以除四支厥冷舌黃去荊加桑葉黃甚燥渴加霍山斗<space n="　" quantity="1"/>耳前後掣痛或腫加紫葛白蒺頰車嗦痛加白蒺藜<space n="　" quantity="1"/>唇口緊小焦黑芄蒺同用</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d11p58">
+            <seg xml:id="KR3em038_jc_004-d9.d11.p58s1">按此方過於散表非冬令嚴寒水冰地凍之時未可輕用麻黃專司冬令寒邪頭疼發表之力甚大加以荊防兄豉牛蒡之疏風透表桔梗載藥上升雖</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d11p60">
+            <seg xml:id="KR3em038_jc_004-d9.d11.p60s1">有杏仁之潤肺貝母中黃之涼化河柳又是發汗之品究竟升散太多非質弱之人主方也疫厲喉痧體質強者未能傳染今之臨症氣虛多而氣實者少也世醫軌此施治豈能無誤今仍條治冬令喉痧氣實無汗可以暫用</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d11p62">
+            <seg xml:id="KR3em038_jc_004-d9.d11.p62s1">冬令染疫爛喉痧<space n="　" quantity="1"/>荊防麻豉效可誇</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d11p64">
+            <seg xml:id="KR3em038_jc_004-d9.d11.p64s1">兼用牛蒡杏貝桔<space n="　" quantity="1"/>中黃河柳水煎可</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d11p66">
+            <seg xml:id="KR3em038_jc_004-d9.d11.p66s1">痧透喉寬苔黃尖絳脈轉洪數桑防白膏湯主之</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d11p68">
+            <seg xml:id="KR3em038_jc_004-d9.d11.p68s1">桑葉<space n="　" quantity="1"/>防風<space n="　" quantity="1"/>豆豉<space n="　" quantity="1"/>牛蒡<space n="　" quantity="1"/>桔梗<space n="　" quantity="1"/>前胡<space n="　" quantity="1"/>杏仁<space n="　" quantity="1"/>土貝<space n="　" quantity="1"/>中黃<space n="　" quantity="1"/>霍斛河柳</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d11p70">
+            <seg xml:id="KR3em038_jc_004-d9.d11.p70s1">愚接此方痧疹未透苔雖黃底白用之外透表而內清化之劑主治條下痧透喉寬苔黃尖絳脈洪數曹心怡以為佳方吾不信也</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d11p72">
+            <seg xml:id="KR3em038_jc_004-d9.d11.p72s1">痧點逼留不化舌色純絳鮮澤尖上起刺羚羊黑膏湯主之</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d11p74">
+            <seg xml:id="KR3em038_jc_004-d9.d11.p74s1">羚羊<space n="　" quantity="1"/>豆豉<space n="　" quantity="1"/>鮮地<space n="　" quantity="1"/>桑葉<space n="　" quantity="1"/>白蒺<space n="　" quantity="1"/>牛蒡<space n="　" quantity="1"/>桔梗<space n="　" quantity="1"/>前胡<space n="　" quantity="1"/>杏仁<space n="　" quantity="1"/>土貝中黃</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d11p76">
+            <seg xml:id="KR3em038_jc_004-d9.d11.p76s1">愚按是方減盍前桔杏鼓中黃加滁菊霍斛甘草薄荷為穩熱甚生風加鉤藤</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d11p78">
+            <seg xml:id="KR3em038_jc_004-d9.d11.p78s1">痧回熱退舌化脈和餘邪未淨時時手足心熱桑丹瀉白散主之</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d11p80">
+            <seg xml:id="KR3em038_jc_004-d9.d11.p80s1">桑葉<space n="　" quantity="1"/>丹皮<space n="　" quantity="1"/>桑皮<space n="　" quantity="1"/>地骨<space n="　" quantity="1"/>牛蒡<space n="　" quantity="1"/>前胡<space n="　" quantity="1"/>杏仁<space n="　" quantity="1"/>土貝<space n="　" quantity="1"/>甘草</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d11p82">
+            <seg xml:id="KR3em038_jc_004-d9.d11.p82s1">愚按痧回熱退舌化脈和餘邪未淨法宜滋清熄邪此方似乎不合肺之氣</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d11p84">
+            <seg xml:id="KR3em038_jc_004-d9.d11.p84s1">液已衰有桑皮之瀉肺痧回熱退復用牛蒡前胡之疏解姑仍之不過有是</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d11p86">
+            <seg xml:id="KR3em038_jc_004-d9.d11.p86s1">法耳</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d11p88">
+            <seg xml:id="KR3em038_jc_004-d9.d11.p88s1">痧後肺胃餘風未清牛蒡前胡湯主之</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d11p90">
+            <seg xml:id="KR3em038_jc_004-d9.d11.p90s1">牛蒡<space n="　" quantity="1"/>前胡<space n="　" quantity="1"/>桑葉<space n="　" quantity="1"/>白蒺<space n="　" quantity="1"/>杏仁<space n="　" quantity="1"/>姜仁<space n="　" quantity="1"/>杷葉</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d11p92">
+            <seg xml:id="KR3em038_jc_004-d9.d11.p92s1">愚案不如用桑葉滁菊蒺藜薄荷杷葉鉤藤芍藥甘草為穩當</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d11p94">
+            <seg xml:id="KR3em038_jc_004-d9.d11.p94s1">瘥後胃燥霍斛元參湯主之瘥後肝胃之陰不復者參烏湯主之</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d11p96">
+            <seg xml:id="KR3em038_jc_004-d9.d11.p96s1">霍鬥<space n="　" quantity="1"/>元參<space n="　" quantity="1"/>杏仁<space n="　" quantity="1"/>姜仁<space n="　" quantity="1"/>煎服</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d11p98">
+            <seg xml:id="KR3em038_jc_004-d9.d11.p98s1">西洋參<space n="　" quantity="1"/>制首烏<space n="　" quantity="1"/>煎服</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d11p100">
+            <seg xml:id="KR3em038_jc_004-d9.d11.p100s1">此二方不如用養陰法加味為妙</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d11p102">
+            <seg xml:id="KR3em038_jc_004-d9.d11.p102s1">痧後燥結用五仁丸</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d11p104">
+            <seg xml:id="KR3em038_jc_004-d9.d11.p104s1">火麻仁<space n="　" quantity="1"/>柏子仁<space n="　" quantity="1"/>叭杏仁<space n="　" quantity="1"/>瓜姜仁<space n="　" quantity="1"/>郁李仁<space n="　" quantity="1"/>為丸服</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d11p106">
+            <seg xml:id="KR3em038_jc_004-d9.d11.p106s1">吹藥類</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d11p108">
+            <seg xml:id="KR3em038_jc_004-d9.d11.p108s1">第一種喉痧妙藥散</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d11p110">
+            <seg xml:id="KR3em038_jc_004-d9.d11.p110s1">真尖黃<space n="　" quantity="1"/>提濂珠<space n="　" quantity="1"/>三梅片<space n="　" quantity="1"/>西月石<space n="　" quantity="1"/>銀紛霜<space n="　" quantity="1"/>天竺黃<space n="　" quantity="1"/>飛硃砂</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d11p112">
+            <seg xml:id="KR3em038_jc_004-d9.d11.p112s1">共研極細末吹之</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d11p114">
+            <seg xml:id="KR3em038_jc_004-d9.d11.p114s1">第二種吹喉化腐丹</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d11p116">
+            <seg xml:id="KR3em038_jc_004-d9.d11.p116s1">煆月石<space n="　" quantity="1"/>煆中白<space n="　" quantity="1"/>西瓜霜<space n="　" quantity="1"/>飛明雄<space n="　" quantity="1"/>天竺黃<space n="　" quantity="1"/>真尖黃<space n="　" quantity="1"/>大濂珠<space n="　" quantity="1"/>三梅片<space n="　" quantity="1"/>飛硃砂<space n="　" quantity="1"/>共研極細末吹之</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d11p118">
+            <seg xml:id="KR3em038_jc_004-d9.d11.p118s1">第三種吹喉珠黃散</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d11p120">
+            <seg xml:id="KR3em038_jc_004-d9.d11.p120s1">真犀黃<space n="　" quantity="1"/>飛硃砂<space n="　" quantity="1"/>淨珍珠<space n="　" quantity="1"/>上滴乳石<space n="　" quantity="1"/>西月石<space n="　" quantity="1"/>真原寸<space n="　" quantity="1"/>飛雄精</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d11p122">
+            <seg xml:id="KR3em038_jc_004-d9.d11.p122s1">粉兒茶<space n="　" quantity="1"/>煆中白<space n="　" quantity="1"/>大梅片<space n="　" quantity="1"/>共研細末吹之</seg>
+          </p>
+<p xml:id="KR3em038_jc_004-d9.d11p124">
+            <seg xml:id="KR3em038_jc_004-d9.d11.p124s1">以上治喉痧大法已全又有臥龍丹玉樞丹太乙救苦丹等方常於衛生鴻賓書中求之</seg>
+          </p>
+</div>
+      </div>
+    </body>
+  </text>
+</TEI>

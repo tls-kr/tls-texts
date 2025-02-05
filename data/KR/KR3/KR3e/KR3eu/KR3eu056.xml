@@ -1,0 +1,4341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KR3eu056">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>中國兒科醫鑑</title>
+        <author>大塜敬節</author>
+      </titleStmt>
+      <extent>
+        <measure unit="char" quantity="12335"/>
+        <date when-iso="2024-02-21T13:40:49.864+09:00"/>
+      </extent>
+      <publicationStmt>
+        <p>Originally published at <ref target="https://jicheng.tw/tcm/book/index.html">中醫笈成:中國兒科醫鑑</ref>. Checkout from https://gitlab.com/jicheng/jc.data, commit aab40201, 2022-12-28.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>出自《皇漢醫學叢書》第九冊，1936年上海世界書局刊行（<ref target="https://taiwanebook.ncl.edu.tw/zh-tw/book/NTL-9900015281">國家圖書館掃描本</ref>）</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date notBefore="1936" notAfter="1936"/>公元1936年</creation>
+      <textClass>
+        <catRef scheme="#kr-categories" target="#KR3eu"/>
+      </textClass>
+    </profileDesc>
+    <encodingDesc>
+      <p>Quality: </p>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+
+<div n="h1" xml:id="KR3eu056_jc_000-d2">
+        <head n="h1" xml:id="KR3eu056_jc_000-d2h1">
+          <seg xml:id="KR3eu056_jc_000-d2.h1s1">第一章　麻疹</seg>
+        </head>
+        <p xml:id="KR3eu056_jc_000-d2p2">
+          <seg xml:id="KR3eu056_jc_000-d2.p2s1">
+            <c n="【"/>症候<c n="】"/>本病之潛伏期<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p2s2">通常十日至十一日<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p2s3">少則九日或七日<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p2s4">潛伏期短<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p2s5">則前驅期長<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p2s6">從傳染至發現<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p2s7">通常為期十四日<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p2s8">在此時期中雖不呈何種症象<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p2s9">亦有輕度之障礙<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p2s10">如遊戲心減<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p2s11">感覺疲勞<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p2s12">食慾不振<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p2s13">輕者呈加答兒症狀<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p2s14">晚來體溫上升<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p2s15">是等症候<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p2s16">尤在前驅期為顯著<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d2p4">
+          <seg xml:id="KR3eu056_jc_000-d2.p4s1">前驅期通例三日<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p4s2">或五日<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p4s3">始現加答兒與熱候<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p4s4">亦有不顯著者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p4s5">眼瞼結膜強而發赤<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p4s6">分泌多量膿性黏液<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p4s7">而起羞明<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p4s8">鼻黏膜亦同樣腫脹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p4s9">有噴嚏<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p4s10">間有衄血者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p4s11">同時或兼發遲緩之乾性咳嗽<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p4s12">發聲嘶嗄<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p4s13">而呈假性格魯布狀<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p4s14">此期之體溫<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p4s15">第一日<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p4s16">三十八度五分<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p4s17">乃至三十九度五分<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p4s18">經過前驅期<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p4s19">則溫度高升<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p4s20">自覺頭痛<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p4s21">食慾不振<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p4s22">嘔吐<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p4s23">下痢<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p4s24">咳嗽<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p4s25">往往妨及睡眠<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p4s26">在此時期以口腔黏膜<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p4s27">咽頭及扁桃腺之加答兒外<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p4s28">在診斷上尤所緊要者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p4s29">即是克蒲利子枯氏斑<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p4s30">其先皮膚髮疹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p4s31">在一二日或三日之中<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p4s32">口頰黏膜及下列臼齒之對部分<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p4s33">發現小斑<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p4s34">呈針帽頭大之鮮紅色<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p4s35">其中央有真珠樣白色之圓點<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p4s36">觸之覺平面稍稍隆起<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p4s37">此即克蒲利子枯氏斑<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p4s38">決不現於他種疾病<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p4s39">故在診斷上甚有價值<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p4s40">在發疹之前一二日<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p4s41">屢在克蒲利子枯氏斑上<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p4s42">現固有之黏膜<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p4s43">色鮮紅而軟<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p4s44">或者硬口蓋黏膜上<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p4s45">呈小星狀之紅色斑<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p4s46">發疹如無減輕之傾向<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p4s47">則症狀更增凶惡<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p4s48">體溫上升<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p4s49">眼瞼結膜發赤極強<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p4s50">畏明<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p4s51">鼻加答兒及咳嗽均烈<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p4s52">全體亦現強烈之症狀<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d2p6">
+          <seg xml:id="KR3eu056_jc_000-d2.p6s1">麻疹發斑<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p6s2">初現小紅色<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p6s3">其斑恆在耳殼之前後<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p6s4">及顏面<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p6s5">頭部<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p6s6">極易擴大於軀幹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p6s7">上膊<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p6s8">大腿<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p6s9">前膊等處<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p6s10">約二日而遍及全身矣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p6s11">最初斑形甚小<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p6s12">漸次大如帽針頭<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p6s13">繼達豌豆之大<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p6s14">其扁平者稍隆起<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p6s15">其色初鮮紅<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p6s16">漸次而成火焰色<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p6s17">其形之大小<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p6s18">如不規則之星狀<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p6s19">皮疹發生繁多<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p6s20">以致互相融合<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p6s21">呈現種種不整齊之形狀<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p6s22">但決無廣泛性在各不整形之斑間常有正規色之健康皮膚存在神經質之小兒<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p6s23">故有癢感<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p6s24">發疹達於全盛時代<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p6s25">一二日後始漸次褪色<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p6s26">從發生之順序<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p6s27">平均二日為發疹之始<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p6s28">三日至四日<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p6s29">漸次消失<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p6s30">留褐色之痕跡<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p6s31">褐色斑則經十日乃至二十日<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p6s32">尚能認出也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p6s33">以後為落屑期<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p6s34">即發疹消去時期<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p6s35">此期中皮膚之狀況<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p6s36">與猩紅熱無異<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p6s37">顏面有糠粃狀之小鱗屑<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p6s38">其他部位通常甚弱<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p6s39">漸次於一周內剝落<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d2p8">
+          <seg xml:id="KR3eu056_jc_000-d2.p8s1">其體溫熱度<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p8s2">如無合併症<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p8s3">常與發疹出現<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p8s4">共同上升<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p8s5">至第三日發疹時<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p8s6">仍保持稍同之程度<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p8s7">此為達點時期<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p8s8">以後則溫度下降<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p8s9">其最高溫度<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p8s10">三十九度至四十度<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p8s11">或四十度與四十一度<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d2p10">
+          <seg xml:id="KR3eu056_jc_000-d2.p10s1">本病之經過中<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p10s2">屢起中耳炎<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p10s3">此炎症由歐氏管蔓延而來<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p10s4">舌乾燥而被白苔<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p10s5">口唇乾如裂創<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p10s6">開口則感疼痛<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p10s7">並有難堪之乾性咳嗽<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p10s8">至發痛時期<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p10s9">則往往輕快<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p10s10">聽診時<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p10s11">肺臟不異於尋常<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p10s12">其屢屢有濕性之水泡音者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p10s13">乃挾腸加答兒<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p10s14">腎臟炎<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p10s15">肺炎<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p10s16">腦膜炎等症之併發症矣<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d2p12">
+          <seg xml:id="KR3eu056_jc_000-d2.p12s1">
+            <c n="【"/>療法<c n="】"/>前驅期即黏膜之加答兒症狀時期<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p12s2">應用葛根湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p12s3">發疹期尚可用之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p12s4">此時屢現小柴胡湯證<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p12s5">又見高熱<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p12s6">煩渴<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p12s7">舌白苔而乾燥<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p12s8">口唇乾如欲裂者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p12s9">則當用石膏之配劑<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p12s10">可選用大青龍湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p12s11">小青龍湯加石膏湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p12s12">越婢湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p12s13">越婢加半夏湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p12s14">白虎加人參湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p12s15">竹葉石膏湯等<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p12s16">又可用葛根湯加石膏<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p12s17">小柴胡湯加石膏<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d2p14">
+          <seg xml:id="KR3eu056_jc_000-d2.p14s1">中耳炎初期<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p14s2">亦多用葛根湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p14s3">迨化膿時<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p14s4">則頓服排膿湯或排膿散<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p14s5">病勢進行<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p14s6">則服小柴胡湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p14s7">或小柴胡加石膏<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p14s8">或用大柴胡湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p14s9">排膿不止時<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p14s10">兼用伯州散<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d2p16">
+          <seg xml:id="KR3eu056_jc_000-d2.p16s1">腸加答兒<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p16s2">可用葛根湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p16s3">葛根黃芩黃連湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p16s4">小柴胡湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p16s5">黃芩湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p16s6">甘草瀉心湯之類<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p16s7">其兼肺炎者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p16s8">亦當從證選用麻症之治方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p16s9">若頻發咳嗽不止<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p16s10">則用橘皮竹茹湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p16s11">半夏厚朴湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p16s12">麥門冬湯之類<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d2p18">
+          <seg xml:id="KR3eu056_jc_000-d2.p18s1">其起腦膜炎者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p18s2">可服調胃承氣湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p18s3">桃核承氣湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p18s4">大小柴胡湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p18s5">葛根湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p18s6">白虎加人參湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p18s7">有時四逆湯真武湯之類<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p18s8">亦可用之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d2p20">
+          <seg xml:id="KR3eu056_jc_000-d2.p20s1">備考</seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d2p22">
+          <seg xml:id="KR3eu056_jc_000-d2.p22s1">
+            <c n="["/>保嬰撮要<c n="]"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d2p24">
+          <seg xml:id="KR3eu056_jc_000-d2.p24s1">葛根黃連湯<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3eu056_jc_000-d2.p24s2">
+            <c n="（"/>葛根黃建黃芩湯亦同<c n="）"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p24s3">麻疹之後<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p24s4">治身熱極效<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d2p26">
+          <seg xml:id="KR3eu056_jc_000-d2.p26s1">
+            <c n="["/>張氏醫通<c n="]"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d2p28">
+          <seg xml:id="KR3eu056_jc_000-d2.p28s1">乾薑黃芩人參湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p28s2">主治麻痹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p28s3">兼治痢病<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d2p30">
+          <seg xml:id="KR3eu056_jc_000-d2.p30s1">
+            <c n="["/>類聚方廣義<c n="]"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d2p32">
+          <seg xml:id="KR3eu056_jc_000-d2.p32s1">罹麻疹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p32s2">脈浮數<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p32s3">發熱<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p32s4">身痛<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p32s5">腰痛<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p32s6">喘咳諸症<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p32s7">表實而疹發不齊者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p32s8">用麻黃湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p32s9">大青龍湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p32s10">主治麻疹脈浮數<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p32s11">寒熱頭眩<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p32s12">身體疼痛<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p32s13">喘咳及汗出而煩躁者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p32s14">麻疹初期<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p32s15">惡寒發熱<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p32s16">脈浮數<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p32s17">或乾咳下痢<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p32s18">用葛根湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p32s19">若寒熱甚熾<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p32s20">咽頭有刺戟症狀<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p32s21">心胸煩悶者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p32s22">兼用黃連解毒湯<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d2p34">
+          <seg xml:id="KR3eu056_jc_000-d2.p34s1">麻疹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p34s2">胸脅苦滿<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p34s3">心下硬塞<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p34s4">嘔吐<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p34s5">腹滿痛<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p34s6">脈沉者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p34s7">用大柴胡湯<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d2p36">
+          <seg xml:id="KR3eu056_jc_000-d2.p36s1">麻疹大熱讝語<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p36s2">煩渴唇舌燥裂<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p36s3">脈洪大者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p36s4">用白虎湯<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d2p38">
+          <seg xml:id="KR3eu056_jc_000-d2.p38s1">
+            <c n="["/>慄園雜纂<c n="]"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d2p40">
+          <seg xml:id="KR3eu056_jc_000-d2.p40s1">麻疹兼喘惡候也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p40s2">諺云喘而咳嗽者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p40s3">可療<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p40s4">喘而不咳嗽者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p40s5">難治<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d2p42">
+          <seg xml:id="KR3eu056_jc_000-d2.p42s1">麻疹為熱毒<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p42s2">故舌多胎<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p42s3">白苔者輕<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p42s4">黃苔者重<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d2p44">
+          <seg xml:id="KR3eu056_jc_000-d2.p44s1">麻疹之色鮮明如錦者吉<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p44s2">黑晦如煤者凶<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p44s3">不出於頭面者重<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p44s4">紅紫黯者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p44s5">亦為重症<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d2p46">
+          <seg xml:id="KR3eu056_jc_000-d2.p46s1">凡出麻疹者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p46s2">貴透徹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p46s3">故先用發表劑<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p46s4">使毒盡達肌表<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p46s5">若誤投寒涼之藥<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p46s6">毒必內伏<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p46s7">不能透出<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p46s8">故多毒氣內攻<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p46s9">甚或喘悶而斃<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d2p48">
+          <seg xml:id="KR3eu056_jc_000-d2.p48s1">麻疹現形三日之後漸次沒落<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p48s2">不早不遲<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p48s3">佳候也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p48s4">一二日後疹即收沒者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p48s5">常有變證<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p48s6">宜謹慎調攝<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p48s7">切勿大意<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p48s8">須防風寒之侵襲<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p48s9">及避穢氣之觸受<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p48s10">否則其毒往往內攻<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p48s11">輕者煩渴譫狂<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p48s12">重則神昏悶亂<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p48s13">疹毒上衝<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p48s14">以致血液妄行<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p48s15">溢出鼻孔<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p48s16">宜用解毒之劑<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p48s17">毒解則血溢亦止<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d2p50">
+          <seg xml:id="KR3eu056_jc_000-d2.p50s1">麻疹之餘毒未盡<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p50s2">則發生種種變端<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p50s3">或於膚表結成瘡毒<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p50s4">治之不易<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p50s5">若在耳眼筋骨者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p50s6">亦難於醫治<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p50s7">其或精氣不振<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p50s8">形體羸瘦<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p50s9">精神倦怠<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p50s10">飲食減少<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p50s11">咳嗽不止<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p50s12">便泄不實<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p50s13">餘熱不除等證<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p50s14">往往變為勞瘵<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d2p52">
+          <seg xml:id="KR3eu056_jc_000-d2.p52s1">
+            <c n="["/>橘窗書影<c n="]"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d2p54">
+          <seg xml:id="KR3eu056_jc_000-d2.p54s1">麻疹最初用葛根加桔梗湯使發汗<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p54s2">往來寒熱似瘧者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p54s3">用小柴胡湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p54s4">疹已出而躁煩口渴者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p54s5">用白虎湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p54s6">煩渴而瀉下者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p54s7">用豬苓湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p54s8">便泄不止者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p54s9">用柴胡湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p54s10">小承氣湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p54s11">吐血衄血者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p54s12">用瀉心湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p54s13">輕者用黃芩湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p54s14">餘熱未退者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p54s15">用竹葉石膏湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p54s16">微熱咳嗽不止者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d2.p54s17">用小柴胡加葛根草果天花粉<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eu056_jc_000-d3">
+        <head n="h1" xml:id="KR3eu056_jc_000-d3h1">
+          <seg xml:id="KR3eu056_jc_000-d3.h1s1">第二章　猩紅熱</seg>
+        </head>
+        <p xml:id="KR3eu056_jc_000-d3p2">
+          <seg xml:id="KR3eu056_jc_000-d3.p2s1">
+            <c n="【"/>原因<c n="】"/>猩紅熱亦屬麻疹等之傳染性小兒病<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p2s2">且較麻疹為多<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p2s3">大人亦有患之者<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d3p4">
+          <seg xml:id="KR3eu056_jc_000-d3.p4s1">猩紅熱有先天的<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p4s2">永久免疫性<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p4s3">故人有終生不罹此疾者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p4s4">其有仍罹猩紅熱者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p4s5">大抵未得後天之免疫性耳<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d3p6">
+          <seg xml:id="KR3eu056_jc_000-d3.p6s1">
+            <c n="【"/>症候<c n="】"/>猩紅熱之潛伏期不足二十四小時<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p6s2">平均持續四日乃至七日<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p6s3">前兆期亦往往不過數時間<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p6s4">多則一日至二日<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p6s5">其起時<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p6s6">反覆惡寒或始於一日之戰慄<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p6s7">小兒則發全身痙攣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p6s8">次則體溫上升<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p6s9">達三十九度<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p6s10">乃至四十度噁心<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p6s11">嘔吐<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p6s12">心悸亢進<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p6s13">全身倦怠<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p6s14">頭痛<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p6s15">咽喉疼痛<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p6s16">嚥下困難<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p6s17">咽頭黏膜及扁桃腺發赤且腫脹<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d3p8">
+          <seg xml:id="KR3eu056_jc_000-d3.p8s1">舌之邊緣強度發赤<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p8s2">中央及底基部帶青灰白色灰白黃色之苔<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p8s3">脈搏與體溫升騰時<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p8s4">增加五百二十至五百五十之間<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d3p10">
+          <seg xml:id="KR3eu056_jc_000-d3.p10s1">發疹期之體溫更上升一層<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p10s2">脈搏亦增多<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p10s3">發疹先發現於頸部<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p10s4">及鎖骨部<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p10s5">此後於二十四至四十八小時之內<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p10s6">蔓延於軀幹及四肢<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p10s7">惟顏面較少<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p10s8">而頤部及鼻部局所的血管痙攣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p10s9">而呈蒼白色<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p10s10">此為鑑別徵候之要點<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d3p12">
+          <seg xml:id="KR3eu056_jc_000-d3.p12s1">猩經熱之發疹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p12s2">呈鮮活之赤色<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p12s3">粗看之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p12s4">有平等蔓延之狀<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p12s5">熟視之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p12s6">發現集簇無數之深紅色細點<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p12s7">壓之則褪色<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p12s8">皮膚之潮紅漸次增加<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p12s9">患者往往感覺焮灼辛辣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p12s10">或感皮膚瘙癢<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p12s11">末梢部之淋巴腺往往腫脹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p12s12">最甚者感壓痛<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p12s13">此期軟口蓋及懸壅垂並<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p12s14">扁桃腺更增腫大<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p12s15">其他顎下腺亦增腫大<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p12s16">頸腺<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p12s17">耳後腺<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p12s18">腋窩腺<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p12s19">肘腺<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p12s20">鼠蹊腺等亦腫大<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p12s21">此期舌面深紅色<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p12s22">菌狀乳嘴腫脹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p12s23">此所謂覆盆子舌或貓舌也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p12s24">舌面凸凹相交<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p12s25">其狀如覆盆與貓舌<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d3p14">
+          <seg xml:id="KR3eu056_jc_000-d3.p14s1">皮膚髮現疹點後三日或四日始達極度<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p14s2">三日至四日間<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p14s3">持續不變<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p14s4">漸次褪色<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p14s5">其後一周之後<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p14s6">漸次褪盡<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p14s7">皮膚外觀恢復<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d3p16">
+          <seg xml:id="KR3eu056_jc_000-d3.p16s1">發疹期後即落屑期<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p16s2">亦有發疹期未終了即開始落屑期者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p16s3">通常發疹後最早發現落屑之部位<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p16s4">為頸部<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p16s5">落屑稀如糠粃狀<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p16s6">多連續片<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p16s7">及膜狀即層片狀之落屑<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p16s8">為猩紅熱之特徵<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d3p18">
+          <seg xml:id="KR3eu056_jc_000-d3.p18s1">落屑期中<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p18s2">體溫無變化<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p18s3">故患者頗覺爽快<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p18s4">喜靜臥<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p18s5">此期持續平均十四日<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p18s6">患者於感染後第四周之終<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p18s7">乃全愈<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d3p20">
+          <seg xml:id="KR3eu056_jc_000-d3.p20s1">
+            <c n="【"/>療法<c n="】"/>初起時患寒<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p20s2">用葛根湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p20s3">大青龍湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p20s4">發熱<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p20s5">噁心<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p20s6">嘔吐者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p20s7">用小柴胡湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p20s8">以上凡口渴<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p20s9">躁煩<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p20s10">頭痛者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p20s11">用小柴胡湯加石膏<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p20s12">或白虎加人參湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p20s13">咽頭腫痛與嚥下困難者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p20s14">用桔梗湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p20s15">排膿湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p20s16">排膿散之類<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p20s17">淋巴腺顯著腫大<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p20s18">用小柴胡湯加石膏<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p20s19">大柴胡湯四逆散小陷胸湯等<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d3p22">
+          <seg xml:id="KR3eu056_jc_000-d3.p22s1">嘔吐者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p22s2">不能不藥<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p22s3">用甘草湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p22s4">小半夏加茯苓湯<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d3p24">
+          <seg xml:id="KR3eu056_jc_000-d3.p24s1">併發病之治方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d3.p24s2">可參照各疾病條下<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eu056_jc_000-d4">
+        <head n="h1" xml:id="KR3eu056_jc_000-d4h1">
+          <seg xml:id="KR3eu056_jc_000-d4.h1s1">第三章　百日咳</seg>
+        </head>
+        <p xml:id="KR3eu056_jc_000-d4p2">
+          <seg xml:id="KR3eu056_jc_000-d4.p2s1">本病呈一種特有之發作性咳嗽<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p2s2">為接觸傳染病之一<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p2s3">古之<c n="「"/>疫咳<c n="」"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p2s4">
+            <c n="「"/>頓嗽<c n="」"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p2s5">
+            <c n="「"/>痙咳<c n="」"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p2s6">即此病也<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d4p4">
+          <seg xml:id="KR3eu056_jc_000-d4.p4s1">
+            <c n="【"/>原因<c n="】"/>由於咳嗽之際<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p4s2">唾液涎沫飛散<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p4s3">成為間接傳染<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p4s4">凡人多有感染素質<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p4s5">故屢屢流行<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p4s6">一歲至三歲者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p4s7">最易感染<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p4s8">一經遭罹後<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p4s9">能得後天之免疫性<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p4s10">故罕有再犯者<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d4p6">
+          <seg xml:id="KR3eu056_jc_000-d4.p6s1">
+            <c n="【"/>症候<c n="】"/>潛伏期之持續不一<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p6s2">平均一周<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p6s3">短者三四日<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p6s4">長則二周<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p6s5">前驅期與病發期<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p6s6">有種種之程度<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p6s7">大體區別為三期<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d4p8">
+          <seg xml:id="KR3eu056_jc_000-d4.p8s1">
+            <c n="("/>一<c n=")"/>加答兒期<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p8s2">其始為鼻加答兒<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p8s3">咳嗽<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p8s4">結膜潮紅<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p8s5">嘶嗄等之症狀<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p8s6">與單純之加答兒甚難區別<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p8s7">此症候經過一周或二周<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p8s8">或半周<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p8s9">或四周<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p8s10">咳嗽漸次猛烈<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p8s11">頻發於夜間<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p8s12">而有一定時間之發作性<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d4p10">
+          <seg xml:id="KR3eu056_jc_000-d4.p10s1">
+            <c n="("/>二<c n=")"/>痙攣期<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p10s2">強迫的咳嗽<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p10s3">夜間尤多<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p10s4">痙咳發作<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p10s5">屢有前兆<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p10s6">如不安<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p10s7">不快<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p10s8">頸部或癢<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p10s9">或胸部感覺壓迫<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p10s10">趨於母懷<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p10s11">或憑於椅桌器物之上<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p10s12">更有咳而嘔吐者<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d4p12">
+          <seg xml:id="KR3eu056_jc_000-d4.p12s1">發作時先見延長深呼吸<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p12s2">次即連發盛烈之短咳<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p12s3">其間吸氣不利<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p12s4">顏面潮紅<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p12s5">結膜發赤<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p12s6">開口則舌出於外<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p12s7">此發作未終<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p12s8">又復加頻咳<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p12s9">如此返復數回<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p12s10">遂呈窒息狀態<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p12s11">最後排出黏稠如玻璃狀之黏液<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p12s12">而為一發作之終<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p12s13">此發作一晝夜<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p12s14">通例五回或十回<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p12s15">有時達三十回以上<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p12s16">痙攣期普通三周至六周<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d4p14">
+          <seg xml:id="KR3eu056_jc_000-d4.p14s1">
+            <c n="("/>三<c n=")"/>輕快期<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p14s2">又此期發作性之次數與強度均減<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p14s3">嘔吐亦除<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p14s4">特種之性狀亦失<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p14s5">但加答兒性狀之咳嗽<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p14s6">則永永存留<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d4p16">
+          <seg xml:id="KR3eu056_jc_000-d4.p16s1">經過三期如無合併症<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p16s2">則四周至十周可愈<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p16s3">此時之小兒顯然衰弱<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p16s4">為結核發生之好機會<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p16s5">如在輕快期中復罹氣管枝加答兒<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p16s6">則必更起痙咳<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d4p18">
+          <seg xml:id="KR3eu056_jc_000-d4.p18s1">以上所述<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p18s2">為中等症候<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p18s3">輕者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p18s4">經過二三周<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p18s5">往往不呈顯著之發作<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p18s6">反之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p18s7">重篤之症狀<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p18s8">則高熱<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p18s9">不安<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p18s10">障礙睡眠<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p18s11">脈搏速<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p18s12">發作劇<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p18s13">呼吸困難<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p18s14">嘔吐劇烈<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p18s15">此時雖無併合症<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p18s16">亦能致死<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d4p20">
+          <seg xml:id="KR3eu056_jc_000-d4.p20s1">
+            <c n="【"/>療法<c n="】"/>加答兒期中有一般風邪時<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p20s2">用麻黃湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p20s3">葛根湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p20s4">小青龍湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p20s5">小柴胡湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p20s6">加減之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d4p22">
+          <seg xml:id="KR3eu056_jc_000-d4.p22s1">入痙攣期<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p22s2">呈痙攣性之咳嗽者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p22s3">用甘草乾薑湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p22s4">苓桂甘草湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p22s5">苓桂五味甘草湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p22s6">柏葉湯之類<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p22s7">而半夏厚朴湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p22s8">橘皮竹茹湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p22s9">桔梗湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p22s10">小柴胡湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p22s11">麥門冬湯等<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p22s12">亦可從證運用之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d4p24">
+          <seg xml:id="KR3eu056_jc_000-d4.p24s1">余對於百日咳<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p24s2">內服以上方劑<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p24s3">更須限制肉食<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p24s4">其體質衰弱者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p24s5">嚴避風寒<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p24s6">因肉食<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p24s7">則必發作猛烈而回數增加<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p24s8">禁肉食<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p24s9">能使發作頓減<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p24s10">屢試不爽故也<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d4p26">
+          <seg xml:id="KR3eu056_jc_000-d4.p26s1">今日西醫所使用之藥<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p26s2">治百日咳者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p26s3">如康德兒<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p26s4">基夫亞兒<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p26s5">屋伊希寧<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p26s6">可衣希富斯登等之中<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p26s7">亦稍有效果<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p26s8">但因注射時之哭泣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p26s9">往往引起病之發作<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p26s10">而基夫亞兒之注腸<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p26s11">尤足致身體於衰弱<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p26s12">既苦幼兒<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p26s13">而復奪其生命<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p26s14">豈西醫家之所能顧到哉<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d4p28">
+          <seg xml:id="KR3eu056_jc_000-d4.p28s1">知友松村又一君<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p28s2">其長男畝夫君<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p28s3">於昭和七年春<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p28s4">罹百日咳<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p28s5">近鄰之醫家加以療治<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p28s6">病勢益劇<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p28s7">身體衰弱<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p28s8">求治於余<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p28s9">乃與小柴胡湯合甘草乾薑湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p28s10">內服一月<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p28s11">即漸痊愈<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d4p30">
+          <seg xml:id="KR3eu056_jc_000-d4.p30s1">又八年六月<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p30s2">長女畝美君<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p30s3">罹百日咳<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p30s4">與小柴胡湯合半夏厚朴湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p30s5">分十日投之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p30s6">亦見全愈云<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d4p32">
+          <seg xml:id="KR3eu056_jc_000-d4.p32s1">
+            <c n="["/>蕉窗雜話<c n="]"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d4p34">
+          <seg xml:id="KR3eu056_jc_000-d4.p34s1">頓嗽</seg>
+          <seg type="comm" xml:id="KR3eu056_jc_000-d4.p34s2">
+            <c n="（"/>百日咳<c n="）"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p34s3">之治方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p34s4">明清方書<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p34s5">有麥門清肺飲數種<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p34s6">但冗雜而少效<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p34s7">余近用橘皮竹茹湯加半夏蘇子<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p34s8">羸瘦<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p34s9">咳逆甚者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p34s10">兼用麥門冬湯加五味子桑白皮<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p34s11">其勢劇者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p34s12">用勝聖散<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3eu056_jc_000-d4.p34s13">
+            <c n="（"/>鼴鼠霜一味<c n="）"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p34s14">日久咳不止者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p34s15">用參花煉<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3eu056_jc_000-d4.p34s16">
+            <c n="（"/>人參天花粉煉蜜<c n="）"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d4.p34s17">大抵收效<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eu056_jc_000-d5">
+        <head n="h1" xml:id="KR3eu056_jc_000-d5h1">
+          <seg xml:id="KR3eu056_jc_000-d5.h1s1">第四章　窒扶的里</seg>
+        </head>
+        <p xml:id="KR3eu056_jc_000-d5p2">
+          <seg xml:id="KR3eu056_jc_000-d5.p2s1">窒扶的里者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p2s2">因窒扶的里菌惹起之一種接觸性傳染病也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p2s3">患咽喉或其他之黏膜<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p2s4">尤在上氣道黏膜上<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p2s5">附生義膜<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p2s6">又因菌體上發生之毒素<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p2s7">起中毒症狀<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p2s8">引起麻痹<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d5p4">
+          <seg xml:id="KR3eu056_jc_000-d5.p4s1">
+            <c n="【"/>原因<c n="】"/>窒扶的里菌為病原<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p4s2">二歲至五歲之兒<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p4s3">最多罹患之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d5p6">
+          <seg xml:id="KR3eu056_jc_000-d5.p6s1">
+            <c n="【"/>症候<c n="】"/>窒扶的里之症候頗多<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p6s2">因其病機之位置<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p6s3">傳染之強度<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p6s4">及各人之素質而異<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p6s5">而以現於扁桃腺者為最多<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d5p8">
+          <seg xml:id="KR3eu056_jc_000-d5.p8s1">潛伏期無一定<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p8s2">大抵二日至四日<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p8s3">當發病之時<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p8s4">多現一般症狀<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p8s5">即顏貌蒼白<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p8s6">倦憊<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p8s7">食欲減退<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p8s8">有時嘔吐<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p8s9">頭痛<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p8s10">年長之小兒感嚥下困難<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p8s11">其次體溫升至三十八度<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p8s12">或三十九度<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p8s13">脈搏頻數<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p8s14">顎下腺稍稍腫大<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p8s15">有壓痛<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p8s16">舌生白苔<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p8s17">從咽頭可以望見<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p8s18">兩側扁桃腺<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p8s19">亦現中等度之腫大<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p8s20">或潮紅<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p8s21">其一側或兩側之表面約佔三分之一<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p8s22">或佔半面積之白色義膜<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p8s23">其初期不遇見其中等度之扁桃腺炎<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p8s24">或腺上生輕度之黏液異物<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p8s25">此義膜隨扁桃腺腫大<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p8s26">炎症遂增加而速擴<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p8s27">甚至有將扁桃腺全蔽之狀<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p8s28">在此程度中<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p8s29">病機屢進行而屢停止<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p8s30">同時側方及咽頭後壁擴大<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p8s31">四五日之後<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p8s32">義膜亙兩扁桃腺<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p8s33">軟口蓋<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p8s34">懸雍垂及咽頭壁之一部<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p8s35">扁桃腺炎亦漸擴大<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p8s36">兩側相接<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p8s37">分泌多量之黏液膿性物<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p8s38">致起呼吸困難<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p8s39">而發鼾聲<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p8s40">口腔生惡臭<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p8s41">顎上淋巴腺亦強烈腫大而壓痛<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d5p10">
+          <seg xml:id="KR3eu056_jc_000-d5.p10s1">全身症狀日日增加<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p10s2">熱候上下於三十八度乃至三十九度五分之間<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p10s3">脈搏頻數微小<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p10s4">顏貌蒼白<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p10s5">呈苦悶之狀<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p10s6">食思缺乏<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p10s7">嚥下感疼痛<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p10s8">睡眠妨礙<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p10s9">此際內臟諸器官大概無變<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p10s10">肺臟依然常態<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p10s11">心臟往往有僧帽瓣及肺動脈收縮期的雜音<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p10s12">脾臟<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p10s13">肝臟<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p10s14">稍稍腫大<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p10s15">尿中多見蛋白及圓壔<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d5p12">
+          <seg xml:id="KR3eu056_jc_000-d5.p12s1">以上為中等疫病症狀<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p12s2">輕者無全身症狀<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p12s3">重者發高熱<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p12s4">嘔吐<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p12s5">頭痛<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p12s6">年長之小兒感嚥下困難<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p12s7">扁桃腺於發病第一日<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p12s8">已稍被帶汙穢色之義膜<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p12s9">此時懸雍垂<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p12s10">軟口蓋及咽頭後壁迅速擴大<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p12s11">扁桃腺強度腫大<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p12s12">與懸雍垂同遮咽頭內之視界<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p12s13">嚥下顯著障礙<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p12s14">鼻扎不能呼吸<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p12s15">口內放出惡臭<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p12s16">屢屢分泌多量之水樣或血性<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p12s17">顎下淋巴線強度腫脹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p12s18">其周圍組織生侵潤<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p12s19">強壓痛<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p12s20">持續至五日乃至七日<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p12s21">往往起氣管枝肺炎<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p12s22">全身症狀早犯者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p12s23">顏面顯著蒼白<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p12s24">呈無欲狀態<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p12s25">口渴<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p12s26">食思全無<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p12s27">體溫升至三十九度乃至四十度五分<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p12s28">入高熱情形<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p12s29">脈搏小而頻數<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p12s30">緊強而弱<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p12s31">二日之後脈搏幾無<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p12s32">不能按尋<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p12s33">心絃微弱<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p12s34">心尖有雜音<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p12s35">肝臟腫大<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p12s36">又恆起腎臟炎<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p12s37">此名為腐敗性窒扶的里<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p12s38">或惡性窒扶的里<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d5p14">
+          <seg xml:id="KR3eu056_jc_000-d5.p14s1">喉頭上佔居窒扶的里者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p14s2">其症甚為危險<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p14s3">但屢有遭遇之者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p14s4">尤以幼稚之小兒童為甚<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d5p16">
+          <seg xml:id="KR3eu056_jc_000-d5.p16s1">症候來時<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p16s2">聲音嘶嗄<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p16s3">經日竟致全無聲息<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p16s4">咳嗽乾性<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p16s5">所謂格魯布咳也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p16s6">此症呈特有之犬吠聲<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p16s7">或軋鳴聲之性質<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p16s8">同時又現前後喉頭狹窄之症狀<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p16s9">即吸氣曳長<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p16s10">有雜音<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p16s11">呼氣亦生障礙<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p16s12">呼吸困難<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p16s13">則血液之炭酸增積<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p16s14">以致口唇<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p16s15">口圍<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p16s16">指爪<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p16s17">發現青紫色<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p16s18">身體不安<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p16s19">不能靜臥<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p16s20">感激烈之呼吸困難<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p16s21">空氣有稍稍從聲門通過之模樣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p16s22">顏面四肢蒼白色<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p16s23">汗冷<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p16s24">意識溷濁<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p16s25">此外有來自鼻腔<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p16s26">口腔<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p16s27">結膜<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p16s28">皮膚等之窒扶的里者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p16s29">患屢起氣管加答兒及氣管枝肺炎<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p16s30">或併發心臟炎<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p16s31">而起心臟麻痹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p16s32">咽頭窒扶的里之後<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p16s33">亦有起口蓋筋麻痹<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d5p18">
+          <seg xml:id="KR3eu056_jc_000-d5.p18s1">
+            <c n="【"/>療法<c n="】"/>窒扶的里血清有效果<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p18s2">吾人於內服藥之外<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p18s3">必注射窒扶的里血清<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p18s4">扁桃腺腫大<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p18s5">附著義膜<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p18s6">或黏液膿性之分泌物凝著之際<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p18s7">宜與排膿湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p18s8">排膿散<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p18s9">桔梗湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p18s10">半夏苦酒湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p18s11">或頓服桔梗白散<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p18s12">本病之中等程度以上<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p18s13">屢有口渴<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p18s14">煩躁<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p18s15">高熱<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p18s16">舌見白苔亦見乾燥者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p18s17">宜從證選用白虎湯類之方劑如小柴胡湯加石膏<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p18s18">大青龍湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p18s19">越婢加半夏湯<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d5p20">
+          <seg xml:id="KR3eu056_jc_000-d5.p20s1">喉頭窒扶的里狹窄症狀<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p20s2">必施用手術<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p20s3">在用手術以前<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p20s4">頓服桔梗白散<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p20s5">使義膜大半吐出<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p20s6">便見輕快<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d5p22">
+          <seg xml:id="KR3eu056_jc_000-d5.p22s1">重症如半毒狀者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p22s2">屢見腳氣衝心<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p22s3">而訴苦悶者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p22s4">最為危候<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p22s5">其症情為大小便閉塞<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p22s6">胸腹膨滿<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p22s7">抵抗強大<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p22s8">胸內甚苦悶<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p22s9">全身呈急性鬱血之症狀<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p22s10">肝脾腫大<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p22s11">脈微而細數<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d5p24">
+          <seg xml:id="KR3eu056_jc_000-d5.p24s1">如此之際<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p24s2">即打窒扶的里血清亦無效<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p24s3">宜速服走馬湯使之吐下<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d5.p24s4">冀其萬一之生<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eu056_jc_000-d6">
+        <head n="h1" xml:id="KR3eu056_jc_000-d6h1">
+          <seg xml:id="KR3eu056_jc_000-d6.h1s1">第五章　流行性耳下腺炎</seg>
+        </head>
+        <p xml:id="KR3eu056_jc_000-d6p2">
+          <seg xml:id="KR3eu056_jc_000-d6.p2s1">本病為耳下腺急起腫脹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p2s2">所謂觸接性傳染病也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p2s3">人呼為之<c n="「"/>蝦蟆瘟<c n="」"/>
+            <c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p2s4">或呼<c n="「"/>時毒<c n="」"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p2s5">或稱<c n="「"/>痄腮<c n="」"/>
+            <c n="、"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p2s6">
+            <c n="「"/>發頤<c n="」"/>
+            <c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d6p4">
+          <seg xml:id="KR3eu056_jc_000-d6.p4s1">
+            <c n="【"/>原因<c n="】"/>本病之原因未明<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p4s2">五歲至十五歲之兒童尤易罹之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d6p6">
+          <seg xml:id="KR3eu056_jc_000-d6.p6s1">
+            <c n="【"/>症候<c n="】"/>潛伏期二周半至三周<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p6s2">前驅期半日或一日以上<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p6s3">覺不快<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p6s4">不安<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p6s5">食慾不振<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p6s6">或惡寒<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p6s7">或輕熱<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p6s8">衄血<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p6s9">耳內騷鳴<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p6s10">或感疼痛<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d6p8">
+          <seg xml:id="KR3eu056_jc_000-d6.p8s1">病之發生<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p8s2">始於耳下腺腫脹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p8s3">初在側面<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p8s4">耳殼下先見腫大<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p8s5">此際無壓病<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p8s6">皮膚多變化<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p8s7">僅覺光澤<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p8s8">紅潮<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p8s9">感微熱者甚稀<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p8s10">腫大二日至三日<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p8s11">漸次大增<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p8s12">從乳嘴突起<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p8s13">佔有下顎角之間<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p8s14">壓上耳殼<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p8s15">頤部一體腫大<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p8s16">呈異樣容顏<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p8s17">腫脹漸大<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p8s18">附近亦生浮腫<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p8s19">感不快之緊張<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p8s20">口之開閉困難<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p8s21">咀嚼疼痛<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p8s22">耳重聽<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p8s23">感疼痛<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p8s24">如此極度腫大<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p8s25">經過二日<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p8s26">即急速減退<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d6p10">
+          <seg xml:id="KR3eu056_jc_000-d6.p10s1">同時其他唾液腺<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p10s2">即顎下腺<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p10s3">舌下腺亦腫大<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d6p12">
+          <seg xml:id="KR3eu056_jc_000-d6.p12s1">熱候不定<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p12s2">多與腫脹同現<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p12s3">或有稍前發熱<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p12s4">持續三日至五日<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p12s5">通常三十八度乃至三十九度之間<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p12s6">重則三十九度以上至四十度者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p12s7">腫脹減退熱先下降<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p12s8">又熱候不明<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d6p14">
+          <seg xml:id="KR3eu056_jc_000-d6.p14s1">其經過一側耳下腺之終止期乃五日至七日<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p14s2">其兩側者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p14s3">乃十日至十二日<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p14s4">惡液汁化膿者極稀<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d6p16">
+          <seg xml:id="KR3eu056_jc_000-d6.p16s1">本病屢與睪丸炎併發<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p16s2">成人者多<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p16s3">未成年者少<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p16s4">通常耳下腺漸有腫大<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p16s5">疼痛<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p16s6">乃併發睪丸炎也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p16s7">其後睪丸<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p16s8">必致瘦削<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p16s9">故若兩側均犯者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p16s10">每不能生殖<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p16s11">婦女卵巢及乳腺起同樣之炎症<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p16s12">與男子同<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p16s13">至於引起腦膜炎而致死亡者甚稀<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d6p18">
+          <seg xml:id="KR3eu056_jc_000-d6.p18s1">
+            <c n="【"/>療法<c n="】"/>初期在表證者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p18s2">用葛根湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p18s3">或麻黃杏仁薏苡甘草湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p18s4">表證去而僅耳下腺腫脹者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p18s5">小柴胡湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p18s6">小柴胡湯加石膏<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p18s7">鮮有用大柴胡湯者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p18s8">起睪丸炎<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p18s9">起卵巢乳腺炎症者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p18s10">宜用小柴胡湯加石膏<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p18s11">白虎湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d6.p18s12">有意想不到之顯著效力<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eu056_jc_000-d7">
+        <head n="h1" xml:id="KR3eu056_jc_000-d7h1">
+          <seg xml:id="KR3eu056_jc_000-d7.h1s1">第六章　哈伊耨梅琴氏病</seg>
+        </head>
+        <p xml:id="KR3eu056_jc_000-d7p2">
+          <seg xml:id="KR3eu056_jc_000-d7.p2s1">哈伊耨梅琴氏病者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p2s2">乃流行性或散存性之中樞神經系統之一種病型<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p2s3">即脊髓前角灰白色之炎症<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p2s4">惟不限於脊髓之前角<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p2s5">大腦<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p2s6">延髓等亦有惹起病變者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p2s7">故其病型頗不一律<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d7p4">
+          <seg xml:id="KR3eu056_jc_000-d7.p4s1">
+            <c n="【"/>症候<c n="】"/>潛伏期五日至十日<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p4s2">大多平均九日<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p4s3">其次繼以發熱之前驅症狀<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p4s4">續現初期麻痹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p4s5">因麻痹而往往波及其他障礙<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p4s6">據烏伊芝枯孟氏之分類<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p4s7">為下列之八種<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d7p6">
+          <seg xml:id="KR3eu056_jc_000-d7.p6s1">
+            <c n="("/>一<c n=")"/>脊髓前角炎</seg>
+          <seg type="comm" xml:id="KR3eu056_jc_000-d7.p6s2">
+            <c n="（"/>脊髓性小兒麻痹<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d7p8">
+          <seg xml:id="KR3eu056_jc_000-d7.p8s1">前驅期之主要徵候為發熱<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p8s2">突然升至三十九度以上<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p8s3">或至四十度<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p8s4">脈搏頻數<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p8s5">同時症狀<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p8s6">意識明瞭<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p8s7">但有時則稍溷濁<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p8s8">嗜眠<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p8s9">此時期局所的變化<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p8s10">為安魏那<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p8s11">氣管枝炎<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p8s12">消化障礙<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p8s13">嘔吐<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p8s14">下痢<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p8s15">或便秘<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p8s16">或全身痙攣<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d7p10">
+          <seg xml:id="KR3eu056_jc_000-d7.p10s1">熱在第一日<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p10s2">溫度升降不一<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p10s3">其延一周至二周者為例外<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p10s4">初期之診斷極為困難<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p10s5">可以留意其重要症狀<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p10s6">為皮膚之知覺過敏<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p10s7">四肢<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p10s8">背部疼痛<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3eu056_jc_000-d7.p10s9">
+            <c n="（"/>自發痛與運動時之疼痛<c n="。"/>
+            <c n="）"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p10s10">及顯著發汗<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d7p12">
+          <seg xml:id="KR3eu056_jc_000-d7.p12s1">前驅期二日至三日<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p12s2">初發麻痹繼及廣泛部分<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p12s3">此際以痙攣搐搦等為前行<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p12s4">麻痹多弛緩性<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p12s5">能犯下肢及軀幹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p12s6">而至上與腦神經之分布區域<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d7p14">
+          <seg xml:id="KR3eu056_jc_000-d7.p14s1">麻痹之擴布<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p14s2">能在二三日中達其最大範圍<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p14s3">其後漸次縮小<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p14s4">最初麻痹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p14s5">難以認識<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p14s6">不過膝蓋腱反射缺損<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p14s7">筋肉緊張度減少<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p14s8">正坐困難而已<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p14s9">犯及腹筋之腹部<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p14s10">為鼓腸性之膨滿<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p14s11">此亦屢見於初期<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p14s12">此時膀胱及直腸<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p14s13">亦起一時性之障礙<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d7p16">
+          <seg xml:id="KR3eu056_jc_000-d7.p16s1">初發麻痹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p16s2">若不漸次消退<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p16s3">遂入某筋簇而成持久性之麻痹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p16s4">此麻痹湯弛緩性之末梢性萎縮性麻痹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p16s5">對於電氣呈變性反應<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p16s6">故初期對於機械的<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p16s7">作電氣刺戟<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p16s8">有興奮性<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d7p18">
+          <seg xml:id="KR3eu056_jc_000-d7.p18s1">呈完全性反應之筋肉<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p18s2">不能冀其筋肉運動之恢復<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p18s3">經過時日<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p18s4">筋起萎縮<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p18s5">漸見羸瘦<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p18s6">遂及於骨骼與皮膚<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d7p20">
+          <seg xml:id="KR3eu056_jc_000-d7.p20s1">持久性麻痹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p20s2">往往為一下肢<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p20s3">未有一上肢者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p20s4">有時起上下肢交叉性或偏側性<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p20s5">且其麻痹全肢不平等發現<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p20s6">而犯某部筋簇<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p20s7">下肢腓骨筋或四肢股筋<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p20s8">前筋<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p20s9">骨筋<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p20s10">同時犯者最多<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p20s11">上肢之三角筋犯者亦最多<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p20s12">初期屢見軀幹及頸部諸筋之麻痹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p20s13">腹筋麻痹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p20s14">腹壁貽限局性之萎縮部<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d7p22">
+          <seg xml:id="KR3eu056_jc_000-d7.p22s1">麻痹之恢復<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p22s2">早者一周<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p22s3">遲者半年<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p22s4">或半年以上<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p22s5">持久性麻痹之結果<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p22s6">肢之發育<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p22s7">顯然因障礙而短小<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p22s8">其皮膚屢現作蒼白色<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p22s9">或現青紫色<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p22s10">腱側比較冷感<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p22s11">又或筋簇麻痹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p22s12">其正反對筋之收縮<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p22s13">攣縮變形<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p22s14">漸次因腱之萎縮<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p22s15">筋肉之纖維變性<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p22s16">而堅固其病的位置<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d7p24">
+          <seg xml:id="KR3eu056_jc_000-d7.p24s1">
+            <c n="("/>二<c n=")"/>朗礙里氏麻痹型<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p24s2">乃上行性脊髓麻痹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p24s3">初現下肢麻痹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p24s4">急速及於軀幹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p24s5">上肢<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p24s6">犯及呼吸中樞<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p24s7">以致死亡<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d7p26">
+          <seg xml:id="KR3eu056_jc_000-d7.p26s1">
+            <c n="("/>三<c n=")"/>延髓及腦橋性麻痹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p26s2">其重篤之經過<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p26s3">則腦橋及延髓起腦神經麻痹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p26s4">即視神經<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p26s5">顏面神經眼球筋<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p26s6">懸雍垂<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p26s7">舌下神經等之麻痹能速迷走神經<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p26s8">而犯呼吸中樞<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d7p28">
+          <seg xml:id="KR3eu056_jc_000-d7.p28s1">
+            <c n="("/>四<c n=")"/>大腦性麻痹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p28s2">腦實質炎之際<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p28s3">見痙攣性麻痹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p28s4">即腦性小兒麻痹之象<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d7p30">
+          <seg xml:id="KR3eu056_jc_000-d7.p30s1">
+            <c n="("/>五<c n=")"/>小腦性麻痹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p30s2">即失眠症<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d7p32">
+          <seg xml:id="KR3eu056_jc_000-d7.p32s1">
+            <c n="("/>六<c n=")"/>多發神經炎症<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p32s2">即諸處神經炎之症狀<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d7p34">
+          <seg xml:id="KR3eu056_jc_000-d7.p34s1">
+            <c n="("/>七<c n=")"/>腦膜炎症<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p34s2">意識溷濁<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p34s3">頸部強直<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p34s4">呈皮膚知覺過敏等恰如腦膜炎之狀<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d7p36">
+          <seg xml:id="KR3eu056_jc_000-d7.p36s1">
+            <c n="("/>八<c n=")"/>不全症或頓挫症<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p36s2">流行時屢見不鮮<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p36s3">若見於不流行之時者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p36s4">而有顯著之前驅症<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p36s5">則完全可以治愈<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d7p38">
+          <seg xml:id="KR3eu056_jc_000-d7.p38s1">
+            <c n="【"/>療法<c n="】"/>前驅期用葛根湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p38s2">小柴胡湯之類<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p38s3">倘其麻痹不去<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p38s4">則從證可用桂子加附子湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p38s5">桂枝去芍藥加附子湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p38s6">桂枝加苓朮附子湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p38s7">當歸芍藥散<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p38s8">八味丸<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d7.p38s9">黃耆建中湯之類<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eu056_jc_000-d8">
+        <head n="h1" xml:id="KR3eu056_jc_000-d8h1">
+          <seg xml:id="KR3eu056_jc_000-d8.h1s1">第七章　小兒赤痢（附疫痢）</seg>
+        </head>
+        <p xml:id="KR3eu056_jc_000-d8p2">
+          <seg xml:id="KR3eu056_jc_000-d8.p2s1">
+            <c n="【"/>原因<c n="】"/>赤痢者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p2s2">由細菌或一種之阿米巴惹起之傳染性大腸疾患也<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d8p4">
+          <seg xml:id="KR3eu056_jc_000-d8.p4s1">
+            <c n="【"/>症候<c n="】"/>潛伏期二日或三日<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p4s2">或至八日<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p4s3">發病之時<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p4s4">屢有發熱<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p4s5">其幼少者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p4s6">或於發熱之前後起痙攣重要之症候<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p4s7">其糞便之性狀<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p4s8">初則日下數回之通常痢<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p4s9">便後下黏液<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p4s10">便與似血液之膿汁<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p4s11">頻催便意<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p4s12">裡急後重<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p4s13">排便一日達十數回至數十回<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p4s14">排泄量微<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p4s15">下腹部多刺痛<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p4s16">食欲減<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p4s17">口渴<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p4s18">舌被白苔<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p4s19">噁心嘔吐<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p4s20">其初腹部多膨滿<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p4s21">由於左側腹骨窩通腹壁<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p4s22">腹壁腫厚如索體狀<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p4s23">受壓而覺疼痛<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p4s24">後期則腹部陷凹<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d8p6">
+          <seg xml:id="KR3eu056_jc_000-d8.p6s1">病勢因糞便之性質而有種種<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p6s2">有時軟便中和黏液<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p6s3">此中散見線狀或點狀之血液<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p6s4">或混多量之血液<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p6s5">有時多膿汁之含量<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p6s6">或如肉汁者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p6s7">鮮有凝固之黏液<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p6s8">呈腐敗色而放惡臭<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p6s9">肛門因頻次排便而發赤<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p6s10">起括約筋麻痹或脫肛<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d8p8">
+          <seg xml:id="KR3eu056_jc_000-d8.p8s1">體溫從種種之病勢而異<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p8s2">並無一定<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p8s3">一二日至五日最高<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p8s4">漸次渙散<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p8s5">脈搏亦隨熱而同其增減<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p8s6">一般經過一周或二周<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p8s7">排便之度數漸減<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p8s8">血液黏液之含量亦減退<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p8s9">混和之糞塊漸多<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p8s10">遂如普通糞便<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p8s11">但繼起衰弱者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p8s12">往往發生不幸<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d8p10">
+          <seg xml:id="KR3eu056_jc_000-d8.p10s1">小腸同時亦病<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p10s2">突然發高熱<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p10s3">嘔吐<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p10s4">痙攣頻發<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p10s5">有嗜眠狀<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p10s6">脈搏微弱頻數<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p10s7">便不通<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p10s8">或出數回之黏液便<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p10s9">或血樣黏液便<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p10s10">漸次陷於昏睡<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p10s11">則發病後十二時至四十八小時內多至於死<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d8p12">
+          <seg xml:id="KR3eu056_jc_000-d8.p12s1">疫痢為赤痢之重症<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p12s2">夏秋之候甚多<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p12s3">前驅症為頭痛<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p12s4">腹痛<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p12s5">嘔吐等<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p12s6">漸次發熱<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p12s7">解出軟便<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p12s8">或下痢便<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p12s9">經數時間突然出四十度以上之高熱<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p12s10">漏黏液便<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p12s11">眼球上轉<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p12s12">四肢搐搦<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p12s13">或全身發痙攣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p12s14">陷於昏睡<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p12s15">便通而不秘結<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p12s16">大多一日一回至五回<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p12s17">黏液混雜血液<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p12s18">此病之患者腹部極柔軟<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d8p14">
+          <seg xml:id="KR3eu056_jc_000-d8.p14s1">
+            <c n="【"/>療法<c n="】"/>發病之初期</seg>
+          <seg type="comm" xml:id="KR3eu056_jc_000-d8.p14s2">
+            <c n="（"/>表證時間<c n="）"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p14s3">與葛根湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p14s4">與大人之赤痢無異<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p14s5">若嘔吐者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p14s6">用葛根加半夏湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p14s7">小腹赤痢或疫痢<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p14s8">初期不得用葛根黃連黃芩湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p14s9">若腹部膨滿<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p14s10">大便不通<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p14s11">或裡急後重<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p14s12">便不快通者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p14s13">用大承氣湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p14s14">或調胃承氣湯<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d8p16">
+          <seg xml:id="KR3eu056_jc_000-d8.p16s1">口渴煩躁<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p16s2">舌乾燥<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p16s3">見白苔<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p16s4">白虎加人參湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p16s5">嘔吐不止者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p16s6">頓服半夏乾薑人參湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p16s7">熊膽末<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p16s8">口渴<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p16s9">小便不利<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p16s10">咳而吐出水樣物者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p16s11">五苓散主之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p16s12">吐蛔蟲手足厥冷形勢危篤者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p16s13">速投與烏梅丸<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d8p18">
+          <seg xml:id="KR3eu056_jc_000-d8.p18s1">肛門熱<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p18s2">裡急後重<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p18s3">強者可用白頭翁湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p18s4">白頭翁加甘草阿膠湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p18s5">病勢稍緩<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p18s6">症狀輕快<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p18s7">而有回覆傾向者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p18s8">用小柴胡湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p18s9">大柴胡湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p18s10">黃芩湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p18s11">甘草瀉心湯之類<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p18s12">脈微細如絕<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p18s13">吐利<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p18s14">手足厥逆者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p18s15">用四逆湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p18s16">真武湯等類<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d8p20">
+          <seg xml:id="KR3eu056_jc_000-d8.p20s1">疫痢之用希麻西油<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p20s2">為今日之一般常識<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p20s3">余亦於八年前深知漢方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p20s4">甚愛用之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p20s5">腸洗滌則濫<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p20s6">用林搿兒油等之注射<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p20s7">但患疫痢者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p20s8">大半為腸實症<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p20s9">而非陽虛證<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p20s10">投以下劑<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p20s11">幸病勢不見惡化者幸也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p20s12">現有一部分之學者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p20s13">主疫痢嚴禁用希麻西油<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p20s14">蓋洞悉其弊害矣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p20s15">然疫痢不絕對禁忌下劑<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p20s16">陽實證可下<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p20s17">陽虛證則不可下也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p20s18">換言之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p20s19">下劑之標準<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p20s20">當視患者之體質與病勢為斷<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p20s21">希麻西油亦不能認為純無效果<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d8p22">
+          <seg xml:id="KR3eu056_jc_000-d8.p22s1">備考</seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d8p24">
+          <seg xml:id="KR3eu056_jc_000-d8.p24s1">
+            <c n="〔"/>本間棗軒之談<c n="〕"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d8p26">
+          <seg xml:id="KR3eu056_jc_000-d8.p26s1">小兒疲勞<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p26s2">身體羸瘦<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p26s3">不能用大黃者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p26s4">可用四逆散<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p26s5">或錢氏白朮散<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p26s6">或柴苓湯等<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p26s7">疲勞極點<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p26s8">脈沉微四肢厥冷<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p26s9">或撥開衣被<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p26s10">輾轉反側<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p26s11">作搖頭弄舌之煩躁<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p26s12">或上竄<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p26s13">或乾嘔<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p26s14">或出<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p26s15">冷汗<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p26s16">或乳飲口渴者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p26s17">無真氣也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p26s18">肛門洞開不閉<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p26s19">呼吸短促<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p26s20">時出太息者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p26s21">皆疲極必死之候<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p26s22">用黃芩四逆湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p26s23">或四逆加人參湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p26s24">或附子理中湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p26s25">小兒在前述情形<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p26s26">而在治療中不能服藥或脫陽者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p26s27">必死<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p26s28">嘔吐甚而藥不能入<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p26s29">飲食絕粒者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p26s30">此名噤口痢疾<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p26s31">熱而胃口鬱滯者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p26s32">半夏瀉心湯主之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p26s33">亦可用黃芩加半夏湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p26s34">或黃蓮湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p26s35">或參連湯之類<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d8p28">
+          <seg xml:id="KR3eu056_jc_000-d8.p28s1">錢氏白朮散<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p28s2">即人參湯中去乾薑加茯苓葛根藿香也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p28s3">柴苓湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p28s4">即小柴胡湯合五苓散也<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d8p30">
+          <seg xml:id="KR3eu056_jc_000-d8.p30s1">
+            <c n="〔"/>赤水玄珠<c n="〕"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d8p32">
+          <seg xml:id="KR3eu056_jc_000-d8.p32s1">理中湯</seg>
+          <seg type="comm" xml:id="KR3eu056_jc_000-d8.p32s2">
+            <c n="（"/>人參湯<c n="）"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p32s3">者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p32s4">小兒嘔吐後脾胃虛弱<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p32s5">四肢漸次厥冷<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p32s6">或顏面現浮腫<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p32s7">四肢虛腫<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p32s8">眼閉不開者用之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d8p34">
+          <seg xml:id="KR3eu056_jc_000-d8.p34s1">
+            <c n="〔"/>類方廣義<c n="〕"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d8p36">
+          <seg xml:id="KR3eu056_jc_000-d8.p36s1">疫痢初起<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p36s2">發熱惡寒<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p36s3">脈數者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p36s4">先用葛根湯溫覆發汗<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p36s5">若嘔者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p36s6">葛根加半夏湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p36s7">發汗後用大柴胡湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p36s8">厚朴七物湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p36s9">大小承氣湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p36s10">調胃承氣湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p36s11">桃核承氣湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p36s12">大黃牡丹皮湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p36s13">大黃附子湯之類<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p36s14">各視症別而與之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p36s15">以盪滌裡熱宿毒<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d8p38">
+          <seg xml:id="KR3eu056_jc_000-d8.p38s1">
+            <c n="〔"/>橘窗書影<c n="〕"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d8p40">
+          <seg xml:id="KR3eu056_jc_000-d8.p40s1">此症俄然而來<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p40s2">遂發大熱<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p40s3">或惡寒<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p40s4">手足冷<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p40s5">或發驚搐搦天吊直視咬牙噤急<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p40s6">或腹痛嘔吐呵欠困悶<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p40s7">或泄瀉<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p40s8">或洞泄<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p40s9">下痢帶惡臭<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p40s10">發時驚搐<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p40s11">吐瀉齊來<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p40s12">此為不治之症<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p40s13">若三症俱來<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p40s14">而勢尚緩者可治<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p40s15">大熱下痢挾驚者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p40s16">用葛根黃連黃芩湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p40s17">昏睡不醒者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p40s18">重症也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p40s19">劇烈下痢<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p40s20">亦用葛根黃連黃芩湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p40s21">緩者用葛根湯加黃連<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p40s22">大下痢脈沉微昏睡下痢多者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p40s23">用桂枝人參湯加黃連<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p40s24">或黃連理中湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p40s25">手足厥冷者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p40s26">用附子理中湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d8.p40s27">或四逆加人參湯<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eu056_jc_000-d9">
+        <head n="h1" xml:id="KR3eu056_jc_000-d9h1">
+          <seg xml:id="KR3eu056_jc_000-d9.h1s1">第八章　佝僂病</seg>
+        </head>
+        <p xml:id="KR3eu056_jc_000-d9p2">
+          <seg xml:id="KR3eu056_jc_000-d9.p2s1">佝僂一名英吉利病<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p2s2">即小兒哺乳期或二年之幼兒發現之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p2s3">本病之原因不明<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d9p4">
+          <seg xml:id="KR3eu056_jc_000-d9.p4s1">
+            <c n="【"/>症候<c n="】"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d9p6">
+          <seg xml:id="KR3eu056_jc_000-d9.p6s1">
+            <c n="("/>一<c n=")"/>全身症狀<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p6s2">佝僂病之小兒神思不安<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p6s3">多啼哭<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p6s4">睡眠亦不良<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p6s5">頭輾轉向背<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p6s6">如埋頭於枕中之動作<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p6s7">後頭部之毛髮薄頭部時<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p6s8">發汗<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p6s9">全身之血管運動<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p6s10">神經障礙<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p6s11">見蕁麻疹紅斑<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d9p8">
+          <seg xml:id="KR3eu056_jc_000-d9.p8s1">
+            <c n="("/>二<c n=")"/>骨格系統之症狀<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p8s2">骨格軟化且變形<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p8s3">當母親抱兒放尿時<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p8s4">兒忽開始為疼痛狀之啼哭<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p8s5">至使母親注意<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d9p10">
+          <seg xml:id="KR3eu056_jc_000-d9.p10s1">特異之孌化<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p10s2">能見骨端軟骨腫脹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p10s3">長管骨與筋骨顯然腫脹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p10s4">同時骨幹變形<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p10s5">彎曲<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p10s6">遇輕度之外傷<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p10s7">容易致起不全之折骨<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d9p12">
+          <seg xml:id="KR3eu056_jc_000-d9.p12s1">全身之發育亦變化<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p12s2">身殊不長<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p12s3">甚短小<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p12s4">運動起居之動作亦異常<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p12s5">小兒已能起立步行者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p12s6">罹此病致不能起立<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d9p14">
+          <seg xml:id="KR3eu056_jc_000-d9.p14s1">頭蓋骨顏面骨之發育<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p14s2">顯然不完全<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p14s3">頭蓋與顏面大不調和<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p14s4">顎骨亦異常變形<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p14s5">齒牙之發生延遲<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d9p16">
+          <seg xml:id="KR3eu056_jc_000-d9.p16s1">頭蓋各骨之縫合致不合而開大<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p16s2">其縫合邊緣肥厚如近狀<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p16s3">且前頭結節亦肥厚<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p16s4">或顱頂結節肥厚<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p16s5">頭蓋如傘形<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d9p18">
+          <seg xml:id="KR3eu056_jc_000-d9.p18s1">大囟門亦不閉鎖而開<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p18s2">且較之普通為廣大<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p18s3">第二年之終<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p18s4">漸漸閉鎖<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p18s5">後頭部小囟門及拉麻達縫合之附近柔軟<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p18s6">壓之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p18s7">生陷凹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p18s8">多繼以顳顬靜脈之擴張<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d9p20">
+          <seg xml:id="KR3eu056_jc_000-d9.p20s1">佝僂病性脊髓彎曲<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p20s2">不現於一二之脊椎骨<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p20s3">從其度合銳角為稍和緩的<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p20s4">就中以後曲屈最多<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p20s5">致現腰椎側彎亦多<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p20s6">而少向前彎曲者<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d9p22">
+          <seg xml:id="KR3eu056_jc_000-d9.p22s1">胸廓與佝僂病頗為關係<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p22s2">蓋肋骨之軟骨部<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p22s3">與骨部之接合部肥厚<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p22s4">外方可見外下方一列之結節<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p22s5">各小結節之中央具是一溝從骨部而出於軟骨部<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d9p24">
+          <seg xml:id="KR3eu056_jc_000-d9.p24s1">胸廓變形<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p24s2">尤在側壁<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p24s3">更形顯然<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p24s4">側壁偏平<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p24s5">乳房腺與後腋窩腺之間隔短縮<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p24s6">甚至側壁陷凹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p24s7">向外方凹面<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p24s8">描成弓形<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p24s9">又胸骨向前方突起<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p24s10">成為鳩胸<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p24s11">鎖骨彎曲<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p24s12">多陷於不全骨<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p24s13">上腕骨為極重症之彎曲<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p24s14">骨端軟骨之腫脹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p24s15">不甚顯著<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p24s16">反之前腕骨<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p24s17">其指端之軟骨腫脹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p24s18">為必然之症候<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p24s19">一方尺骨之軟骨肥厚<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p24s20">一方橈骨軟骨肥厚<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p24s21">骨盤腸骨櫛亦見肥厚<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d9p26">
+          <seg xml:id="KR3eu056_jc_000-d9.p26s1">大腿骨與趾端之骨端軟骨腫脹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p26s2">多前方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p26s3">或向外方曲<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p26s4">久曲<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p26s5">下腿骨兩端之骨端軟骨腫脹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p26s6">不全骨折及彎曲亦多<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p26s7">故腳形呈╳腳或○腳<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d9p28">
+          <seg xml:id="KR3eu056_jc_000-d9.p28s1">病勢重篤者起貧血因之皮膚色蒼白<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p28s2">精神發育亦遲延<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p28s3">病勢更進呈痙攣質之症狀<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p28s4">呼吸頻數<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p28s5">脈搏亦多<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p28s6">食欲異常亢進<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p28s7">腹部膨隆<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p28s8">通便無一定<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p28s9">肝臟觸下緣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p28s10">但不肥大<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p28s11">多下垂<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p28s12">脾腫亦見<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d9p30">
+          <seg xml:id="KR3eu056_jc_000-d9.p30s1">
+            <c n="【"/>療法<c n="】"/>上記之症狀<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p30s2">可用小柴胡湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p30s3">小陷胸湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p30s4">瀉心湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p30s5">桂枝加龍骨牡蠣湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p30s6">柴胡加龍骨牡蠣湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p30s7">伯州散之類<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p30s8">和田子真翁佝僂病之治驗<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p30s9">引用如下<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d9p32">
+          <seg xml:id="KR3eu056_jc_000-d9.p32s1">日本橋區箱崎町某子年七歲<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p32s2">其年初胸背突出<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p32s3">漸次彎曲<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p32s4">父母憂之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p32s5">乞診於某醫<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p32s6">謂是脊柱病<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p32s7">無法藥治<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p32s8">去而受診於某醫院長<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p32s9">院長亦如是言之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p32s10">其親戚雪中庵宇<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p32s11">貫宗匠者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p32s12">余舊知也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p32s13">聞之不安<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p32s14">介紹於余<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p32s15">診時<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p32s16">脈稍弦大<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p32s17">腹壁攣急<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p32s18">胸脊均突出<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p32s19">其橫經頗大<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p32s20">蒙以衣被<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p32s21">背部尚覺突出<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p32s22">時漏呻聲<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p32s23">胸背之邊苦楚<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p32s24">余斷曰<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p32s25">佝僂病<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p32s26">佝僂者脊椎之病也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p32s27">因脊椎兩側筋之攣縮<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p32s28">使脊骨不得自由伸展<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p32s29">急治不能<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p32s30">緩治之亦能收效<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p32s31">乃仿東洞翁治澗之法<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p32s32">始用茯苓飲加半夏丸為主方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p32s33">取南呂紫圓等互通利<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p32s34">二周後轉用柴胡丸<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p32s35">服藥凡三周日<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p32s36">漸次脊柱伸展<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p32s37">通針二月半許<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p32s38">全復如常<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d9p34">
+          <seg xml:id="KR3eu056_jc_000-d9.p34s1">因云<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p34s2">佝僂病一名英吉利病<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p34s3">為難治之症<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p34s4">然非不治之症<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p34s5">但治此病之機會少<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p34s6">治驗僅得二例<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p34s7">余嘗以此治驗<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p34s8">以語同業某氏<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p34s9">某後語其學生等曰<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p34s10">彼乃一無學庸醫<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p34s11">安有不治之病而能為彼所治者乎<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p34s12">誇大之言<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p34s13">何堪聽聞<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d9.p34s14">此語余聞之於某學生處<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eu056_jc_000-d10">
+        <head n="h1" xml:id="KR3eu056_jc_000-d10h1">
+          <seg xml:id="KR3eu056_jc_000-d10.h1s1">第九章　夜驚症（附夜啼症）</seg>
+        </head>
+        <p xml:id="KR3eu056_jc_000-d10p2">
+          <seg xml:id="KR3eu056_jc_000-d10.p2s1">
+            <c n="【"/>原因<c n="】"/>夜驚症者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d10.p2s2">睡眠中突然驚起<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d10.p2s3">呈恐怖狀態也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d10.p2s4">患者以二歲至八歲者為多<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d10p4">
+          <seg xml:id="KR3eu056_jc_000-d10.p4s1">
+            <c n="【"/>症候<c n="】"/>概於就寢後經過一時間<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d10.p4s2">或二三時間<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d10.p4s3">小兒突然發驚怖之顏貌<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d10.p4s4">身坐起<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d10.p4s5">發叫聲<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d10.p4s6">如遇物襲擊狀<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d10.p4s7">抱擁母親<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d10.p4s8">不能暫安<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d10.p4s9">須待室內光明<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d10.p4s10">撫而慰之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d10.p4s11">始可漸漸甦醒<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d10.p4s12">復其常態<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d10.p4s13">此間須三十餘分鐘<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d10.p4s14">迨完全醒覺<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d10.p4s15">興奮去<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d10.p4s16">則安靜<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d10.p4s17">更睡眠<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d10.p4s18">翌朝與尋常無異<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d10.p4s19">前夜事件<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d10.p4s20">不復記憶<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d10p6">
+          <seg xml:id="KR3eu056_jc_000-d10.p6s1">
+            <c n="〔"/>夜啼症<c n="〕"/>哺乳之小兒患之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d10.p6s2">有疼痛等之原因<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d10.p6s3">夜間發作啼哭<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d10.p6s4">妨害家人安眠<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d10.p6s5">夜間發作或一次<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d10.p6s6">亦有數次者<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d10p8">
+          <seg xml:id="KR3eu056_jc_000-d10.p8s1">
+            <c n="【"/>療法<c n="】"/>夜驚症用甘麥大棗湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d10.p8s2">小建中湯等為多<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d10.p8s3">有時用甘草瀉心湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d10.p8s4">小柴胡湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d10.p8s5">夜啼症又多用甘草大棗湯為有效<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d10.p8s6">比之鼻素劑<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d10.p8s7">效速而易飲<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d10.p8s8">雖過量亦不生何等障礙<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d10p10">
+          <seg xml:id="KR3eu056_jc_000-d10.p10s1">備考</seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d10p12">
+          <seg xml:id="KR3eu056_jc_000-d10.p12s1">
+            <c n="〔"/>本間棗軒之說<c n="〕"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d10p14">
+          <seg xml:id="KR3eu056_jc_000-d10.p14s1">小兒十三四歲之間<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d10.p14s2">睡中卒然驚起<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d10.p14s3">或起<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d10.p14s4">或如見邪祟<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d10.p14s5">俗名恍惚<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d10.p14s6">甚有每夜發者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d10.p14s7">柴胡加龍骨牡蠣湯有奇驗<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d10p16">
+          <seg xml:id="KR3eu056_jc_000-d10.p16s1">
+            <c n="〔"/>類聚方廣義<c n="〕"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d10p18">
+          <seg xml:id="KR3eu056_jc_000-d10.p18s1">夜啼不止<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d10.p18s2">診小兒之腹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d10.p18s3">直腹筋強攣急時<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d10.p18s4">芍藥甘草湯服之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d10.p18s5">有奇效<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eu056_jc_000-d11">
+        <head n="h1" xml:id="KR3eu056_jc_000-d11h1">
+          <seg xml:id="KR3eu056_jc_000-d11.h1s1">第十章　腦膜炎</seg>
+        </head>
+        <p xml:id="KR3eu056_jc_000-d11p2">
+          <seg xml:id="KR3eu056_jc_000-d11.p2s1">腦膜炎與往昔之驚風相似<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p2s2">考徵先人諸說<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p2s3">驚風非單為腦膜炎<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p2s4">現以類似之症候<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p2s5">總稱為驚風<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p2s6">茲揭載關於先輩諸師之治才<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p2s7">庶對於腦膜炎方之選擇較便利云<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d11p4">
+          <seg xml:id="KR3eu056_jc_000-d11.p4s1">
+            <c n="【"/>原因<c n="】"/>腦膜炎中之最普通者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p4s2">為結核性腦膜炎<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p4s3">化膿性腦膜炎<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p4s4">液漿性腦膜炎<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p4s5">至於梅寧吉斯麻斯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p4s6">慢性腦水腫<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p4s7">亦類似腦膜炎之症候也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p4s8">所謂驚風之治方適用之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d11p6">
+          <seg xml:id="KR3eu056_jc_000-d11.p6s1">
+            <c n="【"/>症候<c n="】"/>結核性腦膜炎者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p6s2">即慢驚風或慢脾風也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p6s3">大多現於續發性<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p6s4">發病緩慢<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p6s5">始而食思缺乏<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p6s6">倦怠發熱<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p6s7">多眠症等症狀<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p6s8">繼而頭痛<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p6s9">嘔吐<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p6s10">與腦性刺戟及胃腸疾患者相異<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d11p8">
+          <seg xml:id="KR3eu056_jc_000-d11.p8s1">腦刺戟症狀者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p8s2">皮膚及五官器之知覺過敏<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p8s3">輕微接觸即覺疼痛<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p8s4">其他對於視覺及聽覺之感受性<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p8s5">亦為異常<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d11p10">
+          <seg xml:id="KR3eu056_jc_000-d11.p10s1">運動性刺戟症狀<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p10s2">亦多現出切齒<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p10s3">咀嚼<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p10s4">吸啜運動<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p10s5">揉頭髮<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p10s6">摘口唇<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p10s7">攫臥床及陰部<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p10s8">時發嘆息<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p10s9">伸欠<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d11p12">
+          <seg xml:id="KR3eu056_jc_000-d11.p12s1">神識類多溷濁<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p12s2">應答差誤<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p12s3">項部強直<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p12s4">反射機能亢進<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d11p14">
+          <seg xml:id="KR3eu056_jc_000-d11.p14s1">腦水腫之症狀<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p14s2">則發現麻痹症狀<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p14s3">此時神識矇矓<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p14s4">目光昏糊<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p14s5">呼之不答亦不知<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p14s6">茫然自失<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p14s7">往往發生突然之叫喚<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d11p16">
+          <seg xml:id="KR3eu056_jc_000-d11.p16s1">脈不正<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p16s2">徐脈或結代<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p16s3">陷於麻痹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p16s4">脈搏頻數<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d11p18">
+          <seg xml:id="KR3eu056_jc_000-d11.p18s1">末期發現間代性癲癇樣痙攣<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d11p20">
+          <seg xml:id="KR3eu056_jc_000-d11.p20s1">化膿性腦膜炎者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p20s2">發病之始<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p20s3">即升高熱<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p20s4">數日中而死<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p20s5">神識矇矓<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p20s6">痙攣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p20s7">項部強直<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p20s8">知覺過敏<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p20s9">發現克兒尼芝氏之病狀<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p20s10">與前者相同<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d11p22">
+          <seg xml:id="KR3eu056_jc_000-d11.p22s1">液漿性腦膜炎<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p22s2">比之化膿性腦膜炎<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p22s3">症狀較輕<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p22s4">但發急劇之高熱<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p22s5">而速者亦致死<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d11p24">
+          <seg xml:id="KR3eu056_jc_000-d11.p24s1">
+            <c n="【"/>療法<c n="】"/>頭痛發熱<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p24s2">頭項強直<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p24s3">或發痙攣脈浮者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p24s4">用葛根湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p24s5">若兼嘔吐<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p24s6">則加半夏湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p24s7">躁煩口渴頭痛身痛無汗脈浮發者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p24s8">用大青龍湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p24s9">煩躁頭痛痙攣口渴吞水即吐出<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p24s10">脈浮小便不利者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p24s11">用五苓散<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p24s12">顏面紅如醉<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p24s13">有表證者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p24s14">用葛根黃連黃芩湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p24s15">表證去而煩驚大小便不利者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p24s16">用柴胡加龍骨牡蠣湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p24s17">大柴胡湯等<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p24s18">熱識煩躁口渴刺戟症狀強者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p24s19">用白虎湯瀉心渴承氣湯之類<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p24s20">或兼用亦可<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d11p26">
+          <seg xml:id="KR3eu056_jc_000-d11.p26s1">已現麻痹症狀<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p26s2">脈微細<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p26s3">起間代性癲癇樣痙攣者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p26s4">用四逆加人參湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p26s5">通脈四逆加豬膽汁湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p26s6">白通加豬膽汁湯等<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d11p28">
+          <seg xml:id="KR3eu056_jc_000-d11.p28s1">所謂梅寧吉斯麻斯者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p28s2">屢見於疫痢之際<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p28s3">西醫束手無策<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p28s4">不知如何治之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p28s5">投熊膽汁一味<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p28s6">痙攣可止<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p28s7">眠可醒<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p28s8">在鄉里之開業者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p28s9">每年與患疫痢者按觸甚多<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p28s10">術拙者致人於死<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p28s11">殊為遺憾<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d11p30">
+          <seg xml:id="KR3eu056_jc_000-d11.p30s1">嘗和權藤成卿翁於幼時患疫痢<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p30s2">父松門翁飲以熊膽<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p30s3">味苦<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p30s4">覺頭頂有如拔之痛苦<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p30s5">就此不省人事<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p30s6">旋即甦醒<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p30s7">味苦仍不脫<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p30s8">翁曰<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p30s9">藥之味苦<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p30s10">苦而後甘<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p30s11">方為有效<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d11p32">
+          <seg xml:id="KR3eu056_jc_000-d11.p32s1">備考</seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d11p34">
+          <seg xml:id="KR3eu056_jc_000-d11.p34s1">有持桂裡急慢驚風之說</seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d11p36">
+          <seg xml:id="KR3eu056_jc_000-d11.p36s1">小兒之驚<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p36s2">後代之兒科總名為驚風<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p36s3">獨明之喻嘉言博學雄辨<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p36s4">痛斥驚風之名義<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p36s5">指為痙病<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p36s6">清之陳復正亦著數十萬言之書<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p36s7">闡明喻氏之所未盡<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p36s8">遂屏除驚風二字<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p36s9">新立非搐類搐誤搐三種<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p36s10">其說詳而且備<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p36s11">余臨症二十餘年<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p36s12">療此病每年不下十數十人<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p36s13">熟視其所由來<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p36s14">皆冒邪熱而起<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p36s15">間挾宿食<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p36s16">或因毒癖激發者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p36s17">其初非來自邪熱者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p36s18">實難名曰驚<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p36s19">痙亦未妥<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p36s20">然就余之觀察<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p36s21">驚者不必為驚嚇之義<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p36s22">目反手搐<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p36s23">形狀如驚<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p36s24">故稱以斯名<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3eu056_jc_000-d11.p36s25">
+            <c n="（"/>考仲景煩驚之語<c n="）"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p36s26">又風字連屬於諸病名者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p36s27">其類甚多<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p36s28">況此來自邪熱<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p36s29">以此為名<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p36s30">雖不中要亦不遠矣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p36s31">千金中稱此病為中風<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p36s32">吾人不妨存其舊名<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p36s33">祇要審其脈證<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p36s34">不誤陰陽<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p36s35">庶乎可矣<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d11p38">
+          <seg xml:id="KR3eu056_jc_000-d11.p38s1">驚風之急者配於肝<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p38s2">慢者配於脾<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p38s3">更立慢脾之一名<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p38s4">是為三種<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p38s5">此為後代幼科諸師之通說<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p38s6">吾門則不必專論肝脾<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p38s7">惟審其脈證而辨其陰陽治之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p38s8">發熱<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p38s9">手足抽搐<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p38s10">握拳口噤<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p38s11">上竄直視<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p38s12">脈浮數者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p38s13">發於陽實熱也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p38s14">此名急驚<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p38s15">神色昏慢<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p38s16">微微抽掣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p38s17">昏睡露睛<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p38s18">脈沉細者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p38s19">伸景所謂欲寐之狀態<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p38s20">即陰症也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p38s21">寒且虛者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p38s22">呼慢驚慢脾風者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p38s23">不過慢驚之敗症<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p38s24">聶久吾曰<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p38s25">慢脾風即以慢驚治之者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p38s26">其失遠甚<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p38s27">蓋二者有分別焉<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d11p40">
+          <seg xml:id="KR3eu056_jc_000-d11.p40s1">熊膽汁<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p40s2">急驚直視煩悶者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p40s3">先以此灌入<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p40s4">又可治慢驚<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p40s5">加入理中湯四逆湯為佳<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d11p42">
+          <seg xml:id="KR3eu056_jc_000-d11.p42s1">參連湯<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p42s2">急驚直視煩悶者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p42s3">先與此湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p42s4">然後下對症之藥<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d11p44">
+          <seg xml:id="KR3eu056_jc_000-d11.p44s1">還魂湯<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p44s2">此方有起死回生之神效<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p44s3">還魂之名<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p44s4">實為不愧<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p44s5">小兒抽搐陷於人事不省<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p44s6">二三日不醒者用之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p44s7">余通家之一幼兒<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p44s8">曾罹此病<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p44s9">醫師群集<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p44s10">投驚藥數方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p44s11">且針且灸<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p44s12">治法殆盡<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p44s13">一無見效<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p44s14">病勢已極<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p44s15">皆言不治<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p44s16">余較諸醫後至<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p44s17">初診其脈沉絕<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p44s18">但細視之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p44s19">彷彿有生機<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p44s20">乃向病家謂此病形勢已瀕危境<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p44s21">就余觀之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p44s22">全系熱邪鬱閉已極<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p44s23">如有幸而熱邪發泄<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3eu056_jc_000-d11.p44s24">
+            <c n="（"/>發表之意<c n="）"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p44s25">方有指望<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p44s26">即與還魂湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p44s27">由其母抱而覆之以被<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p44s28">須臾汗出<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p44s29">忽然覺醒<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p44s30">還魂湯無發汗之說<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p44s31">今為余試以覆被之法<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p44s32">無人先知<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p44s33">余常值小兒之發熱昏沉者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p44s34">務使其發汗<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p44s35">十無一失<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p44s36">如此症遽用金石龍腦麝香<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p44s37">則必不醒<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p44s38">且邪熱深入<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p44s39">禍起於反掌之間也<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3eu056_jc_000-d11.p44s40">
+            <c n="（"/>大塚曰<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3eu056_jc_000-d11.p44s41">吾師湯本求真翁陷於危篤之肺炎<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3eu056_jc_000-d11.p44s42">西醫宣告不治<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3eu056_jc_000-d11.p44s43">乃下幼兒之湯以投之一二回即痊<c n="）"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d11p46">
+          <seg xml:id="KR3eu056_jc_000-d11.p46s1">葛根湯<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p46s2">小兒發熱<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p46s3">手足抽搐<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p46s4">上竄直視者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p46s5">急與葛根湯便止<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p46s6">是系效仲景救痙方法<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d11p48">
+          <seg xml:id="KR3eu056_jc_000-d11.p48s1">風引湯<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p48s2">瘛瘲日日數十次之發作<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p48s3">平常之藥不能療治<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p48s4">故須治之以奇藥逸品也<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d11p50">
+          <seg xml:id="KR3eu056_jc_000-d11.p50s1">柴胡加龍骨牡蠣湯<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p50s2">治胸滿煩驚<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d11p52">
+          <seg xml:id="KR3eu056_jc_000-d11.p52s1">大柴胡湯<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p52s2">小兒驚風吐乳之類<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p52s3">多為此方之症<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p52s4">玩味<c n="「"/>心下急鬱郁微煩<c n="」"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p52s5">七字而運用之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p52s6">至由驚而變痢者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p52s7">此尤為最良之方劑<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d11p54">
+          <seg xml:id="KR3eu056_jc_000-d11.p54s1">真武湯<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p54s2">陰症用真武湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p54s3">人皆知之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p54s4">而太陽病發汗汗出而不解<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p54s5">其人仍發熱心悸等病<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p54s6">猶屬陽者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p54s7">亟投此劑<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p54s8">是仲景之隨機妙用也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p54s9">驚風亦間有此症<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d11p56">
+          <seg xml:id="KR3eu056_jc_000-d11.p56s1">理中加附子湯<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p56s2">吐瀉之慢脾虛弱者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p56s3">亟與理中加附子湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p56s4">此症為外表猶熱而里已成寒者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p56s5">臨診時尤須留心審視<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d11p58">
+          <seg xml:id="KR3eu056_jc_000-d11.p58s1">通脈四逆加豬膽汁湯<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p58s2">兒科稱慢脾風<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p58s3">多為此症<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p58s4">吐止無愈兆者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p58s5">脾胃亡絕之候<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p58s6">加之出冷汗厥冷<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p58s7">四肢拘急不解<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p58s8">脈微弱欲絕<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p58s9">命迫旦夕者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p58s10">此時若與微飲微湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p58s11">直等於兒戲<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p58s12">用通脈四逆加豬膽汁湯投之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p58s13">或有萬一之幸焉<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d11p60">
+          <seg xml:id="KR3eu056_jc_000-d11.p60s1">白通豬膽汁湯<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p60s2">下痢不止<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p60s3">厥逆無脈<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p60s4">危殆達於極點<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p60s5">但乾嘔煩者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p60s6">胃氣尚未全竭也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p60s7">服此方<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p60s8">倘微微現脈者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p60s9">或得有生望<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d11p62">
+          <seg xml:id="KR3eu056_jc_000-d11.p62s1">紫丸<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p62s2">急驚便閉者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p62s3">用此下一服可甦醒<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d11p64">
+          <seg xml:id="KR3eu056_jc_000-d11.p64s1">
+            <c n="〔"/>類聚方廣義<c n="〕"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d11p66">
+          <seg xml:id="KR3eu056_jc_000-d11.p66s1">急驚風痰涎由口湧出<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p66s2">眼閉口合者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p66s3">先用熊膽紫丸走馬湯等<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p66s4">吐下後大熱煩躁<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p66s5">喘鳴搐搦不止者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d11.p66s6">與大青龍湯發汗可愈<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d11p68">
+          <seg xml:id="KR3eu056_jc_000-d11.p68s1">慢驚風用甘草瀉心湯可愈<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eu056_jc_000-d12">
+        <head n="h1" xml:id="KR3eu056_jc_000-d12h1">
+          <seg xml:id="KR3eu056_jc_000-d12.h1s1">第十一章　夜尿症</seg>
+        </head>
+        <p xml:id="KR3eu056_jc_000-d12p2">
+          <seg xml:id="KR3eu056_jc_000-d12.p2s1">
+            <c n="【"/>症候<c n="】"/>本病並無尿意<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d12.p2s2">又膀胱並不積尿<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d12.p2s3">而在不知不識之間排出多量之尿也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d12.p2s4">多起於夜中睡眠時<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d12.p2s5">亦有見於晝間者<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d12p4">
+          <seg xml:id="KR3eu056_jc_000-d12.p4s1">
+            <c n="【"/>療法<c n="】"/>患夜尿症者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d12.p4s2">大別為陽證與陰證<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d12.p4s3">陽症用白虎湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d12.p4s4">桂枝加龍骨牡蠣湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d12.p4s5">陰證用苓薑朮甘湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d12.p4s6">八味丸<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d12.p4s7">屬血證者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d12.p4s8">用當歸芍藥散<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d12.p4s9">桃核承氣湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d12.p4s10">抵當湯<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d12p6">
+          <seg xml:id="KR3eu056_jc_000-d12.p6s1">備考</seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d12p8">
+          <seg xml:id="KR3eu056_jc_000-d12.p8s1">原南陽之說</seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d12p10">
+          <seg xml:id="KR3eu056_jc_000-d12.p10s1">尿以灸為第一有效<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d12.p10s2">其不止者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d12.p10s3">用香龍散<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d12.p10s4">身體虛弱者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d12.p10s5">平日煎服弄玉湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d12.p10s6">加附子或八味丸<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d12p12">
+          <seg xml:id="KR3eu056_jc_000-d12.p12s1">香龍散者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d12.p12s2">即反鼻與丁香研細之末也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d12.p12s3">余嘗用伯州散屢有效<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d12.p12s4">弄玉湯者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d12.p12s5">苓桂朮甘湯加橘皮木香黃連也<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d12p14">
+          <seg xml:id="KR3eu056_jc_000-d12.p14s1">有持桂里之說</seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d12p16">
+          <seg xml:id="KR3eu056_jc_000-d12.p16s1">縮泉散</seg>
+          <seg type="comm" xml:id="KR3eu056_jc_000-d12.p16s2">
+            <c n="（"/>治尿床之方<c n="）"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d12.p16s3">雞屎二錢<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d12.p16s4">桂枝五分<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d12.p16s5">以上二味<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d12.p16s6">研末和酒每次服一錢<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3eu056_jc_000-d12.p16s7">
+            <c n="（"/>每日三服<c n="）"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eu056_jc_000-d13">
+        <head n="h1" xml:id="KR3eu056_jc_000-d13h1">
+          <seg xml:id="KR3eu056_jc_000-d13.h1s1">第十二章　腺病（附腺病質　肺門淋巴腺結核）</seg>
+        </head>
+        <p xml:id="KR3eu056_jc_000-d13p2">
+          <seg xml:id="KR3eu056_jc_000-d13.p2s1">
+            <c n="【"/>原因<c n="】"/>腺病蔓延世上而成疾患<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p2s2">其主要徵候為慢性淋巴腺結核<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p2s3">其他器官之骨質及關節間屢生結核性變化<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p2s4">且本病之患者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p2s5">易罹諸種之慢性病<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d13p4">
+          <seg xml:id="KR3eu056_jc_000-d13.p4s1">本病之素因<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p4s2">有先天性與後天性<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p4s3">總之年高夫婦間所生之小兒<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p4s4">侵入本病者最多<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p4s5">或母親在懷孕時生癌腫或第三期之毒菌結核等之疾患者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p4s6">多有罹此病之傾向<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p4s7">其他日常之攝生法<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p4s8">並生活狀態<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p4s9">亦可影響本病之發生<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d13p6">
+          <seg xml:id="KR3eu056_jc_000-d13.p6s1">又其他小兒病<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p6s2">如麻疹猩紅熱水痘百日咳等之經過後<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p6s3">本病亦易發生<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d13p8">
+          <seg xml:id="KR3eu056_jc_000-d13.p8s1">
+            <c n="【"/>症候<c n="】"/>腺病性淋巴腺腫脹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p8s2">多發現於生後第一個月之頃<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p8s3">就中最早被侵者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p8s4">為顎下及頸部之腺<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p8s5">其他前縱膈膜腔及腹腔之淋巴腺亦蒙其變化<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d13p10">
+          <seg xml:id="KR3eu056_jc_000-d13.p10s1">今從下顎隅及頸圍按觸淋巴腺<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p10s2">其腫大恰如腫瘍<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p10s3">指尖觸之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p10s4">得硬圓形<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p10s5">甚者達雞卵之大<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p10s6">而能目擊者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p10s7">此等之腺<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p10s8">不起急性炎症<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p10s9">有時對於血壓並感敏捷<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p10s10">腺上皮膚不變色<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p10s11">縱膈腺淋巴腺腫脹在打診上胸骨把柄部呈濁音<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p10s12">腹部淋巴腺之腫脹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p10s13">恰如腹部<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p10s14">腫瘍累累<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p10s15">得從腹壁上觸知之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p10s16">顎下及頸部淋巴腺<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p10s17">往往陷於軟化<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p10s18">且呈炎性變化<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p10s19">即每一腺對於按觸之知覺過敏<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p10s20">其質漸次柔軟<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p10s21">呈波動<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p10s22">遂起腺病周圍矣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p10s23">該皮膚髮赤<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p10s24">且呈浸潤之狀<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p10s25">暫時將外方穿破<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p10s26">漏稀薄之膿汁<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p10s27">其後患部往往形成瘻管<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p10s28">有久久漏膿者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p10s29">反之則膿汁不穿<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p10s30">漏於外部<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p10s31">向下方皮下潛行<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p10s32">達於縱隔膜<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p10s33">或腹腔<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p10s34">或心囊腔<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p10s35">而惹起該處之炎症<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d13p12">
+          <seg xml:id="KR3eu056_jc_000-d13.p12s1">腺病者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p12s2">呈一種特異之顏貌<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p12s3">我人特稱之為腺病質<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p12s4">腺病質分二種<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p12s5">第一種顏貌魯鈍狀<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p12s6">口唇肥厚翻轉<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p12s7">鼻呈梨或馬鈴薯之狀<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p12s8">此種情形下之小兒<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p12s9">其腦力並一般動作<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p12s10">往往緩慢且遲鈍<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p12s11">此種之症<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p12s12">名遲鈍性腺病<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p12s13">第二種則反之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p12s14">心身之動作甚敏銳<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p12s15">脈管運動<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p12s16">神經易充奮<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p12s17">僅微微發揚<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p12s18">皮膚即呈旺盛之紅色<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p12s19">顏面蒼白<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p12s20">皮膚軟滑<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p12s21">此種之患<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p12s22">兒甚憐悧<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p12s23">名為過敏性腺病云<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d13p14">
+          <seg xml:id="KR3eu056_jc_000-d13.p14s1">
+            <c n="【"/>療法<c n="】"/>選用小柴胡小建中湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p14s2">內補當歸建中湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p14s3">大黃䗪蟲丸<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p14s4">伯州散<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p14s5">當歸芍藥散之類<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d13p16">
+          <seg xml:id="KR3eu056_jc_000-d13.p16s1">淋巴腺腫脹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p16s2">無論膿潰不膿潰<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p16s3">均可擇用<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p16s4">以上方劑<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p16s5">在瘻孔排膿久不止者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p16s6">當歸建中湯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p16s7">可兼用伯州散<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p16s8">或小柴胡湯合當歸芍藥散中兼用伯州散<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p16s9">排膿已久<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p16s10">羸瘦淋巴腺之核腫累累相連者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p16s11">大黃䗪蟲丸往往奏效<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d13p18">
+          <seg xml:id="KR3eu056_jc_000-d13.p18s1">遲鈍性腺病與過敏性腺病<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p18s2">屢用小柴胡湯合當歸芍藥散小柴胡湯合小陷胸湯之類<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eu056_jc_000-d13p20">
+          <seg xml:id="KR3eu056_jc_000-d13.p20s1">近年患肺門淋巴腺炎病之下者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p20s2">屢見患兒增加<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p20s3">其病大抵大同小異<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p20s4">暫微熱<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p20s5">或暫咳不止<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p20s6">或顏色晦惡<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p20s7">或元氣衰敗<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p20s8">其治療法亦大同小異<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p20s9">吾人可擇用前揭之方劑<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eu056_jc_000-d13.p20s10">則往往收效<c n="。"/>
+          </seg>
+        </p>
+</div>
+    </body>
+  </text>
+</TEI>

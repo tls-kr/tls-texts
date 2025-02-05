@@ -1,0 +1,3545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KR3eo041">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>保生心鑑</title>
+        <author>鐵峰居士</author>
+      </titleStmt>
+      <extent>
+        <measure unit="char" quantity="6473"/>
+        <date when-iso="2024-02-21T13:40:49.864+09:00"/>
+      </extent>
+      <publicationStmt>
+        <p>Originally published at <ref target="https://jicheng.tw/tcm/book/index.html">中醫笈成:保生心鑑</ref>. Checkout from https://gitlab.com/jicheng/jc.data, commit aab40201, 2022-12-28.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>《新刻保生心鑑》，清經鉏堂藍格鈔本（<ref target="https://rbk-doc.npm.edu.tw">國立中央圖書館典藏國立北平圖書館善本</ref>：平圖011819）</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>明</date>
+      </creation>
+      <textClass>
+        <catRef scheme="#kr-categories" target="#KR3eo"/>
+        <catRef scheme="#tls-dates" target="#dat04250"/>
+      </textClass>
+    </profileDesc>
+    <encodingDesc>
+      <p>Quality: </p>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+
+<div n="h1" xml:id="KR3eo041_jc_000-d2">
+        <head n="h1" xml:id="KR3eo041_jc_000-d2h1">
+          <seg xml:id="KR3eo041_jc_000-d2.h1s1">序</seg>
+        </head>
+        <p xml:id="KR3eo041_jc_000-d2p2">
+          <seg xml:id="KR3eo041_jc_000-d2.p2s1">嘗聞修養始於太乙氏<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d2.p2s2">而導引則始於陰康氏也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d2.p2s3">太乙時<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d2.p2s4">醫藥未立<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d2.p2s5">乃調和血氣以保長生<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d2.p2s6">而修養之法顯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d2.p2s7">陰康時<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d2.p2s8">民患重膇<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d2.p2s9">因制舞法<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d2.p2s10">以疏氣血<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d2.p2s11">而導引之術名<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d2.p2s12">故民皆賴以調攝<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d2.p2s13">無夭傷之患<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d2.p2s14">建法異而致妙同<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d2.p2s15">蓋真上古保民之心法也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d2.p2s16">夫何太樸一散<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d2.p2s17">歷數千世<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d2.p2s18">其法寥寥未聞<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d2.p2s19">有得傳者邇<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d2.p2s20">惟<c n="《"/>活人心書<c n="》"/>所刊導引八圖<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d2.p2s21">悉上古遺法<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d2.p2s22">而為好修者寶之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d2.p2s23">弘治乙丑秋<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d2.p2s24">適見<c n="《"/>聖賢保修通鑑<c n="》"/>
+            <c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d2.p2s25">前序古今學道之失<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d2.p2s26">後書道術療病之功<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d2.p2s27">深嘉契愛而欲傳之<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d2.p2s28">值客歸促留少頃<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d2.p2s29">得私謄其概<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d2.p2s30">一或受疾<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d2.p2s31">輒取試之<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d2.p2s32">多有驗焉<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d2.p2s33">因嘗嘆是術雖非太乙<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d2.p2s34">陰康手書<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d2.p2s35">誠保生至法也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d2.p2s36">惜乎簡而未詳<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d2.p2s37">微而不著<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d2.p2s38">乃用參諸月令<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d2.p2s39">搜古醫經<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d2.p2s40">反復研究<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d2.p2s41">正訛補略<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d2.p2s42">並採活人心八法<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d2.p2s43">命善圖者繕形摹寫<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d2.p2s44">計總三十二圖<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d2.p2s45">纂為一帙<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d2.p2s46">目之曰<c n="《"/>保生心鑑<c n="》"/>
+            <c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d2.p2s47">俾有生者知所以保養真元<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d2.p2s48">不令輕耗<c n="；"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d2.p2s49">保生者知所以煉修形體<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d2.p2s50">先須定志<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d2.p2s51">小可卻病<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d2.p2s52">而大可駐年也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d2.p2s53">所謂煉形蓄氣而養神者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d2.p2s54">或庶幾矣<c n="！"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d2.p2s55">豈小小補益云哉<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d2p4">
+          <seg xml:id="KR3eo041_jc_000-d2.p4s1">正德丙寅春王正月古南沙鐵峰居士序</seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eo041_jc_000-d3">
+        <head n="h1" xml:id="KR3eo041_jc_000-d3h1">
+          <seg xml:id="KR3eo041_jc_000-d3.h1s1">修真要訣</seg>
+        </head>
+        <p xml:id="KR3eo041_jc_000-d3p2">
+          <seg xml:id="KR3eo041_jc_000-d3.p2s1">凡欲修養<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d3.p2s2">須擇淨室<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d3.p2s3">順溫涼之宜<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d3.p2s4">明燥濕之異<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d3.p2s5">每夜半後生氣時<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d3.p2s6">或五更睡覺<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d3.p2s7">依法坐立<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d3.p2s8">務先瞑目<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d3.p2s9">握固調息<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d3.p2s10">後乃以次著力行功<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d3.p2s11">勤而不怠<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d3.p2s12">則自然身輕體健<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d3.p2s13">而疾疫可卻<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d3.p2s14">性命可延矣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d3.p2s15">雖然此其常法<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d3.p2s16">若春得夏疾<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d3.p2s17">秋得春疾<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d3.p2s18">亦但按法行之<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d3.p2s19">豈必待其時<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d3.p2s20">然後可哉<c n="？"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d3.p2s21">如此則固而不通<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d3.p2s22">滯而不法<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d3.p2s23">非善養真也<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eo041_jc_000-d4">
+        <head n="h1" xml:id="KR3eo041_jc_000-d4h1">
+          <seg xml:id="KR3eo041_jc_000-d4.h1s1">引用諸書</seg>
+        </head>
+        <p xml:id="KR3eo041_jc_000-d4p2">
+          <seg xml:id="KR3eo041_jc_000-d4.p2s1">
+            <c n="《"/>聖賢保修通鑑<c n="》"/>
+          </seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d4p4">
+          <seg xml:id="KR3eo041_jc_000-d4.p4s1">
+            <c n="《"/>活人心書<c n="》"/>
+          </seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d4p6">
+          <seg xml:id="KR3eo041_jc_000-d4.p6s1">
+            <c n="《"/>禮記月令<c n="》"/>
+          </seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d4p8">
+          <seg xml:id="KR3eo041_jc_000-d4.p8s1">
+            <c n="《"/>素問內經<c n="》"/>
+          </seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d4p10">
+          <seg xml:id="KR3eo041_jc_000-d4.p10s1">
+            <c n="《"/>靈樞經<c n="》"/>
+          </seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d4p12">
+          <seg xml:id="KR3eo041_jc_000-d4.p12s1">
+            <c n="《"/>運氣論奧<c n="》"/>
+          </seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d4p14">
+          <seg xml:id="KR3eo041_jc_000-d4.p14s1">
+            <c n="《"/>救命索<c n="》"/>
+          </seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d4p16">
+          <seg xml:id="KR3eo041_jc_000-d4.p16s1">
+            <c n="《"/>樂道山居錄<c n="》"/>
+          </seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d4p18">
+          <seg xml:id="KR3eo041_jc_000-d4.p18s1">
+            <c n="《"/>心印紺珠<c n="》"/>
+          </seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d4p20">
+          <seg xml:id="KR3eo041_jc_000-d4.p20s1">
+            <c n="《"/>十四經發揮<c n="》"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eo041_jc_000-d5">
+        <head n="h1" xml:id="KR3eo041_jc_000-d5h1">
+          <seg xml:id="KR3eo041_jc_000-d5.h1s1">五運六氣樞要之圖　六十年紀運圖</seg>
+        </head>
+        <figure>
+<figure>
+            <graphic data-orig-src="urn:270:10413.jpg" url="" rend="五運六氣樞要之圖"/>
+          </figure>
+</figure>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:10544.jpg" url="" rend="六十年紀運圖"/>
+          </figure>
+</figure>
+
+</div>
+      <div n="h1" xml:id="KR3eo041_jc_000-d6">
+        <head n="h1" xml:id="KR3eo041_jc_000-d6h1">
+          <seg xml:id="KR3eo041_jc_000-d6.h1s1">四時氣候之圖</seg>
+        </head>
+        <figure>
+<figure>
+            <graphic data-orig-src="urn:270:10414.jpg" url="" rend="四時氣候之圖"/>
+          </figure>
+</figure>
+
+</div>
+      <div n="h1" xml:id="KR3eo041_jc_000-d7">
+        <head n="h1" xml:id="KR3eo041_jc_000-d7h1">
+          <seg xml:id="KR3eo041_jc_000-d7.h1s1">五天氣圖　主氣之圖</seg>
+        </head>
+        <figure>
+<figure>
+            <graphic data-orig-src="urn:270:10415.jpg" url="" rend="五天氣圖　主氣之圖"/>
+          </figure>
+</figure>
+
+</div>
+      <div n="h1" xml:id="KR3eo041_jc_000-d8">
+        <head n="h1" xml:id="KR3eo041_jc_000-d8h1">
+          <seg xml:id="KR3eo041_jc_000-d8.h1s1">客氣之圖</seg>
+        </head>
+        <figure>
+<figure>
+            <graphic data-orig-src="urn:270:10416.jpg" url="" rend="客氣之圖"/>
+          </figure>
+</figure>
+
+</div>
+      <div n="h1" xml:id="KR3eo041_jc_000-d9">
+        <head n="h1" xml:id="KR3eo041_jc_000-d9h1">
+          <seg xml:id="KR3eo041_jc_000-d9.h1s1">臟腑配經絡圖</seg>
+        </head>
+        <p xml:id="KR3eo041_jc_000-d9p2">
+          <seg xml:id="KR3eo041_jc_000-d9.p2s1">一臟一腑相為表裡之官</seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d9p4">
+          <seg xml:id="KR3eo041_jc_000-d9.p4s1">肺<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d9.p4s2">手太陰<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d9.p4s3">大腸<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d9.p4s4">手陽明</seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d9p6">
+          <seg xml:id="KR3eo041_jc_000-d9.p6s1">心<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d9.p6s2">手少陰<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d9.p6s3">小腸<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d9.p6s4">手太陽</seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d9p8">
+          <seg xml:id="KR3eo041_jc_000-d9.p8s1">包絡<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d9.p8s2">手厥陰<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d9.p8s3">三焦<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d9.p8s4">手少陽</seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d9p10">
+          <seg xml:id="KR3eo041_jc_000-d9.p10s1">人身<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d9.p10s2">脈運於中<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d9.p10s3">周流氣血不已</seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d9p12">
+          <seg xml:id="KR3eo041_jc_000-d9.p12s1">脾<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d9.p12s2">足太陰<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d9.p12s3">胃<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d9.p12s4">足陽明</seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d9p14">
+          <seg xml:id="KR3eo041_jc_000-d9.p14s1">腎<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d9.p14s2">足少陰<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d9.p14s3">膀胱<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d9.p14s4">足太陽</seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d9p16">
+          <seg xml:id="KR3eo041_jc_000-d9.p16s1">肝<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d9.p16s2">足厥陰<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d9.p16s3">膽<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d9.p16s4">足少陽</seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d9p18">
+          <seg xml:id="KR3eo041_jc_000-d9.p18s1">一經一絡各應陰陽之象</seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eo041_jc_000-d10">
+        <head n="h1" xml:id="KR3eo041_jc_000-d10h1">
+          <seg xml:id="KR3eo041_jc_000-d10.h1s1">經絡配四時圖</seg>
+        </head>
+        <p xml:id="KR3eo041_jc_000-d10p2">
+          <seg xml:id="KR3eo041_jc_000-d10.p2s1">寅手少陽三焦<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d10.p2s2">巳手厥陰心包</seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d10p4">
+          <seg xml:id="KR3eo041_jc_000-d10.p4s1">春<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d10.p4s2">卯手陽明大腸<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d10.p4s3">生<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d10.p4s4">夏<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d10.p4s5">午手少陰心<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d10.p4s6">長</seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d10p6">
+          <seg xml:id="KR3eo041_jc_000-d10.p6s1">辰手太陽小腸<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d10.p6s2">未手太陰肺</seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d10p8">
+          <seg xml:id="KR3eo041_jc_000-d10.p8s1">天時十二月<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d10.p8s2">人身十二經<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d10.p8s3">地支十二位</seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d10p10">
+          <seg xml:id="KR3eo041_jc_000-d10.p10s1">手經絡應天<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d10.p10s2">足經絡應地</seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d10p12">
+          <seg xml:id="KR3eo041_jc_000-d10.p12s1">申足少陽膽<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d10.p12s2">亥足厥陰肝</seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d10p14">
+          <seg xml:id="KR3eo041_jc_000-d10.p14s1">秋<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d10.p14s2">酉足陽明胃<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d10.p14s3">殺<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d10.p14s4">冬<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d10.p14s5">子足少陰腎<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d10.p14s6">藏</seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d10p16">
+          <seg xml:id="KR3eo041_jc_000-d10.p16s1">戌足太陽膀胱<space n="　" quantity="1"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d10.p16s2">醜足太陰脾</seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eo041_jc_000-d11">
+        <head n="h1" xml:id="KR3eo041_jc_000-d11h1">
+          <seg xml:id="KR3eo041_jc_000-d11.h1s1">太上養生要訣</seg>
+        </head>
+        <p xml:id="KR3eo041_jc_000-d11p2">
+          <seg xml:id="KR3eo041_jc_000-d11.p2s1">老子曰<c n="："/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s2">人<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s3">國也<c n="；"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s4">神<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s5">君也<c n="；"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s6">血<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s7">臣也<c n="；"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s8">氣<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s9">民也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s10">志人理身<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s11">明君治國也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s12">愛其民<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s13">所以安其國<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s14">愛其氣<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s15">所以全其身<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s16">民弊則國亡<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s17">氣衰則身謝<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s18">是以上士施醫於未病之先<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s19">不追修於既敗之後也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s20">審其機以安社稷<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s21">節其欲以保性命<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s22">六害不可不除<c n="："/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s23">一曰薄名利<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s24">二曰禁聲色<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s25">三曰廉貨財<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s26">四曰損滋味<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s27">五曰屏虛妄<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s28">六曰除嫉妒<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s29">少思<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s30">少念<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s31">少笑<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s32">少言<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s33">少喜<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s34">少怒<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s35">少樂<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s36">少愁<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s37">少好<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s38">少惡<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s39">少事<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s40">少機<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s41">多思則神散<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s42">多念則心勞<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s43">多笑則臟腑上翻<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s44">多言則氣海虛脫<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s45">多喜則膀胱納客風<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s46">多怒則輳<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s47">朝勿虛食<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s48">夏暮勿飽食<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s49">早起雞鳴後<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s50">晚起日出前<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s51">心內澄則真人守位<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s52">氣內定則外邪去身<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s53">行一善則魂神喜<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s54">念一惡則魄神歡<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s55">魂欲人生<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s56">魄欲人死<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s57">寬泰以居<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s58">恬澹以守<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s59">神形安靜<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s60">笑災不生<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s61">仙錄書名<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s62">死籍消咎<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s63">養生之要<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s64">盡在此矣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s65">至於煉丹而補理奔浮<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s66">多樂則心神邪蕩<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s67">多愁則頭面焦枯<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s68">多好則智意潰溢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s69">多惡則精爽奔騰<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s70">多事則筋脈乾急<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s71">多機則智慮沉迷<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s72">是皆伐人之生甚於斤斧<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s73">蝕人之性猛於豺狼<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s74">無久行<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s75">無久坐<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s76">無久立<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s77">無久臥<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s78">無久視<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s79">無久聽<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s80">不飢強食則脾勞<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s81">不渴強飲則胃脹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s82">冬腦化金液以留形<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s83">此上真人之妙道<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d11.p2s84">非食谷啖血之越分也<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eo041_jc_000-d12">
+        <head n="h1" xml:id="KR3eo041_jc_000-d12h1">
+          <seg xml:id="KR3eo041_jc_000-d12.h1s1">太清二十四氣水火聚散圖序</seg>
+        </head>
+        <p xml:id="KR3eo041_jc_000-d12p2">
+          <seg xml:id="KR3eo041_jc_000-d12.p2s1">太清三箔<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p2s2">章章林林<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p2s3">惟主導引<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p2s4">不言藥石<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p2s5">豈其以謂山澤之癯<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p2s6">形骸土木而云笈<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p2s7">有耶<c n="？"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p2s8">非然也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p2s9">藥有真偽<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p2s10">性有反誤<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p2s11">疾縱去而毒尚留<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p2s12">或棄寒暑之變<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p2s13">或因飲食之反而生他疾<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p2s14">至於殺身者有之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p2s15">是以仙道不取藥石<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p2s16">而貴導引<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p2s17">導引之上<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p2s18">行其無病<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p2s19">導引之中<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p2s20">行其未病<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p2s21">導引之下<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p2s22">行其已病<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p2s23">何謂也<c n="？"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p2s24">二十四邪方襲膚<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p2s25">方滯經絡<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p2s26">按摩以行之<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p2s27">注閉以攻之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p2s28">咽納以平之<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p2s29">不至於侵其榮衛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p2s30">而蝕其臟腑也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p2s31">修身養命者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p2s32">於是乎取之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p4">
+          <seg xml:id="KR3eo041_jc_000-d12.p4s1">立春正月節<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p4s2">運主厥陰初氣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p4s3">月令東風解凍<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p4s4">蟄蟲始振<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p4s5">魚上冰<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p4s6">時配手少陽三焦相火<c n="。"/>
+          </seg>
+        </p>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:10417.jpg" url="" rend="圖一"/>
+          </figure>
+</figure>
+<p xml:id="KR3eo041_jc_000-d12p8">
+          <seg xml:id="KR3eo041_jc_000-d12.p8s1">坐功</seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p10">
+          <seg xml:id="KR3eo041_jc_000-d12.p10s1">宜每日子丑時<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p10s2">疊手按脛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p10s3">轉身拗頸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p10s4">左右聳引<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p10s5">各三五度<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p10s6">叩齒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p10s7">吐納<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p10s8">漱咽<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p12">
+          <seg xml:id="KR3eo041_jc_000-d12.p12s1">治病</seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p14">
+          <seg xml:id="KR3eo041_jc_000-d12.p14s1">風氣積滯<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p14s2">頸項痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p14s3">耳後肩臑痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p14s4">背痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p14s5">肘臂諸痛<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p16">
+          <seg xml:id="KR3eo041_jc_000-d12.p16s1">雨水正月中<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p16s2">運主厥陰初氣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p16s3">月令獺祭魚<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p16s4">鴻雁北<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p16s5">草木萌動<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p16s6">時配手少陽三焦相火<c n="。"/>
+          </seg>
+        </p>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:10418.jpg" url="" rend="圖二"/>
+          </figure>
+</figure>
+<p xml:id="KR3eo041_jc_000-d12p20">
+          <seg xml:id="KR3eo041_jc_000-d12.p20s1">坐功</seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p22">
+          <seg xml:id="KR3eo041_jc_000-d12.p22s1">每日子丑時<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p22s2">疊手按脛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p22s3">拗頸轉身<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p22s4">左右偏引<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p22s5">各三五度<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p22s6">叩齒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p22s7">吐納<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p22s8">漱咽<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p24">
+          <seg xml:id="KR3eo041_jc_000-d12.p24s1">治病</seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p26">
+          <seg xml:id="KR3eo041_jc_000-d12.p26s1">三焦經絡留滯邪毒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p26s2">嗌乾及腫噦<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p26s3">喉痹<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p26s4">耳聾<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p26s5">汗出<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p26s6">目銳眥痛諸疾<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p28">
+          <seg xml:id="KR3eo041_jc_000-d12.p28s1">驚蟄二月節<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p28s2">運主厥陰初氣<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p28s3">月令桃始華<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p28s4">鶬鶊鳴<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p28s5">鷹化為鳩<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p28s6">時配手陽明大腸燥金<c n="。"/>
+          </seg>
+        </p>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:10419.jpg" url="" rend="圖三"/>
+          </figure>
+</figure>
+<p xml:id="KR3eo041_jc_000-d12p32">
+          <seg xml:id="KR3eo041_jc_000-d12.p32s1">坐功</seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p34">
+          <seg xml:id="KR3eo041_jc_000-d12.p34s1">每日醜寅時<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p34s2">握固轉頸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p34s3">及肘後向頓掣<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p34s4">日五六度<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p34s5">叩齒六六<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p34s6">吐納<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p34s7">漱咽三三<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p36">
+          <seg xml:id="KR3eo041_jc_000-d12.p36s1">治病</seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p38">
+          <seg xml:id="KR3eo041_jc_000-d12.p38s1">腰膂脾胃蘊積邪毒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p38s2">目黃<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p38s3">口乾<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p38s4">鼽衄<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p38s5">喉痹<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p38s6">面腫<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p38s7">暴啞<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p38s8">頭風<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p38s9">牙宣<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p38s10">目暗羞明<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p38s11">鼻不聞臭<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p38s12">疳牙<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p38s13">疙瘡<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p40">
+          <seg xml:id="KR3eo041_jc_000-d12.p40s1">春分二月中<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p40s2">運主少陰二氣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p40s3">月令玄鳥至<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p40s4">雷乃發聲<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p40s5">始電<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p40s6">時配手陽明大腸燥金<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p42">
+          <seg xml:id="KR3eo041_jc_000-d12.p42s1">行功</seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p44">
+          <seg xml:id="KR3eo041_jc_000-d12.p44s1">每日醜寅時<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p44s2">伸手回頭<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p44s3">左右挽引<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p44s4">各六七度<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p44s5">叩齒六六<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p44s6">吐納<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p44s7">漱咽三三<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p46">
+          <seg xml:id="KR3eo041_jc_000-d12.p46s1">治病</seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p48">
+          <seg xml:id="KR3eo041_jc_000-d12.p48s1">胸臆肩背經絡虛勞邪毒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p48s2">齒痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p48s3">頭腫<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p48s4">寒粟<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p48s5">熱腫<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p48s6">耳聾耳鳴<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p48s7">耳後<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p48s8">肩臑<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p48s9">肘臂<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p48s10">外背痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p48s11">氣滿<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p48s12">皮膚殼殼然堅而不痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p48s13">或痰氣<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p48s14">皮膚瘙癢<c n="。"/>
+          </seg>
+        </p>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:10420.jpg" url="" rend="圖四"/>
+          </figure>
+</figure>
+<p xml:id="KR3eo041_jc_000-d12p52">
+          <seg xml:id="KR3eo041_jc_000-d12.p52s1">清明三月節<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p52s2">運主少陰二氣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p52s3">月令桐始華<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p52s4">田鼠化為鴽<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p52s5">虹始見<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p52s6">時配手太陽小腸寒水<c n="。"/>
+          </seg>
+        </p>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:10421.jpg" url="" rend="圖五"/>
+          </figure>
+</figure>
+<p xml:id="KR3eo041_jc_000-d12p56">
+          <seg xml:id="KR3eo041_jc_000-d12.p56s1">行功</seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p58">
+          <seg xml:id="KR3eo041_jc_000-d12.p58s1">每日醜寅時<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p58s2">正坐換手左右<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p58s3">如引硬弓<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p58s4">各七八度<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p58s5">叩齒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p58s6">納清吐濁<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p58s7">咽液各三<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p60">
+          <seg xml:id="KR3eo041_jc_000-d12.p60s1">治病</seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p62">
+          <seg xml:id="KR3eo041_jc_000-d12.p62s1">腰腎腸胃虛邪積滯<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p62s2">耳前熱<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p62s3">苦寒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p62s4">耳聾<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p62s5">嗌痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p62s6">頸痛不可回顧<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p62s7">肩拔臑折<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p62s8">腰軟<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p62s9">肘臂諸痛<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p64">
+          <seg xml:id="KR3eo041_jc_000-d12.p64s1">穀雨三月中<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p64s2">運主少陰二氣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p64s3">月令萍始生<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p64s4">鳴鳩拂其羽<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p64s5">戴勝降於桑<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p64s6">時配手太陽小腸寒水<c n="。"/>
+          </seg>
+        </p>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:10422.jpg" url="" rend="圖六"/>
+          </figure>
+</figure>
+<p xml:id="KR3eo041_jc_000-d12p68">
+          <seg xml:id="KR3eo041_jc_000-d12.p68s1">行功</seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p70">
+          <seg xml:id="KR3eo041_jc_000-d12.p70s1">每日醜寅時<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p70s2">平坐換手<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p70s3">左右舉托<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p70s4">移臂左右掩乳<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p70s5">各五七度<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p70s6">叩齒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p70s7">吐納<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p70s8">咽漱<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p72">
+          <seg xml:id="KR3eo041_jc_000-d12.p72s1">治病</seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p74">
+          <seg xml:id="KR3eo041_jc_000-d12.p74s1">脾胃結瘕<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p74s2">瘀血目黃<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p74s3">鼻鼽<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p74s4">頰腫<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p74s5">頷腫<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p74s6">肘臂外後臁腫痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p74s7">臀外痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p74s8">掌中熱<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p76">
+          <seg xml:id="KR3eo041_jc_000-d12.p76s1">立夏四月節<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p76s2">運主少陰二氣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p76s3">月令螻蟈鳴<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p76s4">蚯蚓出<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p76s5">王瓜生<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p76s6">時配手厥陰心包絡風木<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p78">
+          <seg xml:id="KR3eo041_jc_000-d12.p78s1">坐功</seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p80">
+          <seg xml:id="KR3eo041_jc_000-d12.p80s1">每日寅卯時<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p80s2">閉息瞑目<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p80s3">反換兩手<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p80s4">抑挈兩膝<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p80s5">各五七度<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p80s6">叩齒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p80s7">吐納<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p80s8">咽液<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p82">
+          <seg xml:id="KR3eo041_jc_000-d12.p82s1">治病</seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p84">
+          <seg xml:id="KR3eo041_jc_000-d12.p84s1">風濕留滯經絡<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p84s2">腫痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p84s3">臂肘攣急<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p84s4">腋腫<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p84s5">手心熱<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p84s6">喜笑不休<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p84s7">雜症<c n="。"/>
+          </seg>
+        </p>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:10423.jpg" url="" rend="圖七"/>
+          </figure>
+</figure>
+<p xml:id="KR3eo041_jc_000-d12p88">
+          <seg xml:id="KR3eo041_jc_000-d12.p88s1">小滿四月中<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p88s2">運主少陽三氣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p88s3">月令苦菜秀<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p88s4">靡草死<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p88s5">麥秋至<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p88s6">時配手厥陰心包絡風木<c n="。"/>
+          </seg>
+        </p>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:10424.jpg" url="" rend="圖八"/>
+          </figure>
+</figure>
+<p xml:id="KR3eo041_jc_000-d12p92">
+          <seg xml:id="KR3eo041_jc_000-d12.p92s1">坐功</seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p94">
+          <seg xml:id="KR3eo041_jc_000-d12.p94s1">每日寅卯時<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p94s2">正坐<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p94s3">一手舉托<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p94s4">一手拄按<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p94s5">左右各三五度<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p94s6">叩齒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p94s7">吐納<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p94s8">咽液<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p96">
+          <seg xml:id="KR3eo041_jc_000-d12.p96s1">治病</seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p98">
+          <seg xml:id="KR3eo041_jc_000-d12.p98s1">肺腑蘊滯邪毒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p98s2">胸脅支滿<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p98s3">心中憺憺大動<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p98s4">面赤鼻赤<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p98s5">目黃煩心<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p98s6">心痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p98s7">掌中熱諸病<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p100">
+          <seg xml:id="KR3eo041_jc_000-d12.p100s1">芒種五月<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p100s2">運主少陽三氣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p100s3">月令螳螂生<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p100s4">鵙始鳴<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p100s5">反舌無聲<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p100s6">時配手少陰心君火<c n="。"/>
+          </seg>
+        </p>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:10425.jpg" url="" rend="圖九"/>
+          </figure>
+</figure>
+<p xml:id="KR3eo041_jc_000-d12p104">
+          <seg xml:id="KR3eo041_jc_000-d12.p104s1">坐功</seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p106">
+          <seg xml:id="KR3eo041_jc_000-d12.p106s1">每日寅卯時<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p106s2">正立仰身<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p106s3">兩手上托<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p106s4">左右力舉<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p106s5">各五六度<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p106s6">定息<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p106s7">叩齒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p106s8">吐納<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p106s9">咽液<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p108">
+          <seg xml:id="KR3eo041_jc_000-d12.p108s1">治病</seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p110">
+          <seg xml:id="KR3eo041_jc_000-d12.p110s1">腰腎蘊積虛勞<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p110s2">嗌乾心痛欲飲<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p110s3">目黃脅痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p110s4">消渴<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p110s5">善笑<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p110s6">善驚<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p110s7">善忘<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p110s8">上咳吐<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p110s9">下氣泄<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p110s10">身熱而股痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p110s11">心悲<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p110s12">頭頂痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p110s13">面赤<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p112">
+          <seg xml:id="KR3eo041_jc_000-d12.p112s1">夏至五月中<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p112s2">運主少陽三氣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p112s3">月令鹿角解<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p112s4">蜩始鳴<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p112s5">半夏生<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p112s6">時配手少陰心君火<c n="。"/>
+          </seg>
+        </p>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:10426.jpg" url="" rend="圖十"/>
+          </figure>
+</figure>
+<p xml:id="KR3eo041_jc_000-d12p116">
+          <seg xml:id="KR3eo041_jc_000-d12.p116s1">坐功</seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p118">
+          <seg xml:id="KR3eo041_jc_000-d12.p118s1">每日寅卯時<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p118s2">跪坐伸手叉指<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p118s3">屈腳換踏<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p118s4">左右各五七度<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p118s5">叩齒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p118s6">納清<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p118s7">吐濁<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p118s8">咽液<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p120">
+          <seg xml:id="KR3eo041_jc_000-d12.p120s1">治病</seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p122">
+          <seg xml:id="KR3eo041_jc_000-d12.p122s1">風濕積滯<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p122s2">腕膝痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p122s3">臑臂痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p122s4">後廉痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p122s5">厥<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p122s6">掌中熱痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p122s7">兩腎內痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p122s8">腰背痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p122s9">身體重<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p124">
+          <seg xml:id="KR3eo041_jc_000-d12.p124s1">小暑六月節<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p124s2">運主少陽三氣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p124s3">月令溫風至<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p124s4">蟋蟀居壁<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p124s5">鷹乃學習<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p124s6">時配手太陰肺濕土<c n="。"/>
+          </seg>
+        </p>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:10427.jpg" url="" rend="圖十一"/>
+          </figure>
+</figure>
+<p xml:id="KR3eo041_jc_000-d12p128">
+          <seg xml:id="KR3eo041_jc_000-d12.p128s1">行功</seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p130">
+          <seg xml:id="KR3eo041_jc_000-d12.p130s1">每日醜寅時<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p130s2">兩手踞<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p130s3">屈壓一足<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p130s4">直伸一足<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p130s5">用力掣三五度<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p130s6">叩齒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p130s7">吐納<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p130s8">咽液<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p132">
+          <seg xml:id="KR3eo041_jc_000-d12.p132s1">治病</seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p134">
+          <seg xml:id="KR3eo041_jc_000-d12.p134s1">腿膝腰脾風濕<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p134s2">肺脹滿<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p134s3">嗌乾喘咳<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p134s4">缺盆中痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p134s5">善嚏<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p134s6">臍右小腹脹引腹痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p134s7">手攣急<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p134s8">身體重<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p134s9">半身不遂<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p134s10">偏風<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p134s11">健忘<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p134s12">哮喘<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p134s13">脫肛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p134s14">腕無力<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p134s15">喜怒不常<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p136">
+          <seg xml:id="KR3eo041_jc_000-d12.p136s1">大暑六月中<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p136s2">運主太陰四氣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p136s3">月令腐草為螢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p136s4">土潤褥暑<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p136s5">大雨時行<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p136s6">時配手太陰肺濕土<c n="。"/>
+          </seg>
+        </p>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:10428.jpg" url="" rend="圖十二"/>
+          </figure>
+</figure>
+<p xml:id="KR3eo041_jc_000-d12p140">
+          <seg xml:id="KR3eo041_jc_000-d12.p140s1">行功</seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p142">
+          <seg xml:id="KR3eo041_jc_000-d12.p142s1">每日醜寅時<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p142s2">雙拳踞地<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p142s3">返首肩引作虎視<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p142s4">左右各三五度<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p142s5">叩齒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p142s6">吐納<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p142s7">咽液<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p144">
+          <seg xml:id="KR3eo041_jc_000-d12.p144s1">治病</seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p146">
+          <seg xml:id="KR3eo041_jc_000-d12.p146s1">頭項胸背風毒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p146s2">咳嗽上氣<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p146s3">喘渴煩心<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p146s4">胸滿臑臂痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p146s5">中熱<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p146s6">臍上或肩背痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p146s7">風寒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p146s8">汗出中風<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p146s9">小便數欠<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p146s10">溏泄<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p146s11">皮膚痛及麻<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p146s12">悲愁欲哭<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p146s13">灑淅寒熱<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p148">
+          <seg xml:id="KR3eo041_jc_000-d12.p148s1">立秋七月節<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p148s2">運主太陰四氣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p148s3">月令涼風至<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p148s4">白露降<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p148s5">寒蟬鳴<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p148s6">時配足少陽膽相火<c n="。"/>
+          </seg>
+        </p>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:10429.jpg" url="" rend="圖十三"/>
+          </figure>
+</figure>
+<p xml:id="KR3eo041_jc_000-d12p152">
+          <seg xml:id="KR3eo041_jc_000-d12.p152s1">行功</seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p154">
+          <seg xml:id="KR3eo041_jc_000-d12.p154s1">每日醜寅時<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p154s2">正坐<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p154s3">兩手托<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p154s4">縮體<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p154s5">閉息<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p154s6">聳身上踴<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p154s7">凡七八度<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p154s8">叩齒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p154s9">吐納<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p154s10">咽漱<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p156">
+          <seg xml:id="KR3eo041_jc_000-d12.p156s1">治病</seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p158">
+          <seg xml:id="KR3eo041_jc_000-d12.p158s1">補虛益損<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p158s2">去腰腎積氣<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p158s3">口苦善太息<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p158s4">心脅痛不能反側<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p158s5">面塵體無澤<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p158s6">足外熱<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p158s7">頭痛<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p158s8">頷痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p158s9">目銳眥痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p158s10">缺盆腫痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p158s11">腋下腫<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p158s12">汗出振寒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p158s13">馬刀<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p158s14">俠癭<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p158s15">結核<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p160">
+          <seg xml:id="KR3eo041_jc_000-d12.p160s1">處暑七月中<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p160s2">運主太陰四氣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p160s3">月令鷹乃祭鳥<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p160s4">天地始肅<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p160s5">禾乃登<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p160s6">時配足少陽膽相火<c n="。"/>
+          </seg>
+        </p>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:10430.jpg" url="" rend="圖十四"/>
+          </figure>
+</figure>
+<p xml:id="KR3eo041_jc_000-d12p164">
+          <seg xml:id="KR3eo041_jc_000-d12.p164s1">行功</seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p166">
+          <seg xml:id="KR3eo041_jc_000-d12.p166s1">每日醜寅時<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p166s2">正坐<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p166s3">轉頭<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p166s4">左右舉引就返<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p166s5">兩手捶背之上<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p166s6">各五七度<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p166s7">叩齒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p166s8">吐納<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p166s9">咽液<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p168">
+          <seg xml:id="KR3eo041_jc_000-d12.p168s1">治病</seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p170">
+          <seg xml:id="KR3eo041_jc_000-d12.p170s1">風濕留滯<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p170s2">肩背痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p170s3">胸痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p170s4">脊膂痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p170s5">脅肋<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p170s6">髀膝<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p170s7">經絡外至脛<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p170s8">絕骨外踝前及諸節皆痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p170s9">少氣咳嗽<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p170s10">喘渴上氣<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p170s11">胸背脊膂積滯之氣<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p172">
+          <seg xml:id="KR3eo041_jc_000-d12.p172s1">白露八月節<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p172s2">運主太陰四氣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p172s3">月令鴻雁來<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p172s4">玄鳥歸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p172s5">群鳥養羞<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p172s6">時配足陽明胃燥金<c n="。"/>
+          </seg>
+        </p>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:10431.jpg" url="" rend="圖十五"/>
+          </figure>
+</figure>
+<p xml:id="KR3eo041_jc_000-d12p176">
+          <seg xml:id="KR3eo041_jc_000-d12.p176s1">行功</seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p178">
+          <seg xml:id="KR3eo041_jc_000-d12.p178s1">每日醜寅時<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p178s2">正坐<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p178s3">兩手按膝<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p178s4">轉頭左右推引<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p178s5">各三五度<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p178s6">叩齒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p178s7">吐納<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p178s8">咽液<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p180">
+          <seg xml:id="KR3eo041_jc_000-d12.p180s1">治病</seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p182">
+          <seg xml:id="KR3eo041_jc_000-d12.p182s1">風氣留滯腰背經絡<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p182s2">洒洒振寒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p182s3">善伸數欠<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p182s4">或惡人與火<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p182s5">聞木聲則驚狂<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p182s6">瘧<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p182s7">汗出<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p182s8">鼽衄<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p182s9">口喎<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p182s10">唇胗<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p182s11">頸腫<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p182s12">喉痹<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p182s13">不能言<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p182s14">顏黑<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p182s15">嘔<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p182s16">呵欠<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p182s17">狂<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p182s18">欲上登而歌<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p182s19">棄衣而走<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p184">
+          <seg xml:id="KR3eo041_jc_000-d12.p184s1">秋分八月中<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p184s2">運主陽明五氣<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p184s3">月令雷乃收聲<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p184s4">蟄蟲壞戶<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p184s5">水始涸<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p184s6">時配足陽明胃燥金<c n="。"/>
+          </seg>
+        </p>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:10432.jpg" url="" rend="圖十六"/>
+          </figure>
+</figure>
+<p xml:id="KR3eo041_jc_000-d12p188">
+          <seg xml:id="KR3eo041_jc_000-d12.p188s1">行功</seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p190">
+          <seg xml:id="KR3eo041_jc_000-d12.p190s1">每日醜寅時<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p190s2">盤足而坐<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p190s3">兩手掩耳<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p190s4">左右返側<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p190s5">各三五度<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p190s6">叩齒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p190s7">吐納<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p190s8">咽液<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p192">
+          <seg xml:id="KR3eo041_jc_000-d12.p192s1">治病</seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p194">
+          <seg xml:id="KR3eo041_jc_000-d12.p194s1">風濕積滯脅肋腰股<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p194s2">腹大水腫<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p194s3">膝臏腫痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p194s4">膺乳氣衝股<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p194s5">伏兔<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p194s6">䯒外臁<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p194s7">足跗諸痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p194s8">遺溺<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p194s9">矢氣奔響<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p194s10">腹脹<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p194s11">髀不可轉<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p194s12">膕似結<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p194s13">腨似裂<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p194s14">消穀善飢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p194s15">胃寒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p194s16">喘滿<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p194s17">勞傷<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p194s18">厥逆<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p194s19">反胃<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p194s20">瘧癘<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p194s21">水蠱<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p194s22">氣痞<c n="。"/>
+          </seg>
+        </p>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:10433.jpg" url="" rend="圖十七"/>
+          </figure>
+</figure>
+<p xml:id="KR3eo041_jc_000-d12p198">
+          <seg xml:id="KR3eo041_jc_000-d12.p198s1">寒露九月節<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p198s2">運主陽明五氣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p198s3">月令鴻雁來賓<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p198s4">雀入水為蛤<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p198s5">菊有黃華<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p198s6">時配足太陽膀胱寒水<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p200">
+          <seg xml:id="KR3eo041_jc_000-d12.p200s1">行功</seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p202">
+          <seg xml:id="KR3eo041_jc_000-d12.p202s1">每日醜寅時<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p202s2">正坐舉兩臂<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p202s3">踴身上托<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p202s4">左右各三五度<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p202s5">叩齒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p202s6">吐納<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p202s7">咽液<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p204">
+          <seg xml:id="KR3eo041_jc_000-d12.p204s1">治病</seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p206">
+          <seg xml:id="KR3eo041_jc_000-d12.p206s1">諸風寒濕邪<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p206s2">脅腋經絡動<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p206s3">沖頭苦痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p206s4">目似脫<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p206s5">項如拔<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p206s6">脊痛腰折<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p206s7">痔<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p206s8">瘧<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p206s9">狂<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p206s10">癩痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p206s11">頭兩邊痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p206s12">頭囟頂痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p206s13">目黃淚出<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p206s14">鼽衄<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p206s15">霍亂諸疾<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p208">
+          <seg xml:id="KR3eo041_jc_000-d12.p208s1">霜降九月中<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p208s2">運主陽明五氣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p208s3">月令豺祭獸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p208s4">草木黃落<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p208s5">蟄蟲咸俯<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p208s6">時配足太陽膀胱寒水<c n="。"/>
+          </seg>
+        </p>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:10434.jpg" url="" rend="圖十八"/>
+          </figure>
+</figure>
+<p xml:id="KR3eo041_jc_000-d12p212">
+          <seg xml:id="KR3eo041_jc_000-d12.p212s1">行功</seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p214">
+          <seg xml:id="KR3eo041_jc_000-d12.p214s1">每日醜寅時<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p214s2">平坐<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p214s3">紓兩手攀兩足<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p214s4">用膝間力<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p214s5">縱而復收<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p214s6">五七度<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p214s7">叩齒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p214s8">吐納<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p214s9">咽液<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p216">
+          <seg xml:id="KR3eo041_jc_000-d12.p216s1">治病</seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p218">
+          <seg xml:id="KR3eo041_jc_000-d12.p218s1">風濕痹入腰<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p218s2">腳髀不可曲<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p218s3">膕結痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p218s4">腨裂痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p218s5">項背<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p218s6">腰尻<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p218s7">陰股<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p218s8">膝髀痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p218s9">臍反出<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p218s10">肌肉痿<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p218s11">下腫<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p218s12">便膿血<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p218s13">小腹脹痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p218s14">欲小便不得<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p218s15">臟毒筋寒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p218s16">腳氣<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p218s17">久痔<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p218s18">脫肛<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p220">
+          <seg xml:id="KR3eo041_jc_000-d12.p220s1">立冬十月節<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p220s2">運主陽明五氣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p220s3">月令水始冰<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p220s4">地始凍<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p220s5">雉入水為蜃<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p220s6">時配足厥陰肝風木<c n="。"/>
+          </seg>
+        </p>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:10435.jpg" url="" rend="圖十九"/>
+          </figure>
+</figure>
+<p xml:id="KR3eo041_jc_000-d12p224">
+          <seg xml:id="KR3eo041_jc_000-d12.p224s1">行功</seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p226">
+          <seg xml:id="KR3eo041_jc_000-d12.p226s1">每日醜寅時<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p226s2">正坐<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p226s3">抝頸左右顧<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p226s4">兩手左右托<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p226s5">各三五度<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p226s6">吐納<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p226s7">叩齒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p226s8">咽液<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p228">
+          <seg xml:id="KR3eo041_jc_000-d12.p228s1">治病</seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p230">
+          <seg xml:id="KR3eo041_jc_000-d12.p230s1">胸脅積滯<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p230s2">虛勞邪毒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p230s3">腰痛不可俯仰<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p230s4">嗌乾<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p230s5">面塵脫色<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p230s6">胸滿<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p230s7">嘔逆<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p230s8">飧泄<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p230s9">頭痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p230s10">耳無聞<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p230s11">頰腫<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p230s12">肝逆面青<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p230s13">目赤腫痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p230s14">兩脅下痛引小腹<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p230s15">四肢滿悶<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p230s16">眩冒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p230s17">目腫痛<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p232">
+          <seg xml:id="KR3eo041_jc_000-d12.p232s1">小雪十月中<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p232s2">運主太陽終氣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p232s3">月令虹藏不見<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p232s4">天升地降<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p232s5">閉塞成冬<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p232s6">時配足厥陰肝風木<c n="。"/>
+          </seg>
+        </p>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:10436.jpg" url="" rend="圖二十"/>
+          </figure>
+</figure>
+<p xml:id="KR3eo041_jc_000-d12p236">
+          <seg xml:id="KR3eo041_jc_000-d12.p236s1">行功</seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p238">
+          <seg xml:id="KR3eo041_jc_000-d12.p238s1">每日醜寅時<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p238s2">正坐<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p238s3">一手按膝<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p238s4">一手挽肘<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p238s5">左右爭力<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p238s6">各三五度<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p238s7">吐納<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p238s8">叩齒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p238s9">咽液<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p240">
+          <seg xml:id="KR3eo041_jc_000-d12.p240s1">治病</seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p242">
+          <seg xml:id="KR3eo041_jc_000-d12.p242s1">腕肘風濕熱毒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p242s2">婦人小腹腫<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p242s3">丈夫㿉疝<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p242s4">狐疝<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p242s5">遺溺<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p242s6">閉<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p242s7">癃血<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p242s8">幸腫<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p242s9">睪疝<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p242s10">足逆寒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p242s11">胻善瘛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p242s12">節時腫<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p242s13">轉筋陰縮<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p242s14">兩筋攣<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p242s15">洞泄<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p242s16">血在脅下<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p242s17">喘<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p242s18">善恐<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p242s19">胸中喘<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p242s20">五淋<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p244">
+          <seg xml:id="KR3eo041_jc_000-d12.p244s1">大雪十一月節<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p244s2">運主太陽終氣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p244s3">月令鵙鳥不鳴<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p244s4">虎始交<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p244s5">荔挺出<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p244s6">時配足少陰腎君火<c n="。"/>
+          </seg>
+        </p>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:10437.jpg" url="" rend="圖二十一"/>
+          </figure>
+</figure>
+<p xml:id="KR3eo041_jc_000-d12p248">
+          <seg xml:id="KR3eo041_jc_000-d12.p248s1">行功</seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p250">
+          <seg xml:id="KR3eo041_jc_000-d12.p250s1">每日子丑時<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p250s2">起身仰膝<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p250s3">兩手左右托<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p250s4">兩足左右踏<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p250s5">各五七度<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p250s6">叩齒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p250s7">吐納<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p250s8">咽液<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p252">
+          <seg xml:id="KR3eo041_jc_000-d12.p252s1">治病</seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p254">
+          <seg xml:id="KR3eo041_jc_000-d12.p254s1">腳膝風濕毒氣<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p254s2">口熱舌乾<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p254s3">咽腫<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p254s4">上氣嗌乾及腫<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p254s5">煩心<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p254s6">心痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p254s7">黃疸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p254s8">腸澼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p254s9">陰下濕<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p254s10">飢不欲食<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p254s11">面如漆<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p254s12">咳唾有血<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p254s13">渴喘<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p254s14">目無所見<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p254s15">心懸如飢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p254s16">多恐<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p254s17">常若人捕等病<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p256">
+          <seg xml:id="KR3eo041_jc_000-d12.p256s1">冬至十一月中<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p256s2">運主太陽終氣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p256s3">月令蚯蚓結<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p256s4">麋角解<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p256s5">水泉動<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p256s6">時配足少陰腎君火<c n="。"/>
+          </seg>
+        </p>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:10438.jpg" url="" rend="圖二十二"/>
+          </figure>
+</figure>
+<p xml:id="KR3eo041_jc_000-d12p260">
+          <seg xml:id="KR3eo041_jc_000-d12.p260s1">行功</seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p262">
+          <seg xml:id="KR3eo041_jc_000-d12.p262s1">每日子丑時<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p262s2">平坐<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p262s3">伸兩足<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p262s4">拳兩手<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p262s5">按兩膝<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p262s6">左右極力三五度<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p262s7">吐納<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p262s8">叩齒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p262s9">咽液<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p264">
+          <seg xml:id="KR3eo041_jc_000-d12.p264s1">治病</seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p266">
+          <seg xml:id="KR3eo041_jc_000-d12.p266s1">手足經絡寒濕<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p266s2">脊<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p266s3">股內後臁痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p266s4">足痿厥<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p266s5">嗜臥<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p266s6">足下熱痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p266s7">臍<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p266s8">左脅下<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p266s9">背<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p266s10">肩<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p266s11">髀間痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p266s12">胸中滿<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p266s13">大小腹痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p266s14">大便難<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p266s15">腹大<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p266s16">頸腫咳嗽<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p266s17">腰冷如冰及腫<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p266s18">臍下氣逆<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p266s19">小腹急痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p266s20">泄下<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p266s21">腫<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p266s22">足胻寒而逆<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p266s23">凍瘡<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p266s24">下痢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p266s25">善思<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p266s26">四肢不收<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p268">
+          <seg xml:id="KR3eo041_jc_000-d12.p268s1">小寒十二月節<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p268s2">運主太陽終氣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p268s3">月令雁北向<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p268s4">鵲始巢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p268s5">雉雊<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p268s6">時配足太陰脾濕土<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p270">
+          <seg xml:id="KR3eo041_jc_000-d12.p270s1">行功</seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p272">
+          <seg xml:id="KR3eo041_jc_000-d12.p272s1">每日子丑時<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p272s2">正坐<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p272s3">一手按足<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p272s4">一手上托<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p272s5">挽手互換<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p272s6">極力三五度<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p272s7">吐納<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p272s8">叩齒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p272s9">漱咽<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p274">
+          <seg xml:id="KR3eo041_jc_000-d12.p274s1">治病</seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p276">
+          <seg xml:id="KR3eo041_jc_000-d12.p276s1">榮衛積氣蘊<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p276s2">食則嘔<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p276s3">胃脘痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p276s4">腹脹<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p276s5">噦<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p276s6">瘧<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p276s7">飲發中滿<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p276s8">食減<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p276s9">善噫<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p276s10">身體皆重<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p276s11">食不下<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p276s12">煩心<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p276s13">心下急痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p276s14">溏瘕泄<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p276s15">水閉<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p276s16">黃疸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p276s17">五泄注下五色<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p276s18">大小便不通<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p276s19">面黃口乾<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p276s20">怠惰嗜臥<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p276s21">搶心<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p276s22">心下痞<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p276s23">苦善飢善味<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p276s24">不嗜食<c n="。"/>
+          </seg>
+        </p>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:10439.jpg" url="" rend="圖二十三"/>
+          </figure>
+</figure>
+<p xml:id="KR3eo041_jc_000-d12p280">
+          <seg xml:id="KR3eo041_jc_000-d12.p280s1">大寒十二月中<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p280s2">運主厥陰初氣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p280s3">月令雞始乳<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p280s4">鷙鳥厲疾<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p280s5">水澤腹堅<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p280s6">時配足太陰脾濕土<c n="。"/>
+          </seg>
+        </p>
+<figure>
+<figure>
+            <graphic data-orig-src="urn:270:10440.jpg" url="" rend="圖二十四"/>
+          </figure>
+</figure>
+<p xml:id="KR3eo041_jc_000-d12p284">
+          <seg xml:id="KR3eo041_jc_000-d12.p284s1">行功</seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p286">
+          <seg xml:id="KR3eo041_jc_000-d12.p286s1">每日子丑時<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p286s2">兩手踞床跪坐<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p286s3">一足直伸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p286s4">一足用力<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p286s5">左右三五度<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p286s6">叩齒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p286s7">漱咽<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p286s8">吐納<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p288">
+          <seg xml:id="KR3eo041_jc_000-d12.p288s1">治病</seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d12p290">
+          <seg xml:id="KR3eo041_jc_000-d12.p290s1">經絡濕積諸氣<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p290s2">舌本強痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p290s3">體不能動搖<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p290s4">或不能臥<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p290s5">強立<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p290s6">股膝內腫<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p290s7">尻陰<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p290s8">臑<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p290s9">胻<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p290s10">足背痛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p290s11">腹脹腸鳴<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p290s12">飧泄不化<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p290s13">足不收行<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p290s14">九竅不通<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d12.p290s15">足胻腫若水<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eo041_jc_000-d13">
+        <head n="h1" xml:id="KR3eo041_jc_000-d13h1">
+          <seg xml:id="KR3eo041_jc_000-d13.h1s1">附活人心法序</seg>
+        </head>
+        <p xml:id="KR3eo041_jc_000-d13p2">
+          <seg xml:id="KR3eo041_jc_000-d13.p2s1">昔在太昊之先<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s2">軒岐未曾有<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s3">太乙氏之王天下也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s4">調泰鴻之氣<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s5">薄滋味<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s6">寡嗜欲<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s7">而修長生久視之道<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s8">其修養之法已有矣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s9">有巢氏搏生咀華<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s10">以和氣血<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s11">藥餌之說已有矣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s12">陰康氏時<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s13">水瀆陰凝<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s14">民疾重墜<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s15">乃制舞以疏氣血<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s16">導引之術已有矣<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s17">故人無夭傷<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s18">太樸既散<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s19">民多疾厄<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s20">厥後軒轅氏作<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s21">岐伯氏出<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s22">而有醫藥之方行焉<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s23">故至人治於未病之先<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s24">醫家治於已病之後者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s25">曰藥餌<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s26">曰砭焫<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s27">雖治之法有二<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s28">而病之源則一<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s29">未必不由因心而生也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s30">老子曰<c n="："/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s31">心為神主<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s32">動靜從心<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s33">心為禍本<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s34">心為宗道<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s35">靜則心君泰然<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s36">百脈寧謐<c n="；"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s37">動則血氣昏亂<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s38">百病相攻<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s39">是以性靜則情逸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s40">心動則神疲<c n="；"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s41">守真則志滿<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s42">逐物則意移<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s43">意移則神馳<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s44">神馳則氣散<c n="；"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s45">氣散則病生<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s46">病生則殞矣<c n="！"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s47">雖常俗之語<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s48">最合於道妙<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s49">今述其二家之說<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s50">自成一家新話<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s51">編為上下二卷<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s52">目之曰<c n="《"/>活人心<c n="》"/>
+            <c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s53">謂常存救人之心<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s54">欲一人之生<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s55">同歸於壽域也<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s56">豈小補哉<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s57">然世之醫書<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s58">各家新編者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s59">何暇千本<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s60">紛然聚具<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s61">徒多無補<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s62">但此書方雖不多<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s63">皆能奪命於懸絕<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s64">雖司命莫之神也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s65">凡為醫者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s66">而能察其受病之源而用之<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s67">止此一書<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s68">醫道足矣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s69">人能行其修養之術而用之<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s70">止此一書<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s71">仙道成矣<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s72">何況不壽乎<c n="？"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d13.p2s73">士之於世不缺焉<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eo041_jc_000-d13p4">
+          <seg xml:id="KR3eo041_jc_000-d13.p4s1">前南極沖虛妙道真君臞仙書</seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eo041_jc_000-d14">
+        <head n="h1" xml:id="KR3eo041_jc_000-d14h1">
+          <seg xml:id="KR3eo041_jc_000-d14.h1s1">附活人心法</seg>
+        </head>
+        <p xml:id="KR3eo041_jc_000-d14p2">
+          <seg xml:id="KR3eo041_jc_000-d14.p2s1">臞仙曰<c n="："/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s2">古之神聖之醫<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s3">而能療人之心<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s4">預使不致於有疾<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s5">今之醫者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s6">惟知療人之疾<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s7">而不知療人之心<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s8">是由捨本逐末<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s9">不窮根源<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s10">而攻其流<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s11">欲求疾愈<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s12">不亦愚乎<c n="！"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s13">雖一時僥倖而安之<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s14">此則世俗之庸醫<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s15">不足取也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s16">殊不知病由心生<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s17">業由人作<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s18">蓋陰有鬼神<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s19">陽有天理<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s20">報復之機<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s21">鮮無不驗<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s22">故有天刑之疾<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s23">有自戕之疾<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s24">其天刑之疾也<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s25">五體不具<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s26">生而隱宮者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s27">生而暗啞<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s28">盲<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s29">聵者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s30">因跌撲而手足折者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s31">有生人面瘡<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s32">贅疣疾者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s33">凡傳染一切瘵疫之證是也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s34">蓋因夙世今生積惡過多<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s35">天地譴之<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s36">故致斯疾<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s37">此亦業原於心也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s38">其自戕之疾者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s39">調養失宜<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s40">風寒暑濕之所感<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s41">酒色財氣之所傷<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s42">七情六慾生於內<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s43">陰陽二氣攻於外<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s44">是謂病生於心<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s45">害攻於體也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s46">今只以人之易知易見者論之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s47">且曰<c n="："/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s48">人心思火<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s49">久而體熱<c n="；"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s50">人心思水<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s51">久而體寒<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s52">悚則發豎<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s53">驚則汗瀝<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s54">懼則肉戰<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s55">愧則面赤<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s56">悲則淚出<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s57">慌則心跳<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s58">氣則麻痹<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s59">言酸則垂涎<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s60">言臭則吐唾<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s61">言喜則笑<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s62">言哀則哭<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s63">笑則貌妍<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s64">哭則貌媸<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s65">又若日間有所見<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s66">夜則魂夢有所思<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s67">疚則訕語<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s68">夢交合則精泄<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s69">至若驚悸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s70">氣怒而成疾者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s71">則發狂<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s72">裸體逾垣上屋<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s73">呼神見鬼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s74">歌舞笑哭<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s75">此皆因心而生也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s76">太白真人曰<c n="："/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s77">欲治其疾<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s78">先治其心<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s79">必正其心<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s80">然後資於道<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s81">使病者盡去一切疑慮思想<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s82">一切安念<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s83">一切不平<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s84">一切人我悔悟<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s85">平生所為過惡<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s86">便當放下<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s87">身心以我之天而合所事之天<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s88">久之<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s89">遂凝於神<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s90">則自然心君泰寧<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s91">性地平和<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s92">知世間萬事皆是空虛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s93">終日營為皆是妄想<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s94">知我身皆是虛幻<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s95">禍福皆是無有<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s96">生死皆是一夢<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s97">慨然領悟<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s98">頓然解釋<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s99">心地自然清淨<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s100">疾病自然安痊<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s101">能如是<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s102">藥未到口病已忘矣<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s103">此真人以道治心<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s104">療病之大法也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s105">蓋真人之教也<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s106">本於天地立心<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s107">為生民立命<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s108">惟心與天一<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s109">理之所得者獨明而開人心之迷<c n="；"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s110">惟其心與地一<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s111">水之所汲者獨靈而能滌人心之陋<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s112">故以一杯之水<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s113">而能療醫所不治之疾<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s114">罔不瘳者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s115">豈由水之靈<c n="？"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s116">實資於道之用也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s117">苟非其人<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s118">則以予為妄誕<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s119">老子曰<c n="："/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s120">吾言甚易知<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s121">甚易行<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s122">天下莫能知<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s123">莫能行<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s124">是以知我者稀<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s125">則我者貴<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s126">又曰<c n="："/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s127">上士聞道<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s128">勤而行之<c n="；"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s129">中士聞道<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s130">若存若亡<c n="；"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s131">下士聞道<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s132">大笑之<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s133">不笑不足以為道<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s134">
+            <c n="《"/>內觀經<c n="》"/>曰<c n="："/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s135">知道易<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s136">信道難<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s137">信道易<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s138">行道難<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s139">行道易<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s140">得道難<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s141">得道易<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s142">守道難<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s143">難守而不失<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eo041_jc_000-d14.p2s144">乃可長生<c n="。"/>
+          </seg>
+        </p>
+
+<div n="h2" xml:id="KR3eo041_jc_000-d14d4">
+          <head n="h2" xml:id="KR3eo041_jc_000-d14.d4h1">
+            <seg xml:id="KR3eo041_jc_000-d14.d4.h1s1">治心</seg>
+          </head>
+          <p xml:id="KR3eo041_jc_000-d14.d4p2">
+            <seg xml:id="KR3eo041_jc_000-d14.d4.p2s1">臞仙曰<c n="："/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d4.p2s2">心者<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d4.p2s3">神明之舍<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d4.p2s4">中虛不過經寸<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d4.p2s5">而神明居焉<c n="。"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d4.p2s6">事物之滑<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d4.p2s7">如理亂棼<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d4.p2s8">如涉驚浸<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d4.p2s9">或怵惕<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d4.p2s10">或懲創<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d4.p2s11">或喜怒<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d4.p2s12">或思慮<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d4.p2s13">一日之間<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d4.p2s14">一時之頃<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d4.p2s15">徑寸之地<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d4.p2s16">炎如火矣<c n="。"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d4.p2s17">故神弗留則蠹明<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d4.p2s18">弗留則耗休<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d4.p2s19">休焉常與道謀<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d4.p2s20">而自不覺<c n="。"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d4.p2s21">或曰謹於為善<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d4.p2s22">若嗜欲一萌<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d4.p2s23">即不善也<c n="。"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d4.p2s24">歸而勿納<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d4.p2s25">是與良心競也<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d4.p2s26">必有忿悁之心起而與我敵<c n="。"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d4.p2s27">以我矜願之意<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d4.p2s28">接彼忿悁之心<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d4.p2s29">何為不鬥<c n="？"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d4.p2s30">鬥不止而害生矣<c n="。"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d4.p2s31">凡七情六慾之生於心<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d4.p2s32">皆然<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d4.p2s33">故曰心靜可以通乎神明<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d4.p2s34">事未至而先知<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d4.p2s35">是不出戶知天下<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d4.p2s36">不窺牖見天道也<c n="。"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d4.p2s37">蓋心如水之不撓<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d4.p2s38">久而澄清<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d4.p2s39">洞見其底<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d4.p2s40">是謂靈明<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d4.p2s41">宜乎靜<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d4.p2s42">可以固元氣<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d4.p2s43">則萬病不生<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d4.p2s44">故能長久<c n="。"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d4.p2s45">若一念既萌<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d4.p2s46">神馳於外<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d4.p2s47">氣散於內<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d4.p2s48">血隨氣行<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d4.p2s49">榮衛昏亂<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d4.p2s50">百病相攻<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d4.p2s51">皆因心而生也<c n="。"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d4.p2s52">大概恰恰養天君<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d4.p2s53">疾病不作<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d4.p2s54">此治心之法也<c n="。"/>
+            </seg>
+          </p>
+
+</div>
+        <div n="h2" xml:id="KR3eo041_jc_000-d14d5">
+          <head n="h2" xml:id="KR3eo041_jc_000-d14.d5h1">
+            <seg xml:id="KR3eo041_jc_000-d14.d5.h1s1">導引法</seg>
+          </head>
+          <p xml:id="KR3eo041_jc_000-d14.d5p2">
+            <seg xml:id="KR3eo041_jc_000-d14.d5.p2s1">閉目冥心坐</seg>
+            <seg type="comm" xml:id="KR3eo041_jc_000-d14.d5.p2s2">
+              <c n="（"/>冥心盤跗而坐<c n="）"/>
+              <c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d5.p2s3">握固靜思神<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d5.p2s4">叩齒三十六<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d5.p2s5">兩手抱崑崙</seg>
+            <seg type="comm" xml:id="KR3eo041_jc_000-d14.d5.p2s6">
+              <c n="（"/>叉兩手向項後<c n="，"/>
+            </seg>
+            <seg type="comm" xml:id="KR3eo041_jc_000-d14.d5.p2s7">數九息勿令耳聞<c n="，"/>
+            </seg>
+            <seg type="comm" xml:id="KR3eo041_jc_000-d14.d5.p2s8">自此以後<c n="，"/>
+            </seg>
+            <seg type="comm" xml:id="KR3eo041_jc_000-d14.d5.p2s9">出入息皆不可使耳聞<c n="。"/>
+              <c n="）"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d5.p2s10">左右鳴天鼓<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d5.p2s11">二十四度聞</seg>
+            <seg type="comm" xml:id="KR3eo041_jc_000-d14.d5.p2s12">
+              <c n="（"/>移兩手心掩兩耳<c n="，"/>
+            </seg>
+            <seg type="comm" xml:id="KR3eo041_jc_000-d14.d5.p2s13">先以第二指壓中指<c n="，"/>
+            </seg>
+            <seg type="comm" xml:id="KR3eo041_jc_000-d14.d5.p2s14">彈擊腦後<c n="，"/>
+            </seg>
+            <seg type="comm" xml:id="KR3eo041_jc_000-d14.d5.p2s15">左右各二十四次<c n="。"/>
+              <c n="）"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d5.p2s16">微擺撼天柱</seg>
+            <seg type="comm" xml:id="KR3eo041_jc_000-d14.d5.p2s17">
+              <c n="（"/>搖頭左右顧<c n="，"/>
+            </seg>
+            <seg type="comm" xml:id="KR3eo041_jc_000-d14.d5.p2s18">肩膊隨動二十四<c n="，"/>
+            </seg>
+            <seg type="comm" xml:id="KR3eo041_jc_000-d14.d5.p2s19">先須握固<c n="。"/>
+              <c n="）"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d5.p2s20">赤龍攪水渾</seg>
+            <seg type="comm" xml:id="KR3eo041_jc_000-d14.d5.p2s21">
+              <c n="（"/>赤龍者舌也<c n="，"/>
+            </seg>
+            <seg type="comm" xml:id="KR3eo041_jc_000-d14.d5.p2s22">以舌攪口齒並左右頰<c n="，"/>
+            </seg>
+            <seg type="comm" xml:id="KR3eo041_jc_000-d14.d5.p2s23">待津液生而咽<c n="。"/>
+              <c n="）"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d5.p2s24">漱津三十六</seg>
+            <seg type="comm" xml:id="KR3eo041_jc_000-d14.d5.p2s25">
+              <c n="（"/>一云鼓漱<c n="，"/>
+              <c n="）"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d5.p2s26">神水滿口勻<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d5.p2s27">口分三咽</seg>
+            <seg type="comm" xml:id="KR3eo041_jc_000-d14.d5.p2s28">
+              <c n="（"/>所漱津液<c n="，"/>
+            </seg>
+            <seg type="comm" xml:id="KR3eo041_jc_000-d14.d5.p2s29">分作三口<c n="，"/>
+            </seg>
+            <seg type="comm" xml:id="KR3eo041_jc_000-d14.d5.p2s30">作汨汨聲而咽之<c n="。"/>
+              <c n="）"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d5.p2s31">龍行虎自奔</seg>
+            <seg type="comm" xml:id="KR3eo041_jc_000-d14.d5.p2s32">
+              <c n="（"/>液為龍<c n="，"/>
+            </seg>
+            <seg type="comm" xml:id="KR3eo041_jc_000-d14.d5.p2s33">氣為虎<c n="。"/>
+              <c n="）"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d5.p2s34">閉氣搓手熱</seg>
+            <seg type="comm" xml:id="KR3eo041_jc_000-d14.d5.p2s35">
+              <c n="（"/>以鼻引清氣閉之<c n="，"/>
+            </seg>
+            <seg type="comm" xml:id="KR3eo041_jc_000-d14.d5.p2s36">少頃搓手令極熱<c n="，"/>
+            </seg>
+            <seg type="comm" xml:id="KR3eo041_jc_000-d14.d5.p2s37">鼻中徐徐乃放氣出<c n="。"/>
+              <c n="）"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d5.p2s38">背摩後精門</seg>
+            <seg type="comm" xml:id="KR3eo041_jc_000-d14.d5.p2s39">
+              <c n="（"/>精門者<c n="，"/>
+            </seg>
+            <seg type="comm" xml:id="KR3eo041_jc_000-d14.d5.p2s40">腰後外腎也<c n="，"/>
+            </seg>
+            <seg type="comm" xml:id="KR3eo041_jc_000-d14.d5.p2s41">合兩手摩畢<c n="，"/>
+            </seg>
+            <seg type="comm" xml:id="KR3eo041_jc_000-d14.d5.p2s42">收手握固<c n="。"/>
+              <c n="）"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d5.p2s43">盡此一口氣</seg>
+            <seg type="comm" xml:id="KR3eo041_jc_000-d14.d5.p2s44">
+              <c n="（"/>再閉氣也<c n="。"/>
+              <c n="）"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d5.p2s45">想火燒臍輪</seg>
+            <seg type="comm" xml:id="KR3eo041_jc_000-d14.d5.p2s46">
+              <c n="（"/>閉口鼻之氣<c n="，"/>
+            </seg>
+            <seg type="comm" xml:id="KR3eo041_jc_000-d14.d5.p2s47">想用心火下燒丹田<c n="，"/>
+            </seg>
+            <seg type="comm" xml:id="KR3eo041_jc_000-d14.d5.p2s48">覺熱極<c n="，"/>
+            </seg>
+            <seg type="comm" xml:id="KR3eo041_jc_000-d14.d5.p2s49">即用後法<c n="。"/>
+              <c n="）"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d5.p2s50">左右轆轆轉</seg>
+            <seg type="comm" xml:id="KR3eo041_jc_000-d14.d5.p2s51">
+              <c n="（"/>俯首擺撼兩肩三十六<c n="，"/>
+            </seg>
+            <seg type="comm" xml:id="KR3eo041_jc_000-d14.d5.p2s52">想火自丹田透<c n="，"/>
+            </seg>
+            <seg type="comm" xml:id="KR3eo041_jc_000-d14.d5.p2s53">透雙關入腦戶<c n="，"/>
+              <c n="）"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d5.p2s54">兩腳放舒伸</seg>
+            <seg type="comm" xml:id="KR3eo041_jc_000-d14.d5.p2s55">
+              <c n="（"/>放直兩腳<c n="，"/>
+              <c n="）"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d5.p2s56">叉手雙虛托</seg>
+            <seg type="comm" xml:id="KR3eo041_jc_000-d14.d5.p2s57">
+              <c n="（"/>叉手相交<c n="，"/>
+            </seg>
+            <seg type="comm" xml:id="KR3eo041_jc_000-d14.d5.p2s58">向上托空三次或九次<c n="，"/>
+              <c n="）"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d5.p2s59">低頭攀足頻</seg>
+            <seg type="comm" xml:id="KR3eo041_jc_000-d14.d5.p2s60">
+              <c n="（"/>以兩手向前扳腳心十三次<c n="，"/>
+            </seg>
+            <seg type="comm" xml:id="KR3eo041_jc_000-d14.d5.p2s61">乃收足端坐<c n="。"/>
+              <c n="）"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d5.p2s62">以候逆水上</seg>
+            <seg type="comm" xml:id="KR3eo041_jc_000-d14.d5.p2s63">
+              <c n="（"/>候口中津液生<c n="，"/>
+            </seg>
+            <seg type="comm" xml:id="KR3eo041_jc_000-d14.d5.p2s64">如未生再用急攬<c n="，"/>
+            </seg>
+            <seg type="comm" xml:id="KR3eo041_jc_000-d14.d5.p2s65">取水同前法<c n="，"/>
+              <c n="）"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d5.p2s66">再漱再吞津<c n="。"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d5.p2s67">如此三度畢<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d5.p2s68">神水九次吞</seg>
+            <seg type="comm" xml:id="KR3eo041_jc_000-d14.d5.p2s69">
+              <c n="（"/>謂再漱三十六<c n="，"/>
+            </seg>
+            <seg type="comm" xml:id="KR3eo041_jc_000-d14.d5.p2s70">如前口分三咽<c n="，"/>
+            </seg>
+            <seg type="comm" xml:id="KR3eo041_jc_000-d14.d5.p2s71">乃為九也<c n="。"/>
+              <c n="）"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d5.p2s72">嚥下汨汨響<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d5.p2s73">百脈自調勻<c n="。"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d5.p2s74">河車搬運訖</seg>
+            <seg type="comm" xml:id="KR3eo041_jc_000-d14.d5.p2s75">
+              <c n="（"/>擺肩並身二十四<c n="，"/>
+            </seg>
+            <seg type="comm" xml:id="KR3eo041_jc_000-d14.d5.p2s76">及再轉轆轆二十四次<c n="，"/>
+              <c n="）"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d5.p2s77">發火遍燒身</seg>
+            <seg type="comm" xml:id="KR3eo041_jc_000-d14.d5.p2s78">
+              <c n="（"/>想丹田火<c n="，"/>
+            </seg>
+            <seg type="comm" xml:id="KR3eo041_jc_000-d14.d5.p2s79">自下而上<c n="，"/>
+            </seg>
+            <seg type="comm" xml:id="KR3eo041_jc_000-d14.d5.p2s80">遍燒身體<c n="，"/>
+            </seg>
+            <seg type="comm" xml:id="KR3eo041_jc_000-d14.d5.p2s81">想時口及鼻皆閉氣少頃<c n="。"/>
+              <c n="）"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d5.p2s82">邢魔不敢近<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d5.p2s83">夢寐不能昏<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d5.p2s84">寒暑不能入<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d5.p2s85">災病不能迍<c n="。"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d5.p2s86">子後午前作<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d5.p2s87">造化合乾坤<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d5.p2s88">循環次第轉<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d5.p2s89">八卦是良因<c n="。"/>
+            </seg>
+          </p>
+<p xml:id="KR3eo041_jc_000-d14.d5p4">
+            <seg xml:id="KR3eo041_jc_000-d14.d5.p4s1">訣曰<c n="："/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d5.p4s2">其法於甲子日<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d5.p4s3">夜半子時<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d5.p4s4">起首行時<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d5.p4s5">口中不得出氣<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d5.p4s6">唯鼻中微放清氣<c n="。"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d5.p4s7">每日子後午前<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d5.p4s8">各行一次<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d5.p4s9">或晝夜共行三次<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d5.p4s10">久而自知蠲除疾疫<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d5.p4s11">漸覺身輕<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d5.p4s12">若能勤苦不怠<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d5.p4s13">則仙道不遠矣<c n="。"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d5.p4s14">叩齒集神三十六<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d5.p4s15">兩手抱崑崙<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d5.p4s16">雙手擊天鼓二十四<c n="。"/>
+            </seg>
+          </p>
+<p xml:id="KR3eo041_jc_000-d14.d5p6">
+            <seg xml:id="KR3eo041_jc_000-d14.d5.p6s1">上法先須閉目<c n="、"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d5.p6s2">冥心<c n="、"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d5.p6s3">盤坐<c n="、"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d5.p6s4">握固<c n="、"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d5.p6s5">靜思<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d5.p6s6">然後叩齒<c n="、"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d5.p6s7">集神<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d5.p6s8">次叉兩手向項後<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d5.p6s9">數九息勿令耳聞<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d5.p6s10">乃移手各掩耳<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d5.p6s11">以第二指壓中指<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d5.p6s12">擊彈腦後<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d5.p6s13">左右各二十四次<c n="。"/>
+            </seg>
+          </p>
+
+</div>
+        <div n="h2" xml:id="KR3eo041_jc_000-d14d6">
+          <head n="h2" xml:id="KR3eo041_jc_000-d14.d6h1">
+            <seg xml:id="KR3eo041_jc_000-d14.d6.h1s1">叩齒集神圖法</seg>
+          </head>
+          <figure>
+<figure>
+              <graphic data-orig-src="urn:270:10441.jpg" url="" rend="叩齒集神圖法"/>
+            </figure>
+</figure>
+
+</div>
+        <div n="h2" xml:id="KR3eo041_jc_000-d14d7">
+          <head n="h2" xml:id="KR3eo041_jc_000-d14.d7h1">
+            <seg xml:id="KR3eo041_jc_000-d14.d7.h1s1">搖天柱圖法</seg>
+          </head>
+          <figure>
+<figure>
+              <graphic data-orig-src="urn:270:10442.jpg" url="" rend="搖天柱圖法"/>
+            </figure>
+</figure>
+<p xml:id="KR3eo041_jc_000-d14.d7p4">
+            <seg xml:id="KR3eo041_jc_000-d14.d7.p4s1">左右手搖天柱各二十四次<c n="。"/>
+            </seg>
+          </p>
+<p xml:id="KR3eo041_jc_000-d14.d7p6">
+            <seg xml:id="KR3eo041_jc_000-d14.d7.p6s1">上法先須握固<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d7.p6s2">乃搖頭左右顧肩膊<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d7.p6s3">隨動二十四<c n="。"/>
+            </seg>
+          </p>
+
+</div>
+        <div n="h2" xml:id="KR3eo041_jc_000-d14d8">
+          <head n="h2" xml:id="KR3eo041_jc_000-d14.d8h1">
+            <seg xml:id="KR3eo041_jc_000-d14.d8.h1s1">舌攪漱咽圖法</seg>
+          </head>
+          <figure>
+<figure>
+              <graphic data-orig-src="urn:270:10443.jpg" url="" rend="舌攪漱咽圖法"/>
+            </figure>
+</figure>
+<p xml:id="KR3eo041_jc_000-d14.d8p4">
+            <seg xml:id="KR3eo041_jc_000-d14.d8.p4s1">左右舌攪上齶三十六漱<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d8.p4s2">三十六分作三口<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d8.p4s3">如硬物咽之<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d8.p4s4">然後方得行火<c n="。"/>
+            </seg>
+          </p>
+<p xml:id="KR3eo041_jc_000-d14.d8p6">
+            <seg xml:id="KR3eo041_jc_000-d14.d8.p6s1">上法以舌攪口齒<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d8.p6s2">並左右頰<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d8.p6s3">待津液生<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d8.p6s4">方漱之<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d8.p6s5">至滿口<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d8.p6s6">方咽之<c n="。"/>
+            </seg>
+          </p>
+
+</div>
+        <div n="h2" xml:id="KR3eo041_jc_000-d14d9">
+          <head n="h2" xml:id="KR3eo041_jc_000-d14.d9h1">
+            <seg xml:id="KR3eo041_jc_000-d14.d9.h1s1">摩腎堂圖法</seg>
+          </head>
+          <figure>
+<figure>
+              <graphic data-orig-src="urn:270:10444.jpg" url="" rend="摩腎堂圖法"/>
+            </figure>
+</figure>
+<p xml:id="KR3eo041_jc_000-d14.d9p4">
+            <seg xml:id="KR3eo041_jc_000-d14.d9.p4s1">兩手摩腎堂三十六<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d9.p4s2">以數多更妙<c n="。"/>
+            </seg>
+          </p>
+<p xml:id="KR3eo041_jc_000-d14.d9p6">
+            <seg xml:id="KR3eo041_jc_000-d14.d9.p6s1">上法閉氣<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d9.p6s2">搓手令熱<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d9.p6s3">後摩腎堂<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d9.p6s4">如數畢<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d9.p6s5">仍收手握固<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d9.p6s6">再閉氣<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d9.p6s7">想用心火下燒丹田<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d9.p6s8">覺熱極<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d9.p6s9">即用後法<c n="。"/>
+            </seg>
+          </p>
+
+</div>
+        <div n="h2" xml:id="KR3eo041_jc_000-d14d10">
+          <head n="h2" xml:id="KR3eo041_jc_000-d14.d10h1">
+            <seg xml:id="KR3eo041_jc_000-d14.d10.h1s1">單關轆轤圖</seg>
+          </head>
+          <figure>
+<figure>
+              <graphic data-orig-src="urn:270:10445.jpg" url="" rend="單關轆轤圖"/>
+            </figure>
+</figure>
+<p xml:id="KR3eo041_jc_000-d14.d10p4">
+            <seg xml:id="KR3eo041_jc_000-d14.d10.p4s1">左右單關轆轤各三十六<c n="。"/>
+            </seg>
+          </p>
+<p xml:id="KR3eo041_jc_000-d14.d10p6">
+            <seg xml:id="KR3eo041_jc_000-d14.d10.p6s1">上法須俯首<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d10.p6s2">擺撼左肩三十六次<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d10.p6s3">右肩亦三十六次<c n="。"/>
+            </seg>
+          </p>
+
+</div>
+        <div n="h2" xml:id="KR3eo041_jc_000-d14d11">
+          <head n="h2" xml:id="KR3eo041_jc_000-d14.d11h1">
+            <seg xml:id="KR3eo041_jc_000-d14.d11.h1s1">雙關轆轤圖法</seg>
+          </head>
+          <figure>
+<figure>
+              <graphic data-orig-src="urn:270:10446.jpg" url="" rend="雙關轆轤圖法"/>
+            </figure>
+</figure>
+<p xml:id="KR3eo041_jc_000-d14.d11p4">
+            <seg xml:id="KR3eo041_jc_000-d14.d11.p4s1">雙關轆轤三十六<c n="。"/>
+            </seg>
+          </p>
+<p xml:id="KR3eo041_jc_000-d14.d11p6">
+            <seg xml:id="KR3eo041_jc_000-d14.d11.p6s1">上法兩肩並擺撼<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d11.p6s2">至三十六數<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d11.p6s3">想火自丹田透雙關入腦戶<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d11.p6s4">鼻引清氣<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d11.p6s5">後伸兩腳<c n="。"/>
+            </seg>
+          </p>
+
+</div>
+        <div n="h2" xml:id="KR3eo041_jc_000-d14d12">
+          <head n="h2" xml:id="KR3eo041_jc_000-d14.d12h1">
+            <seg xml:id="KR3eo041_jc_000-d14.d12.h1s1">托天按頂圖法</seg>
+          </head>
+          <figure>
+<figure>
+              <graphic data-orig-src="urn:270:10447.jpg" url="" rend="托天按頂圖法"/>
+            </figure>
+</figure>
+<p xml:id="KR3eo041_jc_000-d14.d12p4">
+            <seg xml:id="KR3eo041_jc_000-d14.d12.p4s1">兩手相搓<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d12.p4s2">當呵五呵<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d12.p4s3">後叉手托天<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d12.p4s4">按頂各九次<c n="。"/>
+            </seg>
+          </p>
+<p xml:id="KR3eo041_jc_000-d14.d12p6">
+            <seg xml:id="KR3eo041_jc_000-d14.d12.p6s1">上法叉手相交<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d12.p6s2">向上托空三次或九次<c n="。"/>
+            </seg>
+          </p>
+
+</div>
+        <div n="h2" xml:id="KR3eo041_jc_000-d14d13">
+          <head n="h2" xml:id="KR3eo041_jc_000-d14.d13h1">
+            <seg xml:id="KR3eo041_jc_000-d14.d13.h1s1">鉤攀圖法</seg>
+          </head>
+          <figure>
+<figure>
+              <graphic data-orig-src="urn:270:10448.jpg" url="" rend="鉤攀圖法"/>
+            </figure>
+</figure>
+<p xml:id="KR3eo041_jc_000-d14.d13p4">
+            <seg xml:id="KR3eo041_jc_000-d14.d13.p4s1">以兩手如鉤<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d13.p4s2">向前攀雙腳心十二<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d13.p4s3">再收足端坐<c n="。"/>
+            </seg>
+          </p>
+<p xml:id="KR3eo041_jc_000-d14.d13p6">
+            <seg xml:id="KR3eo041_jc_000-d14.d13.p6s1">上法以兩手向前攀腳心十二次<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d13.p6s2">乃收足端坐<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d13.p6s3">候口中津液生<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d13.p6s4">再漱再吞<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d13.p6s5">一如前數<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d13.p6s6">擺肩並身二十四<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d13.p6s7">及再轉轆轤二十四次<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d13.p6s8">想丹田火自下而上<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d13.p6s9">遍燒身體<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d13.p6s10">想時口鼻皆須閉氣少頃<c n="。"/>
+            </seg>
+          </p>
+<p xml:id="KR3eo041_jc_000-d14.d13p8">
+            <seg xml:id="KR3eo041_jc_000-d14.d13.p8s1">已上八法<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d13.p8s2">乃修真之次第工程也<c n="。"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d13.p8s3">每日子前午後<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d13.p8s4">各行一次<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d13.p8s5">或晝夜共行三次<c n="。"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d13.p8s6">久則自然身輕體健<c n="，"/>
+            </seg>
+            <seg xml:id="KR3eo041_jc_000-d14.d13.p8s7">諸邪無所入矣<c n="。"/>
+            </seg>
+          </p>
+</div>
+      </div>
+    </body>
+  </text>
+</TEI>

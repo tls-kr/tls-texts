@@ -1,0 +1,1547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KR3eb053">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>察舌辨症新法</title>
+        <author>劉恆瑞</author>
+      </titleStmt>
+      <extent>
+        <measure unit="char" quantity="3776"/>
+        <date when-iso="2024-02-21T13:40:49.864+09:00"/>
+      </extent>
+      <publicationStmt>
+        <p>Originally published at <ref target="https://jicheng.tw/tcm/book/index.html">中醫笈成:察舌辨症新法</ref>. Checkout from https://gitlab.com/jicheng/jc.data, commit aab40201, 2022-12-28.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date notBefore="1911" notAfter="1911">清</date>公元1911年</creation>
+      <textClass>
+        <catRef scheme="#kr-categories" target="#KR3eb"/>
+        <catRef scheme="#tls-dates" target="#dat04210"/>
+      </textClass>
+    </profileDesc>
+    <encodingDesc>
+      <p>Quality: </p>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+
+<div n="h1" xml:id="KR3eb053_jc_000-d2">
+        <head n="h1" xml:id="KR3eb053_jc_000-d2h1">
+          <seg xml:id="KR3eb053_jc_000-d2.h1s1">序</seg>
+        </head>
+        <p xml:id="KR3eb053_jc_000-d2p2">
+          <seg xml:id="KR3eb053_jc_000-d2.p2s1">脈學診斷之書<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s2">以李瀕湖<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s3">朱丹溪二家最為細膩<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s4">凡相似相異之處<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s5">皆能分別清楚<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s6">用筆描摹<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s7">比擬形狀<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s8">俾後學無誤認之處<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s9">可謂大有功於斯世<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s10">惜察舌一法<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s11">二公未有專書<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s12">世所傳者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s13">惟傷寒舌鑑<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s14">溫疫舌鑑而已<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s15">欲求其如脈學之詳細者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s16">未之有也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s17">瑞因用心三十餘年<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s18">將診斷試驗<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s19">醫治得效<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s20">歷歷不爽者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s21">筆記於冊<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s22">以授徒輩<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s23">未敢自以為是也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s24">庚戌<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s25">鎮郡同志袁君桂生等創辦<c n="《"/>醫學扶輪報<c n="》"/>
+            <c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s26">以昌明醫學<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s27">瑞以有志於此者十年<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s28">獨力未能舉行<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s29">一旦有袁君登高一呼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s30">同志響應<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s31">成斯盛舉<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s32">瑞不覺鼓舞附驥<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s33">分任印費報料之責<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s34">至庚戌歲冬<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s35">諸君有退志者甚多<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s36">印費報料因而缺乏<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s37">將成中止之局<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s38">瑞與楊君燧熙<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s39">袁君桂生<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s40">葉君子實<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s41">竭力勉為之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s42">因來稿不多<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s43">遂將瑞所授徒之<c n="《"/>察舌新法<c n="》"/>濫竽充數<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s44">刻印未終<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s45">至辛亥八月<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s46">而瑞等之<c n="《"/>扶輪報<c n="》"/>
+            <c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s47">亦與清鼎同時革命矣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s48">今紹興醫會<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s49">上海醫會閱報諸君<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s50">時有來函<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s51">向袁<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s52">楊二君索閱全稿者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s53">此皆閱<c n="《"/>扶輪報<c n="》"/>之舊友<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s54">不以葑菲見棄<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s55">殆以管見之比擬描摹<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s56">尚有可採處<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s57">爰從二君之議<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s58">抄錄全稿<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s59">加序送<c n="《"/>紹學醫學報<c n="》"/>社<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s60">遵周君小農流通書籍辦法<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s61">版權歸於貴社<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s62">印成賜瑞若干份<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s63">以就正親友同志<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s64">於願足矣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s65">不揣固陋<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s66">非敢勇於公益<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s67">亦拋磚引玉之苦心耳<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s68">是為序<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s69">伏乞諸大名家誨政<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s70">以匡不逮<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d2.p2s71">是幸<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eb053_jc_000-d2p4">
+          <seg xml:id="KR3eb053_jc_000-d2.p4s1">歲次柔兆執徐春分後三日劉恆瑞自序於京江之有預齋停雲傳舍<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eb053_jc_000-d3">
+        <head n="h1" xml:id="KR3eb053_jc_000-d3h1">
+          <seg xml:id="KR3eb053_jc_000-d3.h1s1">舌苔原理</seg>
+        </head>
+        <p xml:id="KR3eb053_jc_000-d3p2">
+          <seg xml:id="KR3eb053_jc_000-d3.p2s1">舌為胃之外候<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d3.p2s2">以輸送食物入食管胃脘之用<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d3.p2s3">其舌體之組織<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d3.p2s4">系由第五對腦筋達舌<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d3.p2s5">其功用全賴此筋運動<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d3.p2s6">舌下紫青筋二條<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d3.p2s7">乃少陰腎脈上達<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d3.p2s8">名曰金津<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d3.p2s9">玉液二穴<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d3.p2s10">所以生津液以濡潤舌質<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d3.p2s11">拌化食物者也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d3.p2s12">中醫以舌苔辨症者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d3.p2s13">以其苔堆於表面<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d3.p2s14">易於辨認<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d3.p2s15">而未知苔因何而生<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d3.p2s16">此理未明<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d3.p2s17">其辨症之識<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d3.p2s18">必有毫釐千里之誤<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d3.p2s19">此原理之不可不講也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d3.p2s20">夫舌之表面<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d3.p2s21">乃多數極小乳頭<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d3.p2s22">鋪合而成<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d3.p2s23">此乳頭極小微點<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d3.p2s24">其不易見時<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d3.p2s25">非顯微鏡不能窺見<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d3.p2s26">易見時<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d3.p2s27">形如芒刺<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d3.p2s28">摸之棘手<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d3.p2s29">或隱或見<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d3.p2s30">或大或小<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d3.p2s31">或平滑<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d3.p2s32">或高起<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d3.p2s33">隨時隨症<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d3.p2s34">變易不定<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d3.p2s35">苔即胃中食物腐化之濁氣<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d3.p2s36">堆於乳頭之上<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d3.p2s37">此舌苔所由生也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d3.p2s38">常人一日三餐<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d3.p2s39">故苔亦日有三變<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d3.p2s40">謂之活苔<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d3.p2s41">無病之象也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d3.p2s42">其所以有變者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d3.p2s43">因飲食入胃時<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d3.p2s44">將腐濁之氣<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d3.p2s45">遏郁下降<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d3.p2s46">故苔色一退<c n="；"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d3.p2s47">至飲食腐化<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d3.p2s48">濁氣上蒸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d3.p2s49">苔色又生<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d3.p2s50">胃中無腐濁<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d3.p2s51">則苔薄而少<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d3.p2s52">有腐濁<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d3.p2s53">則苔多而厚<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d3.p2s54">此其常理也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d3.p2s55">至論其色<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d3.p2s56">則以黃色為正<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d3.p2s57">白為肺色<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d3.p2s58">胃中陽氣被飲食抑遏<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d3.p2s59">胃中正色不能直達而上<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d3.p2s60">故有暫白之時<c n="；"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d3.p2s61">青為絕色<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d3.p2s62">青綠之色<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d3.p2s63">見於舌上<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d3.p2s64">其人命必危<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d3.p2s65">其外尚有似黃非黃<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d3.p2s66">似白非白<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d3.p2s67">各類間色<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d3.p2s68">皆條分於後<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d3.p2s69">以備後學細心參考<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eb053_jc_000-d4">
+        <head n="h1" xml:id="KR3eb053_jc_000-d4h1">
+          <seg xml:id="KR3eb053_jc_000-d4.h1s1">看舌八法</seg>
+        </head>
+        <p xml:id="KR3eb053_jc_000-d4p2">
+          <seg xml:id="KR3eb053_jc_000-d4.p2s1">一<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d4.p2s2">看苔色<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d4.p2s3">
+            <c n="("/>詳後<c n=")"/>
+            <c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eb053_jc_000-d4p4">
+          <seg xml:id="KR3eb053_jc_000-d4.p4s1">二<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d4.p4s2">看舌質<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3eb053_jc_000-d4.p4s3">
+            <c n="（"/>質亦有色<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3eb053_jc_000-d4.p4s4">又有大小濕熱之症<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3eb053_jc_000-d4.p4s5">舌質脹大<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3eb053_jc_000-d4.p4s6">滿口邊有齒印<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3eb053_jc_000-d4.p4s7">血熱之症質色紫<c n="）"/>
+            <c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eb053_jc_000-d4p6">
+          <seg xml:id="KR3eb053_jc_000-d4.p6s1">三<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d4.p6s2">看舌尖<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3eb053_jc_000-d4.p6s3">
+            <c n="（"/>白苔滿舌<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3eb053_jc_000-d4.p6s4">尖有紅刺<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3eb053_jc_000-d4.p6s5">勿用溫燥之藥<c n="）"/>
+            <c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eb053_jc_000-d4p8">
+          <seg xml:id="KR3eb053_jc_000-d4.p8s1">四<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d4.p8s2">看舌心<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3eb053_jc_000-d4.p8s3">
+            <c n="（"/>四邊有苔<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3eb053_jc_000-d4.p8s4">中無<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3eb053_jc_000-d4.p8s5">或中有直裂<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3eb053_jc_000-d4.p8s6">或有直槽或橫裂<c n="）"/>
+            <c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eb053_jc_000-d4p10">
+          <seg xml:id="KR3eb053_jc_000-d4.p10s1">五<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d4.p10s2">看燥潤<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3eb053_jc_000-d4.p10s3">
+            <c n="（"/>以手摸之<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3eb053_jc_000-d4.p10s4">或滑潤或燥刺棘手<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3eb053_jc_000-d4.p10s5">有看似潤而摸之燥者<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3eb053_jc_000-d4.p10s6">有看似燥而摸之滑者<c n="）"/>
+            <c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eb053_jc_000-d4p12">
+          <seg xml:id="KR3eb053_jc_000-d4.p12s1">六<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d4.p12s2">看舌邊<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3eb053_jc_000-d4.p12s3">
+            <c n="（"/>苔色與邊齊否<c n="）"/>
+            <c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eb053_jc_000-d4p14">
+          <seg xml:id="KR3eb053_jc_000-d4.p14s1">七<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d4.p14s2">看舌根<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3eb053_jc_000-d4.p14s3">
+            <c n="（"/>根後有無苔色接續<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3eb053_jc_000-d4.p14s4">有無大肉瘤<c n="）"/>
+            <c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eb053_jc_000-d4p16">
+          <seg xml:id="KR3eb053_jc_000-d4.p16s1">八<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d4.p16s2">看變換<c n="。"/>
+          </seg>
+          <seg type="comm" xml:id="KR3eb053_jc_000-d4.p16s3">
+            <c n="（"/>觀其變與不變<c n="）"/>
+            <c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eb053_jc_000-d5">
+        <head n="h1" xml:id="KR3eb053_jc_000-d5h1">
+          <seg xml:id="KR3eb053_jc_000-d5.h1s1">黃苔類總論</seg>
+        </head>
+        <p xml:id="KR3eb053_jc_000-d5p2">
+          <seg xml:id="KR3eb053_jc_000-d5.p2s1">黃色有深淺老嫩之殊<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d5.p2s2">其形似亦有燥潤滑澀之異<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d5.p2s3">有正黃色者<c n="；"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d5.p2s4">有老黃色者<c n="；"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d5.p2s5">有黃如炒枳殼色者<c n="；"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d5.p2s6">有黃黑相間如鍋焦黃色者<c n="；"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d5.p2s7">有嫩黃色者<c n="；"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d5.p2s8">有牙黃色者<c n="；"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d5.p2s9">有如裱心紙兼灰青色者<c n="；"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d5.p2s10">有黃如粟米染著者<c n="；"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d5.p2s11">有黃如虎斑紋者<c n="；"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d5.p2s12">有黃如黃蠟敷舌上者<c n="；"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d5.p2s13">有水黃苔如雞子黃白相兼染成者<c n="；"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d5.p2s14">有黃腐苔如豆渣炒黃堆舌者<c n="；"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d5.p2s15">此皆黃色之類<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d5.p2s16">而症候之殊詳後<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eb053_jc_000-d6">
+        <head n="h1" xml:id="KR3eb053_jc_000-d6h1">
+          <seg xml:id="KR3eb053_jc_000-d6.h1s1">白苔類總論</seg>
+        </head>
+        <p xml:id="KR3eb053_jc_000-d6p2">
+          <seg xml:id="KR3eb053_jc_000-d6.p2s1">白苔有厚薄密疏之殊<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d6.p2s2">其形似亦有深淺間雜之異<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d6.p2s3">有薄白如米飲敷舌者<c n="；"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d6.p2s4">有白如豆漿敷舌者<c n="；"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d6.p2s5">有白而厚如豆腐腦鋪舌者<c n="；"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d6.p2s6">有白而疏如米粉鋪紅者<c n="；"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d6.p2s7">有白如粟米成顆粒者<c n="；"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d6.p2s8">有白如銀色者<c n="；"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d6.p2s9">有白如旱菸灰色者<c n="；"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d6.p2s10">有白如銀錠底者<c n="；"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d6.p2s11">有白如豆腐渣堆舌者<c n="；"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d6.p2s12">有白如豆腐筋堆舌者<c n="；"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d6.p2s13">有白如糙石糙手者<c n="；"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d6.p2s14">有似白非白色如畫工以脂調粉</seg>
+          <seg type="comm" xml:id="KR3eb053_jc_000-d6.p2s15">
+            <c n="（"/>此色有二<c n="："/>
+          </seg>
+          <seg type="comm" xml:id="KR3eb053_jc_000-d6.p2s16">一淡如雪青湖縐色者<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3eb053_jc_000-d6.p2s17">一深如雪青杭綢色者<c n="，"/>
+          </seg>
+          <seg type="comm" xml:id="KR3eb053_jc_000-d6.p2s18">古皆以絳色名之<c n="）"/>
+            <c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d6.p2s19">更有舌質深紅如紅蘿蔔干有鹽霜者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d6.p2s20">此皆白苔之類<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d6.p2s21">而寒熱之症各殊<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d6.p2s22">亦細詳於後<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eb053_jc_000-d7">
+        <head n="h1" xml:id="KR3eb053_jc_000-d7h1">
+          <seg xml:id="KR3eb053_jc_000-d7.h1s1">舌質無苔類總論</seg>
+        </head>
+        <p xml:id="KR3eb053_jc_000-d7p2">
+          <seg xml:id="KR3eb053_jc_000-d7.p2s1">舌質無苔<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d7.p2s2">亦有分別<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d7.p2s3">有質紫無苔者<c n="；"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d7.p2s4">有質紅無苔者<c n="；"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d7.p2s5">有舌上無苔質光如鏡者<c n="；"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d7.p2s6">有質干如刺無苔者<c n="；"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d7.p2s7">有中凹如駁去者<c n="；"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d7.p2s8">有中有直溝<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d7.p2s9">如刀背印成者<c n="；"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d7.p2s10">有舌質橫裂者<c n="；"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d7.p2s11">有舌生裂後<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d7.p2s12">如冰片紋者<c n="；"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d7.p2s13">有前半光滑如鏡<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d7.p2s14">後根上有肉瘤二粒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d7.p2s15">色如舌肉色者<c n="；"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d7.p2s16">有表面無苔<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d7.p2s17">而皮內隱一塊如錢大<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d7.p2s18">或黃或白者<c n="；"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d7.p2s19">有苔上見圓暈<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d7.p2s20">分二三色者<c n="；"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d7.p2s21">有苔見青綠二色者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d7.p2s22">此皆表面無苔<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d7.p2s23">而所主之症<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d7.p2s24">各不同也<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d7.p2s25">亦詳於後<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eb053_jc_000-d8">
+        <head n="h1" xml:id="KR3eb053_jc_000-d8h1">
+          <seg xml:id="KR3eb053_jc_000-d8.h1s1">黃苔類分別診斷法</seg>
+        </head>
+        <p xml:id="KR3eb053_jc_000-d8p2">
+          <seg xml:id="KR3eb053_jc_000-d8.p2s1">正黃色<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d8.p2s2">為胃土正色<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d8.p2s3">為溫病始傳之候<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d8.p2s4">其為濕溫<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d8.p2s5">溫熱<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d8.p2s6">當以脈之滑澀有力無力<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d8.p2s7">分別用藥<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eb053_jc_000-d8p4">
+          <seg xml:id="KR3eb053_jc_000-d8.p4s1">老黃色<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d8.p4s2">為胃中陽氣旺盛之候<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d8.p4s3">若厚腐堆起<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d8.p4s4">此胃中飲食消化腐濁之氣上達之後<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d8.p4s5">為濕溫化熱之始<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d8.p4s6">為溫熱傳入中焦陽明之候<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eb053_jc_000-d8p6">
+          <seg xml:id="KR3eb053_jc_000-d8.p6s1">黃如炒枳殼色<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d8.p6s2">為胃陽盛極<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d8.p6s3">陽亢陰虛之候<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d8.p6s4">胃氣欲傷<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d8.p6s5">胃汁乾槁<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d8.p6s6">故苔黃色如枳殼炒過狀<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d8.p6s7">以其乾枯不潤澤也<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eb053_jc_000-d8p8">
+          <seg xml:id="KR3eb053_jc_000-d8.p8s1">黃黑相間<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d8.p8s2">如鍋焦黃色<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d8.p8s3">摸之棘手<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d8.p8s4">看之不澤<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d8.p8s5">為胃中津液焦灼<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d8.p8s6">口燥舌乾之候<c n="；"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d8.p8s7">然亦有陽氣為陰邪所阻<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d8.p8s8">不能上蒸而化為津液者<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d8.p8s9">當以脈診分別斷之<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d8.p8s10">脈澀有力鼓指者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d8.p8s11">火灼津也<c n="；"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d8.p8s12">脈滑無力鼓指<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d8.p8s13">只有往來而無起伏者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d8.p8s14">痰飲瘀血阻抑陽氣<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d8.p8s15">不能化生津液也<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eb053_jc_000-d8p10">
+          <seg xml:id="KR3eb053_jc_000-d8.p10s1">嫩黃色<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d8.p10s2">由白而變為黃<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d8.p10s3">為嫩黃色<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d8.p10s4">此為用藥當<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d8.p10s5">胃陽初醒之候<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d8.p10s6">吉兆也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d8.p10s7">為飲食消化腐濁初升也<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eb053_jc_000-d8p12">
+          <seg xml:id="KR3eb053_jc_000-d8.p12s1">牙黃色<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d8.p12s2">胃中腐濁之氣始升也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d8.p12s3">牙黃無孔<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d8.p12s4">謂之膩苔<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d8.p12s5">中焦有痰也<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eb053_jc_000-d8p14">
+          <seg xml:id="KR3eb053_jc_000-d8.p14s1">裱心紙兼灰青色<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d8.p14s2">苔雖黃而兼灰青<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d8.p14s3">此傷風初候<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d8.p14s4">或陽氣抑鬱<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d8.p14s5">黃苔無正色<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d8.p14s6">當舒氣化郁<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eb053_jc_000-d8p16">
+          <seg xml:id="KR3eb053_jc_000-d8.p16s1">黃如粟米染著<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d8.p16s2">顆粒分明<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d8.p16s3">此為胃陽太旺<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d8.p16s4">胃熱之候<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eb053_jc_000-d8p18">
+          <seg xml:id="KR3eb053_jc_000-d8.p18s1">黃如虎斑紋<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d8.p18s2">氣血兩燔之候<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eb053_jc_000-d8p20">
+          <seg xml:id="KR3eb053_jc_000-d8.p20s1">黃如蠟敷舌上<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d8.p20s2">濕溫痰滯之候<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d8.p20s3">故苔無孔而膩<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eb053_jc_000-d8p22">
+          <seg xml:id="KR3eb053_jc_000-d8.p22s1">水黃苔<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d8.p22s2">如雞子黃白相間染成<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d8.p22s3">此黃而潤滑之苔<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d8.p22s4">為痰飲停積<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d8.p22s5">是濕溫正候<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d8.p22s6">或為溫熱症而有水飲者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d8.p22s7">或熱入胃陰<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d8.p22s8">誤服燥藥<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d8.p22s9">而變生此苔式者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d8.p22s10">宜以診脈分別斷之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eb053_jc_000-d8p24">
+          <seg xml:id="KR3eb053_jc_000-d8.p24s1">黃腐苔<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d8.p24s2">如豆渣炒黃堆舌<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d8.p24s3">下症也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d8.p24s4">如中有直裂<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d8.p24s5">氣虛也<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d8.p24s6">不可下<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d8.p24s7">當補氣<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d8.p24s8">以氣不足以運氣也<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eb053_jc_000-d9">
+        <head n="h1" xml:id="KR3eb053_jc_000-d9h1">
+          <seg xml:id="KR3eb053_jc_000-d9.h1s1">白苔類分別診斷法</seg>
+        </head>
+        <p xml:id="KR3eb053_jc_000-d9p2">
+          <seg xml:id="KR3eb053_jc_000-d9.p2s1">薄白如米飲敷舌<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p2s2">此傷寒<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p2s3">中寒之初候也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p2s4">無表症狀見者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p2s5">飲食停膈上也<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eb053_jc_000-d9p4">
+          <seg xml:id="KR3eb053_jc_000-d9.p4s1">白如豆漿敷舌<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p4s2">此白而滑潤<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p4s3">傷寒<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p4s4">中寒<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p4s5">濕邪<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p4s6">痰飲等病也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p4s7">以脈診分別斷之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p4s8">但薄白不潤澤<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p4s9">舌質不甚紅者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p4s10">傷燥表症也<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eb053_jc_000-d9p6">
+          <seg xml:id="KR3eb053_jc_000-d9.p6s1">白而厚如豆腐腦鋪舌<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p6s2">痰熱症也<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eb053_jc_000-d9p8">
+          <seg xml:id="KR3eb053_jc_000-d9.p8s1">白而疏如米粉鋪紅<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p8s2">傷熱<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p8s3">傷暑初傳之候也<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eb053_jc_000-d9p10">
+          <seg xml:id="KR3eb053_jc_000-d9.p10s1">白如粟米成顆粒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p10s2">此熱邪在氣分也<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eb053_jc_000-d9p12">
+          <seg xml:id="KR3eb053_jc_000-d9.p12s1">白如銀色<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p12s2">謂光亮如銀<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p12s3">此熱症誤補之變苔也<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eb053_jc_000-d9p14">
+          <seg xml:id="KR3eb053_jc_000-d9.p14s1">白如旱菸灰色<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p14s2">不問潤燥<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p14s3">皆熱症誤燥之變苔也<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eb053_jc_000-d9p16">
+          <seg xml:id="KR3eb053_jc_000-d9.p16s1">白如銀錠底<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p16s2">謂有孔如銀錠底式<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p16s3">此熱症誤補誤燥<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p16s4">津液已傷<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p16s5">元氣欲陷<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p16s6">邪將深入之候也<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eb053_jc_000-d9p18">
+          <seg xml:id="KR3eb053_jc_000-d9.p18s1">白如豆腐渣堆舌<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p18s2">此熱症誤燥<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p18s3">腐濁積滯胃中<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p18s4">欲作下症也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p18s5">如中心開裂<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p18s6">則為虛極反似實症之候<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p18s7">當補氣<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p18s8">須以脈診分別之<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eb053_jc_000-d9p20">
+          <seg xml:id="KR3eb053_jc_000-d9.p20s1">白如豆腐筋堆舌<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p20s2">謂白苔厚而有孔<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p20s3">如豆腐煮熟有孔者曰筋<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p20s4">謂有二三條白者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p20s5">余則紅色<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p20s6">或圓或長<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p20s7">看見舌質<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p20s8">此胃熱痰滯<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p20s9">腐濁積聚<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p20s10">誤燥<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p20s11">當下不下之候<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p20s12">過此不下<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p20s13">則無下證可見矣<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eb053_jc_000-d9p22">
+          <seg xml:id="KR3eb053_jc_000-d9.p22s1">白如糙石糙手<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p22s2">此燥傷胃汁<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p22s3">不能潤舌<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p22s4">腎氣不能上達之候<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p22s5">亦有清氣被抑不能生津者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p22s6">當以脈診分別斷之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p22s7">與黃黑如鍋焦色條下參觀<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eb053_jc_000-d9p24">
+          <seg xml:id="KR3eb053_jc_000-d9.p24s1">似白非白<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p24s2">如畫工以脂調粉<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p24s3">為雪青色<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p24s4">有深淺二種<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p24s5">淺者如雪青湖縐色<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p24s6">此乃熱邪入營初候<c n="；"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p24s7">深者如雪青杭綢色<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p24s8">此乃暑熱二邪已入血分之候<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eb053_jc_000-d9p26">
+          <seg xml:id="KR3eb053_jc_000-d9.p26s1">此苔類似薄白<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p26s2">但舌質紅而細看有乳頭微點者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p26s3">故以雪青色名之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p26s4">為血分熱症必有之苔<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p26s5">常見苔也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p26s6">但人以白苔視之<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p26s7">多誤作寒症<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p26s8">故特提出<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p26s9">以醒眉目<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p26s10">古人但以舌絳二字了之<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p26s11">後學何從解悟<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p26s12">故以細心體認<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p26s13">比例法直告之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p26s14">俾無誤認之弊<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eb053_jc_000-d9p28">
+          <seg xml:id="KR3eb053_jc_000-d9.p28s1">舌質深紅<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p28s2">如紅蘿蔔干有鹽霜<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p28s3">此乃熱邪深入久留<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p28s4">誤服攻燥之藥<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p28s5">胃陰大傷之候<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d9.p28s6">溫熱末傳危症也<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eb053_jc_000-d10">
+        <head n="h1" xml:id="KR3eb053_jc_000-d10h1">
+          <seg xml:id="KR3eb053_jc_000-d10.h1s1">舌質無苔分別診斷法</seg>
+        </head>
+        <p xml:id="KR3eb053_jc_000-d10p2">
+          <seg xml:id="KR3eb053_jc_000-d10.p2s1">質紫無苔<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d10.p2s2">熱在陰分也<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eb053_jc_000-d10p4">
+          <seg xml:id="KR3eb053_jc_000-d10.p4s1">質紅無苔<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d10.p4s2">熱邪初入陰分<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d10.p4s3">或者傷食<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d10.p4s4">胃氣不能上升<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d10.p4s5">或憂思鬱抑<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d10.p4s6">陽氣不能上升<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d10.p4s7">須以脈診參斷<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eb053_jc_000-d10p6">
+          <seg xml:id="KR3eb053_jc_000-d10.p6s1">舌上無苔<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d10.p6s2">質光如鏡<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d10.p6s3">為胃陰胃陽兩傷<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d10.p6s4">腸胃中之茸毛貼壁<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d10.p6s5">完穀不化<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d10.p6s6">飢不受食之候<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d10.p6s7">亦有頑痰膠滯胃中<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d10.p6s8">茸毛不起<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d10.p6s9">皆有此候<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d10.p6s10">須以脈診參斷<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eb053_jc_000-d10p8">
+          <seg xml:id="KR3eb053_jc_000-d10.p8s1">前症完穀陰陽傷<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d10.p8s2">脈必細澀<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d10.p8s3">後症痰滯<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d10.p8s4">脈必洪滑而大<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eb053_jc_000-d10p10">
+          <seg xml:id="KR3eb053_jc_000-d10.p10s1">質干如刺無苔<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d10.p10s2">紫而乾者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d10.p10s3">熱傷陰液<c n="；"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d10.p10s4">紅而乾者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d10.p10s5">氣不化津<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d10.p10s6">須以脈診參斷<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eb053_jc_000-d10p12">
+          <seg xml:id="KR3eb053_jc_000-d10.p12s1">中凹如駁去<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d10.p12s2">胃有燥結傷陰<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d10.p12s3">或盲腸有燥結久留不去之候<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eb053_jc_000-d10p14">
+          <seg xml:id="KR3eb053_jc_000-d10.p14s1">中有直溝<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d10.p14s2">如刀背印成<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d10.p14s3">陰液元氣皆虛也<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eb053_jc_000-d10p16">
+          <seg xml:id="KR3eb053_jc_000-d10.p16s1">舌質橫裂<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d10.p16s2">素體陰虧也<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eb053_jc_000-d10p18">
+          <seg xml:id="KR3eb053_jc_000-d10.p18s1">舌生裂紋如冰片紋<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d10.p18s2">老年陰虛常見之象也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d10.p18s3">少年罕見<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d10.p18s4">有此不吉<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eb053_jc_000-d10p20">
+          <seg xml:id="KR3eb053_jc_000-d10.p20s1">前半光滑無苔<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d10.p20s2">後根上有肉瘤二粒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d10.p20s3">如舌肉色<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d10.p20s4">為陰虛癆症之象也<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eb053_jc_000-d10p22">
+          <seg xml:id="KR3eb053_jc_000-d10.p22s1">表面無苔<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d10.p22s2">而皮內有一塊如錢大<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d10.p22s3">或黃或白<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d10.p22s4">為正氣不足<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d10.p22s5">血液虧虛<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d10.p22s6">或有痰凝之候<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d10.p22s7">須以脈診參斷<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eb053_jc_000-d10p24">
+          <seg xml:id="KR3eb053_jc_000-d10.p24s1">苔上見圓暈<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d10.p24s2">分二三色<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d10.p24s3">燥金內結<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d10.p24s4">燥屎不下之候<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d10.p24s5">其症必險<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eb053_jc_000-d10p26">
+          <seg xml:id="KR3eb053_jc_000-d10.p26s1">苔見青綠色<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d10.p26s2">必死之症也<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eb053_jc_000-d11">
+        <head n="h1" xml:id="KR3eb053_jc_000-d11h1">
+          <seg xml:id="KR3eb053_jc_000-d11.h1s1">苔色變換吉凶總論</seg>
+        </head>
+        <p xml:id="KR3eb053_jc_000-d11p2">
+          <seg xml:id="KR3eb053_jc_000-d11.p2s1">總之<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d11.p2s2">苔黃為正<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d11.p2s3">白次之<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d11.p2s4">無論何症<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d11.p2s5">若用藥當<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d11.p2s6">皆由白而黃<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d11.p2s7">由黃而退<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d11.p2s8">由退復生新薄白苔<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d11.p2s9">此謂順象<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d11.p2s10">無論何症<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d11.p2s11">若用藥不當<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d11.p2s12">則由黃而白<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d11.p2s13">由白而灰<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d11.p2s14">由灰而黑<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d11.p2s15">由活苔變為死苔<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d11.p2s16">此逆象也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d11.p2s17">驟退驟無<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d11.p2s18">不由漸退<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d11.p2s19">此陷象也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d11.p2s20">更有氣聚苔聚<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d11.p2s21">氣斂苔斂<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d11.p2s22">氣化苔化<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d11.p2s23">氣散布苔亦散布<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d11.p2s24">氣凝聚而結<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d11.p2s25">苔亦凝聚而結<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d11.p2s26">氣結於一邊<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d11.p2s27">苔亦結於一邊<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d11.p2s28">故氣鬱之症<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d11.p2s29">苔邊整齊<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d11.p2s30">如石階之起邊線<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d11.p2s31">線內有苔<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d11.p2s32">線外無苔<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d11.p2s33">但紅邊而已<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d11.p2s34">若氣舒化則散布<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d11.p2s35">由密而疏散<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d11.p2s36">則不似斬然齊一之邊矣<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d11.p2s37">故苔有邊齊如斬者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d11.p2s38">氣聚也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d11.p2s39">有積滯抑鬱者也<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eb053_jc_000-d12">
+        <head n="h1" xml:id="KR3eb053_jc_000-d12h1">
+          <seg xml:id="KR3eb053_jc_000-d12.h1s1">苔之真退假退駁去辨</seg>
+        </head>
+        <p xml:id="KR3eb053_jc_000-d12p2">
+          <seg xml:id="KR3eb053_jc_000-d12.p2s1">苔之真退<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d12.p2s2">真化<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d12.p2s3">與駁去<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d12.p2s4">驟退<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d12.p2s5">有大分別<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d12.p2s6">真退必由化而退<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d12.p2s7">何謂化退<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d12.p2s8">因苔由厚而漸薄<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d12.p2s9">由板而生孔<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d12.p2s10">由密而漸疏<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d12.p2s11">由有而漸無<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d12.p2s12">由舌根外達至舌尖<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d12.p2s13">由尖而漸變疏薄<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d12.p2s14">由退而復生新苔<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d12.p2s15">此皆吉兆<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d12.p2s16">若驟然退去<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d12.p2s17">不復生新苔<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d12.p2s18">或如駁去<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d12.p2s19">斑斑駁駁<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d12.p2s20">存留如豆腐屑鋪舌上<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d12.p2s21">東一點<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d12.p2s22">西一點<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d12.p2s23">散離而不連續<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d12.p2s24">皆逆象也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d12.p2s25">皆因誤用攻伐消導之劑<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d12.p2s26">或誤表之故<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d12.p2s27">胃氣胃汁<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d12.p2s28">俱被傷殘<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d12.p2s29">故有此候<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eb053_jc_000-d13">
+        <head n="h1" xml:id="KR3eb053_jc_000-d13h1">
+          <seg xml:id="KR3eb053_jc_000-d13.h1s1">燥潤辨</seg>
+        </head>
+        <p xml:id="KR3eb053_jc_000-d13p2">
+          <seg xml:id="KR3eb053_jc_000-d13.p2s1">濕症舌潤<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d13.p2s2">熱症舌燥<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d13.p2s3">此理之常也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d13.p2s4">然亦有濕邪傳入氣分<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d13.p2s5">氣不化津而反燥者<c n="；"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d13.p2s6">熱症傳入血分<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d13.p2s7">舌反潤者<c n="；"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d13.p2s8">亦有誤用燥藥<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d13.p2s9">津液被劫<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d13.p2s10">逼迫而上<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d13.p2s11">胃陰不能下濟<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d13.p2s12">舌反潤者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d13.p2s13">不可不知<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d13.p2s14">是在指下診脈功夫<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d13.p2s15">參合之矣<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eb053_jc_000-d14">
+        <head n="h1" xml:id="KR3eb053_jc_000-d14h1">
+          <seg xml:id="KR3eb053_jc_000-d14.h1s1">厚腐之苔無寒症辨</seg>
+        </head>
+        <p xml:id="KR3eb053_jc_000-d14p2">
+          <seg xml:id="KR3eb053_jc_000-d14.p2s1">厚腐之苔無寒症<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d14.p2s2">胃陽上蒸<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d14.p2s3">濁氣上達<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d14.p2s4">故苔腐厚<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d14.p2s5">忌用溫燥宣化之劑<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d14.p2s6">尤忌發表<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d14.p2s7">此宜清降導下<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d14.p2s8">或中有直槽<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d14.p2s9">氣虛不能運化之故<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d14.p2s10">宜補氣<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d14.p2s11">不得因苔色尚白<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d14.p2s12">而溫表之<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d14.p2s13">宣燥之<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d14.p2s14">犯之必變灰暗<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d14.p2s15">切宜猛省<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eb053_jc_000-d15">
+        <head n="h1" xml:id="KR3eb053_jc_000-d15h1">
+          <seg xml:id="KR3eb053_jc_000-d15.h1s1">厚腐與厚膩不同辨</seg>
+        </head>
+        <p xml:id="KR3eb053_jc_000-d15p2">
+          <seg xml:id="KR3eb053_jc_000-d15.p2s1">厚腐與厚膩不同<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d15.p2s2">腐者如腐渣<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d15.p2s3">如腐筋如豆腐堆鋪者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d15.p2s4">其邊厚為陽有餘<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d15.p2s5">能鼓胃中腐化濁氣上升<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d15.p2s6">故有此象<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d15.p2s7">若厚膩則中心稍厚<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d15.p2s8">其邊則薄<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d15.p2s9">無毛孔<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d15.p2s10">無顆粒<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d15.p2s11">如以光滑之物刡刮一過者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d15.p2s12">此為厚膩<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d15.p2s13">為陽氣被陰邪所抑<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d15.p2s14">必有濕濁<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d15.p2s15">痰飲<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d15.p2s16">食積<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d15.p2s17">瘀血<c n="、"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d15.p2s18">頑痰為病<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d15.p2s19">宜宣化<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d15.p2s20">一為陽氣有餘<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d15.p2s21">一為陽氣被抑<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d15.p2s22">差之毫釐<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d15.p2s23">失之千里<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d15.p2s24">可不慎哉<c n="？"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d15.p2s25">今人多誤認膩字<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d15.p2s26">故特論辨<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d15.p2s27">以分別之<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eb053_jc_000-d16">
+        <head n="h1" xml:id="KR3eb053_jc_000-d16h1">
+          <seg xml:id="KR3eb053_jc_000-d16.h1s1">舌短舌強辨</seg>
+        </head>
+        <p xml:id="KR3eb053_jc_000-d16p2">
+          <seg xml:id="KR3eb053_jc_000-d16.p2s1">短者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d16.p2s2">舌伸不長之謂也<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d16.p2s3">屬虛<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d16.p2s4">舌短囊縮者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d16.p2s5">屬熱<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d16.p2s6">舌短而囊不縮者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d16.p2s7">屬虛<c n="。"/>
+          </seg>
+        </p>
+<p xml:id="KR3eb053_jc_000-d16p4">
+          <seg xml:id="KR3eb053_jc_000-d16.p4s1">強者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d16.p4s2">不能運用<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d16.p4s3">言語不清之謂也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d16.p4s4">則腦筋功用有損失之因<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d16.p4s5">當察其所因之故<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d16.p4s6">得其故<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d16.p4s7">方有治法<c n="。"/>
+          </seg>
+        </p>
+
+</div>
+      <div n="h1" xml:id="KR3eb053_jc_000-d17">
+        <head n="h1" xml:id="KR3eb053_jc_000-d17h1">
+          <seg xml:id="KR3eb053_jc_000-d17.h1s1">補黑苔類</seg>
+        </head>
+        <p xml:id="KR3eb053_jc_000-d17p2">
+          <seg xml:id="KR3eb053_jc_000-d17.p2s1">舌上黑苔<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d17.p2s2">有由白而黃<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d17.p2s3">由黃而黑者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d17.p2s4">順症也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d17.p2s5">有由白而灰<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d17.p2s6">由灰而黑<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d17.p2s7">不由黃而黑者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d17.p2s8">此謂之黑陷苔<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d17.p2s9">逆症也<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d17.p2s10">此多因誤用溫燥之藥多日所致<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d17.p2s11">甚難挽救<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d17.p2s12">亦有脈遲苔黑者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d17.p2s13">此腎命不足<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d17.p2s14">當溫補真火<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d17.p2s15">亦有食物染成黑苔者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d17.p2s16">但刮之即去<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d17.p2s17">本色即見<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d17.p2s18">故見有苔黑者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d17.p2s19">必以指刮之<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d17.p2s20">以辨真偽<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d17.p2s21">真者刮之不去<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d17.p2s22">方以黑苔斷之<c n="。"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d17.p2s23">其由黃而黑者<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d17.p2s24">此乃陽明熱結之症<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d17.p2s25">潤下得法<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d17.p2s26">胃腑炭氣得以外出也<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d17.p2s27">故曰順症<c n="，"/>
+          </seg>
+          <seg xml:id="KR3eb053_jc_000-d17.p2s28">使人不必疑慮也<c n="。"/>
+          </seg>
+        </p>
+</div>
+    </body>
+  </text>
+</TEI>
