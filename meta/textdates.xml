@@ -1,152 +1,131 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root xmlns:ns0="http://www.tei-c.org/ns/1.0">
-    <data corresp="#KR1a0001" notafter="-200" notbefore="-250" title="繫辭" tls="XC" tls-dates="dat08110">ca<ns0:c n="."/> <ns0:c n="-"/>250 <ns0:c n="-"/> <ns0:c n="-"/>200</data>
-    <data corresp="#KR1b0001" notafter="-100" notbefore="-800" title="尚書" tls="SHU" tls-dates="dat05000">ca<ns0:c n="."/> <ns0:c n="-"/>800 <ns0:c n="-"/> <ns0:c n="-"/>100</data>
-    <data corresp="#KR1c0001" notafter="-600" notbefore="-900" title="詩經" tls="SHI" tls-dates="dat11011">ca<ns0:c n="."/> <ns0:c n="-"/>900 <ns0:c n="-"/> <ns0:c n="-"/>600</data>
-    <data corresp="#KR1c0003" notafter="0" notbefore="-100" title="詩。大序" tls="DAXU" tls-dates="dat06200">
-        <ns0:c n="-"/>1st cent<ns0:c n="."/>
-    </data>
-    <data corresp="#KR1c0066" notafter="-100" notbefore="-150" title="韓詩外傳" tls="HSWZ" tls-dates="dat06230">ca<ns0:c n="."/> <ns0:c n="-"/>150 <ns0:c n="-"/> <ns0:c n="-"/>100</data>
-    <data corresp="#KR1d0052" notafter="-200" notbefore="-300" title="禮記" tls="LJ" tls-dates="dat08110">ca<ns0:c n="."/> <ns0:c n="-"/>300 <ns0:c n="-"/> <ns0:c n="-"/>200</data>
-    <data corresp="#KR1e0001" notafter="-300" notbefore="-400" title="左傳" tls="ZUO" tls-dates="dat08120">ca<ns0:c n="."/> <ns0:c n="-"/>400 <ns0:c n="-"/> <ns0:c n="-"/>300</data>
-    <data corresp="#KR1e0008" notafter="-100" notbefore="-200" title="穀梁傳" tls="CQGL" tls-dates="dat06200">ca<ns0:c n="."/> <ns0:c n="-"/>200 <ns0:c n="-"/> <ns0:c n="-"/>100</data>
-    <data corresp="#KR1f0001" notafter="-100" notbefore="-200" title="孝經" tls="XJ" tls-dates="dat06230">ca<ns0:c n="."/> <ns0:c n="-"/>200 <ns0:c n="-"/> <ns0:c n="-"/>100</data>
-    <data corresp="#KR1h0001" notafter="-300" notbefore="-350" title="孟子" tls="MENG" tls-dates="dat08110">ca<ns0:c n="."/> <ns0:c n="-"/>350 <ns0:c n="-"/> <ns0:c n="-"/>300</data>
-    <data resp="#chris" modified="2024-11-06T15:44:03.555+09:00" notbefore="" notafter="" corresp="#KR1h0004" title="論語">9999</data>
-    <data corresp="#KR2a0001" notafter="30" notbefore="-100" title="史記" tls="SJ" tls-dates="dat06220">ca<ns0:c n="."/> <ns0:c n="-"/>100 <ns0:c n="-"/> +30</data>
-    <data corresp="#KR2e0001" notafter="-300" notbefore="-400" title="國語" tls="GY" tls-dates="dat08110">ca<ns0:c n="."/> <ns0:c n="-"/>400 <ns0:c n="-"/> <ns0:c n="-"/>300</data>
-    <data corresp="#KR2e0003" notafter="-30" notbefore="-400" title="戰國策" tls="ZGC" tls-dates="dat08110">ca<ns0:c n="."/> <ns0:c n="-"/>300 <ns0:c n="-"/> <ns0:c n="-"/>30</data>
-    <data corresp="#KR2g0003" notafter="-200" notbefore="-300" title="晏子春秋" tls="YAN" tls-dates="dat08110">ca<ns0:c n="."/> <ns0:c n="-"/>300 <ns0:c n="-"/> <ns0:c n="-"/>200</data>
-    <data corresp="#KR2g0017" notafter="100" notbefore="50" title="列女傳" tls="LNZ" tls-dates="dat06210">ca<ns0:c n="."/> +50 <ns0:c n="-"/> +100</data>
-    <data corresp="#KR3a0001" notafter="400" notbefore="300" title="孔子家語" tls="KJ" tls-dates="dat04100">ca<ns0:c n="."/> +300 <ns0:c n="-"/> +400</data>
-    <data corresp="#KR3a0002" notafter="-200" notbefore="-300" title="荀子" tls="XUN" tls-dates="dat08110">ca<ns0:c n="."/> <ns0:c n="-"/>300 <ns0:c n="-"/> <ns0:c n="-"/>200</data>
-    <data corresp="#KR3a0006" notafter="-20" notbefore="-200" title="鹽鐵論" tls="YTL" tls-dates="dat06210">ca<ns0:c n="."/> <ns0:c n="-"/>100 <ns0:c n="-"/> <ns0:c n="-"/>20</data>
-    <data corresp="#KR3a0047" notafter="1300" notbefore="1200" title="朱子語類" tls="YULEI" tls-dates="dat04100">After +1200</data>
-    <data corresp="#KR3c0001" notafter="-100" notbefore="-300" title="管子" tls="GUAN" tls-dates="dat08110">ca<ns0:c n="."/> <ns0:c n="-"/>300 <ns0:c n="-"/> <ns0:c n="-"/>100</data>
-    <data corresp="#KR3c0005" notafter="-200" notbefore="-260" title="韓非子" tls="HF" tls-dates="dat08110">ca<ns0:c n="."/> <ns0:c n="-"/>260 <ns0:c n="-"/> <ns0:c n="-"/>200</data>
-    <data corresp="#KR3e0001" notafter="-100" notbefore="-200" title="素問" tls="SUWEN" tls-dates="dat06230">ca<ns0:c n="."/> <ns0:c n="-"/>200 <ns0:c n="-"/> <ns0:c n="-"/>100</data>
-    <data corresp="#KR3j0002" notafter="-200" notbefore="-300" title="墨子" tls="MOZI">
-        <ns0:c n="-"/>4th to <ns0:c n="-"/>3rd cent<ns0:c n="."/>
-    </data>
-    <data corresp="#KR3j0006" notafter="-200" notbefore="-300" title="鶡冠子" tls="HEGUAN" tls-dates="dat08110">ca<ns0:c n="."/> <ns0:c n="-"/>300 <ns0:c n="-"/> <ns0:c n="-"/>200</data>
-    <data corresp="#KR3j0009" notafter="-239" notbefore="-239" title="呂氏春秋" tls="LS" tls-dates="dat08110">239 B<ns0:c n="."/>C<ns0:c n="."/>
-    </data>
-    <data corresp="#KR3j0010" notafter="-139" notbefore="-139" title="淮南子" tls="HNZ" tls-dates="dat06230">
-        <ns0:c n="-"/>139</data>
-    <data corresp="#KR3j0080" notafter="100" notbefore="50" title="論衡" tls="LH" tls-dates="dat06120">ca<ns0:c n="."/> +50 <ns0:c n="-"/> +100</data>
-    <data corresp="#KR3l0002" notafter="500" notbefore="300" title="世說新語" tls="SSXY" tls-dates="dat04100"> </data>
-    <data corresp="#KR3l0090" notafter="-100" notbefore="-300" title="山海經" tls="SHJ" tls-dates="dat06230">ca<ns0:c n="."/> <ns0:c n="-"/>300 <ns0:c n="-"/> <ns0:c n="-"/>100</data>
-    <data corresp="#KR4a0001" notafter="-50" notbefore="-300" title="楚辭" tls="CC" tls-dates="dat05100">ca<ns0:c n="."/> <ns0:c n="-"/>300 <ns0:c n="-"/> <ns0:c n="-"/>50</data>
-    <data corresp="#KR5c0057" notafter="-300" notbefore="-400" title="道德經" tls="LAO" tls-dates="dat08120">4th cent<ns0:c n="."/> BC<ns0:c n="."/>
-    </data>
-    <data corresp="#KR5c0124" notafter="500" notbefore="-300" title="列子" tls="LIE" tls-dates="dat04100">ca<ns0:c n="."/> <ns0:c n="-"/>300 <ns0:c n="-"/> +500</data>
-    <data corresp="#KR5c0126" notafter="-230" notbefore="-400" title="莊子" tls="ZHUANG" tls-dates="dat08110">ca<ns0:c n="."/> <ns0:c n="-"/>400 <ns0:c n="-"/> <ns0:c n="-"/>230</data>
-    <data corresp="#KR5f0010" notafter="-200" notbefore="-300" title="墨經" tls="MOJ" tls-dates="dat08110">ca<ns0:c n="."/> <ns0:c n="-"/>300 <ns0:c n="-"/> <ns0:c n="-"/>200</data>
-    <data corresp="#KR6b0059" notafter="445" notbefore="445" title="賢愚經" tls="XYJ" tls-dates="dat04100">+445</data>
-    <data corresp="#KR6b0066" notafter="" notbefore="" title="百喻經" tls="BAIYU" tls-dates="dat04100">+492</data>
-    <data corresp="#KR6b0067" notafter="224" notbefore="224" title="法句經" tls="FAJU" tls-dates="dat04100">+224</data>
-    <data corresp="#KR6b0070" notafter="300" notbefore="200" title="法集要頌經" tls="SONGJING" tls-dates="dat04100">3rd cent<ns0:c n="."/> A<ns0:c n="."/>D<ns0:c n="."/>
-    </data>
-    <data corresp="#KR6d0001" notafter="417" notbefore="380" title="法華經" tls="FAHUA" tls-dates="dat04100">ca<ns0:c n="."/> +380 <ns0:c n="-"/> +417</data>
-    <data corresp="#KR6q0002" notafter="952" notbefore="890" title="祖堂集" tls="ZTJ" tls-dates="dat04100">ca<ns0:c n="."/> +890 <ns0:c n="-"/> +1000</data>
-    <data corresp="#KR6q0053" notafter="1050" notbefore="800" title="臨濟錄" tls="LINJILU" tls-dates="dat04100"> </data>
-    <data corresp="#KR6q0082" notafter="900" notbefore="800" title="六祖壇經" tls="TANJING" tls-dates="dat04100">+9th cent<ns0:c n="."/>
-    </data>
-    <data corresp="#None" notafter="80" notbefore="80" title="白虎通" tls="BHT" tls-dates="dat06130">+80</data>
-    <data corresp="#None" notafter="770" notbefore="715" title="岑參" tls="CEN SHEN">715<ns0:c n="？"/>
-        <ns0:c n="-"/>770</data>
-    <data corresp="#None" notafter="700" notbefore="659" title="陳子昂" tls="CHEN ZIANG">659<ns0:c n="-"/>700</data>
-    <data corresp="#None" notafter="-400" notbefore="-500" title="春秋" tls="CQ" tls-dates="dat09100">ca<ns0:c n="."/> <ns0:c n="-"/>5th cent<ns0:c n="."/>
-    </data>
-    <data corresp="#None" notafter="750" notbefore="670" title="大乘心行論" tls="XINXINGLUN" tls-dates="dat04100">ca<ns0:c n="."/> +670 <ns0:c n="-"/> +750</data>
-    <data corresp="#None" notafter="770" notbefore="712" title="杜甫" tls="DU FU">712年<ns0:c n="-"/>770</data>
-    <data corresp="#None" notafter="" notbefore="" title="馮夢龍笑府序" tls="XIAOFUXU"> </data>
-    <data corresp="#None" notafter="-300" notbefore="-400" title="郭店。性自命出" tls="GD.XZMC">
-        <ns0:c n="-"/>4th cent<ns0:c n="."/>
-    </data>
-    <data corresp="#None" notafter="-300" notbefore="-400" title="郭店語叢" tls="GD.YUCONG" tls-dates="dat08110">
-        <ns0:c n="-"/>4th cent<ns0:c n="."/>
-    </data>
-    <data corresp="#None" notafter="-300" notbefore="-400" title="郭店.忠信之道" tls="GD.ZHONGXIN" tls-dates="dat08120">
-        <ns0:c n="-"/>4th cent<ns0:c n="."/>
-    </data>
-    <data corresp="#None" notafter="750" notbefore="620" title="寒山詩" tls="HANSHAN" tls-dates="dat04100">ca<ns0:c n="."/> +620 <ns0:c n="-"/> +650</data>
-    <data corresp="#None" notafter="-200" notbefore="-250" title="合陰陽" tls="HEYINYANG" tls-dates="dat08110">ca<ns0:c n="."/> <ns0:c n="-"/>250 <ns0:c n="-"/> <ns0:c n="-"/>200</data>
-    <data corresp="#None" notafter="" notbefore="" title="畫贊" tls="HUAZAN" tls-dates="dat04100">
-        <ns0:c n="("/>check date<ns0:c n="!"/>
-        <ns0:c n=")"/>
-    </data>
-    <data corresp="#None" notafter="-900" notbefore="-1200" title="甲骨文字合集" tls="HEJI">ca<ns0:c n="."/> <ns0:c n="-"/>1200 <ns0:c n="-"/> <ns0:c n="-"/>900</data>
-    <data corresp="#None" notafter="500" notbefore="300" title="孔雀東南飛" tls="KQ" tls-dates="dat04100">ca<ns0:c n="."/> +300 <ns0:c n="-"/> +500</data>
-    <data corresp="#None" notafter="762" notbefore="701" title="李白" tls="Li Bai">701<ns0:c n="-"/>762</data>
-    <data corresp="#None" notafter="650" notbefore="600" title="李世民" tls="LISHIMIN" tls-dates="dat04100"> </data>
-    <data corresp="#None" notafter="-300" notbefore="-400" title="牟子：理惑論" tls="MOUZI" tls-dates="dat04100">+4th cent<ns0:c n="."/>
-    </data>
-    <data corresp="#None" notafter="100" notbefore="0" title="女戒" tls="NJ" tls-dates="dat06120">+1st cent<ns0:c n="."/>
-    </data>
-    <data corresp="#None" notafter="601" notbefore="601" title="切韻序" tls="QYX">+601</data>
-    <data corresp="#None" notafter="-200" notbefore="-250" title="秦刻石" tls="STELAE" tls-dates="dat08110">second half <ns0:c n="-"/>3rd century</data>
-    <data corresp="#KR3j0193" notafter="1306" notbefore="1306" title="吳亮：忍經" tls="RENJING" tls-dates="dat04100">+1306</data>
-    <data corresp="#KR3c0004" notafter="-200" notbefore="-300" title="商君書" tls="SHANG" tls-dates="dat08110">ca<ns0:c n="."/> <ns0:c n="-"/>300 <ns0:c n="-"/> <ns0:c n="-"/>200</data>
-    <data corresp="#None" notafter="-200" notbefore="-300" title="慎到" tls="SHENDAO" tls-dates="dat08110">ca<ns0:c n="."/> <ns0:c n="-"/>300 <ns0:c n="-"/> <ns0:c n="-"/>200</data>
-    <data corresp="#None" notafter="908" notbefore="837" title="司空圖:二十四詩品" tls="SIKUNGTU.SHIPIN">+900 <ns0:c n="("/>lived 837<ns0:c n="-"/>908<ns0:c n=")"/>
-    </data>
-    <data corresp="#None" notafter="-250" notbefore="-250" title="睡虎地" tls="SHUIHUDI" tls-dates="dat05000">ca<ns0:c n="."/> <ns0:c n="-"/>250 <ns0:c n="-"/> <ns0:c n="-"/>200</data>
-    <data corresp="#None" notafter="100" notbefore="100" title="説文解字序" tls="SHUOWEN XU">+100</data>
-    <data corresp="#None" notafter="1670" notbefore="1670" title="SUMMA.THEOL" tls="SUMMA">+1670</data>
-    <data corresp="#None" notafter="-280" notbefore="-320" title="孫臏" tls="SB">ca<ns0:c n="."/> <ns0:c n="-"/>300</data>
-    <data corresp="#None" notafter="-200" notbefore="-300" title="孫子" tls="SUN">ca<ns0:c n="."/> <ns0:c n="-"/>300 <ns0:c n="-"/> <ns0:c n="-"/>200</data>
-    <data corresp="#None" notafter="-100" notbefore="-200" title="陶淵明詩" tls="TYM" tls-dates="dat04100">ca<ns0:c n="."/> <ns0:c n="-"/>200 <ns0:c n="-"/> <ns0:c n="-"/>100</data>
-    <data corresp="#None" notafter="" notbefore="" title="王績" tls="Wang Ji"/>
-    <data corresp="#None" notafter="-100" notbefore="-250" title="文子" tls="WEN">ca<ns0:c n="."/> <ns0:c n="-"/>250 <ns0:c n="-"/> <ns0:c n="-"/>100</data>
-    <data corresp="#None" notafter="-200" notbefore="-300" title="五行篇" tls="WXP" tls-dates="dat08110">ca<ns0:c n="."/> <ns0:c n="-"/>300 <ns0:c n="-"/> <ns0:c n="-"/>200</data>
-    <data corresp="#None" notafter="400" notbefore="300" title="笑林" tls="XIAOLIN" tls-dates="dat04100">+4th cent<ns0:c n="."/>
-    </data>
-    <data corresp="#None" notafter="0" notbefore="-60" title="新論" tls="XINLUN" tls-dates="dat06130">ca<ns0:c n="."/> <ns0:c n="-"/>60 <ns0:c n="-"/> 0</data>
-    <data corresp="#None" notafter="" notbefore="" title="忠經" tls="ZHONGJING" tls-dates="dat04100"> </data>
-    <data resp="#chris" modified="2024-11-06T16:02:55.604+09:00" notbefore="" notafter="" corresp="#KR6q0003" title="景德傳燈錄">9999</data>
-    <data corresp="#KR6q0012" notafter="1255" notbefore="1252" title="五燈會元" tls="WDHY"/>
-    <data resp="#chris" modified="2024-11-06T15:45:18.261+09:00" notbefore="" notafter="" corresp="#KR3l0099" title="搜神記">9999</data>
-    <data corresp="#KR3e0101" notafter="536" notbefore="456" title="本草經集注" tls="BCJJZ">456<ns0:c n="-"/>536</data>
-    <data corresp="#KR3e0102" notafter="265" notbefore="265" title="神農本草經" tls="SNBCJ">265</data>
-    <data corresp="#KR5f0019" notafter="343" notbefore="283" title="抱朴子" tls="BPZ">300<ns0:c n="-"/>343</data>
-    <data corresp="#KR3l0129" notafter="343" notbefore="283" title="笑林" tls="XIAOLIN" tls-dates="dat04100">500<ns0:c n="-"/>543</data>
-    <data resp="#chris" modified="2024-11-06T16:03:41.071+09:00" notbefore="" notafter="" corresp="#KR3j0194" title="尸子">-330</data>
-    <data corresp="#KR3e0079" notafter="1596" notbefore="1593" title="本草綱目">First printed 萬暦23年</data>
-    
-<data corresp="#CH2a1468" modified="2021-12-10T17:18:29.779+09:00" notafter="300" notbefore="250" resp="#chris" title="人物志三卷">250 to 300<note>
-            <ns0:c n="("/>rough estimate without source<ns0:c n=")"/>
-        </note>
-    </data>
-    <data corresp="#CH1a0907" modified="2021-12-10T18:48:57.769+09:00" notafter="-17" notbefore="-17" resp="#schwermann" title="說苑">17 BC<ns0:c n="."/> <note>This is the year when the Shuoyuan 說苑 was submitted to the throne<ns0:c n="."/>
-        </note>
-    </data>
-    <data corresp="#CH1a0906" modified="2021-12-10T18:50:52.433+09:00" notafter="-24" notbefore="-24" resp="#schwermann" title="新序">24 BC<ns0:c n="."/> <note>This is the year when the Xinxu 新序 was submitted to the throne<ns0:c n="."/>
-        </note>
-    </data>
-<data corresp="#CH2d1716" modified="2022-01-30T21:53:00.063+09:00" notafter="361" notbefore="330" resp="#schwermann" title="華陽國志十三卷">330 to 361</data>
-<data resp="#chris" modified="2023-05-26T14:17:26.934+09:00" notbefore="1143" notafter="1143" corresp="#KR6s0019" title="翻譯名義集">紹興十三年 　</data>
-    <data resp="#chris" modified="2023-06-13T17:21:04.569+09:00" notbefore="1648" notafter="1911" corresp="#KR2o0025" title="文史通義">1648 to 1911</data>
-    <data resp="#chris" modified="2023-11-23T20:30:21.356+09:00" notbefore="1240" notafter="1253" corresp="#KR6t0288" title="正法眼藏">1240 to 1253</data>
-    <data resp="#chris" modified="2024-11-06T15:46:03.921+09:00" notbefore="" notafter="" corresp="#KR3b0003" title="孫子">9999</data>
-    <data resp="#chris" modified="2024-11-06T15:46:13.359+09:00" notbefore="" notafter="" corresp="#KR3a0009" title="法言">9999</data>
-    <data resp="#chris" modified="2024-11-06T15:46:53.057+09:00" notbefore="" notafter="" corresp="#KR4h0001" title="文選">9999</data>
-    <data resp="#chris" modified="2024-11-06T15:50:29.003+09:00" notbefore="" notafter="" corresp="#KR5c0118" title="文子">9999</data>
-    <data resp="#chris" modified="2024-11-06T15:52:52.346+09:00" notbefore="" notafter="" corresp="#KR5e0001" title="太平經">9999</data>
-    <data resp="#chris" modified="2024-11-06T15:56:37.373+09:00" notbefore="" notafter="" corresp="#KR3j0192" title="新論-漢-桓譚">9999</data>
-    <data resp="#chris" modified="2024-11-06T15:56:53.465+09:00" notbefore="" notafter="" corresp="#KR2a0007" title="漢書">9999</data>
-    <data resp="#chris" modified="2024-11-06T15:57:13.203+09:00" notbefore="" notafter="" corresp="#KR2p0021" title="郭店楚簡・五行">9999</data>
-    <data resp="#chris" modified="2024-11-06T15:57:59.444+09:00" notbefore="" notafter="" corresp="#CH7x2040" title="記纂淵海">9999</data>
-    <data resp="#chris" modified="2024-11-06T15:58:45.467+09:00" notbefore="" notafter="" corresp="#KR3j0015" title="長短經">9999</data>
-    <data resp="#chris" modified="2024-11-06T15:58:59.655+09:00" notbefore="" notafter="" corresp="#KR2p0028" title="郭店楚簡・語叢一">9999</data>
-    <data resp="#chris" modified="2024-11-06T15:59:40.08+09:00" notbefore="" notafter="" corresp="#CH7x2046" title="天中記">9999</data>
-    <data resp="#chris" modified="2024-11-06T16:00:53.395+09:00" notbefore="" notafter="" corresp="#CH7x2028" title="類說">9999</data>
-    <data resp="#chris" modified="2024-11-06T16:01:47.152+09:00" notbefore="" notafter="" corresp="#KR3f0032" title="九章算術注">9999</data>
-    <data resp="#chris" modified="2024-11-06T16:02:46.216+09:00" notbefore="" notafter="" corresp="#KR1f0014" title="忠經">9999</data>
-    <data resp="#chris" modified="2024-11-06T16:04:44.413+09:00" notbefore="" notafter="" corresp="#KR2p0015" title="合陰陽釋文">9999</data>
-    <data resp="#chris" modified="2024-11-06T16:04:58.811+09:00" notbefore="" notafter="" corresp="#KR2p0026" title="郭店楚簡・性自命出">9999</data>
-    <data resp="#chris" modified="2024-11-06T16:05:08.511+09:00" notbefore="" notafter="" corresp="#KR2o0001" title="史通">9999</data>
-    <data resp="#chris" modified="2024-11-06T16:05:24.881+09:00" notbefore="" notafter="" corresp="#CH7x2045" title="太平廣記">9999</data>
-    <data resp="#chris" modified="2024-11-06T16:05:34.985+09:00" notbefore="" notafter="" corresp="#KR1d0001" title="周禮">9999</data>
-    <data resp="#chris" modified="2024-11-06T16:06:25.19+09:00" notbefore="" notafter="" corresp="#KR4b0011" title="鮑氏集">9999</data>
+    <data corresp="#KR1a0001" notAfter="-200" notBefore="-250" title="繫辭" tls="XC" tls-dates="dat08110">ca. -250 - -200</data>
+    <data corresp="#KR1b0001" notAfter="-100" notBefore="-800" title="尚書" tls="SHU" tls-dates="dat05000">ca. -800 - -100</data>
+    <data corresp="#KR1c0001" notAfter="-600" notBefore="-900" title="詩經" tls="SHI" tls-dates="dat11011">ca. -900 - -600</data>
+    <data corresp="#KR1c0003" notAfter="0" notBefore="-100" title="詩。大序" tls="DAXU" tls-dates="dat06200"> -1st cent. </data>
+    <data corresp="#KR1c0066" notAfter="-100" notBefore="-150" title="韓詩外傳" tls="HSWZ" tls-dates="dat06230">ca. -150 - -100</data>
+    <data corresp="#KR1d0052" notAfter="-200" notBefore="-300" title="禮記" tls="LJ" tls-dates="dat08110">ca. -300 - -200</data>
+    <data corresp="#KR1e0001" notAfter="-300" notBefore="-400" title="左傳" tls="ZUO" tls-dates="dat08120">ca. -400 - -300</data>
+    <data corresp="#KR1e0008" notAfter="-100" notBefore="-200" title="穀梁傳" tls="CQGL" tls-dates="dat06200">ca. -200 - -100</data>
+    <data corresp="#KR1f0001" notAfter="-100" notBefore="-200" title="孝經" tls="XJ" tls-dates="dat06230">ca. -200 - -100</data>
+    <data corresp="#KR1h0001" notAfter="-300" notBefore="-350" title="孟子" tls="MENG" tls-dates="dat08110">ca. -350 - -300</data>
+    <data resp="#CH" modified="2025-10-23T19:35:40.956+09:00" notBefore="" notAfter="" corresp="#KR1h0004" title="論語">9999</data>
+    <data corresp="#KR2a0001" notAfter="30" notBefore="-100" title="史記" tls="SJ" tls-dates="dat06220">ca. -100 - +30</data>
+    <data corresp="#KR2e0001" notAfter="-300" notBefore="-400" title="國語" tls="GY" tls-dates="dat08110">ca. -400 - -300</data>
+    <data corresp="#KR2e0003" notAfter="-30" notBefore="-400" title="戰國策" tls="ZGC" tls-dates="dat08110">ca. -300 - -30</data>
+    <data corresp="#KR2g0003" notAfter="-200" notBefore="-300" title="晏子春秋" tls="YAN" tls-dates="dat08110">ca. -300 - -200</data>
+    <data corresp="#KR2g0017" notAfter="100" notBefore="50" title="列女傳" tls="LNZ" tls-dates="dat06210">ca. +50 - +100</data>
+    <data corresp="#KR3a0001" notAfter="400" notBefore="300" title="孔子家語" tls="KJ" tls-dates="dat04100">ca. +300 - +400</data>
+    <data corresp="#KR3a0002" notAfter="-200" notBefore="-300" title="荀子" tls="XUN" tls-dates="dat08110">ca. -300 - -200</data>
+    <data corresp="#KR3a0006" notAfter="-20" notBefore="-200" title="鹽鐵論" tls="YTL" tls-dates="dat06210">ca. -100 - -20</data>
+    <data corresp="#KR3a0047" notAfter="1300" notBefore="1200" title="朱子語類" tls="YULEI" tls-dates="dat04100">After +1200</data>
+    <data corresp="#KR3c0001" notAfter="-100" notBefore="-300" title="管子" tls="GUAN" tls-dates="dat08110">ca. -300 - -100</data>
+    <data corresp="#KR3c0005" notAfter="-200" notBefore="-260" title="韓非子" tls="HF" tls-dates="dat08110">ca. -260 - -200</data>
+    <data corresp="#KR3e0001" notAfter="-100" notBefore="-200" title="素問" tls="SUWEN" tls-dates="dat06230">ca. -200 - -100</data>
+    <data corresp="#KR3j0002" notAfter="-200" notBefore="-300" title="墨子" tls="MOZI"> -4th to -3rd cent. </data>
+    <data corresp="#KR3j0006" notAfter="-200" notBefore="-300" title="鶡冠子" tls="HEGUAN" tls-dates="dat08110">ca. -300 - -200</data>
+    <data corresp="#KR3j0009" notAfter="-239" notBefore="-239" title="呂氏春秋" tls="LS" tls-dates="dat08110">239 B.C. </data>
+    <data corresp="#KR3j0010" notAfter="-139" notBefore="-139" title="淮南子" tls="HNZ" tls-dates="dat06230"> -139</data>
+    <data corresp="#KR3j0080" notAfter="100" notBefore="50" title="論衡" tls="LH" tls-dates="dat06120">ca. +50 - +100</data>
+    <data corresp="#KR3l0002" notAfter="500" notBefore="300" title="世說新語" tls="SSXY" tls-dates="dat04100"> </data>
+    <data corresp="#KR3l0090" notAfter="-100" notBefore="-300" title="山海經" tls="SHJ" tls-dates="dat06230">ca. -300 - -100</data>
+    <data corresp="#KR4a0001" notAfter="-50" notBefore="-300" title="楚辭" tls="CC" tls-dates="dat05100">ca. -300 - -50</data>
+    <data corresp="#KR5c0057" notAfter="-300" notBefore="-400" title="道德經" tls="LAO" tls-dates="dat08120">4th cent. BC. </data>
+    <data corresp="#KR5c0124" notAfter="500" notBefore="-300" title="列子" tls="LIE" tls-dates="dat04100">ca. -300 - +500</data>
+    <data corresp="#KR5c0126" notAfter="-230" notBefore="-400" title="莊子" tls="ZHUANG" tls-dates="dat08110">ca. -400 - -230</data>
+    <data corresp="#KR5f0010" notAfter="-200" notBefore="-300" title="墨經" tls="MOJ" tls-dates="dat08110">ca. -300 - -200</data>
+    <data corresp="#KR6b0059" notAfter="445" notBefore="445" title="賢愚經" tls="XYJ" tls-dates="dat04100">+445</data>
+    <data corresp="#KR6b0066" notAfter="" notBefore="" title="百喻經" tls="BAIYU" tls-dates="dat04100">+492</data>
+    <data corresp="#KR6b0067" notAfter="224" notBefore="224" title="法句經" tls="FAJU" tls-dates="dat04100">+224</data>
+    <data corresp="#KR6b0070" notAfter="300" notBefore="200" title="法集要頌經" tls="SONGJING" tls-dates="dat04100">3rd cent. A.D. </data>
+    <data corresp="#KR6d0001" notAfter="417" notBefore="380" title="法華經" tls="FAHUA" tls-dates="dat04100">ca. +380 - +417</data>
+    <data corresp="#KR6q0002" notAfter="952" notBefore="890" title="祖堂集" tls="ZTJ" tls-dates="dat04100">ca. +890 - +1000</data>
+    <data corresp="#KR6q0053" notAfter="1050" notBefore="800" title="臨濟錄" tls="LINJILU" tls-dates="dat04100"> </data>
+    <data corresp="#KR6q0082" notAfter="900" notBefore="800" title="六祖壇經" tls="TANJING" tls-dates="dat04100">+9th cent. </data>
+    <data corresp="#None" notAfter="80" notBefore="80" title="白虎通" tls="BHT" tls-dates="dat06130">+80</data>
+    <data corresp="#None" notAfter="770" notBefore="715" title="岑參" tls="CEN SHEN">715<ns0:c n="？"/>
+        -770</data>
+    <data corresp="#None" notAfter="700" notBefore="659" title="陳子昂" tls="CHEN ZIANG">659<ns0:c n="-"/>700</data>
+    <data corresp="#None" notAfter="-400" notBefore="-500" title="春秋" tls="CQ" tls-dates="dat09100">ca. -5th cent. </data>
+    <data corresp="#None" notAfter="750" notBefore="670" title="大乘心行論" tls="XINXINGLUN" tls-dates="dat04100">ca. +670 - +750</data>
+    <data corresp="#None" notAfter="770" notBefore="712" title="杜甫" tls="DU FU">712年-770</data>
+    <data corresp="#None" notAfter="" notBefore="" title="馮夢龍笑府序" tls="XIAOFUXU"> </data>
+    <data corresp="#None" notAfter="-300" notBefore="-400" title="郭店。性自命出" tls="GD.XZMC"> <ns0:c n="-"/>4th cent. </data>
+    <data corresp="#None" notAfter="-300" notBefore="-400" title="郭店語叢" tls="GD.YUCONG" tls-dates="dat08110"> -4th cent. </data>
+    <data corresp="#None" notAfter="-300" notBefore="-400" title="郭店.忠信之道" tls="GD.ZHONGXIN" tls-dates="dat08120"> -4th cent. </data>
+    <data corresp="#None" notAfter="750" notBefore="620" title="寒山詩" tls="HANSHAN" tls-dates="dat04100">ca. +620 - +650</data>
+    <data corresp="#None" notAfter="-200" notBefore="-250" title="合陰陽" tls="HEYINYANG" tls-dates="dat08110">ca. -250 - -200</data>
+    <data corresp="#None" notAfter="" notBefore="" title="畫贊" tls="HUAZAN" tls-dates="dat04100">
+        <ns0:c n="("/>check date<ns0:c n="!"/> <ns0:c n=")"/> </data>
+    <data corresp="#None" notAfter="-900" notBefore="-1200" title="甲骨文字合集" tls="HEJI">ca<ns0:c n="."/> -1200 - -900</data>
+    <data corresp="#None" notAfter="500" notBefore="300" title="孔雀東南飛" tls="KQ" tls-dates="dat04100">ca. +300 - +500</data>
+    <data corresp="#None" notAfter="762" notBefore="701" title="李白" tls="Li Bai">701-762</data>
+    <data corresp="#None" notAfter="650" notBefore="600" title="李世民" tls="LISHIMIN" tls-dates="dat04100"> </data>
+    <data corresp="#None" notAfter="-300" notBefore="-400" title="牟子：理惑論" tls="MOUZI" tls-dates="dat04100">+4th cent. </data>
+    <data corresp="#None" notAfter="100" notBefore="0" title="女戒" tls="NJ" tls-dates="dat06120">+1st
+        cent. </data>
+    <data corresp="#None" notAfter="601" notBefore="601" title="切韻序" tls="QYX">+601</data>
+    <data corresp="#None" notAfter="-200" notBefore="-250" title="秦刻石" tls="STELAE" tls-dates="dat08110">second half -3rd century</data>
+    <data corresp="#KR3j0193" notAfter="1306" notBefore="1306" title="吳亮：忍經" tls="RENJING" tls-dates="dat04100">+1306</data>
+    <data corresp="#KR3c0004" notAfter="-200" notBefore="-300" title="商君書" tls="SHANG" tls-dates="dat08110">ca. -300 - -200</data>
+    <data corresp="#None" notAfter="-200" notBefore="-300" title="慎到" tls="SHENDAO" tls-dates="dat08110">ca. -300 - -200</data>
+    <data corresp="#None" notAfter="908" notBefore="837" title="司空圖:二十四詩品" tls="SIKUNGTU.SHIPIN">+900 <ns0:c n="("/>lived 837-908<ns0:c n=")"/> </data>
+    <data corresp="#None" notAfter="-250" notBefore="-250" title="睡虎地" tls="SHUIHUDI" tls-dates="dat05000">ca. -250 - -200</data>
+    <data corresp="#None" notAfter="100" notBefore="100" title="説文解字序" tls="SHUOWEN XU">+100</data>
+    <data corresp="#None" notAfter="1670" notBefore="1670" title="SUMMA.THEOL" tls="SUMMA">+1670</data>
+    <data corresp="#None" notAfter="-280" notBefore="-320" title="孫臏" tls="SB">ca.
+        -300</data>
+    <data corresp="#None" notAfter="-200" notBefore="-300" title="孫子" tls="SUN">ca.
+        -300 - -200</data>
+    <data corresp="#None" notAfter="-100" notBefore="-200" title="陶淵明詩" tls="TYM" tls-dates="dat04100">ca. -200 - -100</data>
+    <data corresp="#None" notAfter="" notBefore="" title="王績" tls="Wang Ji"/>
+    <data corresp="#None" notAfter="-100" notBefore="-250" title="文子" tls="WEN">ca.
+        -250 - -100</data>
+    <data corresp="#None" notAfter="-200" notBefore="-300" title="五行篇" tls="WXP" tls-dates="dat08110">ca. -300 - -200</data>
+    <data corresp="#None" notAfter="400" notBefore="300" title="笑林" tls="XIAOLIN" tls-dates="dat04100">+4th cent. </data>
+    <data corresp="#None" notAfter="0" notBefore="-60" title="新論" tls="XINLUN" tls-dates="dat06130">ca. -60 - 0</data>
+    <data corresp="#None" notAfter="" notBefore="" title="忠經" tls="ZHONGJING" tls-dates="dat04100"> </data>
+    <data resp="#chris" modified="2024-11-06T16:02:55.604+09:00" notBefore="" notAfter="" corresp="#KR6q0003" title="景德傳燈錄">9999</data>
+    <data corresp="#KR6q0012" notAfter="1255" notBefore="1252" title="五燈會元" tls="WDHY"/>
+    <data resp="#chris" modified="2024-11-06T15:45:18.261+09:00" notBefore="" notAfter="" corresp="#KR3l0099" title="搜神記">9999</data>
+    <data corresp="#KR3e0101" notAfter="536" notBefore="456" title="本草經集注" tls="BCJJZ">456<ns0:c n="-"/>536</data>
+    <data corresp="#KR3e0102" notAfter="265" notBefore="265" title="神農本草經" tls="SNBCJ">265</data>
+    <data corresp="#KR5f0019" notAfter="343" notBefore="283" title="抱朴子" tls="BPZ">300-343</data>
+    <data corresp="#KR3l0129" notAfter="343" notBefore="283" title="笑林" tls="XIAOLIN" tls-dates="dat04100">500-543</data>
+    <data resp="#chris" modified="2024-11-06T16:03:41.071+09:00" notBefore="" notAfter="" corresp="#KR3j0194" title="尸子">-330</data>
+    <data corresp="#KR3e0079" notAfter="1596" notBefore="1593" title="本草綱目">First printed
+        萬暦23年</data>
+
+    <data corresp="#CH2a1468" modified="2021-12-10T17:18:29.779+09:00" notAfter="300" notBefore="250" resp="#chris" title="人物志三卷">250 to 300<note> <ns0:c n="("/>rough estimate
+        without source<ns0:c n=")"/> </note> </data>
+    <data corresp="#CH1a0907" modified="2021-12-10T18:48:57.769+09:00" notAfter="-17" notBefore="-17" resp="#schwermann" title="說苑">17 BC. <note>This is the year
+        when the Shuoyuan 說苑 was submitted to the throne. </note> </data>
+    <data corresp="#CH1a0906" modified="2021-12-10T18:50:52.433+09:00" notAfter="-24" notBefore="-24" resp="#schwermann" title="新序">24 BC. <note>This is the year
+        when the Xinxu 新序 was submitted to the throne. </note> </data>
+    <data corresp="#CH2d1716" modified="2022-01-30T21:53:00.063+09:00" notAfter="361" notBefore="330" resp="#schwermann" title="華陽國志十三卷">330 to 361</data>
+    <data resp="#chris" modified="2023-05-26T14:17:26.934+09:00" notBefore="1143" notAfter="1143" corresp="#KR6s0019" title="翻譯名義集">紹興十三年 　</data>
+    <data resp="#chris" modified="2023-06-13T17:21:04.569+09:00" notBefore="1648" notAfter="1911" corresp="#KR2o0025" title="文史通義">1648 to 1911</data>
+    <data resp="#chris" modified="2023-11-23T20:30:21.356+09:00" notBefore="1240" notAfter="1253" corresp="#KR6t0288" title="正法眼藏">1240 to 1253</data>
+    <data resp="#chris" modified="2024-11-06T15:46:03.921+09:00" notBefore="" notAfter="" corresp="#KR3b0003" title="孫子">9999</data>
+    <data resp="#chris" modified="2024-11-06T15:46:13.359+09:00" notBefore="" notAfter="" corresp="#KR3a0009" title="法言">9999</data>
+    <data resp="#chris" modified="2024-11-06T15:46:53.057+09:00" notBefore="" notAfter="" corresp="#KR4h0001" title="文選">9999</data>
+    <data resp="#chris" modified="2024-11-06T15:50:29.003+09:00" notBefore="" notAfter="" corresp="#KR5c0118" title="文子">9999</data>
+    <data resp="#chris" modified="2024-11-06T15:52:52.346+09:00" notBefore="" notAfter="" corresp="#KR5e0001" title="太平經">9999</data>
+    <data resp="#chris" modified="2024-11-06T15:56:37.373+09:00" notBefore="" notAfter="" corresp="#KR3j0192" title="新論-漢-桓譚">9999</data>
+    <data resp="#chris" modified="2024-11-06T15:56:53.465+09:00" notBefore="" notAfter="" corresp="#KR2a0007" title="漢書">9999</data>
+    <data resp="#chris" modified="2024-11-06T15:57:13.203+09:00" notBefore="" notAfter="" corresp="#KR2p0021" title="郭店楚簡・五行">9999</data>
+    <data resp="#chris" modified="2024-11-06T15:57:59.444+09:00" notBefore="" notAfter="" corresp="#CH7x2040" title="記纂淵海">9999</data>
+    <data resp="#chris" modified="2025-10-27T09:04:18.417+09:00" notBefore="716" notAfter="716" corresp="#KR3j0015" title="長短經">716</data>
+    <data resp="#chris" modified="2024-11-06T15:58:59.655+09:00" notBefore="" notAfter="" corresp="#KR2p0028" title="郭店楚簡・語叢一">9999</data>
+    <data resp="#CH" modified="2025-10-17T07:39:00.007+09:00" notBefore="1610" notAfter="1610" corresp="#CH7x2046" title="天中記">60 juan edition printed 1610</data>
+    <data resp="#chris" modified="2024-11-06T16:00:53.395+09:00" notBefore="" notAfter="" corresp="#CH7x2028" title="類說">9999</data>
+    <data resp="#chris" modified="2024-11-06T16:01:47.152+09:00" notBefore="" notAfter="" corresp="#KR3f0032" title="九章算術注">9999</data>
+    <data resp="#chris" modified="2024-11-06T16:02:46.216+09:00" notBefore="" notAfter="" corresp="#KR1f0014" title="忠經">9999</data>
+    <data resp="#chris" modified="2024-11-06T16:04:44.413+09:00" notBefore="" notAfter="" corresp="#KR2p0015" title="合陰陽釋文">9999</data>
+    <data resp="#chris" modified="2024-11-06T16:04:58.811+09:00" notBefore="" notAfter="" corresp="#KR2p0026" title="郭店楚簡・性自命出">9999</data>
+    <data resp="#chris" modified="2024-11-06T16:05:08.511+09:00" notBefore="" notAfter="" corresp="#KR2o0001" title="史通">9999</data>
+    <data resp="#chris" modified="2024-11-06T16:05:24.881+09:00" notBefore="" notAfter="" corresp="#CH7x2045" title="太平廣記">9999</data>
+    <data resp="#chris" modified="2024-11-06T16:05:34.985+09:00" notBefore="" notAfter="" corresp="#KR1d0001" title="周禮">9999</data>
+    <data resp="#chris" modified="2024-11-06T16:06:25.19+09:00" notBefore="" notAfter="" corresp="#KR4b0011" title="鮑氏集">9999</data>
 </root>
