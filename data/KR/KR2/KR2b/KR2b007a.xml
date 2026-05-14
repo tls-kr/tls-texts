@@ -27,7 +27,10 @@
     <profileDesc>
       <textClass>
         <catRef scheme="#kr-categories" target="#KR2b"/>
-      </textClass>
+      <catRef scheme="#tls-internal" target="#swl"/>
+                <catRef scheme="#tls-internal" target="#tr-en"/>
+                <catRef scheme="#tls-internal" target="#tr-zh"/>
+            </textClass>
       <creation>
         <date>1084</date>
       </creation>
@@ -407,13 +410,12 @@
             </note>
             <seg xml:id="KR2b007a_ZHSJ_001-d3d1p3s7">不奔走而服役者<c n="，"/>
             </seg>
-            <seg xml:id="KR2b007a_ZHSJ_001-d3d1p3s8">豈非以禮為之紀綱</seg>
+            <seg xml:id="KR2b007a_ZHSJ_001-d3d1p3s8" resp="#CH" modified="2026-01-05T19:49:43.771+09:00">豈非以禮為之紀綱哉！</seg>
             <note type="text-critical" place="inline">
               <c n="【"/>章<c n="："/>十二行本<c n="，"/>二字互乙<c n="；"/>乙十一行本同<c n="；"/>孔本同<c n="。"/>
               <c n="】"/>
             </note>
-            <seg xml:id="KR2b007a_ZHSJ_001-d3d1p3s9">哉<c n="！"/>
-            </seg>
+            <seg xml:id="KR2b007a_ZHSJ_001-d3d1p3s9" resp="#CH" modified="2026-01-05T19:49:24.743+09:00"/>
             <seg xml:id="KR2b007a_ZHSJ_001-d3d1p3s10">是故天子統三公<c n="，"/>
             </seg>
             <note type="sound-gloss" place="inline">統<c n="，"/>他綜翻<c n="。"/>
@@ -468,14 +470,13 @@
             </seg>
             <seg xml:id="KR2b007a_ZHSJ_001-d3d1p4s9">春秋抑諸侯<c n="，"/>
             </seg>
-            <seg xml:id="KR2b007a_ZHSJ_001-d3d1p4s10">尊王</seg>
+            <seg xml:id="KR2b007a_ZHSJ_001-d3d1p4s10" resp="#CH" modified="2026-01-06T03:44:15.165+09:00">尊王室，</seg>
             <note type="text-critical" place="inline">
               <c n="【"/>章<c n="："/>十二行本<c n="「"/>王<c n="」"/>作<c n="「"/>周<c n="」"/>
               <c n="；"/>乙十一行本同<c n="；"/>孔本同<c n="；"/>退齋校同<c n="。"/>
               <c n="】"/>
             </note>
-            <seg xml:id="KR2b007a_ZHSJ_001-d3d1p4s11">室<c n="，"/>
-            </seg>
+            <seg xml:id="KR2b007a_ZHSJ_001-d3d1p4s11" resp="#CH" modified="2026-01-06T03:45:03.672+09:00"/>
             <seg xml:id="KR2b007a_ZHSJ_001-d3d1p4s12">王人雖微<c n="，"/>
             </seg>
             <seg xml:id="KR2b007a_ZHSJ_001-d3d1p4s13">序於諸侯之上<c n="，"/>
