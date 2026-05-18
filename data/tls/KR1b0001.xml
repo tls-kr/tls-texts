@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KR1b0001">
    <teiHeader>
       <fileDesc>
@@ -30,11 +29,7 @@
                 <catRef scheme="#tls-dates" target="#dat05000"/>
                 <catRef scheme="#tls-internal" target="#swl"/>
                 <catRef scheme="#tls-internal" target="#tr-en"/>
-            <catRef scheme="#tls-internal" target="#tr-fr"/>
-                <catRef scheme="#tls-internal" target="#tr-la"/>
-                <catRef scheme="#tls-internal" target="#tr-ru"/>
-                <catRef scheme="#tls-internal" target="#tr-zh"/>
-            </textClass>
+            <catRef scheme="#tls-internal" target="#tr-fr"/><catRef scheme="#tls-internal" target="#tr-la"/><catRef scheme="#tls-internal" target="#tr-ru"/><catRef scheme="#tls-internal" target="#tr-zh"/></textClass>
         </profileDesc>
    </teiHeader>
    <text>

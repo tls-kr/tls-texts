@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/cbeta-org/xml-p5/master/schema/cbeta-p5.rnc" type="application/relax-ng-compact-syntax"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="KR6v0299" state="red">
+<?xml-model href="https://raw.githubusercontent.com/cbeta-org/xml-p5/master/schema/cbeta-p5.rnc" type="application/relax-ng-compact-syntax"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="KR6v0299" state="red">
 <teiHeader>
 	<fileDesc>
 		<titleStmt>
@@ -34,12 +32,7 @@
                     <name>CBETA.poyung</name>
                 </respStmt>
 		</editionStmt>
-		<extent>
-                <measure unit="char" quantity="84301"/>
-                <date when-iso="2023-05-10T10:22:29.135+09:00"/>
-                <measure unit="seg" quantity="13455"/>
-                <date when-iso="2023-07-06T21:30:03.441+09:00"/>
-            </extent>
+		<extent><measure unit="char" quantity="84301"/><date when-iso="2023-05-10T10:22:29.135+09:00"/><measure unit="seg" quantity="13455"/><date when-iso="2023-07-06T21:30:03.441+09:00"/></extent>
 		<publicationStmt>
 			<idno type="CBETA" xml:id="B18n0095">
 				<idno type="canon">B</idno>.<idno type="vol">18</idno>.<idno type="no">95</idno>
@@ -663,11 +656,7 @@
 			<language ident="en">English</language>
 			<language ident="zh-Hant">Chinese (Traditional)</language>
 		</langUsage>
-	<textClass>
-                <catRef scheme="#kr-categories" target="#KR6v"/>
-                <catRef scheme="#tls-internal" target="#tr-en"/>
-            </textClass>
-        </profileDesc>
+	<textClass><catRef scheme="#kr-categories" target="#KR6v"/><catRef scheme="#tls-internal" target="#tr-en"/></textClass></profileDesc>
 	<revisionDesc>
 		<change when="2015-08-25">
 			<name>Ray Chou 周邦信</name>Created initial TEI XML P5a version with bm2p5a.py

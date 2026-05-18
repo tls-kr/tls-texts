@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="T45n1873">
 <teiHeader>
 	<fileDesc>
@@ -93,9 +92,7 @@
                 <catRef scheme="#auth-cat" target="#T45"/>
                 <catRef scheme="#tls-regions" target="#reg002"/>
             <catRef scheme="#tls-internal" target="#swl"/>
-            <catRef scheme="#tls-internal" target="#tr-en"/>
-                <catRef scheme="#tls-internal" target="#tr-ko"/>
-            </textClass>
+            <catRef scheme="#tls-internal" target="#tr-en"/><catRef scheme="#tls-internal" target="#tr-ko"/></textClass>
             <creation>
                 <date notBefore="0643" notAfter="0712"/>
                 <persName xml:lang="zh-Hant" key="#A002450">法藏</persName>
